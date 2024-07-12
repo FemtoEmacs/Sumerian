@@ -1,4 +1,4 @@
-# Sumerian script
+# Sumerian script 𒆠𒂗𒄀 
 As an example of using the GNU Image Manipulation Program (GIMP), we will tackle a fascinating problem: how to write in Sumerian. The Sumerian cuneiform script was the first writing system invented by humankind. Therefore, all educated individuals should learn this 5,000-year-old script. In this tutorial, we will learn how to read and reproduce the writing on the Ur-Nammu 9 Brick.
 
 ![image](https://github.com/FemtoEmacs/Sumerian/assets/21132559/e941ce88-4aa3-46fb-95c4-921d63cff61c)

@@ -21,7 +21,7 @@ The second rectangle contains three Sumerograms: 𒈗 (LUGAL), 𒀀 (syllable A)
 In Sumerian, like in Latin and German, a nominal phrase has a case marker that indicates various grammatical functions. On the first and second rectangles, the case marker is the dative, which suggests the beneficiary of the action (**cui bono**). The dative marker is an "R," rarely expressed in writing. Therefore, the whole nominal phrase can be transliterated as [NANNA LUGAL.ANI]-(R), where the (R) is not expressed.
 
 ## Third Rectangle
-The fourth rectangle contains the name of Ur-Nammu (𒌨𒀭𒇉), the king who rebuilt the temple of Nanna and is the document's author. The king's name is formed by 𒌨 (UR), which means man or dog, and 𒀭𒇉 (NAMMA), the Mother Earth of the Sumerians. Therefore, the king's name, 𒌨𒀭𒇉, means "The Man of Namma." Note that the determinative of deity (𒀭) precedes the goddess's name.
+The third rectangle contains the name of Ur-Nammu (𒌨𒀭𒇉), the king who rebuilt the temple of Nanna and is the document's author. The king's name is formed by 𒌨 (UR), which means man or dog, and 𒀭𒇉 (NAMMA), the Mother Earth of the Sumerians. Therefore, the king's name, 𒌨𒀭𒇉, means "The Man of Namma." Note that the determinative of deity (𒀭) precedes the goddess's name.
 
 ## Fourth Rectangle
 On the fourth rectangle, 𒋀𒀕𒆠 (URIM2) is written, representing the city that was the cult center of Nanna. It is formed by the Sumerograms ŠEŠ (𒋀) and UNUG (𒀕). The Sumerogram 𒆠 is determinative for geographic names.
@@ -59,11 +59,11 @@ In the Gimp-Installation directory, you'll find a README.md with instructions fo
 ## Reading the brick
 Let's read the whole brick inscription:
 
-1. ᵈNanna -- For the god Nanna...
-2. lugal-a-ni -- his Lord. The word 'lugal' means king or lord. It is formed from 'lu,' which means 'man,' and 'gal,' which can be translated as 'great.' The expression 'a-ni' is equivalent to the possessive pronoun 'his.'
-3. Ur-Nammu
-4. lugal-Urim5ki-ma-ke4 -- King of Ur,
-5. e2-a-ni -- his temple. Remember that you already learned the meaning of 'a-ni.'
-6. mu-na-du3 -- built.
-7. bad3-Urim5ki-ma -- The wall of Ur,
-8. mu-na-du3 -- he built for him.
+1. ᵈNANNA (𒀭𒋀𒆠) -- For the god Nanna...
+2. LUGAL ANI (𒈗𒀀𒉌) -- his Lord. The word 'LUGAL' means king or lord. It is formed from 'lu,' which means 'man,' and 'gal,' which can be translated as 'great.' The expression 'a-ni' is equivalent to the possessive pronoun 'his.'
+3. UR-NAMMU (𒌨𒀭𒇉)
+4. LUGAL-URIM2ki-MA-KE4 (𒈗 𒋀𒀕𒆠 𒈠 𒆤)-- King of Ur,
+5. E2-ANI (𒂍𒀀𒉌) -- his temple. Remember that you already learned the meaning of 'ANI.'
+6. MU-NA-DU3 (𒈬𒈾𒆕) -- built.
+7. BAD3.URIM2.MA (𒂦𒋀𒀕𒆠𒈠) -- The wall of Ur,
+8. MU-NA-DU3 (𒈬𒈾𒆕) -- he built for NANNA.

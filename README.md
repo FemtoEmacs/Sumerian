@@ -38,7 +38,7 @@ The fifth rectangle introduces the temple (E2 - 𒂍) that Ur-Nammu built. The e
 The verb 𒈬𒈾𒆕 (MUNADU3) can be translated as "built." The verb has three components:
 
 1. 𒈬 — conjugation prefix
-2. 𒈾 — cross-reference to the dative
+2. 𒈾 — Dimensional Prefix (DP) cross-referencing the dative
 3. 𒆕 — verbal root
 
 ## Seventh Rectangle

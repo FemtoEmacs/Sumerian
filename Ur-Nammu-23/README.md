@@ -1,0 +1,72 @@
+# Ur-Nammu 23
+
+<h2>𒀭𒂗𒆤</h2>
+<h2>𒈗𒆳𒆳𒊏</h2>
+<h2>𒈗𒀀𒉌</h2>
+<h2>𒌨𒀭𒇉</h2>
+<h2>𒈗𒋀𒀊𒆠𒈠 </h2>
+<h2>𒈗𒆠𒂗𒄀𒆠𒌵𒆤</h2>
+<h2>𒂍𒀀𒉌</h2>
+<h2>𒈬𒈾𒆕</h2>
+<h2>𒀀𒇉𒂗𒂟𒉣</h2>
+<h2>𒀀𒇉𒉻𒀭𒈹𒅗𒉌</h2>
+<h2>𒈬𒈾𒁀𒀠</h2>
+
+## Annotations and Scholia
+<h3>𒀭𒂗𒆤</h3>
+<p>Eval: (cn an en lil2)</p>
+<p>;; For Enlil,</p>
+
+<h3>𒈗𒆳𒆳𒊏</h3>
+<p>Eval: (cn lugal kur kur ra)</p>
+<p>;; King of all the lands,</p>
+
+<h3>𒈗𒀀𒉌</h3>
+<p>Eval: (cn lugal a ni)</p>
+<p>his king,</p>
+
+<h3>𒌨𒀭𒇉</h3>
+<p>Eval: (cn ur-nammu) </p>
+
+<h3>𒈗𒋀𒀊𒆠𒈠 </h3>
+<p>(cn lugal urim ma) </p>
+<p>the king of Ur, </p>
+
+<h3>𒈗𒆠𒂗𒄀𒆠𒌵𒆤</h3>
+<p>Eval: (cn lugal ki-en-gi ki uri ke4)</p>
+<p>the king of Sumer and Akkad,</p>
+
+<h3>𒂍𒀀𒉌</h3>
+<p>Eval: (cn e2 a ni)</p>
+<p>his temple </p>
+
+<h3>𒈬𒈾𒆕</h3>
+<p>Eval: (cn mu na du3) </p>
+<p>built.</p>
+
+<h3>𒀀𒇉𒂗𒂟𒉣</h3>
+<p>Eval: (cn id2 en erin2 nun)</p>
+<p>;; The Enerinnum canal,</p>
+
+</h3>𒀀𒇉𒉻𒀭𒈹𒅗𒉌</h3>
+<p>Eval: (cn id2 nidba ka ni)</p>
+<p>;; <i>his canal of food offerings,</i> </p> 
+
+<h3>𒈬𒈾𒁀𒀠</h3>
+<p>Eval: (cn mu na ba al)</p>
+<p>;; he, the king, dredged.</p>
+
+## Structure
+<p>The text starts with the benefactive,
+that ends in R, not expressed.</p>
+<p>𒀭𒂗𒆤</p>
+<p>𒈗𒆳𒆳𒊏</p>
+<p>𒈗𒀀𒉌</p>
+
+<p>Then comes the agent with the E
+prefix combined with the genitive
+ending into KE4 (𒆤). </p>
+
+<p>The next in the line is the
+object that was built, to wit,
+his temple 𒂍𒀀𒉌  (cn e2 a ni).</p>

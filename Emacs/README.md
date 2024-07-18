@@ -50,7 +50,7 @@ type the lines of text to introduce them into the document.
  Here, we use this comment feature to teach the translation
  of Sumerian expressions.</p>
 
-<p>Just as in text one, this noun phrase ends in an unwritten R,
+<p> As in text one, this noun phrase ends in an unwritten R,
  the dative marker.</p>
 
 <h1>𒌨𒀭𒇉 𒍑𒆗𒂵</h1>
@@ -83,3 +83,8 @@ and the e4 is the ergative marker.</p>
 
 <h1> 𒈬𒈾𒆕</h1>
 <p>(cn mu na du3) ;;<i>built.</i></p>
+
+## Translation
+<p><i>For Inanna, his lady, Ur-Nammu, the mighty man,
+King of Urim, King of Sumer and Akad, built her
+temple.</i></p>

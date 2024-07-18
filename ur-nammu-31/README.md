@@ -45,6 +45,16 @@
 <p>Eval: (cn nam til3 la ni she3)</p>
 <p>;; <i>for the sake of his life,</i></p>
 
+<p>The novelty in this inscription is the terminative
+marked with 𒂠 (she3). According to Wikipedia,
+  <i>Sumerians used the terminative case -še 
+to indicate end-points in space or time and
+     the targets or the goals of the action.</i>
+</p>
+
+[https://en.wikipedia.org/wiki/Terminative_case]
+
+
 <h2>𒀀𒈬𒈾𒊒</h2>
 <p>Eval: (cn a mu na ru)</p>
 <p>;; <i>dedicated it (this object)</i></p>

@@ -44,7 +44,8 @@ type the lines of text to introduce them into the document.
 9. Eval: (cn mu na du3) > 𒈬𒈾𒆕
 
 <h1>𒀭𒈹 𒎏𒀀𒉌</h1> 
-<p>(cn an inanna nin a ni) ;;<i>For Inanna, his lady,</i></p>
+<p>(cn an inanna nin a ni)</p>
+<p>;;<i>For Inanna, his lady,</i></p>
 <p>The elisp command for typesetting Sumerian also shows
  the text's pronunciation. The semicolon introduces an elisp comment.
  Here, we use this comment feature to teach the translation
@@ -54,7 +55,8 @@ type the lines of text to introduce them into the document.
  the dative marker.</p>
 
 <h1>𒌨𒀭𒇉 𒍑𒆗𒂵</h1>
-(cn ur-nammu nita kalag ga) ;; <i>Ur-Nammu, the mighty man,</i></p>
+<p>(cn ur-nammu nita kalag ga)</p>
+<p>;; <i>Ur-Nammu, the mighty man,</i></p>
 
 <p>One may form adjectives by adding a nominalizing A-particle to a verbal root,
  **kalag** in the present expression. The nominalizing particle was
@@ -65,7 +67,8 @@ type the lines of text to introduce them into the document.
 the noun they modify.</p>
 
 <h2>𒈗𒋀𒀊𒆠𒈠</h2>
-<p>(cn lugal urim ma) ;;<i>King of Urim</i></p>
+<p>(cn lugal urim ma)</p>
+<p>;;<i>King of Urim</i></p>
 
 <p>As we learned from text 1, the genitive is formed
 by K after vowels and AK after consonants. The scribe
@@ -73,16 +76,18 @@ often omitted the K of AK. The M of MA is contamination
 of the final consonant of the previous word.</p>
 
 <h2>𒈗𒆠𒂗𒄀𒆠𒌵𒆤</h2>
-<p>(cn lugal ki-en-gi ki uri ke4) ;;
-<i>King of Sumer and Akad,</i></p>
+<p>(cn lugal ki-en-gi ki uri ke4)</p>
+<p>;;<i>King of Sumer and Akad,</i></p>
 
 <p>In ke4 (𒆤), the K is the genitive marker,
 and the e4 is the ergative marker.</p>
 <h1>𒂍𒀀𒉌</h1>
-<p>(cn e2 a ni) ;; <i>his temple</i></p>
+<p>(cn e2 a ni)</p>
+<p>;; <i>her temple</i></p>
 
 <h1> 𒈬𒈾𒆕</h1>
-<p>(cn mu na du3) ;;<i>built.</i></p>
+<p>(cn mu na du3)</p>
+<p>;;<i>built.</i></p>
 
 ## Translation
 <p><i>For Inanna, his lady, Ur-Nammu, the mighty man,

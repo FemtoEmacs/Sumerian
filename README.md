@@ -9,6 +9,15 @@ With these advantages, GIMP stands out as a powerful, flexible, and continually 
 
 As an example of using GIMP, let's tackle a fascinating problem: how to write in Sumerian.
 
+## Order of reading
+1. The present README contains the first lesson with the document ```Ur-Nammu 9```.
+2. The second lesson, in the ``Emacs``` directory, briefly introduces the Emacs editor and annotates the document ``Ur-Nammu 7```.
+3. Directory ```ur-nammu-31``` contains the third lesson.
+4. The fourth lesson is in the directory ```Ur-Nammu-23```.
+5. The fifth lesson is in the directory ```lesson-five-Ur-Nammu-5```.
+
+## Sumerian script
+
 The Sumerian cuneiform script was the first writing system invented by humankind. Therefore, all educated individuals should learn this 5,000-year-old script. In this tutorial, we will learn how to read and reproduce the writing on the Ur-Nammu 9 Brick.
 
 ![image](https://github.com/FemtoEmacs/Sumerian/assets/21132559/e941ce88-4aa3-46fb-95c4-921d63cff61c)

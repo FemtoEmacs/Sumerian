@@ -11,7 +11,7 @@ As an example of using GIMP, let's tackle a fascinating problem: how to write in
 
 ## Order of reading
 1. The present README contains the first lesson with the document ```Ur-Nammu 9```.
-2. The second lesson, in the ``Emacs``` directory, briefly introduces the Emacs editor and annotates the document ``Ur-Nammu 7```.
+2. In the ```Emacs``` directory, the second lesson briefly introduces the Emacs editor and annotates the document ```Ur-Nammu 7```.
 3. Directory ```ur-nammu-31``` contains the third lesson.
 4. The fourth lesson is in the directory ```Ur-Nammu-23```.
 5. The fifth lesson is in the directory ```lesson-five-Ur-Nammu-5```.

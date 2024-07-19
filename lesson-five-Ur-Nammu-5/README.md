@@ -1,6 +1,6 @@
 # Ur-Nammu 5
 
-![image](https://github.com/user-attachments/assets/a7144874-033c-4e8d-9f9c-ced334fae669)
+![image](https://github.com/user-attachments/assets/13f63bb6-c247-4c40-888a-ed89921dee9b)
 
 
 ## Annotations and Scholia

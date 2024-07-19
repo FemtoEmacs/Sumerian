@@ -1,4 +1,4 @@
-# Ur-Nammu 23
+# Ur-Nammu 23 (𒌨𒀭𒇉)
 
 ![image](https://github.com/user-attachments/assets/cd334603-899d-450d-84a6-1965b02c7420)
 

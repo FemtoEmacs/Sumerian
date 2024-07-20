@@ -5,7 +5,8 @@
 ;;(puthash 'du3  "𒆕" xxx)
 (setq yyy
       '( ;;Lesson 1
-	("𒀭"	U+1202D	an)      ;; 1  sky 
+	("𒀭"	U+1202D	an)      ;; 1  sky
+	("𒀭"	U+1202D	digir)   ;; 
         ("𒆠"	U+121A0	ki)      ;; 2
 	("𒋀" 	U+122C0	šeš)     ;; 3
 	("𒋀" 	U+122C0	shesh)   ;; 3
@@ -48,6 +49,7 @@
 	;; ("𒀀𒀭"	aan	am3)     ;; syllabic
 	;; ("𒌑"  U+12311 u2)       ;; syllabic
 	;; ("𒇷" syllabic le)  ;; 109 syllabic
+        ;; ("𒀝" syllabic ak)  ;; lesson 14
 	
 	;;Lesson 2
 	("𒈹"	U+12239	muš3)     ;;24
@@ -83,8 +85,8 @@
 	("𒀀𒇉" id2 id2)              ;;46
         ("𒆳"	U+121B3	kur)         ;;47
 	("𒉻"	U+1227B	pad)         ;;48
-	("𒈹"	U+12239	muš3)        ;;49
-	("𒈹"	U+12239	mush3)       ;;49
+	;;;("𒈹"	U+12239	muš3)        ;;49
+	;;;("𒈹"	U+12239	mush3)       ;;49
 	("𒉻𒀭𒈹" U+1227B nidba)    ;;50 
 	("𒁀"	U+12040	ba)          ;;51
 	("𒀠"	U+12020	al)          ;;52
@@ -143,7 +145,7 @@
 	("𒀏" U+1200F nina)
 	("𒎏𒄈𒋢" np ningirsu) ;; 87
 	("𒀭𒁀𒌑𒎏𒀀𒀭" np bau-ninam) ;; Bauninam
-	("𒌨𒀭𒎏𒄈𒋢" np ningirsu)
+	("𒌨𒀭𒎏𒄈𒋢" np ur-ningirsu)
 	("𒄭𒇷" U+1212D hi-li)   ;; 88 peruca
 	("𒇷"	U+121F7	li)       ;; 89
 	("𒊩" U+122A9 munus)      ;; 90 woman
@@ -171,16 +173,88 @@
 	;;;;;;Lesson 12
 	("𒀫𒀭𒂗𒍪" np amar-zuen)  ;; 104
 	("𒀫" np amar)  ;; 105 young bull
-	("𒂗𒍪" np amar-zuen)  ;; 104
+	("𒂗𒍪" np zuen)  ;; 104
  	("𒂗𒆤𒆠" geo nippur) ;; 105
 	("𒊕" root sag) ;; 106
 	("𒊕𒍑" word sag-us2) ;; 107 supporter
 	("𒅆𒊒" verb-to-call pad3) ;; 108
 	("𒈬 𒅆𒊒" to-propose mu-pad3)
 	("𒇷" syllabic le)  ;; 109 syllabic
+
+	;;;;;Lesson 13
+	("𒊕" head saĝ)   ;; 110
+	("𒊕" head sang)
+	("𒀫" amar amar)
+	("𒂗𒍪" enzu suen)
+	("𒅆𒊒" pad3 pad3)  ;; 111
+	("𒁕"  da   da)    ;; 112
+	("𒍑"  us2  us2)   ;; 113
+	("𒂗𒆤𒆠" nippur nibru) 
+	;;("𒂗𒆤𒆠" nibru nippur)
+	("𒈨" syllabic me)
+;;; https://oracc.museum.upenn.edu/etcsri/Q001789
+	
+	("𒂼" mother ama)  ;; 114
+	( "𒉢𒁓𒆷" LAGAŠ lagash)
+	;; ("𒌉" child dumu)  ;; 115
+       
+	;; ("𒄄" restore gi4) ;; 116
+
+        ;;;Lesson 14
+	("𒊬" nome kiri6)
+	("𒂼𒀀𒈾𒀝" nome ama-a-na-ak)
+	("𒀝" syllabic ak)
+	("𒁮"	U+1206E	dam) ;; 117 spouse
+	("𒅗" np inim)
+	("𒋸" np uttu)
+	("𒍣" np zid)
+
+	;;;;;Lesson 15
+	("𒈹" inanna mush3)
+	;;("𒊏" syllabic ra)
+	("𒂗𒋼𒈨𒈾" a-king en-te-me-na)
+	("𒉺𒋼𒋛"  governor ensi2)
+	("𒊮" heart  sha3)  ;; 118
+	("𒅆𒊒" to-choose to-choose) ;; 119
+	("𒀭𒀏" divinity nanshe)  ;; 120
+	;; ("𒃲"	U+120F2	gal)
+	;; ("𒎏𒄈𒋢" np ningirsu)
+	;; ("𒅗"	U+12157	ka)
+	("𒂗𒀭𒈾𒁺" a-king en-an-na-tum2)
+	("𒀊" shrine esh3)
+	("𒂁𒊒" temple dug-ru)
+	("𒃻" to-place gar) ;; 
+	("𒅎" venitive im)
+	("𒉌𒅎𒄄" return ni-im-gi4)
+	("𒊺" barley  she) ;; 121
+	("𒄯" handmill ur5)
+	("𒅗" to-steal zuh)
+	("𒉌" i3 i3)
+	
 	));; end
 
+;; 𒀭𒀫𒀭𒂗𒍪 (cn an amar-zuen)
+;; 𒂗𒆤𒆠𒀀    (cn nibru a)
+;;  𒀭𒂗𒆤𒇷 (cn an enlil le)
+;; 𒈬 𒅆𒊒𒁕  (cn mu-pad3 da)
+;; 𒊕𒍑       (cn sang us2)
+;; 𒂍𒀭𒂗𒆤𒅗 (cn e2 an enlil ka)
+;; 𒈗𒆗𒂵   (cn lugal kalag ga)
+;; 𒈗𒋀𒀊𒆠𒈠  (cn lugal urim ma)
+;; 𒈗𒀭𒌒𒁕𒇹𒁀𒈨  (cn lugal an ub da limmu2 ba me)
+
+;; (cn e2 kiri6)
+;; (cn ama-a-na-ak)
+;; (cn dam)
+;; (cn inim uttu zid)
+
+;; 𒉆𒋀 𒂊𒀝 nam-šeš e-ak
+
 ;;; Testes
+;;; 𒌉 𒂼 𒄄
+;;; 𒄷𒊒 𒂼𒅈𒄄 𒅔𒃻𒊏   ḪURU AMA-AR-GI4 IN-ĜAR-RA
+;;; 𒌓𒁺  𒃻 e-gar
+;;; 𒄿𒉌𒉎𒄄
 ;;; 𒂗𒍪 𒈬 𒅆𒊒
 ;;; SHA	𒊭𒍡 ZAM
 ;;; SHA 𒊭  𒍝 𒄠 ZA AM

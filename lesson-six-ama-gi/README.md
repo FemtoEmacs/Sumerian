@@ -1,18 +1,18 @@
 # AMA GI
-Perhaps the most influential Sumerian text is Entemena's cone about ama-gi.
-Let us try to translate it. The first column has ten lines.
+Entemena's cone about ama-gi is the most influential Sumerian text.
+Let's try to translate it. The first column has ten lines.
 
 ![image](https://github.com/user-attachments/assets/ea634fac-e6ff-410a-a917-78c8d6677de4)
 
-Let us select three lines of column 2, the last line of column 3, and the lines
-about ama-gi in column 4.
+Let us select three lines of column 2, the last line of column 3,
+and the lines about ama-gi in column 4.
+
 
 ![image](https://github.com/user-attachments/assets/212262bb-aa63-44b2-b966-512ca37111fb)
 
 ## Annotations
-I want to invite you to help me with the translation. You can make a pull request,
-if you disagree with my decisions about the reading or the interpretation of the famous
-cone.
+I want to invite you to help me with the translation. You can request a pull if you disagree
+with my decisions about reading or interpreting the famous cone.
 
 (cn an lugal e2 mush3 ra)\
 𒀭𒈗𒂍𒈹𒊏\
@@ -61,16 +61,15 @@ cone.
 𒂊𒃻\
 ;; <i>A remission of the obligations {ama-gi4} of Lagash he instituted.</i>
 
-Ama-gi4 means freedom, liberty, the right to return
-to one's mother, remission. The verb e-gar (𒂊𒃻)
-means "to place", but conveys the idea of
-"to institute".
+Ama-gi4 means freedom, liberty, the right to return to one's mother,
+and remission. The verb e-gar (𒂊𒃻) means "to place" but conveys the
+idea of "to institute." 
 
 (cn ama dumu i3 ni gi4)\
 𒂼𒌉𒉌𒉌𒄄\
 ;; <i>The return of the mother to her child,</i>
 
-<p>Note that <i>i3</i> has exactly the same Sumerogram as <i>ni</i>.</p>
+<p>Note that <i>i3</i> has the same Sumerogram as <i>ni</i>.</p>
 
 (cn dumu ama ni im gi4)\
 𒌉𒂼𒉌𒉌𒄄\
@@ -80,8 +79,8 @@ means "to place", but conveys the idea of
 (cn e gar)\
 𒂼𒄄𒊺𒄯𒅗\
 𒂊𒃻\
-;; <i>and the liberation of the barley handmill</i>\
-;; <i>from being expoliated,</i>\
+;; <i>and the liberation of the barley handmill owner</i>\
+;; <i>from being stolen,</i>\
 ;; he instituted.
 
 

@@ -7,7 +7,7 @@ Let us try to translate it. The first column has ten lines.
 Let us select three lines of column 2, the last line of column 3, and the lines
 about ama-gi in column 4.
 
-![image](https://github.com/user-attachments/assets/02463e38-85ec-42a5-b012-fa3a5b3741e4)
+![image](https://github.com/user-attachments/assets/212262bb-aa63-44b2-b966-512ca37111fb)
 
 ## Annotations
 I want to invite you to help me with the translation. You can make a pull request,
@@ -66,12 +66,14 @@ to one's mother, remission. The verb e-gar (𒂊𒃻)
 means "to place", but conveys the idea of
 "to institute".
 
-(cn ama dumu ni im gi4)\
-𒂼𒌉𒉌𒅎𒄄\
+(cn ama dumu i3 ni gi4)\
+𒂼𒌉𒉌𒉌𒄄\
 ;; <i>The return of the mother to her child,</i>
 
+<p>Note that <i>i3</i> has exactly the same Sumerogram as <i>ni</i>.</p>
+
 (cn dumu ama ni im gi4)\
-𒌉𒂼𒉌𒅎𒄄\
+𒌉𒂼𒉌𒉌𒄄\
 ;; <i>the return of children to their mother,</i>
 
 (cn ama gi4 she ur5 zuh)\

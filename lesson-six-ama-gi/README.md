@@ -11,8 +11,7 @@ and the lines about ama-gi in column 4.
 ![image](https://github.com/user-attachments/assets/212262bb-aa63-44b2-b966-512ca37111fb)
 
 ## Annotations
-I want to invite you to help me with the translation. You can request a pull if you disagree
-with my decisions about reading or interpreting the famous cone.
+I want to invite you to help me with the translation. You can request a pull if you disagree with my reading or interpretation of the famous cone. 
 
 (cn an lugal e2 mush3 ra)\
 𒀭𒈗𒂍𒈹𒊏\

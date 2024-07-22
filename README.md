@@ -29,6 +29,28 @@ Below, you can see my first attempt at writing the contents of the Ur-Nammu No. 
 ## Books
 There are few grammar books for Sumerian. Unfortunately, Marie-Louise Thomsen's "**The Sumerian Language**" does not use cuneiform, so I cannot recommend it. This leaves us with John Hayes's manual. Therefore, I advise you to buy "**A Manual of Sumerian: Grammar and Texts**" to learn this ancient language in depth.
 
+## Grammar Structure
+1-- [NANNA \
+2--  LUGAL.ANI].{(R) #benefactive}  -- For his king\
+3-- [UR.NAMMU\
+4-- LUGAL.URIM5.{AK #genitive}].{E #ergative} --  the king of UR\
+5-- [E2.ANI].{#object}      --  his temple\
+6-- MU.NA.DU3 #verb     -- he built\
+7-- [BAD3.URIM5.{A(K) #genitive}].{#object} -- the city wall of Ur\
+8-- MU.NA.DU3  #verb      -- he built
+
+1-2-- The benefactive has an unwritten R, which is represented by {(R)}\
+3-4-- The genitive ends in {AK} after consonant; the ergative ends in {E}\
+5-- The object of the action has no ending, which is represented by {}\
+7-- The genitive has an unwritten K, which is represented by {A(K)}
+
+<p>Braces represent endings. In the representation of an ending,
+I may add a hash-prefixed comment on the grammatical function. For instance,
+  the ergative ending {E} may be written as {E #ergative}. The
+  empty ending of the object is commented as {#object}.
+  Unwritten endings are placed between parentheses, such as {(R)}.
+</p>
+
 ## First Rectangle
 The Ur-Nammu 9 document is divided into eight rectangles. In the first rectangle, the text 𒀭𒋀𒆠 is written, which is the Sumerogram for the name of Nanna, the god of the Moon. The 𒀭 symbol is read as DIG̃IR and is determinative for deity. We will learn in the next paragraph that this word is in the dative case; therefore, the translation of the rectangle is "**For Nanna.**"
 

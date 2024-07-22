@@ -36,7 +36,7 @@ There are few grammar books for Sumerian. Unfortunately, Marie-Louise Thomsen's 
 4- LUGAL.URIM5.{AK #genitive}].{E #ergative} --  the king of UR\
 5- [E2.ANI].{#object}      --  his temple\
 6- MU.NA.DU3 #verb     -- he built\
-7- [BAD3.URIM5.{A(K) #genitive}].{#object} -- the city wall of Ur\
+7- [[BAD3.URIM5].{A(K) #genitive}].{#object} -- the city wall of Ur\
 8- MU.NA.DU3  #verb      -- he built
 
 1,2- The benefactive has an unwritten R, which is represented by {(R)}\

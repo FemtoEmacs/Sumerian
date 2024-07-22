@@ -1,10 +1,17 @@
 ## Inscription on a vase
 
 ![image](https://github.com/user-attachments/assets/7b4cf026-cab9-45bc-ac93-98dd36e64b21)
-## Inscription on a vase
 
-![image](https://github.com/user-attachments/assets/7b4cf026-cab9-45bc-ac93-98dd36e64b21)
+## Sentence structure
 
+1- [NINGAL   -- For Ningal\
+2- NIN.ANI].{(R)} -- his Lady,\
+3- [UR-NAMMU -- Ur-Nammu,\
+4- [NITAH.KALAG].{A #adjective from verb} -- the mighty man,\
+5- [LUGAL.URIM5].{MA(K) #genitive} -- the king of Ur,\
+6- [LUGAL.KIENGI.KIURI].{K #gen.}].{E #ergative} -- the king of Sumer and Akkad,\
+7- [{NAM #abstract noun}.TIL3.ANI].{ŠE3 #goal} -- for the sake of his life,\
+8- A.MU.NA.RU -- dedicated (this vessel).
 
 ## Annotations and scholia
 

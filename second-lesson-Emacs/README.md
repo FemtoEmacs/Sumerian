@@ -46,6 +46,18 @@ type the lines of text to introduce them into the document.
 8. Eval: (cn e2 a ni) > 𒂍𒀀𒉌
 9. Eval: (cn mu na du3) > 𒈬𒈾𒆕
 
+## Sentence structure
+
+1- [INANNA   -- For Inanna,\
+2- NIN.ANI].{(R) #benefactive} -- his Lady,\
+3- [UR.NAMMU -- Ur-Nammu,\
+4- [NITAH.KALAG].{A #adjective from verbal root} -- the mighty man,\
+5- [LUGAL.URIM5^ki].{MA(K) #genitive} -- the king of Ur,\
+6- [LUGAL.KIENGI.KIURI].{K #genitive}].{E #ergative} -- the king of Sumer and Akkad,\
+7- [E2.ANI].{} -- his temple\
+8- MU.NA.DU -- built.
+
+## Annotations
 <h1>𒀭𒈹 𒎏𒀀𒉌</h1> 
 <p>(cn an inanna nin a ni)</p>
 <p>;;<i>For Inanna, his lady,</i></p>

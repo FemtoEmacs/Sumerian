@@ -8,9 +8,9 @@
 <h2>𒀭𒈗𒀭𒊑𒉈</h2>
 <p>(cn an lugal digir re ne)</p>
 <p>;; <i>For An, the king of the gods,</i>
-
+,
 <p>
-In the above expression, the suffix NE (𒉈) forms
+In the above expression, the suffix ENE (𒉈) forms
 the plural of words that denote human
 beings and gods. The 'RE' (𒊑) is a reduplication of 
 the final consonant of the previous word,
@@ -48,5 +48,16 @@ final consonant of sikil (𒂖).
 </p>
 
 <h2>𒈬𒈾𒆕</h2>
-<p>(cn mu na du3)</p>
+<p>(cn mu na du3)</p>,
 <p>;; <i>(the king) built (for An).</i></p>
+
+## Sentence structure
+
+1- [AN LUGAL.[DIĜIR.{RE.NE #plural}] -- For An, the king of the gods,\
+2-  LUGAL.ANI].{(R)} -- his king,\
+3- [UR.NAMMU\
+4-   [LUGAL.URIM5.M].{AK}].{E} -- the king of UR,\
+5- [GISH.KIRI6.MAH].{} -- an outstandig garden\
+6- MU.NA.GUB -- planted.\
+7- [BARAG.[KI.SIKIL].{LA #locative}].{} -- a dais in a pure place\
+8- MU.NA.DU3 -- (the king) build (for An).

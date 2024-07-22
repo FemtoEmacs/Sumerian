@@ -70,7 +70,7 @@ idea of "to institute."
 
 <p>Note that <i>i3</i> has the same Sumerogram as <i>ni</i>.</p>
 
-(cn dumu ama ni im gi4)\
+(cn dumu ama i3 ni  gi4)\
 𒌉𒂼𒉌𒉌𒄄\
 ;; <i>the return of children to their mother,</i>
 

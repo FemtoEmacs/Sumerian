@@ -15,14 +15,14 @@
 ;; K is omissible. Therefore,\
 ;; the genitive is expressed by\
 ;; RA, where the R is contamination\
-;; of the previous consonant.
+;; from the previous consonant.
 
 (cn ab-ba digirrene ke4)\
 𒀊𒁀𒀭𒀭𒌷𒉈𒆤\
 ;; **the father of the gods,**\
 ;; The ENE marks the plural.\
 ;; The R in RENE is contamination\
-;; of the previous consonant.
+;; from the previous consonant.
 
 (cn inim gi-na ni-ta)\
 𒅗𒄀𒈾𒉌𒋫\

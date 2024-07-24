@@ -31,8 +31,10 @@
 ;; 𒄀 (GIN6) = to be firm.\
 ;; The N-contaminated A in NA\
 ;; transforms the verb *to be firm*\
-;; into an adjective.\
-;; NI-TA (𒉌𒋫) indicates instrument\
+;; into an adjective. NI (𒉌) probably\
+;; is abreviation of ANI, which mensa "his".\
+;; The A of ANI is inherited from NA (stone).\
+;; TA (𒉌𒋫) indicates instrument\
 ;; and can be translated by *with* or *by*.
 
 (cn nin-gir-su sha-ra2 ki)\

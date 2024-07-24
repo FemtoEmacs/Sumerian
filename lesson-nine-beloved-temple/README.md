@@ -50,8 +50,8 @@
 𒆠𒁉𒈬𒈾𒄄\
 ;; The expression 𒆠𒁉𒂠 𒄄 means\
 ;; to restore something so that it\
-;; regains its former significance.
-;; In German: etwas restaurieren, wieder
-;; herrichten, so dass es seine alte
+;; regains its former significance.\
+;; In German: etwas restaurieren, wieder\
+;; herrichten, so dass es seine alte\
 ;; Funktion/Bedeutung wieder erlangt
 

@@ -110,7 +110,18 @@
 	("𒇽" U+121FD	lu2)     ;; 66 person
 	("𒅔" U+12154	in)      ;; 67 syllabic
 	("𒇲" U+121F2 la2)       ;; 68 syllabic
+	;; (cn ur an nammu) 𒌨𒀭𒇉
+	;; (cn lugal urim ma) 𒈗𒋀𒀊𒆠𒈠
+	;; (cn lugal ki-en-gi ki uri) 𒈗𒆠𒂗𒄀𒆠𒌵
+	;; (cn lu2 e2 en-lil2 la2) 𒇽𒂍𒀭𒂗𒆤𒇲
+	;; (cn in du3 a) 𒅔𒆕𒀀
 
+	;; 𒌨𒀭𒇉
+	;; 𒈗𒋀𒀊𒆠𒈠
+	;; 𒈗𒆠𒂗𒄀𒆠𒌵
+	;; 𒇽𒂍𒀭𒂗𒆤𒇲
+	;; 𒅔𒆕𒀀
+	
 	;;;;;;;Lesson 7
 	("𒂍𒆳"  U+1208D e2-kur)    ;; 11
 	("𒆠𒉘"  U+12258 ki-aga2)  ;; 69
@@ -129,6 +140,21 @@
 	("𒄄"	U+12104	gi4)    ;; 77 to return
 	("𒁉"	U+12049	bi)     ;; 78 syllabic
 
+	;; (cn nanna) 𒋀𒆠
+	;; (cn dumu sag) 𒌉𒊕
+	;; (cn en-lil2 la2)  𒀭𒂗𒆤𒇲
+	;; (cn lugal a ni)  𒈗𒀀𒉌
+	;; (cn ur-nammu) 𒌨𒀭𒇉
+	;; (cn nita kalag ga) 𒍑𒆗𒂵
+	;; (cn en unug ki ga) 𒂗𒀔𒆠𒂵
+        ;; (cn lugal urim ma)  𒈗𒋀𒀊𒆠𒈠
+	;; (cn lugal ki-en-gi ki uri ke4) 𒈗𒆠𒂗𒄀𒆠𒌵𒆤
+        ;; (cn etemenniguru) 𒂍𒋼𒉎𒅍
+	;; (cn e2 ki aga2 ga2 ni) 𒂍𒆠𒉘𒂷𒉌
+	;; (cn mu na du3) 𒈬𒈾𒆕
+	;; (cn ki be2 mu na gi4) 𒆠𒁉𒈬𒈾𒄄
+
+	
 	;;;;;;;;Lesson 9
 	("𒍑𒆗𒂵" PN shulgi)  ;; 79
 	("𒌒"	U+12312	ub)     ;; 80
@@ -227,9 +253,37 @@
 	("𒅎" venitive im)
 	("𒉌𒅎𒄄" return ni-im-gi4)
 	("𒊺" barley  she) ;; 121
-	("𒄯" handmill ur5)
-	("𒅗" to-steal zuh)
+	("𒄯" handmill ur5) ;; 122
+	("𒅗" to-steal zuh) ;; 123
 	("𒉌" i3 i3)
+
+	;;Lesson-seven-border-war-1
+	("𒀭𒂗𒆤" Enlil en-lil2) ;;124
+	("𒆳𒆳" gods   kur-kur) ;;125
+	;;("𒊏"  syllabic ra) 
+	("𒀊𒁀" father ab-ba) ;;127
+	("𒀭𒀭𒌷𒉈" plural-gods digirrene) ;;128
+	("𒅗" noun inim) ;;129
+	("𒄀𒈾" firm gi-na) ;;130 na create adj. from verb
+	("𒉌𒋫" because ni-ta) ;;130
+	("𒀭𒊩𒌆𒄈𒋢" city nin-gir-su) ;;131
+	("𒀭𒇋𒁉" city sha-ra2) ;;132
+
+	("𒂊𒉈𒋩" fixed-the-border e-ne-sur) ;;133
+
+	("𒈨𒁲" mesilin me-silin)
+	("𒆧" kingdom kishi) ;;133 (cn lugal kishi ki ke4)
+	("𒋫" syllabic ta)
+
+	("𒀭𒅗𒁲" god ishtaran) ;;134 (cn inim ishtaran na ta)
+	("𒂠" rope esh) ;; 135
+	("𒃷" field gana2) ;;136
+	("𒁉" this be2) ;;137
+	;;("𒊏" syllabic ra) 
+	("𒆠𒁀" there ki-ba) ;;138
+	("𒉈𒆕" he-erected bi2-ru2) ;;139
+	
+	
 	
 	));; end
 

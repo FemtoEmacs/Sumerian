@@ -55,3 +55,7 @@
 ;; herrichten, so dass es seine alte\
 ;; Funktion/Bedeutung wieder erlangt
 
+## Translation
+For his lord Nanna, the eldest son of Enlil,  Ur-Nammu
+-- the mighty man, the lord of Uruk, the king of Ur, the king of Sumer and Akkad --
+built Etemenniguru, his beloved temple. He restored it to its former glory.

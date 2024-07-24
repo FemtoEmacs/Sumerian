@@ -70,7 +70,7 @@ type the lines of text to introduce them into the document.
  the dative marker.</p>
 
 <h1>𒌨𒀭𒇉 𒍑𒆗𒂵</h1>
-<p>(cn ur-nammu nita kalag ga)</p>
+<p>(cn ur-nammu nita kalag ga)</p>contam
 <p>;; <i>Ur-Nammu, the mighty man,</i></p>
 
 <p>One may form adjectives by adding a nominalizing A-particle to a verbal root,
@@ -88,7 +88,7 @@ the noun they modify.</p>
 <p>As we learned from text 1, the genitive is formed
 by K after vowels and AK after consonants. The scribe
 often omitted the K of AK. The M of MA is contamination
-of the final consonant of the previous word.</p>
+from the final consonant of the previous word.</p>
 
 <h2>𒈗𒆠𒂗𒄀𒆠𒌵𒆤</h2>
 <p>(cn lugal ki-en-gi ki uri ke4)</p>

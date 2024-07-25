@@ -3,7 +3,8 @@
 ![image](https://github.com/user-attachments/assets/848ab50b-a6cd-4d7c-ae60-86c02f6ce534)
 
 
-## AnnotationsFor his Lord Gilgamesh of Endimgig, the mighty man Ur-Nammu, the king of Ur, the king of Sumer and Akkad, when he built the temple of Nanna, dedicated this vase for the sake of his life. May Gilgamesh curse the man who erases this inscription.
+## Annotations
+
 ;; (cn bil3-ga-mesh3)               𒀭𒄑𒉋𒂵𒎌
 
 

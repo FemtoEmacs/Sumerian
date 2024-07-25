@@ -161,7 +161,7 @@
 	("𒀭𒌒"	U+12312	an-ub)
 	("𒁕" U+12055  da)     ;; 81
 	("𒇹" U+121F9 limmu2) ;; 82
-	("𒁀" U+12040 BA)   ;; 83 syllabic
+	;;("𒁀" U+12040 BA)   ;; 83 syllabic
 
 	;;;;;;; Lesson 10
 	("𒁀𒌑" U+12311 ba-u2)  ;; 84 ba-u2 DN fem.
@@ -183,19 +183,42 @@
 	("𒌑"  U+12311 u2)       ;; syllabic
 
 	;;;;;;Lesson 11
+	;;("𒁀"	U+12040	ba)          ;;51
+	;; 𒁀 Contraction of 𒁉 (be₂, “this”) +‎ 𒀀
+	;; (a, locative case marker).
+	;; 𒁀 • (ba /bâ/) locative of 𒁉 (be₂, “this”)
 	("𒀭𒄑𒉋𒂵𒎌" gilgamesh bil3-ga-mesh3) ;; 94
-	("𒂗𒁶𒍼"    engimgig en-dim2-gig) ;; 95
+	("𒂗𒁶𒍼"    endimgig en-dim2-gig) ;; 95
 	("𒈬𒊬𒊏" U+1222C  mu-sar-ra)
 	("𒌓" U+12313 ud)   ;; 96 day
 	("𒉆𒋻" to-curse nam-ku5)  ;; 97
-	("𒉆𒋻" to-curse nam-kur5)
-	("𒋗𒃡" to-erase shu-ur3)  ;; 98
+	("𒋗" to-erase shu)  ;; 98
+	("𒃡"   to-lay-bricks ur3)
 	("𒉈"	U+12248	bi2) ;; 99 syllable
 	("𒁕" syllable-da da) ;; 100 syllabic
 	("𒂊" syllable-e   e) ;; 101 syllabic
 	("𒄩" syllable-ha  ha) ;; 102 syllabic
 	("𒌈"	U+12308	ib2)   ;; 103 syllabic
-
+        ("𒋻" curse ku5)
+	
+	;;;Text of Lesson 11
+	;; (cn bil3-ga-mesh3)               𒀭𒄑𒉋𒂵𒎌
+        ;; (cn en-dim2-gig)                 𒂗𒁶𒍼
+	;; (cn lugal a ni)                  𒈗𒀀𒉌
+	;; (cn ur-nammu)                    𒌨𒀭𒇉
+	;; (cn nita kalag ga)               𒍑𒆗𒂵
+	;; (cn lugal urim ma)               𒈗𒋀𒀊𒆠𒈠
+	;; (cn lugal ki-en-gi ki uri ke4)   𒈗𒆠𒂗𒄀𒆠𒌵𒆤
+	;; (cn ud e2 an nanna)              𒌓𒂍𒀭𒋀𒆠
+	;; (cn mu du3 a)                    𒈬𒆕𒀀
+	;; (cn nam til3 la ni she3)         𒉆𒋾𒆷𒉌𒂠
+	;; (cn a mu na ru)                  𒀀𒈬𒈾𒊒
+	;; (cn lu2 mu-sar-ra ba)            𒇽𒈬𒊬𒊏𒁀
+	;; (cn shu bi2 ib2 ur3 a)           𒋗𒉈𒌈𒃡𒀀 
+	;; (cn bil3-ga-mesh3 e)             𒀭𒄑𒉋𒂵𒎌𒂊
+	;; (cn nam ha ba da ku5 e)          𒉆𒄩𒁀𒁕𒋻𒂊
+	
+	
 	;;;;;;Lesson 12
 	("𒀫𒀭𒂗𒍪" np amar-zuen)  ;; 104
 	("𒀫" np amar)  ;; 105 young bull

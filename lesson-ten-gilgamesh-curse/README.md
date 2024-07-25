@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/848ab50b-a6cd-4d7c-ae60-86c02f6ce534)
 
 
-## Annotations
+## AnnotationsFor his Lord Gilgamesh of Endimgig, the mighty man Ur-Nammu, the king of Ur, the king of Sumer and Akkad, when he built the temple of Nanna, dedicated this vase for the sake of his life. May Gilgamesh curse the man who erases this inscription.
 ;; (cn bil3-ga-mesh3)               𒀭𒄑𒉋𒂵𒎌
 
 
@@ -23,7 +23,7 @@
 ;; *the king of Ur,*
 
 ;; (cn lugal ki-en-gi ki uri ke4)   𒈗𒆠𒂗𒄀𒆠𒌵𒆤\
-;; the king of Sumer and Akkad,
+;; *the king of Sumer and Akkad,*
 
 ;; (cn ud e2 an nanna)              𒌓𒂍𒀭𒋀𒆠\
 ;; *when he built the temple of Nanna,*
@@ -83,4 +83,7 @@ The last verb of the inscription (line 5) has the following components:
 
 Note that the verb of the relative clause does not show the **marû** suffix,
 because it is omissible, like many other Sumerian markers.
+
+## Translation
+For his Lord Gilgamesh of Endimgig, the mighty man Ur-Nammu, the king of Ur, the king of Sumer and Akkad, when he built the temple of Nanna, dedicated this vase for the sake of his life. May Gilgamesh curse the man who erases this inscription.
 

@@ -1,14 +1,9 @@
 # AMA GI
 Entemena's cone about ama-gi is the most influential Sumerian text.
-Let's try to translate it. The first column has ten lines.
+Although it is badly damaged, let's try to read it.
 
-![image](https://github.com/user-attachments/assets/ea634fac-e6ff-410a-a917-78c8d6677de4)
+![image](https://github.com/user-attachments/assets/673252bc-eda7-4556-9fc8-a7f9eb25fdc9)
 
-Let us select three lines of column 2, the last line of column 3,
-and the lines about ama-gi in column 4.
-
-
-![image](https://github.com/user-attachments/assets/212262bb-aa63-44b2-b966-512ca37111fb)
 
 ## Annotations
 I want to invite you to help me with the translation. You can request a pull if you disagree with my reading or interpretation of the famous cone. 
@@ -64,15 +59,13 @@ Ama-gi4 means freedom, liberty, the right to return to one's mother,
 and remission. The verb e-gar (𒂊𒃻) means "to place" but conveys the
 idea of "to institute." 
 
-(cn ama dumu i3 ni gi4)\
-𒂼𒌉𒉌𒉌𒄄\
-;; <i>The return of the mother to her child,</i>
+(cn ama dumu mu ni gi4)\
+𒂼𒌉𒈬𒉌𒄄\
+;; *He returned the mother to her child,*
 
-<p>Note that <i>i3</i> has the same Sumerogram as <i>ni</i>.</p>
-
-(cn dumu ama i3 ni  gi4)\
-𒌉𒂼𒉌𒉌𒄄\
-;; <i>the return of children to their mother,</i>
+(cn dumu ama mu ni  gi4)\
+𒌉𒂼𒈬𒉌𒄄\
+;; *he returned the children to their mother,*
 
 (cn ama gi4 she ur5 zuh)\
 (cn e gar)\

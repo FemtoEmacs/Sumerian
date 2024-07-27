@@ -8,6 +8,10 @@ of typesetting a text of the second lesson.
 
 ![image](https://github.com/user-attachments/assets/b4d20fe0-2467-42f4-b76f-3a5cf6a20b8d)
 
+## Translation
+<p><i>For Inanna, his lady, Ur-Nammu, the mighty man,
+King of Urim, King of Sumer and Akad, built her
+temple.</i></p>
 
 ## Installing
 Emacs is a popular text editor. Therefore, it should be easy to find
@@ -54,7 +58,7 @@ type the lines of text to introduce them into the document.
 4- [NITAH.KALAG].{A #adjective from verbal root} -- the mighty man,\
 5- [LUGAL.URIM5^ki].{MA(K) #genitive} -- the king of Ur,\
 6- [LUGAL.KIENGI.KIURI].{K #genitive}].{E #ergative} -- the king of Sumer and Akkad,\
-7- [E2.ANI].{} -- his temple\
+7- [E2.ANI].{} -- her (Inanna's) temple\
 8- MU.NA.DU -- built.
 
 ## Annotations

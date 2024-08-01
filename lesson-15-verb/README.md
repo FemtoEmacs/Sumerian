@@ -117,4 +117,27 @@ He should give it to you.
 
 ### 𒁁 (til) to be completed, to finish
 
+## Reduplicating stem
+
+### 𒆭/𒁔  (ku₄/pl sun5), marû 𒆭𒆭 (ku4 ku4) to enter
+
+### 𒌌  (du₇), marû 𒌌 𒌌  (du7 du7) to push
+
+### 𒄄 (gi4), marû 𒄄𒄄 (gi4 gi4) to return
+
+### 𒄢 (gul), marû 𒄢𒄢 (gul gul) to destroy
+
+### 𒃻 (ĝar), marû 𒂷𒂷 (ĝa2 ĝa2) to place
+
+### 𒊬 (mu2), marû 𒊬𒊬 (mu2 mu2) to grow
+
+### 𒅘 (nag̃), marû  𒅘𒅘 (na₈-na₈) to drink
+
+### 𒆸 (niĝin2), marû 𒆸𒆸 (niĝin2 niĝin2) to surround
+
+### 𒊏 (ra), marû 𒊏𒊏 (ra ra) to beat, to hit
+
+### 𒋙 (šuš2), marû 𒋙𒋙 (šuš2 šuš2) to cover
+
+### 𒌇 (tuku), marû (tuku tuku) to have, to obtain
 

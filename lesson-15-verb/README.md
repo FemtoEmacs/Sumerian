@@ -75,7 +75,7 @@ He should give it to you.
 
 ### 𒅆//𒅅 (igi... gâl2) -- to look upon
 
-### 𒂠 (huĝ) -- to hire, to rent
+### 𒂠 (huĝ) -- to hire, to rent𒆗
 
 ### 𒄾  (ḫul₂) to rejoice, to be happy, to delight in
 
@@ -83,5 +83,38 @@ He should give it to you.
 
 ### 𒆗 (kalag) to be strong
 
+### 𒆬 (ku3) to be pure
+
+### 𒋻 • (kudr, ku₅) to cut off, separate
+
+### 𒉽 (kur2) to change
+
+### 𒇲 (la2) to bind
+
+### 𒅆𒊒 (pad3) to call
+
+### 𒁲 (sa2) to be equal
+
+### 𒊬 (sar) to write
+
+### 𒊒 • (šub) to let fall, to throw down/away
+
+### 𒈭 (tah) to add
+
+### 𒋻  (tar) to cut
+
+### 𒇷⫽𒋻  (en₃... tar) to ask, to investigate
+
+### 𒍑 (us2) to follow
+
+### 𒆠//𒍑 (ki ... us2) -- to stablish
+
+### 𒍢//𒅕 (ze2...er) to remove, to tear out
+
+### 𒀄 (zah3) to flee
+
+### 𒉌 (zal) to spend the time
+
+### 𒁁 (til) to be completed, to finish
 
 

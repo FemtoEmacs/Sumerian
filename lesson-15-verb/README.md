@@ -1,7 +1,7 @@
 # Verbs
 In lesson 10, we learned that there are two kinds of verbal stems in Sumerian,
 which the Akkadians called hamtu and marû. Scholars such as Mamoru Yoshikawa
-and Dietz Edzard placed the formation of the marû stem into classes.
+and Dietz Edzard placed theda formation of the marû stem into classes.
 
 ## Regular stems
 Most Sumerian verbs belong to the regular stem class, where the base
@@ -118,6 +118,9 @@ He should give it to you.
 ### 𒁁 (til) to be completed, to finish
 
 ## Reduplicating stem
+In reduplicating stems, the marû base is a reduplication of the
+hamtu base. In one of the examples below, the hamtu stem has
+different singular and plural forms.
 
 ### 𒆭/𒁔  (ku₄/pl sun5), marû 𒆭𒆭 (ku4 ku4) to enter
 

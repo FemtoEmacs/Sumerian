@@ -117,6 +117,11 @@ He should give it to you.
 
 ### 𒁁 (til) to be completed, to finish
 
+### 𒌓𒁺  (e₃ /ed/) to leave, go out, to escape
+
+The appended consonant "d" of 𒌓𒁺  (e₃ /ed/) is visible
+only if an affix is added to the stem.
+
 ## Reduplicating stem
 In reduplicating stems, the marû base is a reduplication of the
 hamtu base. In one of the examples below, the hamtu stem has
@@ -143,4 +148,45 @@ different singular and plural forms.
 ### 𒋙 (šuš2), marû 𒋙𒋙 (šuš2 šuš2) to cover
 
 ### 𒌇 (tuku), marû (tuku tuku) to have, to obtain
+
+## Irregular verbs
+Verbs that do not fall into the former categories are few.
+We will provide two entries for such verbs, one for
+the hamtu stem and another for the marû stem. In
+the cases where the participle is irregular,
+there is an extra entry for it.
+
+### hamtu 𒅗 (du₁₁), pl. 𒂊 (e) -- to speak, to say
+### marû 𒂊 (e), pl. 𒂊 (e) -- to speak
+### participle and infinitive 𒁲 (di) -- to speak
+
+### hamtu human beings 𒋾 (ti-l), pl. 𒅊 (sig12) -- to live
+
+
+The Sumerian verb 𒋾 (ti-l) means “to live,” and is used for human beings
+only. It does not have the marû stem. The plural is 𒅊 (sig12).
+
+### hamtu animals and plants 𒇻 (lug), pl. 𒅊 (sig12) -- to live, to be green
+
+For non-human animals and plants, Sumerian uses the verb 𒇻 (lug) that
+means "to live" or "to be green." The plural is 𒅊 (sig12).
+
+### hamtu 𒁺 (ĝen), pl. 𒂊 𒁻 (e-re7) -- to go 
+### marû 𒁺 (du), pl. 𒁻 (su8-b) -- to go, to come
+
+### hamtu 𒁺 (gub), pl.  𒁻 (su8-b) -- to stand
+### marû 𒁺 (gub), pl. 𒁻 (su8-b) -- to stand
+
+### hamtu 𒁺 (tum2) -- to deliver, to bring in
+### marû 𒉐 • (tum₃) -- to deliver
+
+For the verb 𒁺 (tum2), Sumerians used only the singular stem.
+
+### hamtu 𒆪 (tuš) -- to sit, pl. 𒂉𒊒𒉈 (dur₂-ru-ne)
+
+### hamtu 𒋾 (ti) -- to approach
+### marû  𒋼 (teĝ) -- to approach
+
+In the case of the verb 𒋼 (teĝ), the consonant "ĝ" is only visible, if an
+affix is added after the stem.
 

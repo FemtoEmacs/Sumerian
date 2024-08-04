@@ -43,7 +43,38 @@ as 𒉌𒅔 (i3-in-) , and 𒉌𒌈 (i3-ib2-).
 **They are present.** *Another instance of plene writing.*
 #### 𒅅 • (g̃al₂ /g̃al/) to exist, be there, be present
 
+## Coordinator prefix  /nga/
+The rare prefix -/nga/- means 'also' and occupies the next position in the Sumerian verbal template.
+This prefix is often written without the initial /n/. It is usually placed between the conjugation
+prefix /i3-/ and the pronominal prefix, but it precedes the conjugation prefix /mu-/, as the
+two examples below show.
 
+### 𒅔𒂵𒀭𒍪 in-ga-an-zu
+He, too, knows it.
+
+### 𒈾𒂵𒈬𒍪 na-ga-mu-zu
+He also understood it.
+
+The scribe may connect two clauses A and B by adding the coordinator prefix /nga/ to
+the verb of the second clause. In doing so, it renders
+a meaning “A, and also B,” or negated “neither A, nor B.”
+
+### 𒃲𒈬𒍪 𒃲 𒉌𒂵𒁺𒈬 gal mu-zu i3 ga tum2 mu
+He knows big (things) and can bring here big (things).
+#### 𒂵 (ga) -- also
+#### hamtu 𒁺 • (tum2 /de/) to bring
+#### 𒍪 • (zu) to know 
+
+### 𒀩𒂊𒅇𒆬𒉡𒍝𒆳𒉡𒂵𒀀𒀭 
+**alan.e u3 ku3 nu za gin3 nu ga am3**\
+**This statue is neither silver nor precious stone.**
+#### 𒀩 • (alan) statue
+#### 𒂊 • (e) ergative marker 
+#### 𒅇 • (u₃) and; neither... nor
+#### 𒉡 • (nu) to be not
+#### 𒆬 • (ku₃) metal, silver
+#### 𒍝𒆳 • (za gin3) precious stone
+#### 𒀀𒀭 • (am₃ /am/) enclitic form of 𒈨 (me, “to be”)
 
 ## Ventive prefix 𒈬 (m, mu)
 The ventive prefix /m/ (or /mu/) appears before any dimensional infixes.

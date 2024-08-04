@@ -101,5 +101,30 @@ He was released here.
 ### 𒉎𒈠𒁺 im ma ĝen
 He went there.
 
+## Middle prefix /ba/ 𒁀
+The prefix /ba/ 𒁀 marks the middle voice. It may be used
+when the verbal action or verbal state affects the
+grammatical subject of a sentence.
 
+### 𒈗𒁀𒍗
+**lugal ba eš4**\
+**The king has died.**
 
+#### hamtu & marû sg. 𒁁 • (uš4 /uš/) to die, to kill
+#### marû pl. 𒁁 • (ug7) to die
+#### hamtu & marû pl. 𒂦𒄀 • (ug5 ge) to die
+#### 𒁀 (eš)
+
+### 𒁀𒄄𒅖
+**ba-gi4-iš**\
+They returned.
+
+###  𒇽𒁀𒀄𒀄𒌍
+**lu2 ba zah3 zah3 eš**\
+**The men run away.**\
+Note that the plural of the absolutive participant
+is commonly expressed only by the form of the verb in the clause.
+The word 𒌍 (eš) means 'three,' but may indicate the plural
+as well.
+
+#### 𒀄 • (zaḫ₃ /zaḫ/) to disappear, to run away, to escape

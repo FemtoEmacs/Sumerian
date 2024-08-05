@@ -12,7 +12,7 @@ any other prefixes. If other prefixes are present, it is spelled
  𒌈 (ib2), 𒉎 (im) or 𒅔 (in). There exist plene writings such
 as 𒉌𒅔 (i3-in-) , and 𒉌𒌈 (i3-ib2-).
 
-
+𒅔𒂵𒀭𒍪 
 ### hamtu sg 𒁺 • (du) -- to walk; hamtu pl. 𒁻 (re₇); participle 𒁲 (di)
 ### marû sg 𒁺 • (du) -- to walk, to go; marû pl. 𒁻 (su₈, sub₂); imperative 𒂷 (g̃e₂₆)
 
@@ -130,11 +130,118 @@ as well.
 #### 𒀄 • (zaḫ₃ /zaḫ/) to disappear, to run away, to escape
 
 
-## Pronominal prefixes
+## Verbal Chain
 
-Below, you will find the forms of the pronominal prefixes.
+The verbal root is frequently monosyllable
+and, together with prefixes and suffixes, forms a verbal chain that is described
+as a sequence of about seven slots.
 
-| <div style="width:290px">property</div> | description                           |
-| --------------------------------------- | ------------------------------------- |
-| `border-bottom-right-radius`            | Defines the shape of the bottom-right |
 
+<table>
+  <tr>
+    <th>Ø • 𒄩 • 𒉡 </th>
+    <th>𒉌 / 𒂵 / 𒈬  / 𒁀</th>
+    <th>Ø • 𒂊 • 𒈾 • 𒀊</th>
+    <th>𒀀 • 𒁕 • 𒋫 • 𒅆 • 𒉌 </th>
+    <th></th>
+   <th> </th>
+   <th>𒂗𒉈𒂗 • 𒌦𒍢𒂗</th>
+  </tr>
+  <tr>
+   <td>Ø  • ḫa • nu </td>
+   <td>
+     <table>
+     <tr>
+      <th>𒉌</th>
+      <th>𒂵</th>
+      <th>𒈬</th>
+      <th>𒁀</th>
+     </tr>
+      <tr>
+       <td>i3</td>
+       <td>nga</td>
+       <td>mu</td>
+       <td>ba</td>
+      </tr>
+      <tr>
+       <td>Finite</td>
+       <td>Coordinator</td>
+       <td>Ventive</td>
+       <td>Middle</td>
+      </tr>
+     </table>
+    </td>
+    <td>Ø • e • nn • b </td>
+   <td>a • da • ta • ši • ni </td>
+   <td></td>
+   <td></td>
+   <td></td>
+  </tr>
+  <tr>
+    <td>Modal Prefixes</td>
+    <td>Conjugation Prefixes </td>
+    <td>Pron. Prefix</td>
+   <td>Dim. Prefix</td>
+   <td>Pron. Prefix</td>
+   <td>Stem</td>
+   <td>Pron. Sufix</td>
+  </tr>
+</table>
+
+The example below shows the seven slots in a sentence.
+Neighboring phonemes often contaminate the spelling.
+When this occurs, the table below presents the
+contaminated phoneme in parentheses. For instance,
+the -3.sg.an- pronoun -nn- becomes -un- due to the
+previous -mu- sound. 
+
+<table>
+ <tr>
+  <th><h2>𒄩 </h2></th>
+  <th><h2>𒈬</h2></th>
+  <th><h2>𒌦</h2></th>
+  <th><h2>𒈾</h2></th>
+  <th><h2>𒀊</h2></th>
+  <th><h2>𒋧</h2></th>
+  <th><h2>𒈬𒉈</h2></th>
+ </tr>
+ <tr>
+  <td>ḫa-</td>
+  <td>-mu-</td>
+  <td> (un) nn-</td>
+  <td> (na) -a-</td>
+  <td> (ab) -b-</td>
+  <td>-šum-</td>
+  <td>-ene</td>
+ </tr>
+ <tr>
+ <td>Modal Pref.</td>
+ <td>VEN.</td>
+ <td>Pron. prefix</td>
+ <td>Dat.</td>
+ <td>Pron. pref.</td>
+ <td>Stem</td>
+ <td>Pron. Suffix</td>
+ </tr>
+ <tr>
+  <td>Let</td>
+  <td>here</td>
+  <td>to him</td>
+  <td>to</td>
+  <td>it</td>
+  <td>give</td>
+  <td>they, them</td>
+ </tr>
+ <tr>
+  <td colspan="7">
+   Let them give it to him here.
+  </td>
+ </tr>
+</table>
+
+Sumerian has two grammatical genders, traditionally
+called animate and inanimate. Animate pronouns, such as
+the **-3.sg.an-** pronoun **-nn-**, refer to human beings and
+can be translated as he/him/his, she/her, they/them/their, etc.
+Inanimate pronouns, such as **-b-**, refer to animals,
+plants and things, and are translated as **it/its**.

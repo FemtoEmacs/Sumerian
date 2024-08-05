@@ -128,3 +128,13 @@ The word 𒌍 (eš) means 'three,' but may indicate the plural
 as well.
 
 #### 𒀄 • (zaḫ₃ /zaḫ/) to disappear, to run away, to escape
+
+
+## Pronominal prefixes
+
+Below, you will find the forms of the pronominal prefixes.
+
+| <div style="width:290px">property</div> | description                           |
+| --------------------------------------- | ------------------------------------- |
+| `border-bottom-right-radius`            | Defines the shape of the bottom-right |
+

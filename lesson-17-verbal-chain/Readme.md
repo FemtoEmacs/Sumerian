@@ -244,32 +244,135 @@ This prefix is often written without the initial /n/. It is usually placed betwe
 prefix /i3-/ and the pronominal prefix, but it precedes the conjugation prefix /mu-/, as the
 two examples below show.
 
-### 𒅔𒂵𒀭𒍪 in-ga-an-zu
-He, too, knows it.
+### Ex1: 𒅔𒂵𒀭𒍪 
 
-### 𒈾𒂵𒈬𒍪 na-ga-mu-zu
-He also understood it.
+<table>
+ <tr>
+  <th><h3>𒅔</h3></th>
+  <th><h3>𒂵</h3></th>
+  <th><h3>𒀭</h3></th>
+  <th><h3>𒍪</h3></th>
+ </tr>
+ <tr>
+  <td>in</td>
+  <td>ga</td>
+  <td>an</td>
+  <td>zu</td>
+ </tr>
+ <tr>
+  <td colspan="4">
+   He, too, knows it.
+  </td>
+ </tr>
+</table>
+
+
+
+### Ex2: 𒈾𒂵𒈬𒍪
+
+<table>
+ <tr>
+  <th><h3>𒈾</h3></th>
+  <th><h3>𒂵</h3></th>
+  <th><h3>𒈬</h3></th>
+  <th><h3>𒍪</h3></th>
+ </tr>
+ <tr>
+  <td>na</td>
+  <td>ga</td>
+  <td>mu</td>
+  <td>zu</td>
+ </tr>
+ <tr>
+  <td colspan="4">
+   He also understood it.
+  </td>
+ </tr>
+</table>
 
 The scribe may connect two clauses A and B by adding the coordinator prefix /nga/ to
 the verb of the second clause. In doing so, it renders
 a meaning “A, and also B,” or negated “neither A, nor B.”
 
-### 𒃲𒈬𒍪 𒃲 𒉌𒂵𒁺𒈬 gal mu-zu i3 ga tum2 mu
-He knows big (things) and can bring here big (things).
-#### 𒂵 (ga) -- also
-#### hamtu 𒁺 • (tum2 /de/) to bring
-#### 𒍪 • (zu) to know 
+### Ex3: 𒃲𒈬𒍪 𒃲 𒉌𒂵𒁺𒈬 
 
-### 𒀩𒂊𒅇𒆬𒉡𒍝𒆳𒉡𒂵𒀀𒀭 
-**alan.e u3 ku3 nu za gin3 nu ga am3**\
-**This statue is neither silver nor precious stone.**
-#### 𒀩 • (alan) statue
-#### 𒂊 • (e) ergative marker 
-#### 𒅇 • (u₃) and; neither... nor
-#### 𒉡 • (nu) to be not
-#### 𒆬 • (ku₃) metal, silver
-#### 𒍝𒆳 • (za gin3) precious stone
-#### 𒀀𒀭 • (am₃ /am/) enclitic form of 𒈨 (me, “to be”)
+<table>
+ <tr>
+  <th><h3>𒃲</h3></th>
+  <th><h3>𒈬</h3></th>
+  <th><h3>𒍪</h3></th>
+  <th><h3>𒃲</h3></th>
+  <th><h3>𒉌</h3></th>
+  <th><h3>𒂵</h3></th>
+  <th><h3>𒁺</h3></th>
+  <th><h3>𒈬</h3></th>
+ </tr>
+ <tr>
+  <td>gal</td>
+  <td>mu</td>
+  <td>zu</td>
+  <td>gal</td>
+  <td>i3</td>
+  <td>ga</td>
+  <td>tum2</td>
+  <td>mu</td>
+ </tr>
+ <tr>
+  <td colspan="8">
+   He knows big (things) and can bring here big (things).
+  </td>
+ </tr>
+ <tr>
+  <td colspan="8">
+   <h4>𒂵 •  (ga) -- also</h4>
+   <h4>hamtu 𒁺 • (tum2 /de/) to bring</h4>
+   <h4>𒍪 • (zu) to know</h4>
+  </td>
+ </tr>
+</table>
+
+### Ex4: 𒀩𒂊𒅇𒆬𒉡𒍝𒆳𒉡𒂵𒀀𒀭 
+
+<table>
+ <tr>
+  <th><h3>𒀩𒂊</h3></th>
+  <th><h3>𒅇</h3></th>
+  <th><h3>𒆬</h3></th>
+  <th><h3>𒉡</h3></th>
+  <th><h3>𒍝</h3></th>
+  <th><h3>𒆳</h3></th>
+  <th><h3>𒉡</h3></th>
+  <th><h3>𒂵</h3></th>
+  <th><h3>𒀀𒀭</h3></th>
+ </tr>
+ <tr>
+  <td>alan.e</td>
+  <td>u3</td>
+  <td>ku3</td>
+  <td>nu</td>
+  <td>za</td>
+  <td>gin3</td>
+  <td>nu</td>
+  <td>ga</td>
+  <td>a-am3</td>
+ </tr>
+ <tr>
+  <td colspan="9">
+   This statue is neither silver nor precious stone.
+  </td>
+ </tr>
+ <tr>
+  <td colspan="8">
+   <h4>𒀩 • (alan) statue</h4>
+   <h4>𒂊 • (e) ergative marker </h4>
+   <h4>𒅇 • (u₃) and; neither... nor</h4>
+   <h4>𒉡 • (nu) to be not</h4>
+   <h4>𒆬 • (ku₃) metal, silver</h4>
+   <h4>𒍝𒆳 • (za gin3) precious stone</h4>
+   <h4>𒀀𒀭 • (am₃ /am/) enclitic form of 𒈨 (me, “to be”)</h4>
+  </td>
+ </tr>
+</table>
 
 ## Ventive prefix 𒈬 (m, mu)
 The ventive prefix /m/ (or /mu/) appears before any dimensional infixes.
@@ -283,38 +386,151 @@ formula 𒈬 𒈾 𒆕 (mu na du3) can be translated as
 As we will see below, the ventive prefix can be combined with preceding
 prefixes and has the forms shown in the examples that follow.
 
-### 𒉎𒆪 im dab5
-**He was seized here.**
+### Ex1: 𒉎𒆪 
 
-### 𒉌𒉎𒁺  i3 im ĝen
-He came here.
+<table>
+ <tr>
+  <th><h3>𒉎</h3></th>
+  <th><h3>𒆪</h3></th>
+ </tr>
+ <tr>
+  <td>im</td>
+  <td>dab5</td>
+ </tr>
+ <tr>
+  <td colspan="2">
+   He was seized here.
+  </td>
+ </tr>
+</table>
 
-### 𒉎𒈪𒂃 im mi du8
-He was released here.
-#### 𒂃 (du8) to release, to set free
 
-### 𒉎𒈠𒁺 im ma ĝen
-He went there.
+
+### Ex2: 𒉌𒉎𒁺
+
+<table>
+ <tr>
+  <th><h3>𒉌</h3></th>
+  <th><h3>𒉎</h3></th>
+  <th><h3>𒁺 </h3></th>
+ </tr>
+ <tr>
+  <td>i3</td>
+  <td>im</td>
+  <td>ĝen</td>
+ </tr>
+ <tr>
+  <td colspan="3">
+   He came here.
+  </td>
+ </tr>
+</table>
+
+### Ex3: 𒉎𒈪𒂃
+
+<table>
+ <tr>
+  <th><h3>𒉎</h3></th>
+  <th><h3>𒈪</h3></th>
+  <th><h3>𒂃</h3></th>
+ </tr>
+ <tr>
+  <td>im</td>
+  <td>mi</td>
+  <td>du8</td>
+ </tr>
+ <tr>
+  <td colspan="3">
+   He was released here.
+  </td>
+ </tr>
+ <tr>
+  <td colspan="3">
+   <h4>𒂃 •  (du8) to release, to set free</h4>
+  </td>
+ </tr>
+</table>
+
+
+### Ex4: 𒉎𒈠𒁺 im ma ĝen
+
+
+<table>
+ <tr>
+  <th><h3>𒉎</h3></th>
+  <th><h3>𒈠</h3></th>
+  <th><h3>𒁺</h3></th>
+ </tr>
+ <tr>
+  <td>im</td>
+  <td>ma</td>
+  <td>ĝen</td>
+ </tr>
+ <tr>
+  <td colspan="3">
+   He went there.
+  </td>
+ </tr>
+</table>
+
 
 ## Middle prefix /ba/ 𒁀
 The prefix /ba/ 𒁀 marks the middle voice. It may be used
 when the verbal action or verbal state affects the
 grammatical subject of a sentence.
 
-### 𒈗𒁀𒍗
-**lugal ba eš4**\
-**The king has died.**
+### Ex1: 𒈗𒁀𒍗
 
-#### hamtu & marû sg. 𒁁 • (uš4 /uš/) to die, to kill
-#### marû pl. 𒁁 • (ug7) to die
-#### hamtu & marû pl. 𒂦𒄀 • (ug5 ge) to die
-#### 𒁀 (eš)
+<table>
+ <tr>
+  <th><h3>𒈗</h3></th>
+  <th><h3>𒁀</h3></th>
+  <th><h3>𒍗</h3></th>
+ </tr>
+ <tr>
+  <td>lugal</td>
+  <td>ba</td>
+  <td>uš4</td>
+ </tr>
+ <tr>
+  <td colspan="3">
+   The king has died.
+  </td>
+ </tr>
+ <tr>
+  <td colspan="3">
+   <h4>hamtu & marû sg. 𒁁 • (uš4 /uš/) to die, to kill</h4>
+   <h4>marû pl. 𒁁 • (ug7) to die</h4>
+   <h4>hamtu & marû pl. 𒂦𒄀 • (ug5 ge) to die</h4>
+  </td>
+ </tr>
+</table>
 
-### 𒁀𒄄𒅖
+
+### Ex2: 𒁀𒄄𒅖
 **ba-gi4-iš**\
-They returned.
 
-###  𒇽𒁀𒀄𒀄𒌍
+
+<table>
+ <tr>
+  <th><h3>𒁀</h3></th>
+  <th><h3>𒄄</h3></th>
+  <th><h3>𒅖</h3></th>
+ </tr>
+ <tr>
+  <td>ba</td>
+  <td>gi4</td>
+  <td>iš</td>
+ </tr>
+ <tr>
+  <td colspan="3">
+   They returned.
+  </td>
+ </tr>
+</table>
+
+
+### Ex3:  𒇽𒁀𒀄𒀄𒌍
 **lu2 ba zah3 zah3 eš**\
 **The men run away.**\
 Note that the plural of the absolutive participant
@@ -322,7 +538,28 @@ is commonly expressed only by the form of the verb in the clause.
 The word 𒌍 (eš) means 'three,' but may indicate the plural
 as well.
 
-#### 𒀄 • (zaḫ₃ /zaḫ/) to disappear, to run away, to escape
+<table>
+ <tr>
+  <th><h3>𒇽</h3></th>
+  <th><h3>𒁀</h3></th>
+  <th><h3>𒀄𒀄𒌍</h3></th>
+ </tr>
+ <tr>
+  <td>lu2</td>
+  <td>ba</td>
+  <td>zah3 zah3 eš</td>
+ </tr>
+ <tr>
+  <td colspan="3">
+   The men run away.
+  </td>
+ </tr>
+ <tr>
+  <td colspan="3">
+   <h4>𒀄 • (zaḫ₃ /zaḫ/) to run away, to escape</h4>
+  </td>
+ </tr>
+</table>
 
 
 ## Verbal Chain
@@ -389,6 +626,8 @@ When this occurs, the table below presents the
 contaminated phoneme in parentheses. For instance,
 the -3.sg.an- pronoun -nn- becomes -un- due to the
 previous -mu- sound. 
+
+### Ex: 𒄩𒈬𒌦𒈾𒀊𒋧𒈬𒉈
 
 <table>
  <tr>

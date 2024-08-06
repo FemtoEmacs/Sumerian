@@ -7,106 +7,292 @@ The affix pronouns are used with verbs and nouns to indicate
 relationships such as possession. Below, you will find the
 attested pronouns.
 
-### 𒈬 • (g̃u₁₀ /g̃u/) -- my
-### 𒍪 • (zu) thy, your
-#### 𒋀𒈬 𒀀𒈾𒍪 𒀀𒊏𒍼 𒅗𒈬 𒈠𒍼
-seš-g̃u₁₀ a-na-zu a-ra-gig ka-g̃u₁₀ ma-gig\
-My brother, what of you hurts? My mouth hurts.\
-𒋀 • (šeš /šeš/) brother, junior worker\
-𒀀𒈾 • (a-na /ana/) (interrogative) what?\
-𒍼 • (gig) to be sick, to hurt\
-𒅗 • (ka /kag/) mouth
+### First-person possessive pronoun: 𒈬 • (g̃u₁₀ /g̃u/) -- my
+### Second-person possessive pronoun: 𒍪 • (zu) thy, your
 
-#### 𒌉𒈬 𒀀𒈾 𒉡𒍪
-dumu-g̃u₁₀ a-na nu-zu?\
-What does my son not know?\
-𒌉 • (dumu) child, son, daughter\
-𒉡 • (nu /nu-/) not, no\
-𒍪 • (zu) to know, to know how, be able to
+#### Ex1: 𒋀𒈬 𒀀𒈾𒍪 𒀀𒊏𒍼 𒅗𒈬 𒈠𒍼
+
+<table>
+ <tr>
+  <th><h3>𒋀𒈬</h3></th>
+  <th><h3>𒀀𒈾𒍪</h3></th>
+  <th><h3>𒀀𒊏𒍼</h3></th>
+  <th><h3>𒅗𒈬</h3></th>
+  <th><h3>𒈠𒍼</h3></th>
+ </tr>
+ <tr>
+  <td>seš-g̃u10</td>
+  <td>a-na-zu</td>
+  <td>a-ra-gig</td>
+  <td>ka-g̃u10</td>
+  <td>ma-gig</td>
+ </tr>
+ <tr>
+  <td colspan="5">
+   My brother, what of you hurts? My mouth hurts.
+  </td>
+ </tr>
+  <tr>
+  <td colspan="5">
+   <h4>𒋀 • (šeš /šeš/) brother, junior worker</h4>
+    <h4>𒀀𒈾 • (a-na /ana/) (interrogative) what?</h4>
+    <h4>𒍼 • (gig) to be sick, to hurt</h4>
+    <h4>𒅗 • (ka /kag/) mouth</h4>
+  </td>
+ </tr>
+</table>
+
+
+#### Ex2: 𒌉𒈬 𒀀𒈾 𒉡𒍪
+
+<table>
+ <tr>
+  <th><h3>𒌉𒈬</h3></th>
+  <th><h3>𒀀𒈾</h3></th>
+  <th><h3>𒉡</h3></th>
+  <th><h3>𒍪</h3></th>
+ </tr>
+ <tr>
+  <td>dumu-g̃u10</td>
+  <td>a-na</td>
+  <td>nu</td>
+  <td>zu</td>
+ </tr>
+ <tr>
+  <td colspan="4">
+   What does my son not know?
+  </td>
+ </tr>
+  <tr>
+  <td colspan="4">
+   <h4>𒌉 • (dumu) child, son, daughter</h4>
+    <h4>𒉡 • (nu /nu-/) not, no</h4>
+    <h4>𒍪 • (zu) to know, to know how, be able to</h4>
+  </td>
+ </tr>
+</table>
 
 Both pronouns 𒈬 (g̃u₁₀) and 𒍪 (zu)  contract with the vowel
 of 1) the genitive case marker /ak/ and 2) the locative
 case marker /a/.
 
-#### 𒆦𒈗𒂷 ― kisal lugal-g̃a₂
-the courtyard of my master.
+#### Ex3: 𒆦𒈗𒂷
 
-#### 𒌷𒂷 ― iri-g̃a₂ 
-in my city
+<table>
+ <tr>
+  <th><h3>𒆦</h3></th>
+  <th><h3>𒈗𒂷</h3></th>
+ </tr>
+ <tr>
+  <td>kisal</td>
+  <td>lugal-g̃a2</td>
+ </tr>
+ <tr>
+  <td colspan="2">
+   the courtyard of my master
+  </td>
+ </tr>
+</table>
 
-#### 𒁮𒆪𒁀𒍝𒆤𒂠 ― dam dab₅-ba-za-ke₄-eš₂
-because of your captive wife
+#### Ex4: 𒌷𒂷  
 
-#### 𒂍𒃻𒂵𒍝 ― e₂-nig̃₂-gur₁₁-za
-in your storeroom
+<table>
+ <tr>
+  <th><h3>𒌷</h3></th>
+  <th><h3>𒂷</h3></th>
+ </tr>
+ <tr>
+  <td>iri</td>
+  <td>g̃a2</td>
+ </tr>
+ <tr>
+  <td colspan="2">
+   in my city
+  </td>
+ </tr>
+</table>
 
-### (𒀀)𒉌 (a-ni, a-ne₂) -- his, her
 
-####  𒈗 𒀀𒉌
-lugal a-ni\
-his master
+#### Ex5: 𒁮𒆪𒁀𒍝𒆤𒂠 
+
+<table>
+ <tr>
+  <th><h3>𒁮</h3></th>
+  <th><h3>𒆪𒁀𒍝𒆤</h3></th>
+   <th><h3>𒂠</h3></th>
+ </tr>
+ <tr>
+  <td>dam</td>
+  <td>dab5-ba-za-ke4</td>
+   <td>še3</td>
+ </tr>
+ <tr>
+  <td colspan="3">
+   because of your captive wife
+  </td>
+ </tr>
+  <tr>
+  <td colspan="3">
+   <h4>𒂠 • (še₃ /še/ or /š/) because of </h4>
+   <h4>𒆪 • (dab₅ /dab/) to grasp, hold, seize</h4>
+  </td>
+ </tr>
+</table>
+
+
+#### Ex6: 𒂍𒃻𒂵𒍝 
+
+<table>
+ <tr>
+  <th><h3>𒂍𒃻𒂵</h3></th>
+  <th><h3>𒍝</h3></th>
+ </tr>
+ <tr>
+  <td>e₂-nig̃₂-gur₁₁</td>
+  <td>za</td>
+ </tr>
+ <tr>
+  <td colspan="2">
+   in your storeroom
+  </td>
+ </tr>
+  <tr>
+  <td colspan="2">
+   <h4>𒂍𒃻𒂵 • (e₂-nig̃₂-gur₁₁ /ēnig̃gur/) storeroom</h4>
+  </td>
+  </tr>
+</table>
+
+### Third person possessive pronoun: (𒀀)𒉌 (a-ni, a-ne₂) -- his, her
+
+#### Ex1:  𒈗 𒀀𒉌
+
+<table>
+ <tr>
+  <th><h3>𒈗</h3></th>
+  <th><h3>𒀀𒉌</h3></th>
+ </tr>
+ <tr>
+  <td>lugal</td>
+  <td>a-ni</td>
+ </tr>
+ <tr>
+  <td colspan="2">
+   his master
+  </td>
+ </tr>
+</table>
+
 
 The /a/ of 𒀀𒉌 (a-ne₂ /⁠ane⁠/) contracts with a preceding vowel:
 
-#### 𒊩𒆳𒉌 ― geme₂-ne₂
-his girlfriend
+#### Ex2: 𒊩𒆳𒉌 
+
+<table>
+ <tr>
+  <th><h3>𒊩𒆳</h3></th>
+  <th><h3>𒉌</h3></th>
+ </tr>
+ <tr>
+  <td>geme2</td>
+  <td>ne2</td>
+ </tr>
+ <tr>
+  <td colspan="2">
+   his girlfriend
+  </td>
+ </tr>
+</table>
+
 
 The /e/ of 𒀀𒉌 (a-ne₂ /⁠ane⁠/) contracts with the vowel of 1) the
 genitive case marker /ak/ and 2) the locative case marker /a/:
 
-#### 𒂍𒀭𒊏𒈾 ― e₂ dig̃ir-ra-na
-The temple of his god
+#### Ex3: 𒂍𒀭𒊏𒈾 
 
-#### 𒂍𒀀𒈾 ― e₂-a-na
-into his house
+
+<table>
+ <tr>
+  <th><h3>𒂍</h3></th>
+  <th><h3>𒀭𒊏𒈾</h3></th>
+ </tr>
+ <tr>
+  <td>e2</td>
+  <td>dig̃ir-ra-na</td>
+ </tr>
+ <tr>
+  <td colspan="2">
+   the temple of his god
+  </td>
+ </tr>
+</table>
+
+#### Ex4: 𒂍𒀀𒈾 
+
+
+<table>
+ <tr>
+  <th><h3>𒂍</h3></th>
+  <th><h3>𒀀𒈾</h3></th>
+ </tr>
+ <tr>
+  <td>e2</td>
+  <td>a-na</td>
+ </tr>
+ <tr>
+  <td colspan="2">
+   into his house
+  </td>
+ </tr>
+</table>
 
 ### 𒁉 • (bi, be₂) its
 Third-person non-human possessive pronoun.
 The /e/ of 𒁉 (bi, be₂) contracts with the vowel of
 the genitive case marker /ak/ and the locative case marker /a/.
 
-#### 𒊺𒉻𒁀 ― še šukur₂-ba
+#### Ex1: 𒊺𒉻𒁀 ― še šukur₂-ba
 the barley of their subsistence allotment
 
-#### 𒂍𒁀 ― e₂-ba
+#### Ex2: 𒂍𒁀 ― e₂-ba
 into its house
 
-### 𒈨 • (me /mē/) our
-This pronoun does not contract with the locativej /a/ marker.
+### First-person pl. poss. pronoun: 𒈨 • (me /mē/) our
+This pronoun does not contract with the locative /a/ marker.
 
-#### 𒌷𒈨𒀀 ― iri-me-a
+#### Ex1: 𒌷𒈨𒀀 ― iri-me-a
 in our city
 
 However, it contracts with the genitive /ak/ marker.
 
-#### 𒂕𒁾𒈨𒅗 ― egir dub-me-ka
+#### Ex2: 𒂕𒁾𒈨𒅗 ― egir dub-me-ka
 on the reverse of our tablet
 
-### 𒍪𒉈𒉈 • (zu-ne-ne) your, of you all
+### Second-person pl. poss. pronoun: 𒍪𒉈𒉈 • (zu-ne-ne) your
 Second-person plural possessive pronoun
 
 The final /ē/ of 𒍪𒉈𒉈 (zu-ne-ne) contracts with the
 vowel of the genitive case marker /ak/.
 
-#### 𒃻𒂵𒊭𒀭𒍪𒉈𒉈𒅗
+#### Ex1: 𒃻𒂵𒊭𒀭𒍪𒉈𒉈𒅗
 nig̃₂ ga-ša-an-zu-ne-ne-ka\
 It is the thing of the queen of you all.
 
-### 𒂊𒉈𒉈 (e-ne-ne) their
+###  Third person pl. poss. pronoun: 𒂊𒉈𒉈 (e-ne-ne) their
 
-### 𒈨 • (me) to be
+### Copula: 𒈨 • (me) to be
 The word 𒈨 • (me) can also be used as copula.
 
-#### 𒂷𒂊 𒀀𒈾𒈨𒂗 ― g̃e₂₆-e a-na-me-en
+#### Ex1: 𒂷𒂊 𒀀𒈾𒈨𒂗 ― g̃e₂₆-e a-na-me-en
 What am I?
 
-#### 𒈠𒈬𒁮 ― ma-mu-dam
-It was a dream.\
+#### Ex2: 𒈠𒈬𒁮 ― ma-mu-dam
+It was a dream.
 
-### 𒈨𒂗𒉈𒂗 • (me-en-de₃-en)
+### We are: 𒈨𒂗𒉈𒂗 • (me-en-de₃-en)
 First-person plural of 𒈨 (me, “to be”)
 
-### 𒈨𒂗𒍢𒂗 • (me-en-ze₂-en /menzen/)
+### You guys are: 𒈨𒂗𒍢𒂗 • (me-en-ze₂-en /menzen/)
 Second-person plural of 𒈨 (me, “to be”)
 
 #### 𒂷𒂊 𒅇 𒍝𒂊 𒋀𒈨𒂗𒉈𒂗

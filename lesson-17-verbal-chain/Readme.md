@@ -12,7 +12,7 @@ any other prefixes. If other prefixes are present, it is spelled
  𒌈 (ib2), 𒉎 (im) or 𒅔 (in). There exist plene writings such
 as 𒉌𒅔 (i3-in-) , and 𒉌𒌈 (i3-ib2-).
 
-### 𒌈𒅆𒁺𒌦
+### Ex1: 𒌈𒅆𒁺𒌦
 
 <table>
  <tr>
@@ -32,25 +32,30 @@ as 𒉌𒅔 (i3-in-) , and 𒉌𒌈 (i3-ib2-).
    I am going to it.
   </td>
  </tr>
+ <tr>
+  <td colspan="4">
+   <h4>𒂠 • (še3) to, towards</h4>
+   <h4>𒅆 • (ši)  to it</h4>
+  </td>
 </table>
 
-#### 𒂠 • (še₃ /še/ or /š/) -- to, towards
-#### 𒅆 • (ši) -- to it
+#### Verb conjugation
 
 <table>
  <tr>
-  <th>to walk, to go</th>
+ <th colspan="6"><h4>𒁺 • (du) to walk</h4></th>
+ </tr>
+ <tr>
+  <th>aspect</th>
   <th>singular</th>
   <th>plural</th>
-  <th>participle</th>
-  <th>imperative</th>
+  <th> </th>
  </tr>
  <tr>
   <td>hamtu</td>
   <td><h3>𒁺</h3></td>
   <td><h3>𒁻</h3></td>
-  <td><h3>𒁲</h3></td>
-  <td></td>
+  <td>participle: <h3>𒁲</h3></td>
  </tr>
  <tr>
   <td></td>
@@ -62,19 +67,17 @@ as 𒉌𒅔 (i3-in-) , and 𒉌𒌈 (i3-ib2-).
   <td>marû</td>
   <td><h3>𒁺</h3></td>
   <td><h3>𒁻</h3></td>
-  <td></td>
-  <td><h3>𒂷</h3></td>
+  <td>imperative: <h3>𒂷</h3></td>
  </tr>
  <tr>
   <td></td>
   <td>du</td>
   <td>su8</td>
-  <td></td>
   <td>g̃e₂₆</td>
  </tr>
 </table>
 
-### 𒂍𒂠𒉌𒁺𒌦
+### Ex2: 𒂍𒂠𒉌𒁺𒌦
 
 <table>
  <tr>
@@ -99,24 +102,141 @@ as 𒉌𒅔 (i3-in-) , and 𒉌𒌈 (i3-ib2-).
 </table>
 
 
-### 𒂍𒂠𒌈𒌈𒅆𒁺𒌦 e2-še3 ib2-ši-du-un
-**I am going to it towards the house.**
-#### 𒅆 (ši, to it) agrees with 𒂍𒂠 (e2-še3, to the house)
+### Ex3: 𒂍𒂠𒌈𒌈𒅆𒁺𒌦
 
-### 𒅔𒅆𒁺 in ši du
-**He walks to her.**
+<table>
+ <tr>
+  <th><h3>𒂍𒂠</h3></th>
+  <th><h3>𒌈𒌈</h3></th>
+  <th><h3>𒅆</h3></th>
+  <th><h3>𒁺</h3></th>
+  <th><h3>𒌦</h3></th>
+ </tr>
+ <tr>
+  <td>e2-še3</td>
+  <td>ib2</td>
+  <td>ši</td>
+  <td>du</td>
+  <td>un</td>
+ </tr>
+ <tr>
+  <td colspan="5">
+   I am going to it towards the house.
+  </td>
+ </tr>
+ <tr>
+  <td colspan="5">
+   <h4>𒅆 (ši, to it) agrees with 𒂍𒂠 (e2-še3, to the house)</h4>
+  </td>
+ </tr>
+</table>
 
-### 𒉌𒅔𒅘 i3 in naĝ
-**He drinks it.** *Instance of plene writing.*
-#### 𒅘 (naĝ) -- to drink
+### Ex4: 𒅔𒅆𒁺
 
-### 𒌈𒆪 ib2 dab5
-**They seized it.**
-#### 𒆪 (dab5) -- to seize
+<table>
+ <tr>
+  <th><h3>𒅔</h3></th>
+  <th><h3>𒅆</h3></th>
+  <th><h3>𒁺</h3></th>
+ </tr>
+ <tr>
+  <td>in</td>
+  <td>ši</td>
+  <td>du</td>
+ </tr>
+ <tr>
+  <td colspan="3">
+   He walks to her.
+  </td>
+ </tr>
+</table>
 
-### 𒉌𒌈𒅅 i3 ib2 g̃al₂
-**They are present.** *Another instance of plene writing.*
-#### 𒅅 • (g̃al₂ /g̃al/) to exist, be there, be present
+
+### Ex5: 𒉌𒅔𒅘
+
+<table>
+ <tr>
+  <th><h3>𒉌𒅔</h3></th>
+  <th><h3>𒅘</h3></th>
+ </tr>
+ <tr>
+  <td>i3-in</td>
+  <td>naĝ</td>
+ </tr>
+ <tr>
+  <td colspan="2">
+   He drinks it.
+  </td>
+ </tr>
+  <tr>
+  <td colspan="2">
+   <i>Instance of plene writing.</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2">
+   <h4>𒅘 • (naĝ)  to drink</h4>
+  </td>
+ </tr>
+</table>
+
+
+
+### Ex6: 𒌈𒆪 ib2 dab5
+
+<table>
+ <tr>
+  <th><h3>𒌈</h3></th>
+  <th><h3>𒆪</h3></th>
+ </tr>
+ <tr>
+  <td>ib2</td>
+  <td>dab5</td>
+ </tr>
+ <tr>
+  <td colspan="2">
+   They seized it.
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2">
+   <h4>𒆪 • (dab5) to seize</h4>
+  </td>
+ </tr>
+</table>
+
+
+
+### Ex7: 𒉌𒌈𒅅
+
+
+<table>
+ <tr>
+  <th><h3>𒉌𒌈</h3></th>
+  <th><h3>𒅅 </h3></th>
+ </tr>
+ <tr>
+  <td>i3-ib2</td>
+  <td>g̃al</td>
+ </tr>
+ <tr>
+  <td colspan="2">
+   They are present.
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2">
+   <i>Another instance of plene writing.</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2">
+   <h4>𒅅 • (g̃al₂ /g̃al/) to exist,to be present</h4>
+  </td>
+ </tr>
+</table>
+
+
 
 ## Coordinator prefix  /nga/
 The rare prefix -/nga/- means 'also' and occupies the next position in the Sumerian verbal template.

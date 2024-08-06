@@ -12,17 +12,92 @@ any other prefixes. If other prefixes are present, it is spelled
  𒌈 (ib2), 𒉎 (im) or 𒅔 (in). There exist plene writings such
 as 𒉌𒅔 (i3-in-) , and 𒉌𒌈 (i3-ib2-).
 
-𒅔𒂵𒀭𒍪 
-### hamtu sg 𒁺 • (du) -- to walk; hamtu pl. 𒁻 (re₇); participle 𒁲 (di)
-### marû sg 𒁺 • (du) -- to walk, to go; marû pl. 𒁻 (su₈, sub₂); imperative 𒂷 (g̃e₂₆)
+### 𒌈𒅆𒁺𒌦
 
-### 𒌈𒅆𒁺𒌦 ib2-ši-du-un
-**I am going to it.**
+<table>
+ <tr>
+  <th><h3>𒌈</h3></th>
+  <th><h3>𒅆</h3></th>
+  <th><h3>𒁺</h3></th>
+  <th><h3>𒌦</h3></th>
+ </tr>
+ <tr>
+  <td>ib2</td>
+  <td>ši</td>
+  <td>du</td>
+  <td>un</td>
+ </tr>
+ <tr>
+  <td colspan="4">
+   I am going to it.
+  </td>
+ </tr>
+</table>
+
 #### 𒂠 • (še₃ /še/ or /š/) -- to, towards
 #### 𒅆 • (ši) -- to it
 
-### 𒂍𒂠𒉌𒁺𒌦 e2-še3 i3-du-un
-**I am going to the house.**
+<table>
+ <tr>
+  <th>to walk, to go</th>
+  <th>singular</th>
+  <th>plural</th>
+  <th>participle</th>
+  <th>imperative</th>
+ </tr>
+ <tr>
+  <td>hamtu</td>
+  <td><h3>𒁺</h3></td>
+  <td><h3>𒁻</h3></td>
+  <td><h3>𒁲</h3></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td></td>
+  <td>du</td>
+  <td>re7</td>
+  <td>di</td>
+ </tr>
+ <tr>
+  <td>marû</td>
+  <td><h3>𒁺</h3></td>
+  <td><h3>𒁻</h3></td>
+  <td></td>
+  <td><h3>𒂷</h3></td>
+ </tr>
+ <tr>
+  <td></td>
+  <td>du</td>
+  <td>su8</td>
+  <td></td>
+  <td>g̃e₂₆</td>
+ </tr>
+</table>
+
+### 𒂍𒂠𒉌𒁺𒌦
+
+<table>
+ <tr>
+  <th><h3>𒂍</h3></th>
+  <th><h3>𒂠</h3></th>
+  <th><h3>𒉌</h3></th>
+  <th><h3>𒁺</h3></th>
+  <th><h3>𒌦</h3></th>
+ </tr>
+ <tr>
+  <td>e2</td>
+  <td>še3</td>
+  <td>i3</td>
+  <td>du</td>
+  <td>un</td>
+ </tr>
+ <tr>
+  <td colspan="5">
+   I am going to the house.
+  </td>
+ </tr>
+</table>
+
 
 ### 𒂍𒂠𒌈𒌈𒅆𒁺𒌦 e2-še3 ib2-ši-du-un
 **I am going to it towards the house.**

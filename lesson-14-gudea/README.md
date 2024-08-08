@@ -8,20 +8,92 @@ a high level of independence from the Gutians.
 
 ```;; (cn ningirsu)                    𒎏𒄈𒋢```
 
+<table style="width:40%">
+ <tr>
+  <th><h3>𒎏𒄈𒋢</h3></th>
+ </tr>
+ <tr>
+  <td>(cn ningirsu)</td>
+ </tr>
+ <tr>
+  <td>
+   
+  </td>
+ </tr>
+  <tr>
+  <td>
+   ---------------------------------------</br>
+  </td>
+ </tr>
+</table>
+
+
 ```;; (cn ur sag kal ga)               𒌨𒊕𒆗𒂵```
 
-*For Ningirsu, mighty hero*
+<table>
+ <tr>
+  <th><h3>𒌨𒊕𒆗𒂵</h3></th>
+ </tr>
+ <tr>
+  <td>(cn ur sag kal ga) </td>
+ </tr>
+ <tr>
+  <td>
+   <i>For Ningirsu, mighty hero</i>
+  </td>
+ </tr>
+  <tr>
+  <td>
+  ---------------------------------------</br>
+   <h4>𒌨𒊕 (ur sag) - hero</h4>
+    <h4>𒆗 (kal) - mighty</h4>
+  </td>
+ </tr>
+</table>
 
-𒌨𒊕 (ur sag) - hero\
-𒆗 (kal) - mighty
 
 ```;; (cn en-lil2 la2 ra)              𒀭𒂗𒆤𒇲𒊏```
 
-*of Enlil,*
+<table style="width:40%">
+ <tr>
+  <th><h3>𒀭𒂗𒆤𒇲𒊏</h3></th>
+ </tr>
+ <tr>
+  <td>(cn en-lil2 la2 ra)</td>
+ </tr>
+ <tr>
+  <td>
+   <i>of Enlil,</i>
+  </td>
+ </tr>
+  <tr>
+  <td>
+   ---------------------------------------</br>
+  </td>
+ </tr>
+</table>
+
 
 ```;; (cn lugal a ni)                  𒈗𒀀𒉌```
 
-*his Lord,*
+<table style="width:40%">
+ <tr>
+  <th><h3>𒈗𒀀𒉌</h3></th>
+ </tr>
+ <tr>
+  <td>(cn lugal a ni) </td>
+ </tr>
+ <tr>
+  <td>
+   <i>his master,</i>
+  </td>
+ </tr>
+  <tr>
+  <td>
+   ---------------------------------------</br>
+  </td>
+ </tr>
+</table>
 
 ```;; (cn gu3 de2 a)                   𒅗𒌤𒀀```
 

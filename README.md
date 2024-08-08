@@ -54,13 +54,81 @@ I may add a hash-prefixed comment on the grammatical function. For instance,
 ## First Rectangle
 The Ur-Nammu 9 document is divided into eight rectangles. In the first rectangle, the text 𒀭𒋀𒆠 is written, which is the Sumerogram for the name of Nanna, the god of the Moon. The 𒀭 symbol is read as DIG̃IR and is determinative for deity. We will learn in the next paragraph that this word is in the dative case; therefore, the translation of the rectangle is "**For Nanna.**"
 
+<table>
+ <tr>
+  <th><h3>𒀭</h3></th>
+   <th><h3>𒋀𒆠</h3></th>
+ </tr>
+ <tr>
+  <td>an</td>
+  <td>nanna</td>
+ </tr>
+ <tr>
+  <td colspan="2">
+    ======================================</br>
+    (cn an nanna)</br>
+    [Nanna
+  </td>
+ </tr>
+  <tr>
+  <td colspan="2">
+   <i>For nanna,</i> 
+  </td>
+ </tr>
+</table>
+
+
 ## Second rectangle
 The second rectangle contains three Sumerograms: 𒈗 (LUGAL), 𒀀 (syllable A), and 𒉌 (syllable NI). LUGAL (𒈗) means "King" or "Lord." ANI (𒀀𒉌) can be translated as "his." Then LUGAL ANI (𒈗𒀀𒉌) means "his Lord." The Sumerogram 𒈗 (LUGAL) is formed from 𒇽 (lu₂, "person") and 𒃲 (gal, "big").
 
 In Sumerian, like in Latin and German, a nominal phrase has a case marker that indicates various grammatical functions. On the first and second rectangles, the case marker is the dative, which suggests the beneficiary of the action (**cui bono**). The dative marker is an "R," rarely expressed in writing. Therefore, the whole nominal phrase can be transliterated as [NANNA LUGAL.ANI]-(R), where the (R) is not expressed.
 
+<table>
+ <tr>
+  <th><h3>𒈗</h3></th>
+   <th><h3>𒀀𒉌</h3></th>
+ </tr>
+ <tr>
+  <td>lugal</td>
+  <td>a-ni</td>
+ </tr>
+ <tr>
+  <td colspan="2">
+    ======================================</br>
+    (cn lugal a ni)</br>
+  lugal.ani].(r)
+  </td>
+ </tr>
+  <tr>
+  <td colspan="2">
+   <i>his master,</i> 
+  </td>
+ </tr>
+</table>
+
 ## Third Rectangle
 The third rectangle contains the name of Ur-Nammu (𒌨𒀭𒇉), the king who rebuilt the temple of Nanna and is the document's author. The king's name is formed by 𒌨 (UR), which means man or dog, and 𒀭𒇉 (NAMMA), the Mother Earth of the Sumerians. Therefore, the king's name, 𒌨𒀭𒇉, means "The Man of Namma." Note that the determinative of deity (𒀭) precedes the goddess's name.
+
+<table>
+ <tr>
+  <th><h3>𒌨𒀭𒇉</h3></th>
+ </tr>
+ <tr>
+  <td>ur-nammu</td>
+ </tr>
+ <tr>
+  <td colspan="1">
+    ======================================</br>
+    (cn ur-nammu)</br>
+  [Ur.Nammu
+  </td>
+ </tr>
+  <tr>
+  <td colspan="1">
+   <i>Ur-Nammu,</i> 
+  </td>
+ </tr>
+</table>
 
 ## Fourth Rectangle
 On the fourth rectangle, 𒋀𒀕𒆠 (URIM2) is written, representing the city that was the cult center of Nanna. It is formed by the Sumerograms ŠEŠ (𒋀) and UNUG (𒀕). The Sumerogram 𒆠 is determinative for geographic names.
@@ -69,8 +137,60 @@ The genitive case denotes possession. Unlike the dative, English has a genitive 
 
 Sumerian is an ergative language, meaning the agent of transitive actions is marked. In Sumerian, the marker is "E." However, the subject of an intransitive verb, like "*to go*" or "*to sleep*," does not receive the "E" that marks the agent.
 
+<table>
+ <tr>
+  <th><h3>𒈗</h3></th>
+   <th><h3>𒋀𒀊𒆠</h3></th>
+   <th><h3>𒈠</h3></th>
+   <th><h3>𒆤</h3></th>
+ </tr>
+ <tr>
+  <td>lugal</td>
+   <td>urim5</td>
+   <td>ma</td>
+   <td>ke4</td>
+ </tr>
+ <tr>
+  <td colspan="4">
+    ======================================</br>
+    (cn lugal urim ma ke4)</br>
+    lugal.urim5.ak].e
+  </td>
+ </tr>
+  <tr>
+  <td colspan="4">
+   <i>the king of Ur,</i> 
+  </td>
+ </tr>
+</table>
+
 ## Fifth Rectangle
 The fifth rectangle introduces the temple (E2 - 𒂍) that Ur-Nammu built. The expression 𒂍𒀀𒉌 (E2 ANI) means "his temple."
+
+<table>
+ <tr>
+  <th><h3>𒂍</h3></th>
+   <th><h3>𒀀</h3></th>
+   <th><h3>𒉌</h3></th>
+ </tr>
+ <tr>
+  <td>e2</td>
+   <td>a</td>
+   <td>ni</td>
+ </tr>
+ <tr>
+  <td colspan="3">
+    ======================================</br>
+    (cn e2 a ni)</br>
+    e2.ani
+  </td>
+ </tr>
+  <tr>
+  <td colspan="3">
+   <i>his temple</i> 
+  </td>
+ </tr>
+</table>
 
 
 ## Sixth Rectangle
@@ -80,11 +200,86 @@ The verb 𒈬𒈾𒆕 (MUNADU3) can be translated as "built." The verb has three
 2. 𒈾 — Dimensional Prefix (DP) cross-referencing the dative
 3. 𒆕 — verbal root
 
+<table>
+ <tr>
+  <th><h3>𒈬</h3></th>
+   <th><h3>𒈾</h3></th>
+   <th><h3>𒆕</h3></th>
+ </tr>
+ <tr>
+  <td>mu</td>
+   <td>na</td>
+   <td>du3</td>
+ </tr>
+ <tr>
+  <td colspan="3">
+    ======================================</br>
+    (cn mu na du3)</br>
+    mu.na.du3
+  </td>
+ </tr>
+  <tr>
+  <td colspan="3">
+   <i>he built for him</i> 
+  </td>
+ </tr>
+</table>
+
 ## Seventh Rectangle
 The noun phrase 𒂦𒋀𒀕𒆠𒈠 (BAD2.URIM2.MA) means "wall of URIM2." The sumerogram 𒂦 (BAD2) means "city wall." The /K/ of the genitive is omissible, meaning it is not expressed because it is not pronounced at the end of a nominal phrase.
 
+<table>
+ <tr>
+  <th><h3>𒂦</h3></th>
+   <th><h3>𒋀𒀕𒆠</h3></th>
+   <th><h3>𒈠</h3></th>
+ </tr>
+ <tr>
+  <td>bad2</td>
+   <td>urim5</td>
+   <td>ma</td>
+ </tr>
+ <tr>
+  <td colspan="3">
+    ======================================</br>
+    (cn bad3 urim ma)</br>
+    bad3.urim5.a
+  </td>
+ </tr>
+  <tr>
+  <td colspan="3">
+   <i>The city wall of Ur,</i> 
+  </td>
+ </tr>
+</table>
+
 ## Eigth Rectangle
 The last rectangle repeats the 𒈬𒈾𒆕 (MUNADU3) verb.
+
+<table>
+ <tr>
+  <th><h3>𒈬</h3></th>
+   <th><h3>𒈾</h3></th>
+   <th><h3>𒆕</h3></th>
+ </tr>
+ <tr>
+  <td>mu</td>
+   <td>na</td>
+   <td>du3</td>
+ </tr>
+ <tr>
+  <td colspan="3">
+    ======================================</br>
+    (cn mu na du3)</br>
+    mu.na.du3
+  </td>
+ </tr>
+  <tr>
+  <td colspan="3">
+   <i>he built for him</i> 
+  </td>
+ </tr>
+</table>
 
 
 ## The Method

@@ -1,7 +1,7 @@
 # Verbs
 In lesson 10, we learned that there are two kinds of verbal stems in Sumerian,
 which the Akkadians called hamtu and marû. Scholars such as Mamoru Yoshikawa
-and Dietz Edzard placed theda formation of the marû stem into classes.
+and Dietz Edzard placed the formation of the marû stem into classes.
 
 ## Regular stems
 Most Sumerian verbs belong to the regular stem class, where the base
@@ -10,16 +10,42 @@ marû singular and plural, except for an e- that follows the marû
 stem. 
 𒆗
 
-### 𒈬 𒊏 𒀊 𒋧𒂊 (mu-r.a-b.šum.e) 
-𒊏 (r.a)  to you\
-𒋧𒂊 (šum.e) he should give\
-𒂊 (e)  he\
-𒀊 (a.b) it\
-He should give it to you.
+### Ex1: 𒈬 𒊏 𒀊 𒋧𒂊
+
+<table>
+ <tr>
+  <th><h3>𒈬</h3></th>
+  <th><h3>𒊏</h3></th>
+  <th><h3>𒀊</h3></th>
+  <th><h3>𒋧𒂊</h3></th>
+ </tr>
+ <tr>
+  <td>mu</td>
+  <td>ra</td>
+  <td>ab</td>
+  <td>šum.e</td>
+ </tr>
+ <tr>
+  <td colspan="4">
+   He should give it to you.
+  </td>
+ </tr>
+  <tr>
+  <td colspan="4">
+   <h4>𒊏 • (r.a)  to you</h4>
+    <h4>𒋧𒂊 • (šum.e) he should give</h4>
+    <h4>𒂊 • (e)  he</h4>
+    <h4>𒀊 • (a.b) it</h4>
+  </td>
+ </tr>
+</table>
+
+
 
 ### 𒉘 (aĝ2) -- to measure
 
 ### 𒊬 (sar) -- to write
+
 |      | sing      | plu     |
 |------|-----------|---------|
 |hamtu |  𒊬 (sar)| 𒊬 (sar)|
@@ -127,28 +153,225 @@ In reduplicating stems, the marû base is a reduplication of the
 hamtu base. In one of the examples below, the hamtu stem has
 different singular and plural forms.
 
-### 𒆭/𒁔  (ku₄/pl sun5), marû 𒆭𒆭 (ku4 ku4) to enter
+### hamtu 𒆭/𒁔  (ku₄/pl sun5), marû 𒆭𒆭 (ku4 ku4) to enter
 
-### 𒌌  (du₇), marû 𒌌 𒌌  (du7 du7) to push
+<table>
+ <tr>
+  <th><h3></h3></th>
+  <th><h3>singular</h3></th>
+  <th><h3>plural</h3></th>
+ </tr>
+ <tr>
+  <td><h3>hamtu</h3></td>
+  <td><h3>𒆭</h3> (ku4)</td>
+  <td><h3>𒁔</h3> (sun5)</td>
+ </tr>
+ <tr>
+  <td><h3>marû</h3></td>
+  <td><h3>𒆭𒆭</h3>(ku4-ku4)</td>
+  <td><h3>𒆭𒆭</h3>(ku4-ku4)</td>
+ </tr>
+ </table>
+
+
+
+### hamtu 𒌌  (du₇), marû 𒌌 𒌌  (du7 du7) to push
+
+<table>
+ <tr>
+  <th><h3></h3></th>
+  <th><h3>singular</h3></th>
+  <th><h3>plural</h3></th>
+ </tr>
+ <tr>
+  <td><h3>hamtu</h3></td>
+  <td><h3>𒌌</h3> (du7)</td>
+  <td><h3>𒌌</h3> (du7)</td>
+ </tr>
+ <tr>
+  <td><h3>marû</h3></td>
+  <td><h3>𒌌 𒌌 </h3>(du7-du7)</td>
+  <td><h3>𒌌 𒌌 </h3>(du7-du7)</td>
+ </tr>
+ </table>
 
 ### 𒄄 (gi4), marû 𒄄𒄄 (gi4 gi4) to return
 
+<table>
+ <tr>
+  <th><h3></h3></th>
+  <th><h3>singular</h3></th>
+  <th><h3>plural</h3></th>
+ </tr>
+ <tr>
+  <td><h3>hamtu</h3></td>
+  <td><h3>𒄄</h3> (gi4)</td>
+  <td><h3>𒄄</h3> (gi4)</td>
+ </tr>
+ <tr>
+  <td><h3>marû</h3></td>
+  <td><h3>𒄄𒄄</h3>(gi4-gi4)</td>
+  <td><h3>𒄄𒄄</h3>(gi4-gi4)</td>
+ </tr>
+ </table>
+
 ### 𒄢 (gul), marû 𒄢𒄢 (gul gul) to destroy
+
+<table>
+ <tr>
+  <th><h3></h3></th>
+  <th><h3>singular</h3></th>
+  <th><h3>plural</h3></th>
+ </tr>
+ <tr>
+  <td><h3>hamtu</h3></td>
+  <td><h3>𒄢</h3> (gul)</td>
+  <td><h3>𒄢</h3> (gul)</td>
+ </tr>
+ <tr>
+  <td><h3>marû</h3></td>
+  <td><h3>𒄢𒄢</h3>(gul-gul)</td>
+  <td><h3>𒄢𒄢</h3>(gul-gul)</td>
+ </tr>
+ </table>
+
 
 ### 𒃻 (ĝar), marû 𒂷𒂷 (ĝa2 ĝa2) to place
 
+<table>
+ <tr>
+  <th><h3></h3></th>
+  <th><h3>singular</h3></th>
+  <th><h3>plural</h3></th>
+ </tr>
+ <tr>
+  <td><h3>hamtu</h3></td>
+  <td><h3>𒃻</h3> (ĝar)</td>
+  <td><h3>𒃻</h3> (ĝar)</td>
+ </tr>
+ <tr>
+  <td><h3>marû</h3></td>
+  <td><h3>𒂷𒂷</h3>(ĝa2-ĝa2)</td>
+  <td><h3>𒂷𒂷</h3>(ĝa2-ĝa2)</td>
+ </tr>
+ </table>
+
 ### 𒊬 (mu2), marû 𒊬𒊬 (mu2 mu2) to grow
 
+<table>
+ <tr>
+  <th><h3></h3></th>
+  <th><h3>singular</h3></th>
+  <th><h3>plural</h3></th>
+ </tr>
+ <tr>
+  <td><h3>hamtu</h3></td>
+  <td><h3>𒊬</h3> (mu2)</td>
+  <td><h3>𒊬</h3> (mu2)</td>
+ </tr>
+ <tr>
+  <td><h3>marû</h3></td>
+  <td><h3>𒊬𒊬</h3>(mu2-mu2)</td>
+  <td><h3>𒊬𒊬</h3>(mu2-mu2)</td>
+ </tr>
+ </table>
+
 ### 𒅘 (nag̃), marû  𒅘𒅘 (na₈-na₈) to drink
-
+<table>
+ <tr>
+  <th><h3></h3></th>
+  <th><h3>singular</h3></th>
+  <th><h3>plural</h3></th>
+ </tr>
+ <tr>
+  <td><h3>hamtu</h3></td>
+  <td><h3>𒅘</h3> (nag̃)</td>
+  <td><h3>𒅘</h3> (nag̃)</td>
+ </tr>
+ <tr>
+  <td><h3>marû</h3></td>
+  <td><h3>𒅘𒅘</h3>(nag̃-nag̃)</td>
+  <td><h3>𒅘𒅘</h3>(nag̃-nag̃)</td>
+ </tr>
+ </table>
+ 
 ### 𒆸 (niĝin2), marû 𒆸𒆸 (niĝin2 niĝin2) to surround
-
+<table>
+ <tr>
+  <th><h3></h3></th>
+  <th><h3>singular</h3></th>
+  <th><h3>plural</h3></th>
+ </tr>
+ <tr>
+  <td><h3>hamtu</h3></td>
+  <td><h3>𒆸</h3> (niĝin2)</td>
+  <td><h3>𒆸</h3> (niĝin2)</td>
+ </tr>
+ <tr>
+  <td><h3>marû</h3></td>
+  <td><h3>𒆸𒆸</h3>(niĝin2-niĝin2)</td>
+  <td><h3>𒆸𒆸</h3>(niĝin2-niĝin2)</td>
+ </tr>
+ </table>
+ 
 ### 𒊏 (ra), marû 𒊏𒊏 (ra ra) to beat, to hit
-
+<table>
+ <tr>
+  <th><h3></h3></th>
+  <th><h3>singular</h3></th>
+  <th><h3>plural</h3></th>
+ </tr>
+ <tr>
+  <td><h3>hamtu</h3></td>
+  <td><h3>𒊏</h3> (ra)</td>
+  <td><h3>𒊏</h3> (ra)</td>
+ </tr>
+ <tr>
+  <td><h3>marû</h3></td>
+  <td><h3>𒊏𒊏</h3>(ra-ra)</td>
+  <td><h3>𒊏𒊏</h3>(ra-ra)</td>
+ </tr>
+ </table>
+ 
 ### 𒋙 (šuš2), marû 𒋙𒋙 (šuš2 šuš2) to cover
+<table>
+ <tr>
+  <th><h3></h3></th>
+  <th><h3>singular</h3></th>
+  <th><h3>plural</h3></th>
+ </tr>
+ <tr>
+  <td><h3>hamtu</h3></td>
+  <td><h3>𒋙</h3> (šuš2)</td>
+  <td><h3>𒋙</h3> (šuš2)</td>
+ </tr>
+ <tr>
+  <td><h3>marû</h3></td>
+  <td><h3>𒋙𒋙</h3>(šuš2-šuš2)</td>
+  <td><h3>𒋙𒋙</h3>(šuš2-šuš2)</td>
+ </tr>
+ </table>
+ 
+### 𒌇 (tuku), marû 𒌇𒌇 (tuku tuku) to have, to obtain
 
-### 𒌇 (tuku), marû (tuku tuku) to have, to obtain
-
+<table>
+ <tr>
+  <th><h3></h3></th>
+  <th><h3>singular</h3></th>
+  <th><h3>plural</h3></th>
+ </tr>
+ <tr>
+  <td><h3>hamtu</h3></td>
+  <td><h3>𒌇</h3> (tuku)</td>
+  <td><h3>𒌇</h3> (tuku)</td>
+ </tr>
+ <tr>
+  <td><h3>marû</h3></td>
+  <td><h3>𒌇𒌇</h3>(tuku-tuku)</td>
+  <td><h3>𒌇𒌇</h3>(tuku-tuku)</td>
+ </tr>
+ </table>
+ 
 ## Irregular verbs
 Verbs that do not fall into the former categories are few.
 We will provide two entries for such verbs, one for

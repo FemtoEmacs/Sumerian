@@ -9,6 +9,36 @@
 
 (cn lugal kur-kur ra)\
 𒈗𒆳𒆳𒊏\
+
+<table>
+ <tr>
+  <th><h3></h3></th>
+  <th><h3></h3></th>
+  <th><h3></h3></th>
+    <th><h3></h3></th>
+  <th><h3></h3></th>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+   <td></td>
+    <td></td>
+   <td></td>
+ </tr>
+ <tr>
+  <td colspan="5">
+  ---------------------------------------------------------------</br>
+  Eval: </br>
+  
+  </td>
+ </tr>
+ <tr>
+  <td colspan="5">
+  <i></i>
+  </td>
+ </tr>
+</table>
+
 ;; **the king of all the lands,**\
 ;; The genitive after a consonant\
 ;; is marked by A(K), where\
@@ -20,6 +50,32 @@
 (cn ab-ba digirrene ke4)\
 𒀊𒁀𒀭𒀭𒌷𒉈𒆤\
 ;; **the father of the gods,**\
+
+<table>
+ <tr>
+  <th><h3></h3></th>
+  <th><h3></h3></th>
+  <th><h3></h3></th>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+   <td></td>
+ </tr>
+ <tr>
+  <td colspan="3">
+  ---------------------------------------------------------------</br>
+  Eval: </br>
+  
+  </td>
+ </tr>
+ <tr>
+  <td colspan="3">
+  <i></i>
+  </td>
+ </tr>
+</table>
+
 ;; The ENE marks the plural.\
 ;; The R in RENE is contamination\
 ;; from the previous consonant.
@@ -27,6 +83,33 @@
 (cn inim gi-na ni-ta)\
 𒅗𒄀𒈾𒉌𒋫\
 ;; **by his firm command**\
+<table>
+ <tr>
+  <th><h3></h3></th>
+  <th><h3></h3></th>
+  <th><h3></h3></th>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+   <td></td>
+ </tr>
+ <tr>
+  <td colspan="3">
+  ---------------------------------------------------------------</br>
+  Eval: </br>
+  
+  </td>
+ </tr>
+ <tr>
+  <td colspan="3">
+  <i></i>
+  </td>
+ </tr>
+</table>
+
+
+
 ;; INIM (𒅗) means *command*.\
 ;; 𒄀 (GIN6) = to be firm.\
 ;; The N-contaminated A in NA\
@@ -37,38 +120,152 @@
 ;; TA (𒉌𒋫) indicates instrument\
 ;; and can be translated by *with* or *by*.
 
-(cn nin-gir-su sha-ra2 ki)\
-𒀭𒊩𒌆𒄈𒋢𒀭𒇋𒁉𒆠
-
-(cn e-ne-sur)\
-𒂊𒉈𒋩\
+(cn nin-gir-su sha-ra2 ki e-ne-sur)\
+𒀭𒊩𒌆𒄈𒋢𒀭𒇋𒁉𒆠 𒂊𒉈𒋩
 ;; **fixed the border between Ningirsu and Shara.**\
 ;; 𒋩 (SUR) means fixed.
 
-(cn me-silin)\
-𒈨𒁲\
-;; **Mesilim,**
+<table>
+ <tr>
+  <th><h3></h3></th>
+  <th><h3></h3></th>
+  <th><h3></h3></th>
+   <th><h3></h3></th>
+ </tr>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+   <td></td>
+    <td></td>
+ </tr>
+ <tr>
+  <td colspan="4">
+  ---------------------------------------------------------------</br>
+  Eval: </br>
+  
+  </td>
+ </tr>
+ <tr>
+  <td colspan="4">
+  <i></i>
+  </td>
+ </tr>
+</table>
 
-(cn lugal kishi ki ke4)\
-𒈗𒆧𒆠𒆤\
-;; **the king of Kish,**
+
+
+(cn me-silin lugal kishi ki ke4)\
+
+𒈨𒁲 𒈗𒆧𒆠𒆤\
+;; **Mesilim, the king of Kish,**
+
+<table>
+ <tr>
+  <th><h3></h3></th>
+  <th><h3></h3></th>
+  <th><h3></h3></th>
+    <th><h3></h3></th>
+  <th><h3></h3></th>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+   <td></td>
+    <td></td>
+   <td></td>
+ </tr>
+ <tr>
+  <td colspan="5">
+  ---------------------------------------------------------------</br>
+  Eval: </br>
+  
+  </td>
+ </tr>
+ <tr>
+  <td colspan="5">
+  <i></i>
+  </td>
+ </tr>
+</table>
 
 (cn inim ishtaran na ta)\
 𒅗𒀭𒅗𒁲𒈾𒋫\
 ;; **commanded by Ištaran,**\
 
-(cn esh gana2 be2 ra ki-ba na)\
-𒂠𒃷𒁉𒊏𒆠𒁀𒈾\
-;; 𒂠 (ESH) -- regarding\ 
-;; KI-BA -- there\
-;; NA -- stone, border landmark\
-;; GANA2 -- field\
-;; GANA2 BE2 RA -- this field\
+<table>
+ <tr>
+  <th><h3></h3></th>
+  <th><h3></h3></th>
+  <th><h3></h3></th>
+    <th><h3></h3></th>
+ <tr>
+  <td></td>
+  <td></td>
+   <td></td>
+    <td></td>
+ </tr>
+ <tr>
+  <td colspan="4">
+  ---------------------------------------------------------------</br>
+  Eval: </br>
+  
+  </td>
+ </tr>
+ <tr>
+  <td colspan="4">
+  <i></i>
+  </td>
+ </tr>
+</table>
 
-(cn bi2-ru2)\
-𒉈𒆕\
-;; **regarding this field,**\
-;; **he set a border landmark there.**
+
+<h2>𒂠𒃷𒁉𒊏𒆠𒁀𒈾 𒉈𒆕</h2>
+
+<table>
+ <tr>
+  <th><h3>𒂠</h3></th>
+  <th><h3>𒃷</h3></th>
+  <th><h3>𒁉</h3></th>
+    <th><h3>𒊏</h3></th>
+  <th><h3>𒆠𒁀</h3></th>
+    <th><h3>𒈾</h3></th>
+  <th><h3>𒉈𒆕</h3></th>
+ </tr>
+ <tr>
+  <td>esh</td>
+  <td>gana2</td>
+   <td>be2</td>
+    <td>ra</td>
+   <td>ki-ba</td>
+   <td>na</td>
+   <td>bi2-ru2</td>
+ </tr>
+ <tr>
+  <td colspan="7">
+  ---------------------------------------------------------------</br>
+  Eval: (cn esh gana2 be2 ra ki-ba na bi2-ru2) </br>
+  
+  </td>
+ </tr>
+ <tr>
+  <td colspan="7">
+  <i>regarding this field,</br>
+    he set a border landmark there.**</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="7">
+   <h4>𒂠 (ESH) -- regarding</h4> 
+   <h4>KI-BA -- there</h4>
+   <h4>NA -- stone, border landmark</h4>
+   <h4>GANA2 -- field</h4>
+   <h4>GANA2 BE2 RA -- this field</h4>
+  </td>
+ </tr>
+</table>
+
+
 
 ## Translation
 Enlil, the king of all lands and the father of the gods,

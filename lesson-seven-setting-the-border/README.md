@@ -38,126 +38,119 @@ The genitive after a consonant is marked by A(K), where
 K is omissible. Therefore, the genitive is expressed
 by RA, where the R is contamination from the previous consonant.
 
-(cn ab-ba digirrene ke4)\
-𒀊𒁀𒀭𒀭𒌷𒉈𒆤\
-;; **the father of the gods,**\
 
+<h2>𒀊𒁀𒀭𒀭𒌷𒉈𒆤</h2>
 <table>
  <tr>
-  <th><h3></h3></th>
-  <th><h3></h3></th>
-  <th><h3></h3></th>
+  <th><h3𒀊𒁀</h3></th>
+  <th><h3>𒀭𒀭𒌷𒉈</h3></th>
+  <th><h3>𒆤</h3></th>
  </tr>
  <tr>
-  <td></td>
-  <td></td>
-   <td></td>
+  <td>ab-ba</td>
+  <td>digirrene</td>
+   <td>ke4</td>
  </tr>
  <tr>
   <td colspan="3">
   ------------------------------------------------------------------------</br>
-  Eval: </br>
-  
+  Eval: (cn ab-ba digirrene ke4)
   </td>
  </tr>
  <tr>
   <td colspan="3">
-  <i></i>
+  <i>the father of the gods,</i>
   </td>
  </tr>
 </table>
 
-;; The ENE marks the plural.\
-;; The R in RENE is contamination\
-;; from the previous consonant.
+The ENE marks the plural. The R in RENE is contamination
+from the previous consonant.
 
-(cn inim gi-na ni-ta)\
-𒅗𒄀𒈾𒉌𒋫\
-;; **by his firm command**\
+
+<h2>𒅗𒄀𒈾𒉌𒋫</h2>
 <table>
  <tr>
-  <th><h3></h3></th>
-  <th><h3></h3></th>
-  <th><h3></h3></th>
+  <th><h3>𒅗</h3></th>
+  <th><h3>𒄀𒈾</h3></th>
+  <th><h3>𒉌𒋫</h3></th>
  </tr>
  <tr>
-  <td></td>
-  <td></td>
-   <td></td>
+  <td>inim</td>
+  <td>gi-na</td>
+   <td>ni-ta</td>
  </tr>
  <tr>
   <td colspan="3">
   ------------------------------------------------------------------------</br>
-  Eval: </br>
-  
+  Eval: (cn inim gi-na ni-ta)
   </td>
  </tr>
  <tr>
   <td colspan="3">
-  <i></i>
+  <i>by his firm command,</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="3">
+  <h4>𒅗 (INIM)  command.</h4>
+  <h4>;; 𒄀 (GIN6)  to be firm.</h4>
   </td>
  </tr>
 </table>
 
+The N-contaminated A in NA transforms the verb *to be firm*
+into an adjective. NI (𒉌) probably
+is abreviation of ANI, which mensa "his".
+The A of ANI is inherited from NA (stone).
+TA (𒉌𒋫) indicates instrument
+and can be translated by *with* or *by*.
 
 
-;; INIM (𒅗) means *command*.\
-;; 𒄀 (GIN6) = to be firm.\
-;; The N-contaminated A in NA\
-;; transforms the verb *to be firm*\
-;; into an adjective. NI (𒉌) probably\
-;; is abreviation of ANI, which mensa "his".\
-;; The A of ANI is inherited from NA (stone).\
-;; TA (𒉌𒋫) indicates instrument\
-;; and can be translated by *with* or *by*.
+<h2>𒀭𒊩𒌆𒄈𒋢𒀭𒇋𒁉𒆠 𒂊𒉈𒋩</h2>
 
-(cn nin-gir-su sha-ra2 ki e-ne-sur)\
-𒀭𒊩𒌆𒄈𒋢𒀭𒇋𒁉𒆠 𒂊𒉈𒋩
-;; **fixed the border between Ningirsu and Shara.**\
-;; 𒋩 (SUR) means fixed.
 
 <table>
  <tr>
-  <th><h3></h3></th>
-  <th><h3></h3></th>
-  <th><h3></h3></th>
-   <th><h3></h3></th>
+  <th><h3>𒀭𒊩𒌆𒄈𒋢</h3></th>
+  <th><h3>𒀭𒇋𒁉</h3></th>
+  <th><h3>𒆠</h3></th>
+   <th><h3>𒂊𒉈𒋩</h3></th>
  </tr>
  </tr>
  <tr>
-  <td></td>
-  <td></td>
-   <td></td>
-    <td></td>
+  <td>nin-gir-su</td>
+  <td>sha-ra2</td>
+   <td>ki</td>
+    <td>e-ne-sur</td>
  </tr>
  <tr>
   <td colspan="4">
   ------------------------------------------------------------------------</br>
-  Eval: </br>
-  
+  Eval: (cn nin-gir-su sha-ra2 ki e-ne-sur)
   </td>
  </tr>
  <tr>
   <td colspan="4">
-  <i></i>
+  <i>fixed the border between Ningirsu and Shara.</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="4">
+    <h4>𒋩 (SUR) means fixed.</h4>
   </td>
  </tr>
 </table>
 
 
-
-(cn me-silin lugal kishi ki ke4)\
-
-𒈨𒁲 𒈗𒆧𒆠𒆤\
-;; **Mesilim, the king of Kish,**
-
+<h2>𒈨𒁲 𒈗𒆧𒆠𒆤</h2>
 <table>
  <tr>
-  <th><h3></h3></th>
-  <th><h3></h3></th>
-  <th><h3></h3></th>
-    <th><h3></h3></th>
-  <th><h3></h3></th>
+  <th><h3>𒈨𒁲</h3></th>
+  <th><h3>𒈗</h3></th>
+  <th><h3>𒆧</h3></th>
+    <th><h3>𒆠</h3></th>
+  <th><h3>𒆤</h3></th>
  </tr>
  <tr>
   <td></td>
@@ -169,27 +162,24 @@ by RA, where the R is contamination from the previous consonant.
  <tr>
   <td colspan="5">
   ------------------------------------------------------------------------</br>
-  Eval: </br>
-  
+  Eval: (cn me-silin lugal kishi ki ke4)  
   </td>
  </tr>
  <tr>
   <td colspan="5">
-  <i></i>
+  <i>Mesilim, the king of Kish,</i>
   </td>
  </tr>
 </table>
 
-(cn inim ishtaran na ta)\
-𒅗𒀭𒅗𒁲𒈾𒋫\
-;; **commanded by Ištaran,**\
 
+<h2>𒅗𒀭𒅗𒁲𒈾𒋫</h2>
 <table>
  <tr>
-  <th><h3></h3></th>
-  <th><h3></h3></th>
-  <th><h3></h3></th>
-    <th><h3></h3></th>
+  <th><h3>𒅗</h3></th>
+  <th><h3>𒀭𒅗𒁲</h3></th>
+  <th><h3>𒈾</h3></th>
+    <th><h3>𒋫</h3></th>
  <tr>
   <td></td>
   <td></td>
@@ -199,13 +189,12 @@ by RA, where the R is contamination from the previous consonant.
  <tr>
   <td colspan="4">
   ------------------------------------------------------------------------</br>
-  Eval: </br>
-  
+  Eval: (cn inim ishtaran na ta) 
   </td>
  </tr>
  <tr>
   <td colspan="4">
-  <i></i>
+  <i>commanded by Ištaran,</i>
   </td>
  </tr>
 </table>
@@ -235,14 +224,13 @@ by RA, where the R is contamination from the previous consonant.
  <tr>
   <td colspan="7">
   ------------------------------------------------------------------------</br>
-  Eval: (cn esh gana2 be2 ra ki-ba na bi2-ru2) </br>
-  
+  Eval: (cn esh gana2 be2 ra ki-ba na bi2-ru2) 
   </td>
  </tr>
  <tr>
   <td colspan="7">
-  <i>regarding this field,</br>
-    he set a border landmark there.**</i>
+  <i>regarding this field,
+    he set a border landmark there.</i>
   </td>
  </tr>
  <tr>
@@ -255,8 +243,6 @@ by RA, where the R is contamination from the previous consonant.
   </td>
  </tr>
 </table>
-
-
 
 ## Translation
 Enlil, the king of all lands and the father of the gods,

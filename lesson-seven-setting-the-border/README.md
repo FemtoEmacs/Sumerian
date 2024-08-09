@@ -3,49 +3,40 @@
 ![image](https://github.com/user-attachments/assets/5f0beec2-4d69-469c-8b45-3247b82e5bbc)
 
 ## Type setting
-(cn an en-lil2)\
-𒀭𒂗𒆤\
-;; **Enlil,**
 
-(cn lugal kur-kur ra)\
-𒈗𒆳𒆳𒊏\
+<h2>𒀭𒂗𒆤 𒈗𒆳𒆳𒊏</h2>
 
 <table>
  <tr>
-  <th><h3></h3></th>
-  <th><h3></h3></th>
-  <th><h3></h3></th>
-    <th><h3></h3></th>
-  <th><h3></h3></th>
+  <th><h3>𒀭</h3></th>
+  <th><h3>𒂗𒆤</h3></th>
+  <th><h3>𒈗</h3></th>
+    <th><h3>𒆳𒆳</h3></th>
+  <th><h3>𒊏</h3></th>
  </tr>
  <tr>
-  <td></td>
-  <td></td>
-   <td></td>
-    <td></td>
-   <td></td>
+  <td>an</td>
+  <td>en-lil2</td>
+   <td>lugal</td>
+    <td>kur-kur</td>
+   <td>ra</td>
  </tr>
  <tr>
   <td colspan="5">
-  ---------------------------------------------------------------</br>
-  Eval: </br>
-  
+  ------------------------------------------------------------------------</br>
+  Eval: (cn an en-lil2 lugal kur-kur ra)   
   </td>
  </tr>
  <tr>
   <td colspan="5">
-  <i></i>
+  <i>Enlil, the king of all the lands,</i>
   </td>
  </tr>
 </table>
 
-;; **the king of all the lands,**\
-;; The genitive after a consonant\
-;; is marked by A(K), where\
-;; K is omissible. Therefore,\
-;; the genitive is expressed by\
-;; RA, where the R is contamination\
-;; from the previous consonant.
+The genitive after a consonant is marked by A(K), where
+K is omissible. Therefore, the genitive is expressed
+by RA, where the R is contamination from the previous consonant.
 
 (cn ab-ba digirrene ke4)\
 𒀊𒁀𒀭𒀭𒌷𒉈𒆤\
@@ -64,7 +55,7 @@
  </tr>
  <tr>
   <td colspan="3">
-  ---------------------------------------------------------------</br>
+  ------------------------------------------------------------------------</br>
   Eval: </br>
   
   </td>
@@ -96,7 +87,7 @@
  </tr>
  <tr>
   <td colspan="3">
-  ---------------------------------------------------------------</br>
+  ------------------------------------------------------------------------</br>
   Eval: </br>
   
   </td>
@@ -141,7 +132,7 @@
  </tr>
  <tr>
   <td colspan="4">
-  ---------------------------------------------------------------</br>
+  ------------------------------------------------------------------------</br>
   Eval: </br>
   
   </td>
@@ -177,7 +168,7 @@
  </tr>
  <tr>
   <td colspan="5">
-  ---------------------------------------------------------------</br>
+  ------------------------------------------------------------------------</br>
   Eval: </br>
   
   </td>
@@ -207,7 +198,7 @@
  </tr>
  <tr>
   <td colspan="4">
-  ---------------------------------------------------------------</br>
+  ------------------------------------------------------------------------</br>
   Eval: </br>
   
   </td>
@@ -243,7 +234,7 @@
  </tr>
  <tr>
   <td colspan="7">
-  ---------------------------------------------------------------</br>
+  ------------------------------------------------------------------------</br>
   Eval: (cn esh gana2 be2 ra ki-ba na bi2-ru2) </br>
   
   </td>

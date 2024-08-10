@@ -219,7 +219,7 @@
  </tr>
  <tr>
   <td colspan="4">
-  <i>Nanna, the eldest son of Enlil,</i>
+  <i>the king of Sumer and Akkad,</i>
   </td>
  </tr>
  <tr>
@@ -272,7 +272,36 @@
 </table>
 
 <h2>𒈬𒈾𒆕</h2>
-(cn mu na du3)
+<table>
+ <tr>
+  <th><h3>𒈬</h3></th>
+  <th><h3>𒈾</h3></th>
+  <th><h3>𒆕</h3></th>
+ </tr>
+ <tr>
+  <td>mu</td>
+  <td>na</td>
+   <td>du3</td>
+ </tr>
+ <tr>
+  <td colspan="3">
+  -----------------------------------------------------------------------------</br>
+  Eval: (cn mu na du3)
+  </td>
+ </tr>
+ <tr>
+  <td colspan="3">
+  <i>he built it for Nanna.</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="3">
+  <h4>𒈬 (mu) venitive</h4>
+   This prefix means <i>here</i>,</br>
+   close to the speaker.
+  </td>
+ </tr>
+</table>
                                  
 <h2>𒆠𒁉𒈬𒈾𒄄</h2>
 <table>

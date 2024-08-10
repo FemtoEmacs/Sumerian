@@ -297,7 +297,7 @@
  <tr>
   <td colspan="3">
   <h4>𒈬 (mu) venitive</h4>
-   This prefix means <i>here</i>,</br>
+   This prefix means <i>here</i>,
    close to the speaker.
   </td>
  </tr>

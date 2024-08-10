@@ -1,6 +1,7 @@
 # Beloved Temple
 
-![image](https://github.com/user-attachments/assets/7eac47c2-d65d-43aa-a26f-021d460825dc)
+![image](https://github.com/user-attachments/assets/d711af2b-85bd-4dea-82a0-11ba0c05d8e9)
+
 
 ## Typesetting
 
@@ -42,14 +43,97 @@
 
                              
 <h2>𒈗𒀀𒉌</h2>
-(cn lugal a ni)
+<table>
+ <tr>
+  <th><h3>𒈗</h3></th>
+  <th><h3>𒀀</h3></th>
+   <th><h3>𒉌</h3></th>
+ </tr>
+ <tr>
+  <td>lugal</td>
+  <td>a</td>
+   <td>ni</td>
+ </tr>
+ <tr>
+  <td colspan="3">
+  -----------------------------------------------------------------------------</br>
+  Eval: (cn lugal a ni)
+  </td>
+ </tr>
+ <tr>
+  <td colspan="3">
+  <i>his master,</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="3">
+  <h4>𒈗 (lugal) king, master</h4>
+  </td>
+ </tr>
+</table>
                                
 <h2>𒌨𒀭𒇉</h2>
-(cn ur-nammu)
-                                  
+<table>
+ <tr>
+  <th><h3>𒌨</h3></th>
+  <th><h3>𒀭</h3></th>
+   <th><h3>𒇉</h3></th>
+ </tr>
+ <tr>
+  <td>ur</td>
+  <td>(an)</td>
+   <td>nammu</td>
+ </tr>
+ <tr>
+  <td colspan="3">
+  -----------------------------------------------------------------------------</br>
+  Eval: (cn ur-nammu)
+  </td>
+ </tr>
+ <tr>
+  <td colspan="3">
+  <i>Ur-Nammu,</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="3">
+  <h4>𒀭𒇉 (nammu) goddess of water</h4>
+   <h4>𒌨𒀭𒇉 (ur-nammu) warrior of Nammu</h4>
+  </td>
+ </tr>
+</table>
+
 <h2>𒍑𒆗𒂵</h2>
-(cn nita kalag ga)
-                             
+<table>
+ <tr>
+  <th><h3>𒍑</h3></th>
+  <th><h3>𒆗</h3></th>
+   <th><h3>𒂵</h3></th>
+ </tr>
+ <tr>
+  <td>nita</td>
+  <td>kalag</td>
+   <td>ga</td>
+ </tr>
+ <tr>
+  <td colspan="3">
+  -----------------------------------------------------------------------------</br>
+  Eval: (cn nita kalag ga)
+  </td>
+ </tr>
+ <tr>
+  <td colspan="3">
+  <i>mighty man,</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="3">
+  <h4>𒍑 • (nita) man, male</h4>
+  <h4>𒆗 • (kal, kala, kalag) to be strong, mighty</h4>
+  </td>
+ </tr>
+</table>
+
 <h2>𒂗𒀔𒆠𒂵</h2>
 <table>
  <tr>
@@ -74,7 +158,7 @@
   </td>
  </tr>
  <tr>
-  <td colspan="4">
+  <td colspan="3">
   <h4>𒂗 (en) lord</h4>
   </td>
  </tr>
@@ -83,10 +167,68 @@
 
                          
 <h2>𒈗𒋀𒀊𒆠𒈠</h2>
-(cn lugal urim ma)
+<table>
+ <tr>
+  <th><h3>𒈗</h3></th>
+  <th><h3>𒋀𒀊𒆠</h3></th>
+   <th><h3>𒈠</h3></th>
+ </tr>
+ <tr>
+  <td>lugal</td>
+  <td>urim5</td>
+   <td>ma</td>
+ </tr>
+ <tr>
+  <td colspan="3">
+  -----------------------------------------------------------------------------</br>
+  Eval: (cn lugal urim ma)
+  </td>
+ </tr>
+ <tr>
+  <td colspan="3">
+  <i>the king of Ur,</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="3">
+  <h4>𒋀𒀊𒆠 (urim5) Ur</h4>
+  </td>
+ </tr>
+</table>
+
                           
 <h2>𒈗𒆠𒂗𒄀𒆠𒌵𒆤</h2>
-(cn lugal ki-en-gi ki uri ke4)
+<table>
+ <tr>
+  <th><h3>𒈗</h3></th>
+  <th><h3>𒆠𒂗𒄀</h3></th>
+  <th><h3>𒆠𒌵</h3></th>
+   <th><h3>𒆤</h3></th>
+ </tr>
+ <tr>
+  <td>lugal</td>
+  <td>ki-en-gi</td>
+   <td>ki-uri</td>
+   <td>ke4</td>
+ </tr>
+ <tr>
+  <td colspan="4">
+  -----------------------------------------------------------------------------</br>
+  Eval: (cn lugal ki-en-gi ki uri ke4)
+  </td>
+ </tr>
+ <tr>
+  <td colspan="4">
+  <i>Nanna, the eldest son of Enlil,</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="4">
+  <h4>𒆠𒂗𒄀 (ki-en-gi) Sumer</h4>
+  <h4>𒆠𒌵 (ki-uri) Akkad</h4>
+  </td>
+ </tr>
+</table>
              
                             
 <h2>𒂍𒋼𒉎𒅍 𒂍𒆠𒉘𒂷𒉌</h2>

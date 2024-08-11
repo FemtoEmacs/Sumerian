@@ -91,6 +91,12 @@ type the lines of text to introduce them into the document.
    <i>For Inanna, his Lady,</i> 
   </td>
  </tr>
+ <tr>
+  <td colspan="5">
+   <h4>𒀭𒈹 • (dinana) Inanna</h4>
+   <h4>𒎏 • (nin) lady, queen, mistress</h4>
+  </td>
+ </tr>
 </table>
 
 <p>The elisp command for typesetting Sumerian also shows
@@ -125,6 +131,13 @@ type the lines of text to introduce them into the document.
   <tr>
   <td colspan="4">
    <i>Ur-Nammu, the mighty man,</i> 
+  </td>
+ </tr>
+ <tr>
+  <td colspan="4">
+   <h4>𒍑 • (nita) man, male</h4>
+   <h4>𒆗 • (kalag) to be strong, to be mighty</h4>
+   <h4>𒆗 𒂵 • (kalag ga) adj. from verb, mighty</h4>
   </td>
  </tr>
 </table>
@@ -196,6 +209,12 @@ from the final consonant of the previous word.</p>
   <tr>
   <td colspan="5">
    <i>the king of Sumer and Akkad,</i> 
+  </td>
+ </tr>
+ <tr>
+  <td colspan="5">
+   <h4>𒆠𒂗𒄀 • (ki-en-gi) Sumer</h4>
+    <h4>𒆠𒌵 • (ki-uri) Akkad</h4> 
   </td>
  </tr>
 </table>

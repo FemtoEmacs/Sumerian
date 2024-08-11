@@ -25,9 +25,9 @@
   <td>an</td>
   <td>ningal</td>
  </tr>
- <tr>
+ <tr>-------------------------------------------------</br>
   <td colspan="2">
-  -------------------------------------------------</br>
+  -------------------------------------------------------</br>
   Eval: (cn an ningal)</br>
   [ningal
   </td>
@@ -35,6 +35,11 @@
  <tr>
   <td colspan="2">
   <i>For Ningal</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2">
+  <h4>𒀭𒎏𒃲 (dNun-gal) goddess of prisons</h4>
   </td>
  </tr>
 </table>
@@ -55,7 +60,7 @@
  </tr>
  <tr>
   <td colspan="3">
-  -------------------------------------------------</br>
+  -------------------------------------------------------</br>
   Eval: (cn nin a ni)</br>
   [ningal
   </td>
@@ -81,7 +86,7 @@
  </tr>
  <tr>
   <td colspan="2">
-  -------------------------------------------------</br>
+   -------------------------------------------------------</br>
   Eval: (cn ur-nammu)</br>
   [Ur.Nammu
   </td>
@@ -108,7 +113,7 @@
  </tr>
  <tr>
   <td colspan="3">
-  -------------------------------------------------</br>
+   -------------------------------------------------------</br>
   Eval: (cn nita kalag ga)</br>
   nitah.kalag.ga
   </td>
@@ -136,7 +141,7 @@
  </tr>
  <tr>
   <td colspan="3">
-  -------------------------------------------------</br>
+   -------------------------------------------------------</br>
   Eval: (cn lugal urim ma)</br>
   lugal.urim5.a
   </td>
@@ -167,7 +172,7 @@
  </tr>
  <tr>
   <td colspan="5">
-  -------------------------------------------------</br>
+  -------------------------------------------------------</br>
   Eval: (cn lugal ki-en-gi ki uri ke4)</br>
   lugal.kiengi.kiuri.k].e
   </td>
@@ -198,7 +203,7 @@
  </tr>
  <tr>
   <td colspan="5">
-  -------------------------------------------------</br>
+  -------------------------------------------------------</br>
   Eval: (cn nam til3 la ni she3)</br>
   [nam.til3.ani].še3
   </td>
@@ -206,6 +211,14 @@
  <tr>
   <td colspan="5">
  <i>for the sake of his life,</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="5">
+ <h4>𒉆//𒂠 • (nam with genitive + še3) because of</h4>
+ <h4>𒉆𒁉𒂠 ― (nam-bi-še3) because of this</h4>
+ <h4>𒋾 • (til3) to live, be alive</h4>
+   <h4>𒋾𒆷 • (til3 la.(k)) of his life</h4>
   </td>
  </tr>
 </table>
@@ -238,7 +251,7 @@ to indicate end-points in space or time and
  </tr>
  <tr>
   <td colspan="4">
-  -------------------------------------------------</br>
+  -------------------------------------------------------</br>
   Eval: (cn a mu na ru)</br>
   [a].{} mu.na.(n.)ru.{}
   </td>
@@ -246,6 +259,13 @@ to indicate end-points in space or time and
  <tr>
   <td colspan="4">
  <i>dedicated it (this object).</i>
+  </td>
+ </tr>𒀀⫽𒊒 • (a ru)
+
+to dedicate
+ <tr>
+  <td colspan="4">
+ <h4>𒀀⫽𒊒 • (a ru) to dedicate</h4>
   </td>
  </tr>
 </table>

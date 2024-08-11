@@ -65,7 +65,7 @@ The Ur-Nammu 9 document is divided into eight rectangles. In the first rectangle
  </tr>
  <tr>
   <td colspan="2">
-    ======================================</br>
+     ===============================================</br>
     (cn an nanna)</br>
     [Nanna
   </td>
@@ -75,6 +75,11 @@ The Ur-Nammu 9 document is divided into eight rectangles. In the first rectangle
    <i>For nanna,</i> 
   </td>
  </tr>
+  <tr>
+  <td colspan="2">
+    <h4>𒀭𒋀𒆠 • (d-nanna) Nanna, the moon god, patron of Ur</h4>
+  </td>
+  </tr>
 </table>
 
 
@@ -94,7 +99,7 @@ In Sumerian, like in Latin and German, a nominal phrase has a case marker that i
  </tr>
  <tr>
   <td colspan="2">
-    ======================================</br>
+    ===============================================</br>
     (cn lugal a ni)</br>
   lugal.ani].(r)
   </td>
@@ -102,6 +107,12 @@ In Sumerian, like in Latin and German, a nominal phrase has a case marker that i
   <tr>
   <td colspan="2">
    <i>his master,</i> 
+  </td>
+ </tr>
+  <tr>
+  <td colspan="2">
+   <h4>𒈗 • (lugal) king, lord, master, owner</h4>
+    <h4>𒀀𒉌 • (a-ni, a-ne2) his/her (3d-person human possessive pronoun)</h4>
   </td>
  </tr>
 </table>
@@ -118,7 +129,7 @@ The third rectangle contains the name of Ur-Nammu (𒌨𒀭𒇉), the king who r
  </tr>
  <tr>
   <td colspan="1">
-    ======================================</br>
+     ===============================================</br>
     (cn ur-nammu)</br>
   [Ur.Nammu
   </td>
@@ -126,6 +137,11 @@ The third rectangle contains the name of Ur-Nammu (𒌨𒀭𒇉), the king who r
   <tr>
   <td colspan="1">
    <i>Ur-Nammu,</i> 
+  </td>
+ </tr>
+  <tr>
+  <td colspan="1">
+   <h4>𒌨𒀭𒇉 • (ur-d-namma) Ur-Nammu (a king famous for his law-code)</h4> 
   </td>
  </tr>
 </table>
@@ -152,7 +168,7 @@ Sumerian is an ergative language, meaning the agent of transitive actions is mar
  </tr>
  <tr>
   <td colspan="4">
-    ======================================</br>
+    ===============================================</br>
     (cn lugal urim ma ke4)</br>
     lugal.urim5.ak].e
   </td>
@@ -160,6 +176,12 @@ Sumerian is an ergative language, meaning the agent of transitive actions is mar
   <tr>
   <td colspan="4">
    <i>the king of Ur,</i> 
+  </td>
+ </tr>
+  <tr>
+  <td colspan="4">
+   <h4>𒋀𒀕𒆠 • (urim2ki) Ur (city in southern Mesopotamia</h4>
+   <h4>𒈠𒆤 • (m.ak.e) genitive contracted with ergative</h4>
   </td>
  </tr>
 </table>
@@ -180,7 +202,7 @@ The fifth rectangle introduces the temple (E2 - 𒂍) that Ur-Nammu built. The e
  </tr>
  <tr>
   <td colspan="3">
-    ======================================</br>
+     ===============================================</br>
     (cn e2 a ni)</br>
     e2.ani
   </td>
@@ -190,15 +212,21 @@ The fifth rectangle introduces the temple (E2 - 𒂍) that Ur-Nammu built. The e
    <i>his temple</i> 
   </td>
  </tr>
+  <tr>
+  <td colspan="3">
+   <h4>𒂍 • (e2) (pl. 𒂍𒈨𒌍 (È.MEŠ)) house, temple</h4> 
+  </td>
+ </tr>
 </table>
 
 
 ## Sixth Rectangle
 The verb 𒈬𒈾𒆕 (MUNADU3) can be translated as "built." The verb has three components:
 
-1. 𒈬 — conjugation prefix
-2. 𒈾 — Dimensional Prefix (DP) cross-referencing the dative
-3. 𒆕 — verbal root
+1. 𒈬 — Ventive Conjugation Prefix (CP). The Ventive CP indicates that the action occurs here, close to the speaker.
+3. 𒈾 — Dimensional Prefix (DP) cross-referencing the dative.
+   Sumerian has a DP for each sentence component, except the ergative and the patient.
+5. 𒆕 — verbal root
 
 <table>
  <tr>
@@ -213,7 +241,7 @@ The verb 𒈬𒈾𒆕 (MUNADU3) can be translated as "built." The verb has three
  </tr>
  <tr>
   <td colspan="3">
-    ======================================</br>
+     ===============================================</br>
     (cn mu na du3)</br>
     mu.na.du3
   </td>
@@ -222,6 +250,15 @@ The verb 𒈬𒈾𒆕 (MUNADU3) can be translated as "built." The verb has three
   <td colspan="3">
    <i>he built for him</i> 
   </td>
+ </tr>
+  <tr>
+  <td colspan="3">
+   <h4>𒆕 • (du3) to build, to make, to plant</h4>
+   <h4>𒈬 • (mu) conjugation prefix (CP), ventive prefix</h4>
+   <h4>𒉌 • (i3), 𒀀 • (a), 𒀠 • (al) CP: finite marker prefixes  </h4>
+   <h4>𒉌 𒌈 • (ib2), 𒉎 • (im), 𒅔 • (in) CP: finite marker prefixes  </h4>
+  <h4> 𒈾 or 𒀀 • (na) DP that cross-references the dative</h4>
+ </td>
  </tr>
 </table>
 
@@ -241,7 +278,7 @@ The noun phrase 𒂦𒋀𒀕𒆠𒈠 (BAD2.URIM2.MA) means "wall of URIM2." The 
  </tr>
  <tr>
   <td colspan="3">
-    ======================================</br>
+     ===============================================</br>
     (cn bad3 urim ma)</br>
     bad3.urim5.a
   </td>
@@ -249,6 +286,12 @@ The noun phrase 𒂦𒋀𒀕𒆠𒈠 (BAD2.URIM2.MA) means "wall of URIM2." The 
   <tr>
   <td colspan="3">
    <i>The city wall of Ur,</i> 
+  </td>
+ </tr>
+  <tr>
+  <td colspan="3">
+   <h4>𒂦 • (bad3) wall, fortification</h4>
+   <h4>𒈠 • (m.a(k)) genitive, of Ur</h4> 
   </td>
  </tr>
 </table>
@@ -269,7 +312,7 @@ The last rectangle repeats the 𒈬𒈾𒆕 (MUNADU3) verb.
  </tr>
  <tr>
   <td colspan="3">
-    ======================================</br>
+     ===============================================</br>
     (cn mu na du3)</br>
     mu.na.du3
   </td>
@@ -278,6 +321,19 @@ The last rectangle repeats the 𒈬𒈾𒆕 (MUNADU3) verb.
   <td colspan="3">
    <i>he built for him</i> 
   </td>
+ </tr>
+<tr>
+  <td colspan="3">
+  Below, there is a complete list of Dimensional Prefixes (DP).</br>
+  The concept of DP does not exist in English. 
+   <h4> 𒈾 or 𒀀 • (na) DP that cross-references the dative</h4>
+   <h4> 𒁕 • (da) DP comitative, indicates group action, as in ‘with’</h4>
+   <h4> 𒋫 • (ta) DP ablative, indicates separation</h4>
+   <h4> 𒋫 • (ta) DP ablative, indicates separation</h4>
+   <h4>𒂠 • (še) DP terminative, indicates goal </h4>
+  <h4>𒉌 • (ni) DP locative, indicates where something is happening</h4>
+  <h4> 𒂊 • (ni) DP, indicates motion toward something </h4>
+</td>
  </tr>
 </table>
 

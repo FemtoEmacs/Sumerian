@@ -18,7 +18,7 @@
  </tr>
  <tr>
   <td colspan="3">
-  -------------------------------------------------</br>
+  ------------------------------------------------------</br>
   Eval: (cn an en lil2) </br>
   [enlil
   </td>
@@ -26,6 +26,11 @@
  <tr>
   <td colspan="3">
   <i>For Enlil,</i>
+  </td>
+ </tr>
+ <tr>• (kurum6)
+  <td colspan="3">
+  <h4>𒀭𒂗𒆤 • (den-lil2) Enlil, the king of the gods</h4>
   </td>
  </tr>
 </table>
@@ -47,7 +52,7 @@
  </tr>
  <tr>
   <td colspan="4">
-  -------------------------------------------------</br>
+  ------------------------------------------------------</br>
   Eval: (cn lugal kur kur ra)</br>
   lugal.kur.kur.a
   </td>
@@ -55,6 +60,11 @@
  <tr>
   <td colspan="4">
   <i>King of all the lands,</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="4">
+  <h4>𒆳 • (kur) mountain,land, country</h4>
   </td>
  </tr>
 </table>
@@ -74,7 +84,7 @@
  </tr>
  <tr>
   <td colspan="3">
-  -------------------------------------------------</br>
+  ------------------------------------------------------</br>
   Eval: (cn lugal a ni)</br>
   lugal.ani].(r)
   </td>
@@ -96,7 +106,7 @@
  </tr>
  <tr>
   <td colspan="1">
-  -------------------------------------------------</br>
+  ------------------------------------------------------</br>
   Eval: (cn ur-nammu)</br>
   [ur.nammu
   </td>
@@ -123,7 +133,7 @@
  </tr>
  <tr>
   <td colspan="3">
-  -------------------------------------------------</br>
+  ------------------------------------------------------</br>
   Eval: (cn lugal urim ma) </br>
   lugal.urim5.a
   </td>
@@ -154,7 +164,7 @@
  </tr>
  <tr>
   <td colspan="5">
-  -------------------------------------------------</br>
+  ------------------------------------------------------</br>
   Eval: (cn lugal ki-en-gi ki uri ke4)</br>
   lugal.kiengi.kiuri.k].e
   </td>
@@ -180,7 +190,7 @@
  </tr>
  <tr>
   <td colspan="3">
-  -------------------------------------------------</br>
+  ------------------------------------------------------</br>
   Eval: (cn e2 a ni)</br>
   e2.ani.{}
   </td>
@@ -206,7 +216,7 @@
  </tr>
  <tr>
   <td colspan="3">
-  -------------------------------------------------</br>
+  ------------------------------------------------------</br>
   Eval: (cn mu na du3)</br>
   mu.na.(n.)du3
   </td>
@@ -234,7 +244,7 @@
  </tr>
  <tr>
   <td colspan="4">
-  -------------------------------------------------</br>
+  ------------------------------------------------------</br>
   Eval: (cn id2 en erin2 nun)</br>
   id2 Enerinnun
   </td>
@@ -242,6 +252,11 @@
  <tr>
   <td colspan="4">
   <i>The Enerinnum canal, </i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="4">
+  <h4>𒀀𒇉 • (id2) river, watercourse, canal</h4>
   </td>
  </tr>
 </table>
@@ -262,7 +277,7 @@
  </tr>
  <tr>
   <td colspan="4">
-  -------------------------------------------------</br>
+  ------------------------------------------------------</br>
   Eval: (cn id2 nidba ka ni)</br>
   id2.nidba.k.ani]
   </td>
@@ -272,7 +287,14 @@
   <i>his canal of food offerings,</i>
   </td>
  </tr>
+ <tr>
+  <td colspan="4">
+  <h4>𒉻 • (kurum6) food ration</h4>
+  <h4>𒉻𒀭𒈹𒅗 • (kurum6 inanna.k) food of Inanna</h4>
+  </td>
+ </tr>
 </table>
+
 
 <h2>𒈬𒈾𒁀𒀠</h2>
 <table>
@@ -290,7 +312,7 @@
  </tr>
  <tr>
   <td colspan="4">
-  -------------------------------------------------</br>
+  ------------------------------------------------------</br>
   Eval: (cn mu na ba al) </br>
   mu.na.(n.)ba-al
   </td>
@@ -298,6 +320,11 @@
  <tr>
   <td colspan="4">
   <i>he, the king, dredged.</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="4">
+  <h4>𒁀𒀠 • (ba-al) to excavate, to dig </h4>
   </td>
  </tr>
 </table>

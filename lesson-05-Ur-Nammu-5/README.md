@@ -33,6 +33,13 @@
   <i>For An, the king of the gods,</i>
   </td>
  </tr>
+ <tr>
+  <td colspan="5">
+  <h4>𒀭 • (an) sky, the sky god Ān</h4>
+  <h4>𒀭 • (dig̃ir) deity, god/goddess</h4>
+  <h4>𒀭𒊑𒉈 • (dig̃ir-rene) gods</h4>
+  </td>
+ </tr>
 </table>
 
 <p>
@@ -144,6 +151,13 @@ the final consonant of the previous word,
   <i>a magnificent garden</i>
   </td>
  </tr>
+ <tr>
+  <td colspan="3">
+  <h4>𒄑 • (g̃eš, g̃iš) tree </h4>
+  <h4>𒊬 • (kiri6) orchard, garden plot</h4>
+  <h4>𒈤 • (maḫ) to be lofty, magnificent </h4>
+  </td>
+ </tr>
 </table>
 
 <h2>𒈬𒈾𒁺</h2>
@@ -168,6 +182,11 @@ the final consonant of the previous word,
  <tr>
   <td colspan="3">
   <i>(the king) planted.</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="3">
+  <h4>𒁺 • (gub) pl. • 𒁻 (sug₂) to erect, set up</h4>
   </td>
  </tr>
 </table>
@@ -196,6 +215,12 @@ the final consonant of the previous word,
  <tr>
   <td colspan="4">
   <i>A dais in purity</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="4">
+  <h4>𒁈 • (barag) dais, throne</h4>
+  <h4>𒂖 • (sikil) to be pure, clean</h4>
   </td>
  </tr>
 </table>

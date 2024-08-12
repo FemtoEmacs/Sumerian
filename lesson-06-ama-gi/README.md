@@ -27,14 +27,18 @@ I want to invite you to help me with the translation. You can request a pull if 
  </tr>
  <tr>
   <td colspan="5">
-  ---------------------------------------------------------------</br>
-  Eval: (cn an lugal e2 mush3 ra) </br>
-  
+  -----------------------------------------------------------------------</br>
+  Eval: (cn an lugal e2 mush3 ra)
   </td>
  </tr>
  <tr>
   <td colspan="5">
-  <i>For Lugalemush (Innana's husband),</i>
+  <i>For Lugalemush,</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="5">
+  <h4>𒀭𒈗𒂍𒈹 • (lugal-e-mush) Lugalemush, Inanna's husband</h4>
   </td>
  </tr>
 </table>
@@ -58,14 +62,19 @@ I want to invite you to help me with the translation. You can request a pull if 
  </tr>
  <tr>
   <td colspan="4">
-  ---------------------------------------------------------------</br>
-  Eval: (cn en-te-me-na ensi2 lagash ki)  </br>
-  
+  -----------------------------------------------------------------------</br>
+  Eval: (cn en-te-me-na ensi2 lagash ki)  
   </td>
  </tr>
  <tr>
   <td colspan="4">
   <i>Entemena, governor of Lagash,</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="4">
+   <h4>𒉺𒋼𒋛 • (ensi2) ruler, governor, farmer</h4>
+   <h4>𒉢𒁓𒆷𒆠 • (lagaški) Lagash (Sumerian city-state)</h4>
   </td>
  </tr>
 </table>
@@ -86,14 +95,21 @@ I want to invite you to help me with the translation. You can request a pull if 
  </tr>
  <tr>
   <td colspan="3">
-  ---------------------------------------------------------------</br>
-  Eval: (cn sha3 pad3 nanshe) </br>
-  
+   -----------------------------------------------------------------------</br>
+  Eval: (cn sha3 pad3 nanshe)
   </td>
  </tr>
  <tr>
   <td colspan="3">
   <i>the chosen of Nanshe's heart,</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="3">
+   <h4>𒊮 • (ša3) heart, interior, middle</h4>
+   <h4>𒊮 𒈬𒁀𒅗 ― šag₄ mu-ba-ka ― in the middle of that year</h4>
+   <h4>𒅆𒊒 • (pad3) to find, to choose</h4>
+   <h4>𒀭𒀏 • (Nanše) the goddess Nanshe</h4>
   </td>
  </tr>
 </table>
@@ -115,14 +131,19 @@ I want to invite you to help me with the translation. You can request a pull if 
  </tr>
  <tr>
   <td colspan="4">
-  ---------------------------------------------------------------</br>
-  Eval: (cn ensi2 gal an ningirsu)  </br>
-  
+   -----------------------------------------------------------------------</br>
+  Eval: (cn ensi2 gal an ningirsu)
   </td>
  </tr>
  <tr>
   <td colspan="4">
   <i>the general governor of Ningirsu,</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="4">
+  <h4>𒃲 • (gal), pl. 𒃲𒃲 (gal-gal) big, large, great</h4>
+   <h4>𒀭𒎏𒄈𒋢 • (dnin-g̃ir2-su) Ningirsu, god of Lagaš</h4>
   </td>
  </tr>
 </table>
@@ -142,14 +163,19 @@ I want to invite you to help me with the translation. You can request a pull if 
  </tr>
  <tr>
   <td colspan="2">
-  ---------------------------------------------------------------</br>
-  Eval: (cn dumu en-an-na-tum2)\  </br>
-  
+  -----------------------------------------------------------------------</br>
+  Eval: (cn dumu en-an-na-tum2) 
   </td>
  </tr>
  <tr>
   <td colspan="2">
   <i>the son of Enannatum,</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2">
+  <h4>𒌉 • (dumu) child, son, daughter, citizen</h4>
+  <h4>𒂗𒀭𒈾𒁺 (EN.AN.NA-tum2) E-anna-tum I of Lagash</h4>
   </td>
  </tr>
 </table>
@@ -164,22 +190,26 @@ I want to invite you to help me with the translation. You can request a pull if 
   <th><h3>𒆤</h3></th>
  </tr>
  <tr>
-  <td>an</td>
-  <td>lugal</td>
-   <td>e2</td>
-    <td>mush3</td>
-   <td>ra</td>
+  <td>ensi2</td>
+  <td>lagash</td>
+   <td>ki</td>
+    <td>ka</td>
+   <td>ke4</td>
  </tr>
  <tr>
   <td colspan="5">
-  ---------------------------------------------------------------</br>
-  Eval: (cn ensi2 lagash ki ka ke4) </br>
-  
+  -----------------------------------------------------------------------</br>
+  Eval: (cn ensi2 lagash ki ka ke4)
   </td>
  </tr>
  <tr>
   <td colspan="5">
-  <i>the governor of Lagash (mark of ergative),</i>
+  <i>the governor of Lagash,</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="5">
+  <h4>𒆤 (ke4) genitive contracted with ergative</h4>
   </td>
  </tr>
 </table>
@@ -208,14 +238,18 @@ I want to invite you to help me with the translation. You can request a pull if 
  </tr>
  <tr>
   <td colspan="8">
-  ---------------------------------------------------------------</br>
-  Eval: (cn an ningirsu ra esh3 dug-ru mu na du3) </br>
-  
+  -----------------------------------------------------------------------</br>
+  Eval: (cn an ningirsu ra esh3 dug-ru mu na du3)
   </td>
  </tr>
  <tr>
   <td colspan="8">
   <i>he built the shrine of Dugru for Ningirsu.</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="8">
+  <h4>𒀊 • (eš3) shrine, sanctuary </h4>
   </td>
  </tr>
 </table>
@@ -243,15 +277,21 @@ I want to invite you to help me with the translation. You can request a pull if 
  </tr>
  <tr>
   <td colspan="6">
-  ---------------------------------------------------------------</br>
-  Eval: (cn ama gi4 lagash ki e gar) </br>
-  
+  -----------------------------------------------------------------------</br>
+  Eval: (cn ama gi4 lagash ki e gar)
   </td>
  </tr>
  <tr>
   <td colspan="6">
   <i>A remission of the obligations {ama-gi4}</br>
     of Lagash he instituted.</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="6">
+  <h4>𒂼𒄄 • (ama-gi4) freedom from debt or bondage</h4>
+  <h4>𒃻 • (g̃ar), marû 𒂷𒂷 (g̃a2-g̃a2) to establish, to institute</h4>
+   <h4>𒂊- • (e) verbal affix, directive: into Lagash</h4>
   </td>
  </tr>
 </table>
@@ -281,14 +321,21 @@ idea of "to institute."
  </tr>
  <tr>
   <td colspan="5">
-  ---------------------------------------------------------------</br>
-  Eval: (cn ama dumu mu ni gi4) </br>
-  
+  -----------------------------------------------------------------------</br>
+  Eval: (cn ama dumu mu ni gi4)
   </td>
  </tr>
  <tr>
   <td colspan="5">
   <i>He returned the mother to her child,</i>
+  </td>
+ </tr>
+  <tr>
+  <td colspan="5">
+  <h4>𒂼 • (ama) mother</h4>
+  <h4>𒄄 • (gi4) to send back, to send over</h4>
+  <h4>𒉌 • (ni) verbal affix, locative, to the place </h4>
+  <h4>𒈬 • (mu) verbal affix, ventive, here </h4>
   </td>
  </tr>
 </table>
@@ -312,9 +359,8 @@ idea of "to institute."
  </tr>
  <tr>
   <td colspan="5">
-  ---------------------------------------------------------------</br>
-  Eval: (cn dumu ama mu ni  gi4) </br>
-  
+   -----------------------------------------------------------------------</br>
+  Eval: (cn dumu ama mu ni  gi4)
   </td>
  </tr>
  <tr>

@@ -13,6 +13,71 @@
 7- [{NAM #abstract noun}.TIL3.ANI].{ŠE3 #goal} -- for the sake of his life,\
 8- A.MU.NA.RU -- dedicated (this vessel).
 
+## Verbal chain
+In a sentence, a Sumerian verb appears as a chain of affixes
+in a particular order:
+
+<table>
+<tr>
+ <td>Modal Prefix (MP)</td>
+ <td>Negative<h4>𒉡</h4></td>
+ <td>Coortative<h4>𒂵</h4></td>
+ <td colspan="3">Desiderative<h4>𒄩 or 𒃶</h4></td>
+</tr>
+<tr>
+ <td>Conjugation Prefix (CP)</td>
+ <td>Finite Marker <h4>𒉌</h4> i3</td>
+ <td>Coordinator </br> Prefix <h4>𒅔𒂵</h4> -nga-</td>
+ <td>Ventive </br> Prefix <h4>𒈬</h4>mu</td>
+ <td colspan="2">Middle Voice </br>Prefix<h4> 𒁀</h4>ba</td>
+</tr>
+<tr>
+ <td>Dimensional Infix</td>
+ <td>Dative: -na-<h4>𒈾</h4></td> 
+ <td>Locative: -ni- <h4>𒉌</h4></td>
+ <td colspan="3">Directive: -e- <h4>𒂊</h4></td>
+</tr>
+<tr>
+ <td>Ergative Infix</td>
+ <td>i-du<h4>𒉌𒆕</h4>I built</td>
+ <td>e-du<h4>𒂊𒆕</h4>thou built</td>
+ <td>in-du<h4>𒅔𒆕</h4>s/he built</td>
+ <td>in-du-uš<h4>𒅔𒆕𒍑</h4>you built</td>
+ <td>ib-du<h4>𒌈𒆕</h4>they built</td>
+</tr>
+<tr>
+ <td colspan="6">Verbal Stem</td> 
+</tr>
+</table>
+
+<h3>Example: 𒀭𒎏𒃲𒊏𒈗𒂊𒌷𒀀𒂍𒉌𒈾𒉌𒅔𒆕</h3>
+<table>
+ <tr>
+  <th>𒀭𒎏𒃲𒊏</th>
+  <th>𒈗𒂊</th>
+  <th>𒌷𒀀</th>
+  <th>𒂍</th>
+  <th>𒉌</th>
+  <th>𒈾 • 𒉌 • 𒅔𒆕</th>
+ </tr>
+ <tr>
+  <td>ningal-ra</td>
+  <td>lugal.e</td>
+  <td>iri.a</td>
+  <td>e2</td>
+  <td>i3</td>
+  <td>for her • there • he built</td>
+ </tr>
+ <tr>
+  <td>for ningal </br>dat.</td>
+  <td>the king</br>erg.</td>
+  <td>in the city</br> loc.</td></td>
+  <td>a temple</br>obj.</td>
+  <td>finite</td>
+  <td>na • ni • in-du3</td>
+ </tr>
+</table>
+
 ## Annotations and scholia
 
 <h1>𒀭𒎏𒃲</h1>
@@ -25,7 +90,7 @@
   <td>an</td>
   <td>ningal</td>
  </tr>
- <tr>-------------------------------------------------</br>
+ <tr>
   <td colspan="2">
   -------------------------------------------------------</br>
   Eval: (cn an ningal)</br>

@@ -103,10 +103,6 @@ details of grammar and vocabulary the way we have been doing now.
 ![image](https://github.com/user-attachments/assets/b9428720-a765-44d6-b723-6a4e45330314)
 
 
-```;; (cn e2 an-na-tum2 e)               𒂍𒀭𒈾𒁺𒂊```
-
-*Eannatum*
-
 <h2>𒂍𒀭𒈾𒁺𒂊 </br>𒉏𒄯𒊕𒅆𒂍𒂵</br>𒂇𒃸𒁉𒋧</h2>
 <table>
   <tr>

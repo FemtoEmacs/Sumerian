@@ -134,8 +134,10 @@ details of grammar and vocabulary the way we have been doing now.
   </tr>
   <tr>
     <td colspan="6">
-    Elam, the awesome mountain range,</br>
-    he defeated this city.
+    Eannatum defeated Elam, an awesome mountain range.</br>
+    Lit. <i>Eannatum</i></br>
+     <i>Elam, an awesome mountain range,</i></br>
+     <i>he defeated this city.</i>
     </td>
   </tr>
   <tr>

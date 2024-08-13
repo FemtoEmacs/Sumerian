@@ -123,6 +123,7 @@ details of grammar and vocabulary the way we have been doing now.
   </tr>
   <tr>
     <td colspan="6">
+      ---------------------------------------------------------------------------------------------</br>
       (cn e2 an-na-tum2 e) </br>
       (cn elam hursag ur6 ga)</br>
       (cn gin2 she3 be2 shig10) 
@@ -149,7 +150,7 @@ details of grammar and vocabulary the way we have been doing now.
     <th><h3>𒅖𒇯𒋺</h3></th>
     <th><h3>𒁉</h3></th>
     <th><h3>𒈬𒁾</h3></th>
-  </tr>
+  </tr> 
   <tr>
     <td>iš-du6-tak4</td>
     <td>bi</td>
@@ -157,14 +158,14 @@ details of grammar and vocabulary the way we have been doing now.
   </tr>
   <tr>
     <td colspan="3">
+      ---------------------------------------------------------------------------------------------</br>
        (cn ish du6 kid2 bi)  </br>
       (cn mu dub)
     </td>
   </tr>
   <tr>
     <td colspan="3">
-    its burial mounds,</br>
-    he (Eannatum) heaped.
+    its burial mounds,</br> he (Eannatum) heaped.
     </td>
   </tr>
   <tr>

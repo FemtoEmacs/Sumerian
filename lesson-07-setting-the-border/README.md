@@ -32,6 +32,12 @@
   <i>Enlil, the king of all the lands,</i>
   </td>
  </tr>
+ <tr>
+  <td colspan="5">
+  <h4>𒆳 • (kur) mountain, land, country</h4>
+   <h4>𒆳𒆳 • (kur-kur) all the lands</h4>
+  </td>
+ </tr>
 </table>
 
 The genitive after a consonant is marked by A(K), where
@@ -42,7 +48,7 @@ by RA, where the R is contamination from the previous consonant.
 <h2>𒀊𒁀𒀭𒀭𒌷𒉈𒆤</h2>
 <table>
  <tr>
-  <th><h3𒀊𒁀</h3></th>
+  <th><h3>𒀊𒁀</h3></th>
   <th><h3>𒀭𒀭𒌷𒉈</h3></th>
   <th><h3>𒆤</h3></th>
  </tr>
@@ -60,6 +66,12 @@ by RA, where the R is contamination from the previous consonant.
  <tr>
   <td colspan="3">
   <i>the father of the gods,</i>
+  </td>
+ </tr>
+   <tr>
+  <td colspan="3">
+  <h4>𒀭𒀭𒌷𒉈 •  (digirrene) gods </h4>
+   <h4>𒀊𒁀 • (ab-ba) father, old man, elder, wise man</h4>
   </td>
  </tr>
 </table>
@@ -93,8 +105,8 @@ from the previous consonant.
  </tr>
  <tr>
   <td colspan="3">
-  <h4>𒅗 (INIM)  command.</h4>
-  <h4>;; 𒄀 (GIN6)  to be firm.</h4>
+  <h4>𒅗 • (INIM)  command.</h4>
+  <h4>𒄀 • (GIN6)  to be firm.</h4>
   </td>
  </tr>
 </table>
@@ -137,7 +149,10 @@ and can be translated by *with* or *by*.
  </tr>
  <tr>
   <td colspan="4">
-    <h4>𒋩 (SUR) means fixed.</h4>
+    <h4>𒋩 • (sur) to fix</h4>
+    <h4>𒂊 • (e) directive, towards that city</h4>
+   <h4>𒉋 • (gibil) to be new, to renovate </h4>
+   <h4>𒋩𒉋 • (sur) replaced, fixed again</h4>
   </td>
  </tr>
 </table>
@@ -153,11 +168,11 @@ and can be translated by *with* or *by*.
   <th><h3>𒆤</h3></th>
  </tr>
  <tr>
-  <td></td>
-  <td></td>
-   <td></td>
-    <td></td>
-   <td></td>
+  <td>me-silin</td>
+  <td>lugal</td>
+   <td>kishi</td>
+    <td>ki</td>
+   <td>ke4</td>
  </tr>
  <tr>
   <td colspan="5">
@@ -181,10 +196,10 @@ and can be translated by *with* or *by*.
   <th><h3>𒈾</h3></th>
     <th><h3>𒋫</h3></th>
  <tr>
-  <td></td>
-  <td></td>
-   <td></td>
-    <td></td>
+  <td>inim</td>
+  <td>ishtaran</td>
+   <td>na</td>
+    <td>ta</td>
  </tr>
  <tr>
   <td colspan="4">
@@ -195,6 +210,23 @@ and can be translated by *with* or *by*.
  <tr>
   <td colspan="4">
   <i>commanded by Ištaran,</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="4">
+  <h4>𒋫 • (ta) from, out of, because</h4>
+   <h4>𒀉 𒀭𒀏𒋫</h4>
+   (a2 dnanše-ta)</br>
+   thanks to the strength of Nanshe
+   <h4>𒌓 𒌓𒁺𒋫 𒌓 𒋗𒍑 </h4>
+   (u4 e3-ta u4 šu-uš) </br>
+   from sunrise to sunset
+   <h4>𒄑𒆵𒆠𒋫 𒂗𒆤𒆠𒂠</h4>
+   (ummaki-ta nibruki-še3) </br> 
+   from Umma to Nippur
+   <h4>𒁹 𒇻𒊺 𒈗𒂊 𒄈𒋫 𒅔𒄤 </h4>
+   (diš udu niga lugal-e g̃ir2-ta in-gaz)</br>
+   the king killed one fattened sheep with a dagger
   </td>
  </tr>
 </table>
@@ -235,11 +267,14 @@ and can be translated by *with* or *by*.
  </tr>
  <tr>
   <td colspan="7">
-   <h4>𒂠 (ESH) -- regarding</h4> 
-   <h4>KI-BA -- there</h4>
-   <h4>NA -- stone, border landmark</h4>
-   <h4>GANA2 -- field</h4>
-   <h4>GANA2 BE2 RA -- this field</h4>
+   <h4>𒂠 • (ESH)  regarding</h4> 
+   <h4>𒆠𒁀 • (ki-ba) on this place</h4>
+   <h4>𒁉 • (bi, be2) this </h4>
+   <h4>𒈾 • (na) stone, border landmark</h4>
+   <h4>𒃷 • (gana2) field, cultivated land, area</h4>
+   <h4>𒃷𒁉𒊏 • (gana2 be2 ra) this field</h4>
+   <h4>𒉈 alternative to 𒉋 • (gibil) to renovate</h4>
+   <h4>𒉈𒆕 • (gibil du3) rebuilt </h4>
   </td>
  </tr>
 </table>

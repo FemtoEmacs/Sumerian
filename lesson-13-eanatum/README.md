@@ -141,22 +141,11 @@ details of grammar and vocabulary the way we have been doing now.
   <tr>
     <td colspan="6">
     <h4>𒂇𒃸𒋧	(aga-kar2 sig10) to defeat</h4>
-    <h4>𒅖𒇯𒋺	(iš-du6-tak4) burial mound</h4>
-    <h4>𒁉 • (bi, be₂ /be/) its</h4>
-    <h4>𒁾 (dub) to heap up</h4>
-    he piled up its burial mounds 
     </td>
   </tr>
 </table>
 
-*took revenge of Elam, the awesome mountain range,*                            
-
-```;; (cn ish du6 kid2 bi)               ```
-
-*and left behind mounds of dust.*                                         
-
-```;; (cn mu dub)                        ```
-
+<h2>𒅖𒇯𒋺𒁉</br>𒈬𒁾</h2>
 <table>
   <tr>
     <th><h3>𒅖𒇯𒋺</h3></th>
@@ -176,8 +165,8 @@ details of grammar and vocabulary the way we have been doing now.
   </tr>
   <tr>
     <td colspan="3">
-    Elam, the awesome mountain range,</br>
-    he defeated this city.
+    its burial mounds,</br>
+    he (Eannatum) heaped.
     </td>
   </tr>
   <tr>

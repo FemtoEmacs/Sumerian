@@ -100,54 +100,92 @@ details of grammar and vocabulary the way we have been doing now.
 
 ## Column III
 
-![image](https://github.com/user-attachments/assets/ae3b94d7-6294-47da-a607-e8a9877beea3)
+![image](https://github.com/user-attachments/assets/b9428720-a765-44d6-b723-6a4e45330314)
+
 
 ```;; (cn e2 an-na-tum2 e)               𒂍𒀭𒈾𒁺𒂊```
 
 *Eannatum*
 
-```;; (cn elam hursag ur6 ga)            𒉏𒄯𒊕𒅆𒂍𒂵```
-
-```;; (cn gin2 she3 be2 shig10)          𒂆𒂠𒁉𒋧```
+<h2>𒂍𒀭𒈾𒁺𒂊 </br>𒉏𒄯𒊕𒅆𒂍𒂵</br>𒂇𒃸𒁉𒋧</h2>
+<table>
+  <tr>
+    <th><h3>𒂍𒀭𒈾𒁺𒂊</h3></th>
+    <th><h3>𒉏</h3></th>
+    <th><h3>𒄯𒊕</h3></th>
+    <th><h3>𒅆𒂍</h3></th>
+    <th><h3>𒂵</h3></th>
+    <th><h3>𒂆𒂠𒁉𒋧</h3></th>
+  </tr>
+  <tr>
+    <td>eannatum.e</td>
+    <td>elam</td>
+    <td>hursag</td>
+    <td>ur6</td>
+    <td>ga</td>
+    <td>aga-kar2-be2-sig10</td>
+  </tr>
+  <tr>
+    <td colspan="6">
+      (cn e2 an-na-tum2 e) </br>
+      (cn elam hursag ur6 ga)</br>
+      (cn gin2 she3 be2 shig10) 
+    </td>
+  </tr>
+  <tr>
+    <td colspan="6">
+    Elam, the awesome mountain range,</br>
+    he defeated this city.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="6">
+    <h4>𒂇𒃸𒋧	(aga-kar2 sig10) to defeat</h4>
+    <h4>𒅖𒇯𒋺	(iš-du6-tak4) burial mound</h4>
+    <h4>𒁉 • (bi, be₂ /be/) its</h4>
+    <h4>𒁾 (dub) to heap up</h4>
+    he piled up its burial mounds 
+    </td>
+  </tr>
+</table>
 
 *took revenge of Elam, the awesome mountain range,*                            
 
-```;; (cn ish du6 kid2 bi)               𒅖𒇯𒋺𒁉```
+```;; (cn ish du6 kid2 bi)               ```
 
 *and left behind mounds of dust.*                                         
 
-```;; (cn mu dub)                        𒈬𒁾```
+```;; (cn mu dub)                        ```
 
-*As for the seal*                
-
-```;; (cn shu uru ki ka)                 𒋗𒌷𒆠𒅗```          
-
-*of Uru,*
-
-```;; (cn ensi2 bi)                      𒉺𒋼𒋛𒁉```
-
-```;; (cn sag ba mu gin6)                𒊕𒁀𒈬𒄀```
-
-*though by its ruler it had been placed at the head,*
-
-```;; (cn gin2 she3 be2 shig10)          𒂆𒂠𒁉𒋧```
-
-*he took revenge on it* and left behind mounds of dust.
-
-```;; (cn ish du6 kid2 bi)               𒅖𒇯𒋺𒁉```
-
-*and left behind mounds of dust.*
-
-```;; (cn mu dub)                        𒈬𒁾```
-
-*As for the seal of Umma,*
-```;; (cn umma)                          𒄑𒆵𒆠```
-
-```;; (cn gin2 she3 be2 shig10)          𒂆𒂠𒁉𒋧```
-
-*he took revenge on it* and left behind mounds of dust.
-
-```;; (cn ish du6 kid2 bi shar2 shar2)   𒅖𒇯𒋺𒁉𒊹```
-
-*and left behind mounds of dust.*
-
+<table>
+  <tr>
+    <th><h3>𒅖𒇯𒋺</h3></th>
+    <th><h3>𒁉</h3></th>
+    <th><h3>𒈬𒁾</h3></th>
+  </tr>
+  <tr>
+    <td>iš-du6-tak4</td>
+    <td>bi</td>
+    <td>mu-dub</td>
+  </tr>
+  <tr>
+    <td colspan="3">
+       (cn ish du6 kid2 bi)  </br>
+      (cn mu dub)
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3">
+    Elam, the awesome mountain range,</br>
+    he defeated this city.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3">
+    <h4>𒅖𒇯𒋺	(iš-du6-tak4) burial mound</h4>
+    <h4>𒁉 • (bi, be₂ /be/) its</h4>
+    <h4>𒁾 (dub) to heap up</h4>
+    he piled up its burial mounds 
+    </td>
+  </tr>
+</table>

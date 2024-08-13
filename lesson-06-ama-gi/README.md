@@ -2,7 +2,7 @@
 Entemena's cone about ama-gi is the most influential Sumerian text.
 Although it is badly damaged, let's try to read it.
 
-![image](https://github.com/user-attachments/assets/673252bc-eda7-4556-9fc8-a7f9eb25fdc9)
+![image](https://github.com/user-attachments/assets/5ec05590-dd58-4af8-89a4-9b65dce985de)
 
 
 ## Annotations

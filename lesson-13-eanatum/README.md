@@ -426,7 +426,7 @@ details of grammar and vocabulary the way we have been doing now.
   </tr>
   <tr>
     <td colspan="4">
-    <h4>𒌉 • (dumu) child, son, daughter</h4>
+    <h4>𒉺𒋼𒋛 • (ensi2) governor</h4>
     </td>
   </tr>
 </table>
@@ -515,13 +515,43 @@ details of grammar and vocabulary the way we have been doing now.
 </table>
 
 <h2>𒀭𒀏</br>𒀏𒆠</br>𒈬𒈾𒆕</h2>
-```;; (cn nanshe)                        ```
+<table>
+  <tr>
+    <th><h3>𒀭𒀏</h3></th>
+    <th><h3>𒀏</h3></th>
+    <th><h3>𒆠</h3></th>
+    <th><h3>𒈬</h3></th>
+    <th><h3>𒈾</h3></th>
+    <th><h3>𒆕</h3></th>
+  </tr>
+  <tr>
+    <td>nanshe</td>
+    <td>nina</td>
+    <td>ki</td>
+    <td>mu</td>
+    <td>na</td>
+    <td>du3</td>
+  </tr>
+  <tr>
+    <td colspan="6">
+      ---------------------------------------------------------------------------------------------</br>
+      (cn nanshe)    </br>
+      (cn nina ki) </br>
+       (cn mu na du3) 
+    </td>
+  </tr>
+  <tr>
+    <td colspan="6">
+    <i>For Nanshe, he built the city of Nina.</i></br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="6">
+    <h4>𒀏𒆠 • (nig̃in6) the city of Nig̃in or Nina</h4>
+    </td>
+  </tr>
+</table>
 
-```;; (cn nina ki)                       ```
-
-```;; (cn mu na du3)                     ```
-
-*For Nanshe, he built the city of Nina.*
 
 ## Column III
 

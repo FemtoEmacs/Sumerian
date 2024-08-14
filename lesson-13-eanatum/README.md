@@ -8,93 +8,215 @@ details of grammar and vocabulary the way we have been doing now.
 ![image](https://github.com/user-attachments/assets/f604eb6c-95d6-44ec-95e4-7a686845d456)
 
 
-```;; (cn an ningirsu ra)                𒀭𒎏𒄈𒋢𒊏```
+## Annotations
+<h2>𒀭𒎏𒄈𒋢𒊏</h2>
+<table>
+  <tr>
+    <th><h3>𒀭</h3></th>
+    <th><h3>𒎏𒄈𒋢</h3></th>
+    <th><h3>𒊏</h3></th>
+  </tr>
+  <tr>
+    <td>det. of god</td>
+    <td>Ningirsu</td>
+    <td>ra</td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      ---------------------------------------------------------------------------------------------</br>
+      (cn an ningirsu ra)
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3">
+    For Ningirsu</br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3">
+    <h4>𒊏 (ra) marker of dative, for Ningirsu</h4>
+    </td>
+  </tr>
+</table>
 
-*For Ningirsu,*
+<h2>𒂍𒀭𒈾𒁺 </br>𒉺𒋼𒋛 </br>𒉢𒁓𒆷𒆠</h2>
+<table>
+  <tr>
+    <th><h3>𒂍𒀭𒈾𒁺</h3></th>
+    <th><h3>𒉺𒋼𒋛</h3></th>
+    <th><h3>𒉢𒁓𒆷𒆠</h3></th>
+  </tr>
+  <tr>
+    <td>e2 an-na-tum2</td>
+    <td>ensi2</td>
+    <td>lagash ki</td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      ---------------------------------------------------------------------------------------------</br>
+      (cn e2 an-na-tum2) </br>
+      (cn ensi2) </br>
+       (cn lagash ki)
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3">
+    <i>Eannatum, (nominated) governor of Lagash by Enlil</i></br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3">
+    <h4>𒊏 (ra) marker of dative, for Ningirsu</h4>
+    </td>
+  </tr>
+</table>
 
-```;; (cn e2 an-na-tum2)                 𒂍𒀭𒈾𒁺```
+<h2>𒈬𒅆𒊒𒁕 </br>𒀭𒂗𒆤𒆤</h2>
+<table>
+  <tr>
+    <th><h3>𒈬</h3></th>
+    <th><h3>𒅆𒊒</h3></th>
+    <th><h3>𒁕</h3></th>
+    <th><h3>𒀭𒂗𒆤</h3></th>
+    <th><h3>𒆤</h3></th>
+  </tr>
+  <tr>
+    <td>mu</td>
+    <td>pad3</td>
+    <td>da</td>
+    <td>en-lil2</td>
+    <td>ke4</td>
+  </tr>
+  <tr>
+    <td colspan="5">
+      ---------------------------------------------------------------------------------------------</br>
+      (cn mu pad3 da) </br>
+      (cn en-lil2 ke4) 
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5">
+    <i>nominated governor of Lagash by Enlil,</i></br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5">
+    <h4>𒅆𒊒 • (pad₃ /pad/) to nominate, to choose, to find</h4>
+    </td>
+  </tr>
+</table>
 
-*Eannatum*
 
-```;; (cn ensi2)                         𒉺𒋼𒋛```
+<h2>𒀉𒋧𒈠 </br>𒀭𒎏𒄈𒋢𒅗𒆤</h2>
+<table>
+  <tr>
+    <th><h3>𒀉𒋧</h3></th>
+    <th><h3>𒈠</h3></th>
+    <th><h3>𒀭𒎏𒄈𒋢</h3></th>
+    <th><h3>𒅗</h3></th>
+    <th><h3>𒆤</h3></th>
+  </tr>
+  <tr>
+    <td>a2 shum2</td>
+    <td>ma</td>
+    <td>ningirsu</td>
+    <td>ka</td>
+    <td>ke4</td>
+  </tr>
+  <tr>
+    <td colspan="5">
+      ---------------------------------------------------------------------------------------------</br>
+      (cn a2 shum2 ma) </br>
+      (cn an ningirsu ka ke4)
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5">
+    <i>given strength by Ningirsu,</i></br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5">
+    <h4>𒀉 • (a2) strength, military force</h4>
+    <h4>𒋧 • (šum2 /šum/) to give</h4>
+    </td>
+  </tr>
+</table>
 
-```;; (cn lagash ki)                     𒉢𒁓𒆷𒆠```
+<h2>𒊮𒅆𒊒𒁕</br>𒀭𒀏𒆤</h2>
+```;; (cn sha3 pad3 da)                  ```
 
-```;; (cn mu pad3 da)                    𒈬𒅆𒊒𒁕```
-                                           
-```;; (cn en-lil2 ke4)                   𒀭𒂗𒆤𒆤```
-
-*nominated governor of Lagash by Engil,*
-
-```;; (cn a2 shum2 ma)                   𒀉𒋧𒈠```
-
-```;; (cn an ningirsu ka ke4)            𒀭𒎏𒄈𒋢𒅗𒆤```
-
-*given strength by Ningirsu,*
-
-```;; (cn sha3 pad3 da)                  𒊮𒅆𒊒𒁕```
-
-```;; (cn nanshe ke4)                    𒀭𒀏𒆤```
+```;; (cn nanshe ke4)                    ```
 
 *chosen by the heart of Nanshe,*
 
-```;; (cn ga zid gu7 a)                  𒂵𒍣𒅥𒀀```
+<h2>𒂵𒍣𒅥𒀀</br>𒀭𒎏𒄯𒊕𒅗𒆤</h2>
+```;; (cn ga zid gu7 a)                  ```
 
-```;; (cn ninhursag ka ke4)              𒀭𒎏𒄯𒊕𒅗𒆤```
+```;; (cn ninhursag ka ke4)              ```
 
 *fed good milk by Ninhursag,*
 
-```;; (cn geshtug2 shum2 ma)             𒄑𒌆𒉿𒋧𒈠```
+<h2>𒄑𒌆𒉿𒋧𒈠</br>𒀭𒂗𒆠𒅗𒆤</h2>
+```;; (cn geshtug2 shum2 ma)             ```
 
-```;; (cn enki ka ke4)                   𒀭𒂗𒆠𒅗𒆤```
+```;; (cn enki ka ke4)                   ```
 
 *given wisdom by Enki,*
 
-```;; (cn kiag2)                         𒆠𒉘```
+<h2>𒆠𒉘</br> 𒀭𒌉𒍣𒍪𒀊𒅗𒆤</h2>
+```;; (cn kiag2)                         ```
 
-```;; (cn dumu-zi-abzu ka ke4)           𒀭𒌉𒍣𒍪𒀊𒅗𒆤```
+```;; (cn dumu-zi-abzu ka ke4)          ```
 
 *loved by Dumuzi Abzu,*
 
-```;; (cn gishkin ti)                    𒅆𒁾𒋾```
+<h2>𒅆𒁾𒋾</br>𒀭𒉺𒊕𒅗𒆤</h2>
+```;; (cn gishkin ti)                    ```
 
-```;; (cn hendursag ka ke4)              𒀭𒉺𒊕𒅗𒆤```
+```;; (cn hendursag ka ke4)              ```
 
 *trusted by Hendursag,*
 
-```;; (cn gu5-li kiag2)                  𒆪𒇷𒆠𒉘```
+<h2>𒆪𒇷𒆠𒉘</br>𒀭𒈗𒍇𒅗𒆤</h2>
+```;; (cn gu5-li kiag2)                  ```
 
-```;; (cn lugaluru ka ke4)               𒀭𒈗𒍇𒅗𒆤```
+```;; (cn lugaluru ka ke4)               ```
 
 *beloved friend of Lugaruru,*
 
-```;; (cn dumu a kur gal)                𒌉𒀀𒆳𒃲```
+<h2>𒌉𒀀𒆳𒃲</h2>
+```;; (cn dumu a kur gal)                ```
 
 *son of Akurgal,*
 
-```;; (cn ensi2 lagash ki ke4)           𒉺𒋼𒋛𒉢𒁓𒆷𒆠𒆤```
+<h2>𒉺𒋼𒋛𒉢𒁓𒆷𒆠𒆤</h2>
+```;; (cn ensi2 lagash ki ke4)           ```
 
 *governor of Lagash,*
 
-```;; (cn ningirsu ra)                   𒎏𒄈𒋢𒊏```
+<h2>𒎏𒄈𒋢𒊏</br>𒄈𒋢𒆠</br>𒆠𒁉𒈬𒈾𒄄</h2>
+```;; (cn ningirsu ra)                   ```
 
-```;; (cn girsu)                         𒄈𒋢𒆠```
+```;; (cn girsu)                         ```
 
-```;; (cn ki be2 mu na gi4)              𒆠𒁉𒈬𒈾𒄄```
+```;; (cn ki be2 mu na gi4)              ```
 
 *for Ningirsu, he restored the city of Girsu.*
 
-```;; (cn bad3 uru ku3 ga)               𒂦𒌷𒆬𒂵```
+<h2>𒂦𒌷𒆬𒂵</br>𒈬𒈾𒆕</h2>
+```;; (cn bad3 uru ku3 ga)               ```
 
-```;; (cn mu na du3)                     𒈬𒈾𒆕```
+```;; (cn mu na du3)                     ```
 
 *He built the walls of the holy city.*
 
-```;; (cn nanshe)                        𒀭𒀏```
+<h2>𒀭𒀏</br>𒀏𒆠</br>𒈬𒈾𒆕</h2>
+```;; (cn nanshe)                        ```
 
-```;; (cn nina ki)                       𒀏𒆠```
+```;; (cn nina ki)                       ```
 
-```;; (cn mu na du3)                     𒈬𒈾𒆕```
+```;; (cn mu na du3)                     ```
 
 *For Nanshe, he built the city of Nina.*
 

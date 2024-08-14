@@ -158,6 +158,7 @@ it indicates the place where the action occurs.
       <h4>𒈗 • (lugal) king</h4>
       <h4>𒌒 • (ub) corner</h4>
       <h4>𒀭𒌒 • (an-ub) corner</h4>
+      <h4>𒀭𒌒𒁕 • (an-ub-da) Cosmology, corner of the universe</h4>
       <h4>𒐂 • (limmu2) Alternative form of 𒐉, four 4</h4>
       <h4>𒁀 • (ba) syllabic, ba </h4>
     </td>

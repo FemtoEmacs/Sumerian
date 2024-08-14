@@ -144,72 +144,375 @@ details of grammar and vocabulary the way we have been doing now.
 </table>
 
 <h2>𒊮𒅆𒊒𒁕</br>𒀭𒀏𒆤</h2>
-```;; (cn sha3 pad3 da)                  ```
-
-```;; (cn nanshe ke4)                    ```
-
-*chosen by the heart of Nanshe,*
+<table>
+  <tr>
+    <th><h3>𒊮</h3></th>
+    <th><h3>𒅆𒊒</h3></th>
+    <th><h3>𒁕</h3></th>
+    <th><h3>𒀭𒀏</h3></th>
+    <th><h3>𒆤</h3></th>
+  </tr>
+  <tr>
+    <td>sha3</td>
+    <td>pad3</td>
+    <td>da</td>
+    <td>nanshe</td>
+    <td>ke4</td>
+  </tr>
+  <tr>
+    <td colspan="5">
+      ---------------------------------------------------------------------------------------------</br>
+      (cn sha3 pad3 da)  </br>
+      (cn nanshe ke4)
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5">
+    <i>chosen by the heart of Nanshe,</i></br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5">
+    <h4>𒊮 • (ša3, šag4) heart</h4>
+    <h4>𒅆𒊒 • (pad3) to find, to nominate, to choose</h4>
+    </td>
+  </tr>
+</table>
 
 <h2>𒂵𒍣𒅥𒀀</br>𒀭𒎏𒄯𒊕𒅗𒆤</h2>
-```;; (cn ga zid gu7 a)                  ```
+<table>
+  <tr>
+    <th><h3>𒂵</h3></th>
+    <th><h3>𒍣</h3></th>
+    <th><h3>𒅥</h3></th>
+    <th><h3>𒀀</h3></th>
+    <th><h3>𒀭𒎏𒄯𒊕</h3></th>
+    <th><h3>𒅗</h3></th>
+    <th><h3>𒆤</h3></th>
+  </tr>
+  <tr>
+    <td>ga</td>
+    <td>zid</td>
+    <td>gu7</td>
+    <td>a</td>
+    <td>ninhursag</td>
+    <td>ka</td>
+    <td>ke4</td>
+  </tr>
+  <tr>
+    <td colspan="7">
+      ---------------------------------------------------------------------------------------------</br>
+       (cn ga zid gu7 a)   </br>
+      (cn ninhursag ka ke4) 
+    </td>
+  </tr>
+  <tr>
+    <td colspan="7">
+    <i>fed good milk by Ninhursag,</i></br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="7">
+    <h4>𒂵 • (ga) milk</h4>
+    <h4>𒍣 • (zid) to be true, to be good, fine</h4>
+    <h4>𒉡𒍣 •  (nuzid) It's not right.</h4>
+    <h4>𒅥 • (gu7) to eat, to consume</h4>
+    </td>
+  </tr>
+</table>
 
-```;; (cn ninhursag ka ke4)              ```
-
-*fed good milk by Ninhursag,*
 
 <h2>𒄑𒌆𒉿𒋧𒈠</br>𒀭𒂗𒆠𒅗𒆤</h2>
-```;; (cn geshtug2 shum2 ma)             ```
-
-```;; (cn enki ka ke4)                   ```
-
-*given wisdom by Enki,*
+<table>
+  <tr>
+    <th><h3>𒄑𒌆𒉿</h3></th>
+    <th><h3>𒋧</h3></th>
+    <th><h3>𒈠</h3></th>
+    <th><h3>𒀭𒂗𒆠</h3></th>
+    <th><h3>𒅗</h3></th>
+    <th><h3>𒆤</h3></th>
+  </tr>
+  <tr>
+    <td>geshtug2</td>
+    <td>shum2</td>
+    <td>ma</td>
+    <td>enki</td>
+    <td>ka</td>
+    <td>ke4</td>
+  </tr>
+  <tr>
+    <td colspan="6">
+      ---------------------------------------------------------------------------------------------</br>
+      (cn geshtug2 shum2 ma)    </br>
+      (cn enki ka ke4) 
+    </td>
+  </tr>
+  <tr>
+    <td colspan="6">
+    <i>given wisdom by Enki,</i></br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="6">
+    <h4>𒄑𒌆𒉿 • (g̃eštug2) Alternative form of 𒉿, intelligence </h4>
+    <h4>𒋧 • (šum2) to give</h4>
+    </td>
+  </tr>
+</table>
 
 <h2>𒆠𒉘</br> 𒀭𒌉𒍣𒍪𒀊𒅗𒆤</h2>
-```;; (cn kiag2)                         ```
-
-```;; (cn dumu-zi-abzu ka ke4)          ```
-
-*loved by Dumuzi Abzu,*
+<table>
+  <tr>
+    <th><h3>𒆠𒉘</h3></th>
+    <th><h3>𒀭𒌉𒍣𒍪𒀊</h3></th>
+    <th><h3>𒅗</h3></th>
+    <th><h3>𒆤</h3></th>
+  </tr>
+  <tr>
+    <td>kiag2</td>
+    <td>dumu-zi-abzu</td>
+    <td>ka</td>
+    <td>ke4</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      ---------------------------------------------------------------------------------------------</br>
+      (cn kiag2)    </br>
+       (cn dumu-zi-abzu ka ke4)
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+    <i>loved by Dumuzi Abzu,</i></br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+    <h4>𒆠⫽𒉘 • (ki ag̃2) to love</h4>
+    </td>
+  </tr>
+</table>
 
 <h2>𒅆𒁾𒋾</br>𒀭𒉺𒊕𒅗𒆤</h2>
-```;; (cn gishkin ti)                    ```
-
-```;; (cn hendursag ka ke4)              ```
-
-*trusted by Hendursag,*
+<table>
+  <tr>
+    <th><h3>𒅆𒁾𒋾</h3></th>
+    <th><h3>𒀭𒉺𒊕</h3></th>
+    <th><h3>𒅗</h3></th>
+    <th><h3>𒆤</h3></th>
+  </tr>
+  <tr>
+    <td>gishkin ti</td>
+    <td>hendursag</td>
+    <td>ka</td>
+    <td>ke4</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      ---------------------------------------------------------------------------------------------</br>
+    (cn gishkin ti)</br>
+    (cn hendursag ka ke4)
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+    <i>trusted by Hendursag,</i></br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+    <h4>𒅆𒁾𒋾 • (ngeshkimtil) to be trustworthy</h4>
+    There are several different words for the concept of “trust” in Sumerian.</br>
+    The word ngeshkimtil means “to trust, to aid, to be trustworthy” and</br>
+    it is written 𒅆𒁾𒋾 in cuneiform. 
+    </td>
+  </tr>
+</table>
 
 <h2>𒆪𒇷𒆠𒉘</br>𒀭𒈗𒍇𒅗𒆤</h2>
-```;; (cn gu5-li kiag2)                  ```
+<table>
+  <tr>
+    <th><h3>𒆪𒇷</h3></th>
+    <th><h3>𒆠𒉘</h3></th>
+    <th><h3>𒀭𒈗𒍇</h3></th>
+    <th><h3>𒅗</h3></th>
+    <th><h3>𒆤</h3></th>
+  </tr>
+  <tr>
+    <td>sha3</td>
+    <td>pad3</td>
+    <td>da</td>
+    <td>nanshe</td>
+    <td>ke4</td>
+  </tr>
+  <tr>
+    <td colspan="5">
+      ---------------------------------------------------------------------------------------------</br>
+      (cn gu5-li kiag2)    </br>
+       (cn lugaluru ka ke4)
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5">
+    <i>beloved friend of Lugaruru,</i></br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5">
+    <h4>𒆪𒇷 • (gu5-li)friend</h4>
+    <h4>𒆠⫽𒉘 • (ki ag̃2) to love</h4>
+    </td>
+  </tr>
+</table>
 
-```;; (cn lugaluru ka ke4)               ```
 
-*beloved friend of Lugaruru,*
 
 <h2>𒌉𒀀𒆳𒃲</h2>
-```;; (cn dumu a kur gal)                ```
-
-*son of Akurgal,*
+<table>
+  <tr>
+    <th><h3>𒌉</h3></th>
+    <th><h3>𒀀</h3></th>
+    <th><h3>𒆳</h3></th>
+    <th><h3>𒃲</h3></th>
+  </tr>
+  <tr>
+    <td>dumu</td>
+    <td>a</td>
+    <td>kur</td>
+    <td>gal</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      ---------------------------------------------------------------------------------------------</br>
+    (cn dumu a kur gal) 
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+    <i>son of Akurgal,</i></br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+    <h4>𒌉 • (dumu) child, son, daughter</h4>
+    </td>
+  </tr>
+</table>
 
 <h2>𒉺𒋼𒋛𒉢𒁓𒆷𒆠𒆤</h2>
-```;; (cn ensi2 lagash ki ke4)           ```
+<table>
+  <tr>
+    <th><h3>𒉺𒋼𒋛</h3></th>
+    <th><h3>𒉢𒁓𒆷</h3></th>
+    <th><h3>𒆠</h3></th>
+    <th><h3>𒆤</h3></th>
+  </tr>
+  <tr>
+    <td>ensi2</td>
+    <td>lagaš</td>
+    <td>ki</td>
+    <td>ke4</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      ---------------------------------------------------------------------------------------------</br>
+    (cn ensi2 lagash ki ke4)
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+    <i>governor of Lagash,</i></br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+    <h4>𒌉 • (dumu) child, son, daughter</h4>
+    </td>
+  </tr>
+</table>
 
-*governor of Lagash,*
+<h2>𒎏𒄈𒋢𒊏</br>𒄈𒋢𒆠</br>𒁉𒈬𒈾𒄄</h2>
+<table>
+  <tr>
+    <th><h3>𒎏𒄈𒋢𒊏</h3></th>
+    <th><h3>𒄈𒋢</h3></th>
+    <th><h3>𒆠</h3></th>
+    <th><h3>𒁉</h3></th>
+    <th><h3>𒈬</h3></th>
+    <th><h3>𒈾</h3></th>
+    <th><h3>𒄄</h3></th>
+  </tr>
+  <tr>
+    <td>ningirsu ra</td>
+    <td>girsu</td>
+    <td>ki</td>
+    <td>be2</td>
+    <td>mu</td>
+    <td>na</td>
+    <td>gi4</td>
+  </tr>
+  <tr>
+    <td colspan="7">
+      ---------------------------------------------------------------------------------------------</br>
+       (cn ningirsu ra)    </br>
+         (cn girsu)     </br>
+      (cn ki be2 mu na gi4)
+    </td>
+  </tr>
+  <tr>
+    <td colspan="7">
+    <i>for Ningirsu, he restored the city of Girsu.</i></br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="7">
+    <h4>𒄄 • (gi4) to restore, to return, to send back</h4>
+    </td>
+  </tr>
+</table>
 
-<h2>𒎏𒄈𒋢𒊏</br>𒄈𒋢𒆠</br>𒆠𒁉𒈬𒈾𒄄</h2>
-```;; (cn ningirsu ra)                   ```
-
-```;; (cn girsu)                         ```
-
-```;; (cn ki be2 mu na gi4)              ```
-
-*for Ningirsu, he restored the city of Girsu.*
 
 <h2>𒂦𒌷𒆬𒂵</br>𒈬𒈾𒆕</h2>
-```;; (cn bad3 uru ku3 ga)               ```
-
-```;; (cn mu na du3)                     ```
-
-*He built the walls of the holy city.*
+<table>
+  <tr>
+    <th><h3>𒂦</h3></th>
+    <th><h3>𒌷</h3></th>
+    <th><h3>𒆬</h3></th>
+    <th><h3>𒂵</h3></th>
+    <th><h3>𒈬</h3></th>
+    <th><h3>𒈾</h3></th>
+    <th><h3>𒆕</h3></th>
+  </tr>
+  <tr>
+    <td>bad3</td>
+    <td>uru</td>
+    <td>kug</td>
+    <td>ga</td>
+    <td>mu</td>
+    <td>na</td>
+    <td>du3</td>
+  </tr>
+  <tr>
+    <td colspan="7">
+      ---------------------------------------------------------------------------------------------</br>
+       (cn bad3 uru ku3 ga)     </br>
+        (cn mu na du3)  
+    </td>
+  </tr>
+  <tr>
+    <td colspan="7">
+    <i>He built the walls of the holy city.</i></br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="7">
+    <h4>𒂦 • (bad3) wall, fortification</h4>
+    <h4>𒌷 • (uru) city</h4>
+    <h4>𒆬 • (kug) to be sacred, holy</h4>
+    <h4>𒆕 • (du3) to build, to make, to plant</h4>
+    </td>
+  </tr>
+</table>
 
 <h2>𒀭𒀏</br>𒀏𒆠</br>𒈬𒈾𒆕</h2>
 ```;; (cn nanshe)                        ```

@@ -124,8 +124,7 @@ it indicates the place where the action occurs.
       
 
 
-```;;   𒈗𒀭𒌒𒁕𒇹𒁀```\
-
+<h2>𒈗𒀭𒌒𒁕𒇹𒁀</h2>
 <table>
   <tr>
     <th><h3>𒈗</h3></th>

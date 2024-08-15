@@ -155,5 +155,52 @@ on the ground before a man who grabbed everything in life except knowledge."**
   </tr>
 </table>
 
+![image](https://github.com/user-attachments/assets/1404b67e-a404-4a09-9d74-606d07c58277)
 
+<h2>𒃻𒌇𒌇𒀠𒋤𒌓𒉆𒇳𒁺𒊏𒀠𒋼</h2>
+<table>
+  <tr>
+    <th>𒃻</th>
+    <th>𒌇𒌇</th>
+    <th>𒀠</th>
+    <th>𒋤𒌓</th>
+    <th>𒉆</th>
+    <th>𒇳𒁺𒊏</th>
+    <th>𒀠</th>
+    <th>𒋼</th>
+  </tr>
+  <tr>
+    <td>niĝ2</td>
+    <td>tuku-tuku</td>
+    <td>al</td>
+    <td>sud3-ud</td>
+    <td>nam</td>
+    <td>ukur3-ra</td>
+    <td>al</td>
+    <td>teĝ3</td>
+  </tr>
+  <tr>
+    <td colspan="8"> 
+    (cn niĝ2 tuku tuku al sud3-ud nam ukur3 ra al teĝ3)
+    </td>
+  </tr>
+  <tr>
+    <td colspan="8">
+      ----------------------------------------------------------------</br>
+    <i>Gaining things is distant, but the fate of poverty is near.</i>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="8"> 
+    <h4>𒃻 • (nig̃2 /nig̃/) thing</h4>
+    <h4>𒌇 • (tuku), reduplicated form 𒌇𒌇 (du12-du12) to get, to marry</h4>
+    <h4>𒀠 • (al) nominal part of compound verb, very</h4>
+    <h4>𒋤𒌓 • (sud3-ud) distant</h4>
+    <h4>𒉆 • (nam) state, fate, destiny</h4>
+    <h4>𒇳𒁺 • (ukur3) to be poor</h4>
+    <h4>𒇳𒁺𒊏 •  (ukur3-rak) of poverty </h4>
+    <h4>𒋼 •  (teĝ3) near </h4>
+    </td>
+  </tr>
+</table>
 

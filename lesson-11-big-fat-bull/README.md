@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td colspan="8"> 
-    ----------------------------------------------------------------</br>
+    ---------------------------------------------------------------------------------</br>
   <i>I will not praise and prostate to the point</br>
     of rubbing my nose on the ground before a man who</br>
     grabbed everything in life except knowledge.</i>
@@ -92,7 +92,7 @@ on the ground before a man who grabbed everything in life except knowledge."**
   </tr>
   <tr>
     <td colspan="8"> 
-    ----------------------------------------------------------------</br>
+    ---------------------------------------------------------------------------------</br>
   <i>To marry is mankind's affair,</br> but to raise children is a god's challenge.</i>
     </td>
   </tr>
@@ -135,7 +135,7 @@ on the ground before a man who grabbed everything in life except knowledge."**
   </tr>
   <tr>
     <td colspan="6">
-      ----------------------------------------------------------------</br>
+      ---------------------------------------------------------------------------------</br>
     <i>I speak again and again about unpleasant things.</i>
     </td>
   </tr>
@@ -186,7 +186,7 @@ on the ground before a man who grabbed everything in life except knowledge."**
   </tr>
   <tr>
     <td colspan="8">
-      ----------------------------------------------------------------</br>
+      ---------------------------------------------------------------------------------</br>
     <i>Gaining things is distant, but the fate of poverty is near.</i>
     </td>
   </tr>

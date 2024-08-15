@@ -108,4 +108,52 @@ on the ground before a man who grabbed everything in life except knowledge."**
   </tr>
 </table>
 
+![image](https://github.com/user-attachments/assets/59a55c09-a39d-427e-9dc4-91c94500b644)
+
+<h2>𒃻𒉡𒄭𒂵𒅗𒅗</h2>
+<table>
+  <tr>
+    <th>𒃻</th>
+    <th>𒉡</th>
+    <th>𒄭</th>
+    <th>𒂵</th>
+    <th>𒅗</th>
+    <th>𒅗</th>
+  </tr>
+  <tr>
+    <td>niĝ2</td>
+    <td>nu</td>
+    <td>dug3</td>
+    <td>ga</td>
+    <td>dug4</td>
+    <td>dug4</td>
+  </tr>
+  <tr>
+    <td colspan="6"> 
+    (cn niĝ2 nu dug3 ga dug4 dug4)
+    </td>
+  </tr>
+  <tr>
+    <td colspan="6">
+      ----------------------------------------------------------------</br>
+    <i>I speak again and again about unpleasant things.</i>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="6"> 
+    <h4>𒃻 • (nig̃2 /nig̃/) thing</h4>
+    <h4>𒉡 • (nu /nu-/) not, no</h4>
+    <h4>𒃻𒈾𒈨𒉡𒈬𒁕𒀀𒌇</h4>
+      nig̃₂ na-me nu-mu-da-a-tuku</br>
+      You don't have anything with me.
+    <h4>𒄭 • (dug3 /dug/) to be good, pleasing, enjoyable</h4>
+    <h4>𒉡𒄭 • (nu-dug3) unpleasant</h4>
+    <h4>𒅗 • (dug4 /dug/) to speak, talk, say, act</h4>
+    <h4>𒂊 •  (e) pl. hamtu and marû, to speak </h4>
+    <h4>𒁲 •  (di) participle and infinitive, to speak </h4>
+    </td>
+  </tr>
+</table>
+
+
 

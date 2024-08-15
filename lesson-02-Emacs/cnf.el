@@ -533,6 +533,41 @@
 	;; (cn e2 ninnu anzud mushen babbar2 ra ni)    𒂍𒐐𒀭𒅎𒂂𒄷𒌓𒌓𒊏𒉌
 	;; (cn mu na du3)                              𒈬𒈾𒆕
 	;; (cn ki bi mu na gi4)                        𒆠𒁉𒈬𒈾𒄄
+
+	("𒇽𒍇"  mankind lu2-lu7)
+	("𒇽𒍇"  mankind lulu)
+	("𒍇" storm ulu3)
+	("𒌇" acquire tuku)
+        
+	;;; (cn dam tuku tuku lulu inim)        𒁮𒌇𒌇𒇽𒍇𒅗
+	;;; (cn dumu tuku tuku digir ra inim)   𒌉𒌇𒌇𒀭𒊏𒅗
+	("𒃻" thing niĝ2)
+	("𒀀𒀭" exists am3)
+        ("𒅆" eye igi)
+	("𒌶" to-guard uru3)
+	;;; (cn niĝ2 am3 da tuku tuku igi am3 da uru3 e)
+	;;; 𒃻𒀀𒀭𒁕𒌇𒌇𒅆𒀀𒀭𒁕𒌶𒂊
+	("𒃻𒂵" property niĝ2-gur11)
+	("𒅆𒁾" to-trust  ĝiškin)
+	("𒅆𒁾𒋾" to-trust  ĝiškin-til3)
+        ("𒃻" thing niĝ2)
+	("𒃻" establish  ĝar)
+	;; (cn niĝ2-gur11 niĝ2 ĝiškin til3)
+	;; 𒃻𒂵𒃻𒅆𒁾𒋾 property establish trust
+	("𒄭" pleasant  dug3)
+	("𒅗" to-speak dug4)
+	;; (cn niĝ2 nu dug3 ga dug4 dug4)
+	;; 𒃻𒉡𒄭𒂵𒅗𒅗
+	;; I speak about unpleasant things
+	("𒋤𒌓" distant sud3-ud)
+	("𒀠" very al)
+	("𒉆" fate nam)
+	("𒇳𒁺" poor ukur3)
+	("𒆪" place ku)
+	("𒋼" to-be-near teĝ3)
+	;;; (cn niĝ2 tuku tuku al sud3-ud nam ukur3 ra al teĝ3)
+	;;; 𒃻𒌇𒌇𒀠𒋤𒌓𒉆𒇳𒁺𒊏𒀠𒋼
+	
 	));; end
 
 ;; 𒃻 -- thing

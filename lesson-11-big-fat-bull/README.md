@@ -60,7 +60,7 @@ in a ritualized bow to a god or king. Then, the author said:
 **"I will not praise and prostate to the point of rubbing my nose
 on the ground before a man who grabbed everything in life except knowledge."**
 
-![image](https://github.com/user-attachments/assets/7fa44af6-df9e-4419-a8fc-b9f5b187e5e9)[[
+![image](https://github.com/user-attachments/assets/7fa44af6-df9e-4419-a8fc-b9f5b187e5e9)
 
 <h2>𒁮𒌇𒌇𒇽𒍇𒅗</br> 𒌉𒌇𒌇𒀭𒊏𒅗</h2>
 <table>

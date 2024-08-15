@@ -93,7 +93,7 @@ on the ground before a man who grabbed everything in life except knowledge."**
   <tr>
     <td colspan="8"> 
     ----------------------------------------------------------------</br>
-  <i>To marry is mankind's affair,</br> but to raise children is god's challenge.</i>
+  <i>To marry is mankind's affair,</br> but to raise children is a god's challenge.</i>
     </td>
   </tr>
   <tr>
@@ -101,7 +101,7 @@ on the ground before a man who grabbed everything in life except knowledge."**
     <h4>𒁮 • (dam) spouse, wife, husband</h4>
     <h4>𒇽𒍇 • (lu2-lu7 /lulu/) people, mankind</h4>
     <h4>𒌇 • (tuku), reduplicated form 𒌇𒌇 (du12-du12) to get, to marry</h4>
-    <h4>𒅗 • (inim) command, matter, affair</h4>
+    <h4>𒅗 • (inim) command, matter, affair, challenge</h4>
     <h4>𒀭𒊏 • (digir-ra) of god </h4>
     <h4>𒆍𒀭𒊏𒆠 • (babilim2-ki) Babylon</h4>
     </td>

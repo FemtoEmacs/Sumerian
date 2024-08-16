@@ -334,3 +334,192 @@ to dedicate
   </td>
  </tr>
 </table>
+
+## Imperative
+The prefix /ḫa/ 𒄩  expresses a request also to the second person.
+It can be considered a polite form of imperative.
+
+<h2>𒊺𒈬𒄩𒈬𒉐</h2>
+<table>
+ <tr>
+  <td><h3>𒊺</h3></td>
+  <td><h3>𒈬</h3></td>
+  <td><h3>𒄩</h3></td>
+  <td><h3>𒈬</h3></td>
+  <td><h3>𒉐</h3></td>
+ </tr>
+ <tr>
+  <td><h3>she</h3></td>
+  <td><h3>ĝu10-my</h3></td>
+  <td><h3>hha</h3></td>
+  <td><h3>mu</h3></td>
+  <td><h3>tum3</h3></td>
+ </tr>
+ <tr>
+  <td colspan="5">
+   (cn she ĝu10-my hha mu tum3)
+  </td>
+ </tr>
+ <tr>
+  <td colspan="5">
+   <i>You should bring my barley.</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="5">
+   ---------------------------------------------------------------------------------------</br>
+   <h4>𒊺 • (še) barley, grain</h4>
+   <h4>𒈬 • (g̃u10) my (first-person possessive pronoun)</h4>
+   <h4>𒈬 • (mu) ventive particle: here </h4>
+   <h4>𒉐 • (tum3) Alternative form of 𒁺 (tum2) to bring</h4>
+  </td>
+ </tr>
+</table>
+
+On the other hand, the imperative expresses a direct command to a person.
+It is expressed by re-shaping the verbal phrase: imperative forms start
+with the hamtu base followed by the prefixes of the finite verbal form.
+
+<h2>𒋧𒂷𒀊</h2>
+<table>
+ <tr>
+  <td><h3>𒋧</h3></td>
+  <td><h3>𒂷</h3></td>
+  <td><h3>𒀊</h3></td>
+ </tr>
+ <tr>
+  <td><h3>ŝum2-give</h3></td>
+  <td><h3>ma2-me</h3></td>
+  <td><h3>ab-it</h3></td>
+ </tr>
+ <tr>
+  <td colspan="3">
+   (cn ŝum2-give ma2-me ab-it)
+  </td>
+ </tr>
+ <tr>
+  <td colspan="3">
+   <i>Give it to me.</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="3">
+   ---------------------------------------------------------------------------------------</br>
+   <h4>𒋧 • (šum2) to give</h4>
+   <h4>𒂷 or 𒂷𒀀 • (ma2) 1st-person personal pronoun: to me, I, with me</h4>
+   <h4>𒀊 • (ab) 3rd-person pronoun: it</h4>
+  </td>
+ </tr>
+</table>
+
+Compare with the declarative sentence:
+
+<h2>𒂷𒀀𒉈𒋧</h2>
+<table>
+ <tr>
+  <td><h3>𒂷</h3></td>
+  <td><h3>𒀀𒉈</h3></td>
+  <td><h3>𒋧</h3></td>
+ </tr>
+ <tr>
+  <td><h3>ma2-me</h3></td>
+  <td><h3>ane-him</h3></td>
+  <td><h3>ŝum2-give</h3></td>
+ </tr>
+ <tr>
+  <td colspan="3">
+   (cn ma2-me ane-him ŝum2-give)
+  </td>
+ </tr>
+ <tr>
+  <td colspan="3">
+   <i>He gave it to me.</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="3">
+   ---------------------------------------------------------------------------------------</br>
+   <h4>𒋧 • (šum2) to give</h4>
+   <h4>𒂷 or 𒂷𒀀 • (ma2) 1st-person personal pronoun: to me, I, with me</h4>
+   <h4>𒀀𒉈 • (a-ne) he, she </h4>
+   <h4>𒀀𒉈𒁕𒉡𒈨𒀀</h4>
+    a-ne-da nu-me-a</br>
+    without him
+  </td>
+ </tr>
+</table>
+
+Plural imperative forms add the suffix 𒌦𒍢𒂗 (un-ze2-en) that
+you will learn in lesson 16. This suffix means *"You people."*
+
+<h2>𒎐𒈬𒁺𒈬𒌦𒍢𒂗</h2>
+<table>
+ <tr>
+  <td><h3>𒎐</h3></td>
+  <td><h3>𒈬</h3></td>
+  <td><h3>𒁺</h3></td>
+  <td><h3>𒈬</h3></td>
+  <td><h3>𒌦𒍢𒂗</h3></td>
+ </tr>
+ <tr>
+  <td><h3>nin9-sister</h3></td>
+  <td><h3>ĝu10-my</h3></td>
+  <td><h3>tum2</h3></td>
+  <td><h3>mu</h3></td>
+  <td><h3>un-ze2-en</h3></td>
+ </tr>
+ <tr>
+  <td colspan="5">
+   (cn nin9-sister ĝu10-my tum2 mu un-ze2-en)
+  </td>
+ </tr>
+ <tr>
+  <td colspan="5">
+   <i>You people, bring in my sister!</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="5">
+   ---------------------------------------------------------------------------------------</br>
+   <h4>𒎐 • (nin9 /nin/) sister</h4>
+   <h4>𒈬 • (g̃u10) my (first-person possessive pronoun)</h4>
+   <h4>𒈬 • (mu) ventive particle: here </h4>
+   <h4>𒁺 • (tum2) to bring, pl. 𒁻 (laḫ4)</h4>
+   <h4>𒌦𒍢𒂗 • (un-ze2-en) suffix pronoun: you people </h4>
+  </td>
+ </tr>
+</table>
+
+Another example of imperative:
+
+<h2>𒅗𒀀𒉈𒀊</h2>
+<table>
+ <tr>
+  <td><h3>𒅗</h3></td>
+  <td><h3>𒀀𒉈</h3></td>
+  <td><h3>𒀊</h3></td>
+ </tr>
+ <tr>
+  <td><h3>dug4</h3></td>
+  <td><h3>ane-him</h3></td>
+  <td><h3>ab-it</h3></td>
+ </tr>
+ <tr>
+  <td colspan="3">
+   (cn dug4 ane-him ab-it)
+  </td>
+ </tr>
+ <tr>
+  <td colspan="3">
+   <i>Say it to him.</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="3">
+   ---------------------------------------------------------------------------------------</br>
+   <h4>𒅗 • (dug4) to speak, to say</h4>
+   <h4>𒀀𒉈 • (a-ne) he, she </h4>
+    <h4>𒀊 • (ab) 3rd-person pronoun: it</h4>
+  </td>
+ </tr>
+</table>

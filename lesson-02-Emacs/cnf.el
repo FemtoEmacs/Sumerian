@@ -248,6 +248,7 @@
 	("𒁕" syllable-da da) ;; 100 syllabic
 	("𒂊" syllable-e   e) ;; 101 syllabic
 	("𒄩" syllable-ha  ha) ;; 102 syllabic
+	("𒄩" syllable-ha  hha) ;; 102 syllabic
 	("𒌈"	U+12308	ib2)   ;; 103 syllabic
         ("𒋻" curse ku5)
 	
@@ -565,9 +566,32 @@
 	("𒇳𒁺" poor ukur3)
 	("𒆪" place ku)
 	("𒋼" to-be-near teĝ3)
+	("𒈬" my ĝu10-my)
+	("𒉐" to-bring tum3)
+	("𒁺" to-bring tum2)
+	("𒂷" to-me ma2-me)
+	("𒂷" to-me ĝe26)
+	("𒈨𒂊" me me-e)
+	("𒀀𒉈" he-him ane-him)
+	("𒋧" to-give ŝum2-give)
+	("𒀊" it ab-it)
+	("𒎐" sister nin9-sister)
+	("𒌦" to-it un)
+	("𒌦𒍢𒂗" they un-ze2-en)
+	
 	;;; (cn niĝ2 tuku tuku al sud3-ud nam ukur3 ra al teĝ3)
 	;;; 𒃻𒌇𒌇𒀠𒋤𒌓𒉆𒇳𒁺𒊏𒀠𒋼
-	
+	;;; Imperative
+	;;; (cn she ĝu10-my hha mu tum3) You should bring my barley
+	;;; 𒊺𒈬𒄩𒈬𒉐
+	;;; (cn ma2-me ane-him ŝum2-give)  He gave it to me.
+	;;; 𒂷𒀀𒉈𒋧
+	;;; (cn ŝum2-give ma2-me ab-it)  Give it to me!
+	;;; 𒋧𒂷𒀊
+	;;; (cn dug4 ane-him ab-it) Say it to him!
+	;;; 𒅗𒀀𒉈𒀊
+        ;;; (cn nin9-sister ĝu10-my tum2 mu un-ze2-en) Bring my sister!
+	;;; 𒎐𒈬𒁺𒈬𒌦𒍢𒂗
 	));; end
 
 ;; 𒃻 -- thing

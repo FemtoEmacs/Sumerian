@@ -3,7 +3,7 @@ The finite verbal chain incorporate pronominal references to the subject,
 to the object and to the verb's other modifiers. These references
 agree with the modifier in person, number and gender.
 
-A finite verbal chain is also marked by one of several **conjugation prefixes.**
+A finite verbal chain is also marked by one ofzen several **conjugation prefixes.**
 
 ## Finite-marker prefix /i3/ 𒉌, /ib2/ 𒌈, /im/ 𒉎, /in/ 𒅔
 
@@ -11,7 +11,7 @@ The finite-marker prefix is spelled /i3/ 𒉌 when it occurs without
 any other prefixes. If other prefixes are present, it is spelled
  𒌈 (ib2), 𒉎 (im) or 𒅔 (in). There exist plene writings such
 as 𒉌𒅔 (i3-in-) , and 𒉌𒌈 (i3-ib2-).
-
+zen
 ### Ex1: 𒌈𒅆𒁺𒌦
 
 <table>
@@ -607,7 +607,7 @@ as a sequence of about seven slots.
    <td>a • da • ta • ši • ni </td>
    <td></td>
    <td></td>
-   <td></td>
+   <td>en-de3-en </br>un-ze2-en</td>
   </tr>
   <tr>
     <td>Modal Prefixes</td>

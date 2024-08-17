@@ -359,3 +359,7 @@ Let's read the whole brick inscription:
 8. MU-NA-DU3 (𒈬𒈾𒆕) -- he built for NANNA.
 
 The meaning of the whole document is something like this: **"For the god Nanna, his Lord, Ur-Nammu, the King of Urim, built his temple. The king also built the city walls of Urim."**
+
+# Sentence structure
+A transitive verb describes an action that makes transition
+from a subject to an object. The subject is the 

@@ -316,7 +316,7 @@ The last rectangle repeats the 𒈬𒈾𒆕 (MUNADU3) verb.
     (cn mu na du3)</br>
     mu.na.du3
   </td>
- </tr>
+ </tr>𒈬𒌦𒉈𒆪𒂊 (mu-nne.dab.e) he seizes them
   <tr>
   <td colspan="3">
    <i>he built for him</i> 
@@ -361,24 +361,86 @@ Let's read the whole brick inscription:
 The meaning of the whole document is something like this: **"For the god Nanna, his Lord, Ur-Nammu, the King of Urim, built his temple. The king also built the city walls of Urim."**
 
 # Sentence structure
-A transitive verb describes an action that transitions
-from a subject to a direct object. The subject is the topic of
-the conversation. In a transitive verb, the subject is the
-doer of the action and is called ergative by linguists.
-In Sumerian, the ergative is marked with 𒂊 (e).
-
-The direct object can be the person accused of a deed when it is called
-accusative. It can be a target of a shooting. Or it can be the
-object of health care when it is called patient. The linguists
-call **patient** all kinds of direct objects. In Sumerian, the
-direct object does not receive any mark.
-
+The subject of a sentence is the topic of
+the conversation. Besides the subject, the sentence may have
+other components, such as a dative and a locative.
 Many actions have a benefactive, which is called dative by linguists.
 In Sumerian, the dative is marked with 𒊏 (ra, r). The place where
 the action occurs is called locative and is marked by 𒀀(a).
 
-The transitive verb itself is described by a chain of affixes
-surrounding the stem. The verbal chain may contain a
-Modal Prefix (MP, such as 𒉡 • (nu) not ),
-a Conjugation Prefix (CP, such as 𒈬 • (mu) *ventive*, here),
-prefix pronouns () and suffix pronouns.
+## Transitive verbs
+A transitive verb describes an action that transitions
+from a subject to a direct object. In a transitive verb, the subject is the
+doer of the action and is called ergative, which is the Greek
+term for the person who performs a task.
+In Sumerian, the ergative is marked with 𒂊 (e).
+
+The direct object can be the person accused of a deed.
+In this case, the direct object is called accusative.
+The direct object can also be a target of a shooting. Or it can be the
+object of health care, in which case it is called patient by the doctors.
+Some linguists call **patient**  all kinds of direct objects, while others
+prefer the term **accusative**. In Sumerian, the
+direct object does not receive any mark.
+
+The transitive verb itself comes last in a Sumerian sentence,
+and is described by a chain of affixes
+surrounding the stem.
+
+The verbal chain may contain a Modal Prefix (MP, such as 𒉡 • nu • not),
+a Conjugation Prefix (CP, such as 𒈬 • mu • *ventive*, here),
+initial pronominal prefix (IPP, such as N in 𒈬𒌦𒆪𒂊 •  mu-n.dab.e •  he seizes him)
+and suffix pronouns (𒂗𒉈𒂗 • en-de3-en • **us**, 𒌦𒍢𒂗 • un-ze2-en • **you people**).
+Below, there are examples of all initial pronominal prefixes.
+
+<h3>𒈬𒆪𒂊 (mu'dab.e) he seizes me</h3>
+<h3>𒈬𒂊𒆪𒂊 (mu-e.dab.e) he seizes you</h3>
+<h3>𒈬𒌦𒆪𒂊 (mu-n.dab.e) he seizes her</h3>
+<h3>𒈬𒈨𒆪𒂊 (mu-me.dab.e) he seizes us</h3>
+<h3>𒈬𒌦𒉈𒆪𒂊 (mu-nne.dab.e) he seizes them</h3>
+
+Below, I have for you a complete example of a transitive sentence.
+I provided you with a pronunciation key and vocabulary, so I hope
+you can scan the sentence.
+
+
+<h2>𒊩𒊏𒇽𒂊𒊺𒌷𒀀</br>𒈬𒈾𒀊𒋧𒂊</h2>
+<table>
+ <tr>
+  <td><h3>𒊩𒊏</h3></td>
+  <td><h3>𒇽𒂊</h3></td>
+  <td><h3>𒊺</h3></td>
+  <td><h3>𒌷𒀀</h3></td>
+  <td><h3>𒈬𒈾𒀊𒋧𒂊</h3></td>
+ </tr>
+ <tr>
+  <td><h3>munus.ra</h3></td>
+  <td><h3>lu2.e</h3></td>
+  <td><h3>ŝe.∅</h3></td>
+   <td><h3>uru.a</h3></td>
+   <td><h3>mu•na•ab•shum2.e</h3></td>
+ </tr>
+  <tr>
+  <td><h3>for the woman</h3></td>
+  <td><h3>the man</h3></td>
+  <td><h3>barley</h3></td>
+   <td><h3>here•to her•it•he gave</h3></td>
+ </tr>
+ <tr>
+  <td colspan="5">
+   <i>The man gave the woman barley in the city.</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="5">
+   ---------------------------------------------------------------------------------------</br>
+   <h4>𒊩 • (munus) woman, female</h4>
+   <h4></h4>
+   <h4>𒀀𒉈 • (a-ne) he, she </h4>
+   <h4>𒀀𒉈𒁕𒉡𒈨𒀀</h4>
+    a-ne-da nu-me-a</br>
+    without him
+  </td>
+ </tr>
+</table>
+

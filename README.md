@@ -424,7 +424,8 @@ you can scan the sentence.
   <td><h3>for the woman</h3></td>
   <td><h3>the man</h3></td>
   <td><h3>barley</h3></td>
-   <td><h3>here•to her•it•he gave</h3></td>
+    <td><h3>in the city</h3></td>
+   <td><h3>here•to her•it</br>•he gave</h3></td>
  </tr>
  <tr>
   <td colspan="5">
@@ -433,13 +434,59 @@ you can scan the sentence.
  </tr>
  <tr>
   <td colspan="5">
-   ---------------------------------------------------------------------------------------</br>
    <h4>𒊩 • (munus) woman, female</h4>
-   <h4></h4>
-   <h4>𒀀𒉈 • (a-ne) he, she </h4>
-   <h4>𒀀𒉈𒁕𒉡𒈨𒀀</h4>
-    a-ne-da nu-me-a</br>
-    without him
+   <h4>𒊏 • (ra) *dative marker* </h4>
+   <h4>𒇽 • (lu2) man, male</h4>
+   <h4>𒂊 • (e) *ergative marker* </h4>
+   <h4>𒊺 • (še) barley, grain</h4>
+   <h4>𒌷 • (uru) city</h4>
+  <h4>𒀀 • (a) *locative marker* </h4>
+  <h4>𒈬 • (mu) *venitive conjugation prefix,* **here** </h4>
+     <h4>𒈾 • (na) *cross-reference to the dative,* **to her** </h4>
+    <h4>𒀊  • (na) *Initial Prefix Pronoun,* **it**  </h4>
+    <h4>𒋧 • (shum2) to give</h4>
+  </td>
+ </tr>
+</table>
+
+## Intransitive verb
+An intransitive verb does not have a direct object.
+In Sumerian, the subject of an intransitive verb is
+not marked.
+
+<h2>𒈗𒉌𒅎𒁺</h2>
+<table>
+ <tr>
+  <td><h3>𒈗</h3></td>
+  <td><h3>𒌷𒂠</h3></td>
+  <td><h3>𒉌</h3></td>
+  <td><h3>𒅎</h3></td>
+  <td><h3>𒁺</h3></td>
+ </tr>
+ <tr>
+  <td><h3>lugal..∅</h3></td>
+  <td><h3>uru she</h3></td>
+  <td><h3>i3</h3></td>
+  <td><h3>im</h3></td>
+   <td><h3>g̃en</h3></td>
+ </tr>
+  <tr>
+  <td><h3>the king</h3></td>
+  <td colspan="2"><h3>finite verb marker</h3></td>
+   <td><h3>came</h3></td>
+ </tr>
+ <tr>
+  <td colspan="5">
+   <i>The king came.</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="5">
+   <h4>𒈗 • (lugal) king</h4>
+   <h4>𒉌𒅎 • (im) *finite verb marker* </h4>
+   <h4>𒁺 • (g̃en) to come</h4>
+    <h4>𒂠 • (še3)  to, towards</h4>
+    <h4>𒌷 • (uru) city</h4>
   </td>
  </tr>
 </table>

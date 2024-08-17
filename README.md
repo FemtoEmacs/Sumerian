@@ -472,6 +472,7 @@ not marked.
  </tr>
   <tr>
   <td><h3>the king</h3></td>
+    <td><h3>to the city</h3></td>
   <td colspan="2"><h3>finite verb marker</h3></td>
    <td><h3>came</h3></td>
  </tr>

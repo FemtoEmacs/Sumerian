@@ -1,7 +1,7 @@
 # Using GIMP to Write Sumerian Script 𒆠𒂗𒄀 
 
 In a world filled with various image manipulation tools, why choose the GNU Image Manipulation Program (GIMP)? Despite having access to Maxon One, which includes the Adobe toolkit for image manipulation, I find the Adobe toolkit significantly inferior to GIMP. However, there's another compelling reason: GIMP is open-source and integrates seamlessly with major image processing libraries such as G'MIC and GEGL. Over time, the collaborative power of open-source development will likely make GIMP unbeatable.
-
+<td><h3>the king</h3></td>
 But why use GIMP today when expensive paid tools are the industry standard? 
 - **The Power of Open Source**: GIMP can leverage image processing research from around the world, including contributions from notable projects like the French G'MIC and the GEGL library, developed by the Oscar-winning Rhythm & Hues Studios, which also wrote GIMP’s core.
 - **Advanced Scripting and Compatibility**: GIMP is programmed in Scheme, a dialect of Lisp, making it easier to write scripts. Additionally, GIMP uses SVG for paths, a user-friendly format.
@@ -108,7 +108,7 @@ In Sumerian, like in Latin and German, a nominal phrase has a case marker that i
   <td colspan="2">
    <i>his master,</i> 
   </td>
- </tr>
+ </tr><td><h3>the king</h3></td>
   <tr>
   <td colspan="2">
    <h4>𒈗 • (lugal) king, lord, master, owner</h4>
@@ -435,15 +435,15 @@ you can scan the sentence.
  <tr>
   <td colspan="5">
    <h4>𒊩 • (munus) woman, female</h4>
-   <h4>𒊏 • (ra) *dative marker* </h4>
+   <h4>𒊏 • (ra) <i>dative marker</i> </h4>
    <h4>𒇽 • (lu2) man, male</h4>
-   <h4>𒂊 • (e) *ergative marker* </h4>
+   <h4>𒂊 • (e) <i>ergative marker</i> </h4>
    <h4>𒊺 • (še) barley, grain</h4>
    <h4>𒌷 • (uru) city</h4>
-  <h4>𒀀 • (a) *locative marker* </h4>
-  <h4>𒈬 • (mu) *venitive conjugation prefix,* **here** </h4>
-     <h4>𒈾 • (na) *cross-reference to the dative,* **to her** </h4>
-    <h4>𒀊  • (na) *Initial Prefix Pronoun,* **it**  </h4>
+  <h4>𒀀 • (a) <i>locative marker</i> </h4>
+  <h4>𒈬 • (mu) <i>venitive conjugation prefix,</i> here </h4>
+     <h4>𒈾 • (na) <i>cross-reference to the dative,</i> to her </h4>
+    <h4>𒀊  • (na) <i>Initial Prefix Pronoun,</i> it  </h4>
     <h4>𒋧 • (shum2) to give</h4>
   </td>
  </tr>
@@ -458,37 +458,121 @@ not marked.
 <table>
  <tr>
   <td><h3>𒈗</h3></td>
-  <td><h3>𒌷𒂠</h3></td>
+  <td><h3>𒌷𒈬𒂠</h3></td>
   <td><h3>𒉌</h3></td>
   <td><h3>𒅎</h3></td>
   <td><h3>𒁺</h3></td>
  </tr>
  <tr>
   <td><h3>lugal..∅</h3></td>
-  <td><h3>uru she</h3></td>
+  <td><h3>uru.gu10 she</h3></td>
   <td><h3>i3</h3></td>
   <td><h3>im</h3></td>
    <td><h3>g̃en</h3></td>
  </tr>
   <tr>
   <td><h3>the king</h3></td>
-    <td><h3>to the city</h3></td>
+    <td><h3>to my city</h3></td>
   <td colspan="2"><h3>finite verb marker</h3></td>
    <td><h3>came</h3></td>
  </tr>
  <tr>
   <td colspan="5">
-   <i>The king came.</i>
+   <i>The king came to my city.</i>
   </td>
  </tr>
  <tr>
   <td colspan="5">
    <h4>𒈗 • (lugal) king</h4>
-   <h4>𒉌𒅎 • (im) *finite verb marker* </h4>
+   <h4>𒉌𒅎 • (im) <i>finite verb marker</i> </h4>
    <h4>𒁺 • (g̃en) to come</h4>
     <h4>𒂠 • (še3)  to, towards</h4>
     <h4>𒌷 • (uru) city</h4>
+    <h4>𒌷𒈬 • (uru) city</h4>
   </td>
  </tr>
 </table>
+
+In the example above, you found an example of a possessive pronoun in
+the expression 𒌷𒈬 (uru.gu10) **my city**. Below, you will
+find a complete list of possessive pronouns.
+
+<h3>𒈬 • (g̃u10) my </h3>
+<h3>𒍪 • (zu) thy</h3>
+<h3>(𒀀)𒉌 (a-ni) -- his/her</h3>
+<h3>𒁉 • (bi, be₂) its</h3>
+<h3>𒈨 • (me) our</h3>
+<h3>𒍪𒉈𒉈 • (zu-ne-ne) your</h3>
+<h3>𒂊𒉈𒉈 (e-ne-ne) their</h3>
+
+Sumerian has a set of independent pronouns that I advise you to learn
+right away.
+
+<h3>𒂷 • (g̃e26) I/me</h3>
+<h3>𒍢 • (ze2) thou/thee</h3>
+<h3>𒍢 (ze2) becomes 𒍝 (za) when followed by the dative 𒊏 (ra). </h3>
+<h3>𒀀𒉈 • (a-ne) he/she/him/her</h3>
+
+<h2>𒀀𒉈 𒁾 𒍝𒊏 𒈠𒊏𒀊𒋧𒈬</h2>
+<table>
+ <tr>
+  <td><h3>𒀀𒉈</h3></td>
+  <td><h3>𒁾</h3></td>
+  <td><h3>𒍝𒊏</h3></td>
+  <td><h3>𒈠𒊏𒀊𒋧𒈬</h3></td>
+ </tr>
+ <tr>
+  <td><h3>a-ne</h3></td>
+  <td><h3>dab</h3></td>
+  <td><h3>za.ra</h3></td>
+  <td><h3>ma-ra-ab-shum2-mu</h3></td>
+ </tr>
+  <tr>
+  <td><h3>He</h3></td>
+    <td><h3>the tablet</h3></td>
+  <td><h3>to you</h3></td>
+   <td><h3>will give</h3></td>
+ </tr>
+ <tr>
+  <td colspan="4">
+   <i>He will give you the tablet.</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="4">
+   <h4>𒀀𒉈 • (a-ne) he/she</h4>
+   <h4>𒁾 • (dab) the tablet </h4>
+   <h4>𒍝𒊏 • (zara) to you</h4>
+   <h4>𒍢 (ze2) followed by 𒊏 (ra) becomes 𒍝 (za).</h4> 
+  </td>
+ </tr>
+</table>
+
+## Nominal chain
+In Sumerian, adjectives are formed from verbs by adding the
+suffix 𒀀 (A). For example, the verb below means **to be strong**. 
+
+<h3>𒆗 • (kalag) to be strong</h3>
+
+To form an adjective from **kalag**, one adds an A. The expression
+below means **mighty king**. In Sumerian, different from English,
+the adjectives follow the noun.
+
+<h3>𒈗 𒆗 𒂵 • (lugal kalag-ga) • a mighty king</h3>
+
+In English, the Saxon genitive is marked with S and precedes the verb.
+Therefore, one writes "Elil's Warrior." In Sumerian, the genitive
+is marked with K after a vowel and AK after a consonant.
+Like the adjective, the genitive follows the noun. The K
+of the genitive was rarely written except when combined with
+the ergative. In this case, it was written as 𒆤 (ke4).
+
+<h2>𒂍𒈗𒆷</h2>
+e2 lugal-la</br>
+The king's house</br>
+
+<h2>𒈗𒆷𒆤</br>𒂍</br>𒈬𒈾𒆕</h2>
+(lugal la ke4) By the king </br>(e2) a house </br> (mu-na-du3) was built </br>
+
+
 

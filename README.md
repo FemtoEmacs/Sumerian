@@ -350,7 +350,7 @@ In the Gimp-Installation directory, you'll find a README.md with instructions fo
 Let's read the whole brick inscription:
 
 1. ᵈNANNA (𒀭𒋀𒆠) -- For the god Nanna...
-2. LUGAL ANI (𒈗𒀀𒉌) -- his Lord. The word 'LUGAL' means king or lord. It is formed from 'lu,' which means 'man,' and 'gal,' which can be translated as 'great.' The expression 'a-ni' is equivalent to the possessive pronoun 'his.'
+2. LUGAL ANI (𒈗𒀀𒉌) -- his Lord. The word 'LUGAL' meanse  king or lord. It is formed from 'lu,' which means 'man,' and 'gal,' which can be translated as 'great.' The expression 'a-ni' is equivalent to the possessive pronoun 'his.'
 3. UR-NAMMU (𒌨𒀭𒇉)
 4. LUGAL-URIM2ki-MA-KE4 (𒈗 𒋀𒀕𒆠 𒈠 𒆤)-- King of Ur,
 5. E2-ANI (𒂍𒀀𒉌) -- his temple. Remember that you already learned the meaning of 'ANI.'
@@ -361,5 +361,24 @@ Let's read the whole brick inscription:
 The meaning of the whole document is something like this: **"For the god Nanna, his Lord, Ur-Nammu, the King of Urim, built his temple. The king also built the city walls of Urim."**
 
 # Sentence structure
-A transitive verb describes an action that makes transition
-from a subject to an object. The subject is the 
+A transitive verb describes an action that transitions
+from a subject to a direct object. The subject is the topic of
+the conversation. In a transitive verb, the subject is the
+doer of the action and is called ergative by linguists.
+In Sumerian, the ergative is marked with 𒂊 (e).
+
+The direct object can be the person accused of a deed when it is called
+accusative. It can be a target of a shooting. Or it can be the
+object of health care when it is called patient. The linguists
+call **patient** all kinds of direct objects. In Sumerian, the
+direct object does not receive any mark.
+
+Many actions have a benefactive, which is called dative by linguists.
+In Sumerian, the dative is marked with 𒊏 (ra, r). The place where
+the action occurs is called locative and is marked by 𒀀(a).
+
+The transitive verb itself is described by a chain of affixes
+surrounding the stem. The verbal chain may contain a
+Modal Prefix (MP, such as 𒉡 • (nu) not ),
+a Conjugation Prefix (CP, such as 𒈬 • (mu) *ventive*, here),
+prefix pronouns () and suffix pronouns.

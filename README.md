@@ -141,7 +141,7 @@ The third rectangle contains the name of Ur-Nammu (𒌨𒀭𒇉), the king who r
  </tr>
   <tr>
   <td colspan="1">
-   <h4>𒌨𒀭𒇉 • (ur-d-namma) Ur-Nammu (a king famous for his law-code)</h4> 
+   <h4>𒌨𒀭𒇉 • (ur-d-namma) Ur-Nammu, a king famous for his law-code</h4> 
   </td>
  </tr>
 </table>
@@ -180,7 +180,7 @@ Sumerian is an ergative language, meaning the agent of transitive actions is mar
  </tr>
   <tr>
   <td colspan="4">
-   <h4>𒋀𒀕𒆠 • (urim2ki) Ur (city in southern Mesopotamia</h4>
+   <h4>𒋀𒀕𒆠 • (urim2ki) Ur, city in southern Mesopotamia</h4>
    <h4>𒈠𒆤 • (m.ak.e) genitive contracted with ergative</h4>
   </td>
  </tr>

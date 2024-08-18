@@ -37,7 +37,7 @@ You can also place the ```load-file``` command into the
 ```~/.emacs``` cofiguration directory. Here is
 my ```.emacs``` file:
 
-```shell
+```elisp
 (load-file "~/.emacs.d/sumerian/cnf.el")
 
 (setq inhibit-startup-message t)

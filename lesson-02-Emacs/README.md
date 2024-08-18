@@ -54,9 +54,10 @@ start Emacs, it will be ready to typeset Sumerian cuneiforms.
 Therefore, you can insert Sumerograms by name into your text.
 You can find the names of the Sumerograms in Hayes's manual
 or in Lewiss and Bowen's ***Learn to Read Ancient Sumerian***.
-Here is how to typeset the lines of the
-document used as an example: When you press **Alt-;** (hold the **Alt** key
-and strike the semicolon), Emacs will prompt you with '**Eval:**.' Then,
+
+When you press **Alt-;** (hold the **Alt** key
+and strike the semicolon), Emacs will present you with the
+**Eval:** prompt. Then,
 type the ```(cn ...)``` commands  below to introduce the
 corresponding Sumerograms into the document.
 

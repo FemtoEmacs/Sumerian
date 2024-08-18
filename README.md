@@ -327,12 +327,14 @@ The last rectangle repeats the 𒈬𒈾𒆕 (MUNADU3) verb.
 <tr>
   <td colspan="3">
   Below, there is a complete list of Dimensional Prefixes (DP).</br>
-  The concept of DP does not exist in English. 
-   <h4>𒊏 or 𒈾   • (na) DP that cross-references the dative</h4>
-   <h4> 𒁕 • (da) DP comitative, indicates group action, as in ‘with’</h4>
+  The concept of DP does not exist in English. Each of these</br>
+  Dimensional Prefixes has two kinds of markers, one to be used as</br>
+  a suffix with a noun and the other to be used in the verbal chain.
+   <h4>𒊏 or 𒈾   • (ra or na) DP that cross-references the dative</h4>
+   <h4> 𒁕 • (da) DP comitative indicates group action, as in ‘with’</h4>
    <h4> 𒋫 • (ta) DP ablative, indicates separation</h4>
    <h4>𒂠 or 𒅆 • (še or ši) DP terminative, indicates goal </h4>
-  <h4>𒀀 or 𒉌 • (ni) DP locative, indicates where something is happening</h4>
+  <h4>𒀀 or 𒉌 • (a or ni) DP locative indicates where something is happening</h4>
   <h4> 𒂊 • (e) DP locative2, indicates motion toward something </h4>
 </td>
  </tr>

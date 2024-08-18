@@ -332,7 +332,7 @@ The last rectangle repeats the 𒈬𒈾𒆕 (MUNADU3) verb.
    <h4> 𒋫 • (ta) DP ablative, indicates separation</h4>
    <h4>𒂠 • (še) DP terminative, indicates goal </h4>
   <h4>𒉌 • (ni) DP locative, indicates where something is happening</h4>
-  <h4> 𒂊 • (ni) DP, indicates motion toward something </h4>
+  <h4> 𒂊 • (e) DP locative2, indicates motion toward something </h4>
 </td>
  </tr>
 </table>
@@ -383,9 +383,9 @@ a list of case markers and their references.
 nin.ra lugal.e e2 mu-na-du3</br>
 For the lady, the king built a house.
 
-<h2>Locative: 𒀀 (a)/𒁀 (ba)</h2>
-<h3>𒈗𒂊𒌷𒀀𒂍𒈬𒁀𒆕</h3>
-lugal.e uru.a e2 mu-ba-du3</br>
+<h2>Locative: 𒀀 (a)/𒉌 (ni)</h2>
+<h3>𒈗𒂊𒌷𒀀𒂍𒈬𒉌𒆕</h3>
+lugal.e uru.a e2 mu-ni-du3</br>
 The king built a house in a city.
 
 <h2>Terminative: 𒂠 (še)/𒅆(ši)</h2>

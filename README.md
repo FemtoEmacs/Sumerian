@@ -349,7 +349,7 @@ In the Gimp-Installation directory, you'll find a README.md with instructions fo
 Let's read the whole brick inscription:
 
 1. ᵈNANNA (𒀭𒋀𒆠) -- For the god Nanna...
-2. LUGAL ANI (𒈗𒀀𒉌) -- his Lord. The word 'LUGAL' meanse  king or lord. It is formed from 'lu,' which means 'man,' and 'gal,' which can be translated as 'great.' The expression 'a-ni' is equivalent to the possessive pronoun 'his.'
+2. LUGAL ANI (𒈗𒀀𒉌) -- his master. The word 'LUGAL' means  king or master. It is formed from 'lu,' which means 'man,' and 'gal,' which can be translated as 'great.' The expression 'a-ni' is equivalent to the possessive pronoun 'his.'
 3. UR-NAMMU (𒌨𒀭𒇉)
 4. LUGAL-URIM2ki-MA-KE4 (𒈗 𒋀𒀕𒆠 𒈠 𒆤)-- King of Ur,
 5. E2-ANI (𒂍𒀀𒉌) -- his temple. Remember that you already learned the meaning of 'ANI.'

@@ -337,20 +337,20 @@ that ends in R, not expressed.</p>
 <p>𒈗𒆳𒆳𒊏</p>
 <p>𒈗𒀀𒉌</p>
 
-<p>The plural of nouns that refer to human beings
+The plural of nouns that refer to human beings
 is formed by a suffixed ENE. The plural of things,
 plants and animals is usually unmarked.
   Reduplication -- such as KUR.KUR (𒆳𒆳) -- conveys
   the idea of totality: "**all the lands**." 
-</p>
 
-<p>Then comes the agent, with the E
+
+Then comes the agent, with the E
 prefix combined with the genitive
-ending into KE4 (𒆤). </p>
+ending into KE4 (𒆤).
 
-<p>The next in the line is
+The next in the line is
   the object that was built, to wit,
-his temple 𒂍𒀀𒉌  (cn e2 a ni).</p>
+his temple 𒂍𒀀𒉌  (cn e2 a ni).
 
 1- [ENLIL -- For Enlil,\
 2- [LUGAL.KUR.KUR].{RA(K) #genitive} -- the king of all lands,\

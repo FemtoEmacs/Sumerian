@@ -365,12 +365,12 @@ The subject of a sentence is the topic of
 the conversation. Besides the subject, the sentence may have
 other marked components called case elements.
 
-The leading case elements are the ergative (dower of a task),
-dative (beneficiary),  locative (place), terminative (goal),
-ablative (separation) and comitative (with).
+The leading case elements are the ergative (𒂊 • e • dower of a task),
+dative (𒊏 • ra • beneficiary),  locative (𒀀 • a • place), terminative (𒂠 • še • goal),
+ablative (𒋫 • ta • separation), comitative (𒁕 • da • with) and equitative (𒁶 • gin7 • like).
 
 In Sumerian, the cases may have references in a chain of
-prefixes that delimit the verb's meaning. Below there
+prefixes that delimit the verb's meaning. Below 
 is a list of case markers together with their references.
 
 <h2>Dative: 𒊏 (ra, r)/𒈾 (na) </h2>
@@ -378,10 +378,10 @@ is a list of case markers together with their references.
 nin.ra lugal.e e2 mu-na-du3</br>
 For the lady, the king built a house.
 
-<h2>Locative: 𒀀 (a)</h2>
-<h3>𒎏𒊏𒈗𒂊𒌷𒀀𒂍𒈬𒈾𒆕</h3>
-nin.ra lugal.e uru.a e2 mu-na-du3</br>
-For a lady, the king built a house in a city.
+<h2>Locative: 𒀀 (a)/𒁀 (ba)</h2>
+<h3>𒈗𒂊𒌷𒀀𒂍𒈬𒁀𒆕</h3>
+lugal.e uru.a e2 mu-ba-du3</br>
+The king built a house in a city.
 
 <h2>Terminative: 𒂠 (še)/𒅆(ši)</h2>
 <h3>𒂷𒂊𒌷𒈬𒂠𒂵𒅆𒁺</h3>
@@ -402,10 +402,29 @@ When used as a prefix to a verb, the dative takes a different
 forms depending on the person and number it is referring to.
 
 <h2>𒈠 (ma) to me</h2>
+<h3>𒂷𒊏𒈗𒂊𒂍𒈬𒈠𒆕</h3>
+g̃e26.ra lugal.e e2 mu.ma.du3</br>
+For me, the king built a house.
+
 <h2>𒊏 (ra) to you</h2>
+<h3>𒍢𒊏𒈗𒂊𒂍𒈬𒊏𒆕</h3>
+ze2.ra lugal.e e2 mu.ra.du3</br>
+The king built a house for you.
+
 <h2>𒈾 (na) to him/to her</h2>
+<h3>𒎏𒊏𒈗𒂊𒂍𒈬𒈾𒆕</h3>
+nin.ra lugal.e e2 mu-na-du3</br>
+For the lady, the king built a house.
+
 <h2>𒈨 (me) to us</h2>
+<h3>𒈗𒂊𒂍𒈬𒈨𒆕</h3>
+lugal.e e2 mu.me.du3</br>
+The king built a house for us.
+
 <h2>𒉈 (ne) to them</h2>
+<h3>𒈗𒂊𒂍𒈬𒉈𒆕</h3>
+lugal.e e2 mu.ne.du3</br>
+The king built a house for them.
 
 ## Transitive verbs
 A transitive verb describes an action that transitions
@@ -438,7 +457,7 @@ Below, there are examples of all initial pronominal prefixes.
 <h3>𒈬𒈨𒆪𒂊 (mu-me.dab.e) he seizes us</h3>
 <h3>𒈬𒌦𒉈𒆪𒂊 (mu-nne.dab.e) he seizes them</h3>
 
-Below, I have for you a complete example of a transitive sentence.
+I have for you a complete example of a transitive sentence below.
 I provided you with a pronunciation key and vocabulary, so I hope
 you can scan the sentence.
 

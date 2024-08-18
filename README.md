@@ -357,7 +357,7 @@ Let's read the whole brick inscription:
 7. BAD3.URIM2.MA (𒂦𒋀𒀕𒆠𒈠) -- The wall of Ur,
 8. MU-NA-DU3 (𒈬𒈾𒆕) -- he built for NANNA.
 
-The meaning of the whole document is something like this: **"For the god Nanna, his Lord, Ur-Nammu, the King of Urim, built his temple. The king also built the city walls of Urim."**
+The meaning of the whole document is something like this: **"For the god Nanna, his Master, Ur-Nammu, the King of Urim, built his temple. The king also built the city walls of Urim."**
 
 # Sentence structure
 The subject of a sentence is the topic of

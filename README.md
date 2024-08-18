@@ -272,7 +272,7 @@ The noun phrase 𒂦𒋀𒀕𒆠𒈠 (BAD2.URIM2.MA) means "wall of URIM2." The 
    <th><h3>𒈠</h3></th>
  </tr>
  <tr>
-  <td>bad2</td>
+  <td>bad3</td>
    <td>urim5</td>
    <td>ma</td>
  </tr>

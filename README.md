@@ -27,7 +27,7 @@ Below, you can see my first attempt at writing the contents of the Ur-Nammu No. 
 ![image](https://github.com/user-attachments/assets/958a6db2-2ffd-49f0-b57d-640f594fa099)
 
 ## Books
-There are few grammar books for Sumerian. Unfortunately, Marie-Louise Thomsen's "**The Sumerian Language**" does not use cuneiform, so I cannot recommend it. This leaves us with John Hayes' Manual of Sumerian and Joshua Bowen's **Learn to Read Ancient Sumerian**. Therefore, I advise you to buy  "**A Manual of Sumerian: Grammar and Texts**" by Hayes to learn this ancient language in depth. It is also a good idea to acquire "**Learn to Read Ancient Sumerian**" by Joshua Bowen and Megan Lewis.
+There are few grammar books for Sumerian. Unfortunately, Marie-Louise Thomsen's "**The Sumerian Language**" does not use cuneiform, so I cannot recommend it. This leaves us with John Hayes' **Manual of Sumerian** and Joshua Bowen's **Learn to Read Ancient Sumerian**. Therefore, I advise you to buy  "**A Manual of Sumerian: Grammar and Texts**" by Hayes to learn this ancient language in depth. It is also a good idea to acquire "**Learn to Read Ancient Sumerian**" by Joshua Bowen and Megan Lewis.
 
 ## Sentence structure
 1- [NANNA \

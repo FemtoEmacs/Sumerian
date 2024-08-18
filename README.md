@@ -378,8 +378,9 @@ The leading case elements and their marks are:
 <h3>equitative (𒁶 • gin7 • like)</h3>
 
 In Sumerian, the cases may have references in a chain of
-prefixes that delimit the verb's meaning. I've included below
-a list of case markers and their references.
+prefixes that delimit the meaning of the verbal chain.
+Below is a list of case markers and their
+references in the verbal chain.
 
 <h2>Dative: 𒊏 (ra, r)/𒈾 (na) </h2>
 <h3>𒎏𒊏𒈗𒂊𒂍𒈬𒈾𒆕</h3>

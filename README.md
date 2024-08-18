@@ -221,12 +221,14 @@ The fifth rectangle introduces the temple (E2 - 𒂍) that Ur-Nammu built. The e
 
 
 ## Sixth Rectangle
-The verb 𒈬𒈾𒆕 (MUNADU3) can be translated as "built." The verb has three components:
+A verbal stem prefixed by a sequence of particles and possibly followed
+by a suffix is called a verbal chain. The verbal chain 𒈬𒈾𒆕 (MUNADU3)
+can be translated as "built." This verbal chain has two prefixes and a stem:
 
 1. 𒈬 — Ventive Conjugation Prefix (CP). The Ventive CP indicates that the action occurs here, close to the speaker.
 3. 𒈾 — Dimensional Prefix (DP) cross-referencing the dative.
    Sumerian has a DP for each sentence component, except the ergative and the patient.
-5. 𒆕 — verbal root
+5. 𒆕 — verbal stem
 
 <table>
  <tr>

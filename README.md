@@ -104,12 +104,7 @@ In Sumerian, like in Latin and German, a nominal phrase has a case marker that i
   lugal.ani].(r)
   </td>
  </tr>
-  <tr>
-  <td colspan="2">
-   <i>his master,</i> 
-  </td>
- </tr><td><h3>the king</h3></td>
-  <tr>
+<tr>
   <td colspan="2">
    <h4>𒈗 • (lugal) king, lord, master, owner</h4>
     <h4>𒀀𒉌 • (a-ni, a-ne2) his/her (3d-person human possessive pronoun)</h4>

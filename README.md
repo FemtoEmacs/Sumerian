@@ -299,7 +299,7 @@ The noun phrase 𒂦𒋀𒀕𒆠𒈠 (BAD2.URIM2.MA) means "wall of URIM2." The 
 </table>
 
 ## Eigth Rectangle
-The last rectangle repeats the 𒈬𒈾𒆕 (MUNADU3) verb.
+The last rectangle repeats the 𒈬𒈾𒆕 (MUNADU3) verbal chain.
 
 <table>
  <tr>

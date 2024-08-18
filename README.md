@@ -363,10 +363,49 @@ The meaning of the whole document is something like this: **"For the god Nanna, 
 # Sentence structure
 The subject of a sentence is the topic of
 the conversation. Besides the subject, the sentence may have
-other components, such as a dative and a locative.
-Many actions have a benefactive, which is called dative by linguists.
-In Sumerian, the dative is marked with 𒊏 (ra, r). The place where
-the action occurs is called locative and is marked by 𒀀(a).
+other marked components called case elements.
+
+The leading case elements are the ergative (dower of a task),
+dative (beneficiary),  locative (place), terminative (goal),
+ablative (separation) and comitative (with).
+
+In Sumerian, the cases may have references in a chain of
+prefixes that delimit the verb's meaning. Below there
+is a list of case markers together with their references.
+
+<h2>Dative: 𒊏 (ra, r)/𒈾 (na) </h2>
+<h3>𒎏𒊏𒈗𒂊𒂍𒈬𒈾𒆕</h3>
+nin.ra lugal.e e2 mu-na-du3</br>
+For the lady, the king built a house.
+
+<h2>Locative: 𒀀 (a)</h2>
+<h3>𒎏𒊏𒈗𒂊𒌷𒀀𒂍𒈬𒈾𒆕</h3>
+nin.ra lugal.e uru.a e2 mu-na-du3</br>
+For a lady, the king built a house in a city.
+
+<h2>Terminative: 𒂠 (še)/𒅆(ši)</h2>
+<h3>𒂷𒂊𒌷𒈬𒂠𒂵𒅆𒁺</h3>
+ĝa2.e uru.ĝu10.še ga.ši.ĝen</br>
+I will go there to my city.
+
+<h2>Ablative: 𒋫 (ta)/𒋫 (ta) or 𒊏 (ra)</h2>
+<h3>𒌷𒋫 𒁀𒋫𒁺</h3>
+uru.ta ba.ta.ĝen</br>
+He went out from the city.
+
+<h2>Comitative: 𒁕 (da)/𒁕 (da) or 𒉈 (de3) or 𒁲 (di)</h2>
+<h3>𒈗𒂊𒌉𒁕𒂍𒈬𒌦𒁕𒆕</h3>
+lugal.e dumu.da e2 mu.un.da.du3</br>
+The king built the house with a son.
+
+When used as a prefix to a verb, the dative takes a different
+forms depending on the person and number it is referring to.
+
+<h2>𒈠 (ma) to me</h2>
+<h2>𒊏 (ra) to you</h2>
+<h2>𒈾 (na) to him/to her</h2>
+<h2>𒈨 (me) to us</h2>
+<h2>𒉈 (ne) to them</h2>
 
 ## Transitive verbs
 A transitive verb describes an action that transitions

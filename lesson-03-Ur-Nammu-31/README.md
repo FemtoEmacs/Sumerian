@@ -1,4 +1,4 @@
-## Inscription on a vase
+# Inscription on a vase
 
 ![image](https://github.com/user-attachments/assets/7b4cf026-cab9-45bc-ac93-98dd36e64b21)
 
@@ -335,7 +335,7 @@ to dedicate
  </tr>
 </table>
 
-## Imperative
+# Imperative
 The prefix /ḫa/ 𒄩  expresses a request also to the second person.
 It can be considered a polite form of imperative.
 

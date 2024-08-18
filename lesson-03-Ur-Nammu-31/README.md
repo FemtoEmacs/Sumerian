@@ -336,7 +336,7 @@ to dedicate
 </table>
 
 # Imperative
-The prefix /ḫa/ 𒄩  expresses a request also to the second person.
+The prefix /ḫa/ 𒄩  expresses a request to the second person.
 It can be considered a polite form of imperative.
 
 <h2>𒊺𒈬𒄩𒈬𒉐</h2>

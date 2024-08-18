@@ -558,7 +558,7 @@ not marked.
 </table>
 
 In the example above, you found an instance of a possessive pronoun in
-the expression 𒌷𒈬 (uru.gu10) **my city**. Below, you will
+the expression 𒌷𒈬 (uru.ĝu10) **my city**. Below, you will
 find a complete list of possessive pronouns.
 
 <h3>𒈬 • (g̃u10) my </h3>
@@ -636,7 +636,7 @@ e2 lugal-la</br>
 The king's house</br>
 
 <h2>𒈗𒆷𒆤</br>𒂍</br>𒈬𒈾𒆕</h2>
-(lugal la ke4) By the king </br>(e2) a house </br> (mu-na-du3) was built </br>
+(lugal la ke4) By the king </br>(e2) a house </br> (mu-na-du3) was built for her </br>
 
 
 

@@ -529,7 +529,7 @@ not marked.
  </tr>
  <tr>
   <td><h3>lugal..∅</h3></td>
-  <td><h3>uru.gu10 she</h3></td>
+  <td><h3>uru.ĝu10 še</h3></td>
   <td><h3>i3</h3></td>
   <td><h3>im</h3></td>
    <td><h3>g̃en</h3></td>
@@ -552,7 +552,7 @@ not marked.
    <h4>𒁺 • (g̃en) to come</h4>
     <h4>𒂠 • (še3)  to, towards</h4>
     <h4>𒌷 • (uru) city</h4>
-    <h4>𒌷𒈬 • (uru.gu10) my city</h4>
+    <h4>𒌷𒈬 • (uru.ĝu10) my city</h4>
   </td>
  </tr>
 </table>

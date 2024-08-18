@@ -517,7 +517,7 @@ An intransitive verb does not have a direct object.
 In Sumerian, the subject of an intransitive verb is
 not marked.
 
-<h2>𒈗𒉌𒅎𒁺</h2>
+<h2>𒈗𒌷𒈬𒂠𒉌𒅎𒁺</h2>
 <table>
  <tr>
   <td><h3>𒈗</h3></td>

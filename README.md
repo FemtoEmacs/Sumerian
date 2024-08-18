@@ -147,7 +147,7 @@ The third rectangle contains the name of Ur-Nammu (𒌨𒀭𒇉), the king who r
 </table>
 
 ## Fourth Rectangle
-On the fourth rectangle, 𒋀𒀕𒆠 (URIM2) is written, representing the city that was the cult center of Nanna. It is formed by the Sumerograms ŠEŠ (𒋀) and UNUG (𒀕). The Sumerogram 𒆠 is determinative for geographic names.
+The fourth rectangle contains 𒈗𒋀𒀕𒆠𒈠𒆤 (LUGAL URIM2 MA KE2), where 𒋀𒀕𒆠 (URIM2) represents the city that was the cult center of Nanna. It is formed by the Sumerograms ŠEŠ (𒋀) and UNUG (𒀕). The Sumerogram 𒆠 is determinative for geographic names.
 
 The genitive case denotes possession. Unlike the dative, English has a genitive case, formed by an apostrophe followed by "s." In English, one would say, "Urim's King." In Sumerian, the genitive follows the possessor and is marked with "AK" after consonants and "K" after vowels. In this case, the "A" of "AK" was assimilated with the previous consonant, becoming 𒈠 (MA). The Sumerogram 𒆤 (KE4) represents the "K" of the genitive and the "E4" of the ergative.
 

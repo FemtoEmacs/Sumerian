@@ -364,14 +364,19 @@ The meaning of the whole document is something like this: **"For the god Nanna, 
 The subject of a sentence is the topic of
 the conversation. Besides the subject, the sentence may have
 other marked components called case elements.
+The leading case elements and their marks are:
 
-The leading case elements are the ergative (𒂊 • e • dower of a task),
-dative (𒊏 • ra • beneficiary),  locative (𒀀 • a • place), terminative (𒂠 • še • goal),
-ablative (𒋫 • ta • separation), comitative (𒁕 • da • with) and equitative (𒁶 • gin7 • like).
+<h3>the ergative (𒂊 • e • dower of a task)</h3>
+<h3>dative (𒊏 • ra • beneficiary)</h3>
+<h3>locative (𒀀 • a • place)</h3>
+<h3>terminative (𒂠 • še • goal)</h3>
+<h3>ablative (𒋫 • ta • separation)</h3>
+<h3>comitative (𒁕 • da • with)</h3>
+<h3>equitative (𒁶 • gin7 • like)</h3>
 
 In Sumerian, the cases may have references in a chain of
-prefixes that delimit the verb's meaning. Below 
-is a list of case markers together with their references.
+prefixes that delimit the verb's meaning. I've included below
+a list of case markers and their references.
 
 <h2>Dative: 𒊏 (ra, r)/𒈾 (na) </h2>
 <h3>𒎏𒊏𒈗𒂊𒂍𒈬𒈾𒆕</h3>

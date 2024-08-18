@@ -561,6 +561,7 @@ not marked.
  </tr>
 </table>
 
+## Possessive pronouns
 In the example above, you found an instance of a possessive pronoun in
 the expression 𒌷𒈬 (uru.ĝu10) **my city**. Below, you will
 find a complete list of possessive pronouns.
@@ -573,6 +574,7 @@ find a complete list of possessive pronouns.
 <h3>𒍪𒉈𒉈 • (zu-ne-ne) your</h3>
 <h3>𒂊𒉈𒉈 (e-ne-ne) their</h3>
 
+## Independent pronouns
 Sumerian has a set of independent pronouns that I advise you to learn
 right away.
 

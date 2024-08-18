@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/cd334603-899d-450d-84a6-1965b02c7420)
 
-## Annotations and Scholia,
+## Annotations and Scholia
 
 <h2>𒀭𒂗𒆤</h2>
 <table>
@@ -28,7 +28,7 @@
   <i>For Enlil,</i>
   </td>
  </tr>
- <tr>• (kurum6)
+ <tr>
   <td colspan="3">
   <h4>𒀭𒂗𒆤 • (den-lil2) Enlil, the king of the gods</h4>
   </td>

@@ -403,7 +403,7 @@ He went out from the city.
 lugal.e dumu.da e2 mu.un.da.du3</br>
 The king built the house with a son.
 
-### Dative
+## Dative conjugation
 When used as a prefix to a verb, the dative takes a different
 forms depending on the person and number it is referring to.
 

@@ -51,13 +51,12 @@ my ```.emacs``` file:
 ```
 With this ```.emacs``` configuration file, whenever you
 start Emacs, it will be ready to typeset Sumerian cuneiforms.
-
-After loading ```cnf.el```, an Emacs Lisp application, you can insert
-Sumerograms by name into your text. You can find the names of the
-Sumerograms in Hayes's book. Here is how to typeset the lines of the
+Therefore, you can insert Sumerograms by name into your text.
+You can find the names of the Sumerograms in Hayes's book.
+Here is how to typeset the lines of the
 document used as an example: When you press **Alt-;** (hold the **Alt** key
 and strike the semicolon), Emacs will prompt you with '**Eval:**.' Then,
-type the lines of text to introduce them into the document.
+type the lines of text below to introduce them into the document.
 
 1. Eval: (cn an inanna) > 𒀭𒈹
 2. Eval: (cn nin a ni) > 𒎏𒀀𒉌

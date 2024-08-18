@@ -329,7 +329,7 @@ The last rectangle repeats the 𒈬𒈾𒆕 (MUNADU3) verb.
    <h4> 𒈾 or 𒀀 • (na) DP that cross-references the dative</h4>
    <h4> 𒁕 • (da) DP comitative, indicates group action, as in ‘with’</h4>
    <h4> 𒋫 • (ta) DP ablative, indicates separation</h4>
-   <h4>𒂠 • (še) DP terminative, indicates goal </h4>
+   <h4>𒂠 or 𒅆 • (še or ši) DP terminative, indicates goal </h4>
   <h4>𒉌 • (ni) DP locative, indicates where something is happening</h4>
   <h4> 𒂊 • (e) DP locative2, indicates motion toward something </h4>
 </td>

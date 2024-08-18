@@ -507,7 +507,7 @@ you can scan the sentence.
   <h4>𒀀 • (a) <i>locative marker</i> </h4>
   <h4>𒈬 • (mu) <i>venitive conjugation prefix,</i> here </h4>
      <h4>𒈾 • (na) <i>cross-reference to the dative,</i> to her </h4>
-    <h4>𒀊  • (na) <i>Initial Prefix Pronoun,</i> it  </h4>
+    <h4>𒀊  • (ab) <i>Initial Prefix Pronoun,</i> it  </h4>
     <h4>𒋧 • (shum2) to give</h4>
   </td>
  </tr>

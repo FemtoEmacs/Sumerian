@@ -30,7 +30,7 @@
  </tr>
  <tr>
   <td colspan="3">
-  <h4>𒀭𒂗𒆤 • (den-lil2) Enlil, the king of the gods</h4>
+  <h4>𒀭𒂗𒆤 • (d-en-lil2) Enlil, the king of the gods</h4>
   </td>
  </tr>
 </table>

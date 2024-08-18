@@ -56,8 +56,8 @@ You can find the names of the Sumerograms in Hayes's manual
 or in Lewiss and Bowen's ***Learn to Read Ancient Sumerian***.
 
 When you press **Alt-;** (hold the **Alt** key
-and strike the semicolon), Emacs will present you with the
-**Eval:** prompt. Then,
+and strike the semicolon), Emacs will answer with the
+**Eval** prompt. Then,
 type the ```(cn ...)``` commands  below to introduce the
 corresponding Sumerograms into the document.
 

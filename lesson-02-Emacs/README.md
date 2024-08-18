@@ -23,15 +23,34 @@ while striking the x key. In the one-line buffer that appears,
 type 'load-file' and press Enter. Then, type ```cnf.el```, the program you
 will find in the same directory as this README.md file. You'll need to
 download ```cnf.el``` to a directory on your computer where you can
-quickly locate it.
+quickly locate it. I advise you to create a ```~/.emacs.d/sumerian/``` and
+place ```cnf.el``` there. In this case, ```~/.emacs.d/sumerian/cnf.el``` 
+will be the full path to the typesetting application. 
 
 To use Emacs to typeset Sumerian cuneiform,
 keep the Alt key pressed and strike the x-key. On the
 one-line buffer, type 'load-file' followed by Enter.
-Then type 'cnf.el', the program you will
-find in the same directory as this README.md.
-You must download 'cnf.el' to a directory of
-your computer where you can find it.
+Then type the full path '~/.emacs.d/sumerian/cnf.el'
+to the typesetting application.
+
+You can also place the ```load-file``` command into the
+```~/.emacs``` cofiguration directory. Here is
+my ```.emacs``` file:
+
+```shell
+(load-file "~/.emacs.d/sumerian/cnf.el")
+
+(setq inhibit-startup-message t)
+
+(set-face-attribute 'default nil :height 180)
+
+(setq scroll-step            1
+      scroll-conservatively  10000)
+
+(show-paren-mode 1)
+```
+With this ```.emacs``` configuration file, whenever you
+start Emacs, it will be ready to typeset Sumerian cuneiforms.
 
 After loading ```cnf.el```, an Emacs Lisp application, you can insert
 Sumerograms by name into your text. You can find the names of the

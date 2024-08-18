@@ -552,7 +552,7 @@ not marked.
    <h4>𒁺 • (g̃en) to come</h4>
     <h4>𒂠 • (še3)  to, towards</h4>
     <h4>𒌷 • (uru) city</h4>
-    <h4>𒌷𒈬 • (uru) city</h4>
+    <h4>𒌷𒈬 • (uru.gu10) my city</h4>
   </td>
  </tr>
 </table>

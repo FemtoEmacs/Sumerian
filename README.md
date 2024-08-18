@@ -557,7 +557,7 @@ not marked.
  </tr>
 </table>
 
-In the example above, you found an example of a possessive pronoun in
+In the example above, you found an instance of a possessive pronoun in
 the expression 𒌷𒈬 (uru.gu10) **my city**. Below, you will
 find a complete list of possessive pronouns.
 

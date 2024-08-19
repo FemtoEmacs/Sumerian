@@ -592,6 +592,14 @@
 	;;; 𒅗𒀀𒉈𒀊
         ;;; (cn nin9-sister ĝu10-my tum2 mu un-ze2-en) Bring my sister!
 	;;; 𒎐𒈬𒁺𒈬𒌦𒍢𒂗
+
+	("𒉈" 3-pl de3)
+	("𒁁" 3-pl be)
+	("𒂗𒉈𒂗" we enden)
+	("𒍢" you ze2)
+
+	("𒁺" to-go ĝen)
+	("𒁻" to-go-pl re7)
 	));; end
 
 ;; 𒃻 -- thing

@@ -312,14 +312,14 @@ the hamtu as the English present perfect, and the marû,
 as the English future.
 
 <h2>hamtu: 𒈗𒂊𒂦𒈬𒌦𒁺</h2>
-(cn lugal e bad3 mu un gub)
+(cn lugal e bad3 mu un gub)</br>
 The king has erected a wall here.
 
 <h2>marû: 𒈗𒂊𒂦𒉌𒁺𒂊</h2>
 (cn lugal e bad3  i3 gub e)</br>
 The king will erect a wall.
 
-## Hamtu and marû conjugation
+# Hamtu and marû conjugation
 ## First person
 <h3>𒈾𒈬𒁺</h3>
 (cn na mu gub)</br>
@@ -385,4 +385,33 @@ humans and animals.
 (cn na mu ub gub)</br>
 It has set up a stone.
 
+
+# Intransitive verb conjugation
+Intransitive verbs have the same forms for the hamtu
+and the marû aspects. Below is the complete conjugation
+of the verb 𒁺 (ĝen), **to go** (or **to come**). 
+
+<h3>𒉌𒁺𒂗</h3>
+(cn i3 ĝen en)</br>
+I went.
+
+<h3>𒉌𒁺𒂗</h3>
+(cn i3 ĝen en)
+You went.
+
+<h3>𒉌𒁺</h3>
+(cn i3 ĝen)</br>
+He went.
+
+<h3>𒉌𒁻𒂗𒉈𒂗</h3>
+(cn i3 re7 en de3 en)</br>
+We went.
+
+<h3>𒉌𒁻𒂗𒍢𒂗</h3>
+(cn i3 re7 en ze2 en)</br>
+You people went.
+
+<h3>𒉌𒁻𒂠</h3>
+(cn i3 re7 esh)</br>
+They went.
 

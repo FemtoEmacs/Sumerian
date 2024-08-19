@@ -304,3 +304,85 @@ and the e4 is the ergative marker.</p>
 <p><i>For Inanna, his lady, Ur-Nammu, the mighty man,
 King of Urim, King of Sumer and Akad, built her
 temple.</i></p>
+
+# Conjugation
+Transitive verbs have two aspects: the hamtu (perfective) and
+the marû (imperfective). For the time being, you can translate
+the hamtu as the English present perfect, and the marû,
+as the English future.
+
+<h2>hamtu: 𒈗𒂊𒂦𒈬𒌦𒁺</h2>
+(cn lugal e bad3 mu un gub)
+The king has erected a wall here.
+
+<h2>marû: 𒈗𒂊𒂦𒉌𒁺𒂊</h2>
+(cn lugal e bad3  i3 gub e)</br>
+The king will erect a wall.
+
+## Hamtu and marû conjugation
+## First person
+<h3>𒈾𒈬𒁺</h3>
+(cn na mu gub)</br>
+I have set up a border stone.
+
+<h3>𒈾𒉌𒁺𒂗</h3>
+(cn na i3 gub en)</br>
+I will set up a stone.
+
+## Second person singular
+<h3>𒈾𒈬𒂊𒁺</h3>
+(cn na mu e gub)</br>
+You have set up a stone.
+
+<h3>𒈾𒉌𒁺𒂗</h3>
+(cn na i3 gub en)</br>
+You will set up a stone.
+
+## Third person singular (humans)
+<h3>𒈾𒈬𒌦𒁺</h3>
+(cn na mu un gub)</br>
+He has set up a stone
+
+<h3>𒈾𒉌𒁺𒂊</h3>
+(cn na i3 gub e)</br>
+He will set up a stone.
+
+## First person plural
+<h3>𒈾𒈬𒁺𒁁𒂗𒉈𒂗</h3>
+(cn na mu gub be en de3 en)</br>
+We have set up a stone
+
+<h3>𒈾𒉌𒁺𒂗𒉈𒂗</h3>
+(cn na i3 gub en de3 en)</br>
+We will set up a stone.
+
+## Second person plural
+<h3>𒈾𒈬𒂊𒁺𒁁𒂗𒍢𒂗</h3>
+(cn na mu e gub be en ze2 en)</br>
+You have set up a stone.
+
+<h3>𒈾𒉌𒁺𒁁𒂗𒍢𒂗</h3>
+(cn na i3 gub be en ze2 en)</br>
+You will set up a stone.
+
+## Third person plural
+</h3>𒈾𒈬𒌦𒁺𒁁𒂠</h3>
+(cn na mu un gub be esh)</br>
+They have set up a stone.
+
+<h3>𒈾𒉌𒁺𒁁𒂊𒉈</h3>
+(cn na i3 gub be e ne)</br>
+They will set up a stone.
+
+
+Animals and plants have different
+pronouns for the third person singular.
+Therefore, in the third person singular,
+the hamtu aspect is not the same for
+humans and animals.
+
+<h3>𒈾𒈬𒌒𒁺</h3>
+(cn na mu ub gub)</br>
+It has set up a stone.
+
+

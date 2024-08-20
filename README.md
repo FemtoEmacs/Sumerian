@@ -662,6 +662,12 @@ They are your friend.
     <td>me-en</td>
   </tr>
   <tr>
+    <td>friend</td>
+    <td>your</td>
+    <td>I</td>
+    <td>am</td>
+  </tr>
+  <tr>
     <td colspan="4">
       <i>I am your friend</i>
     </td>

@@ -707,5 +707,56 @@ The king's house</br>
 <h2>𒈗𒆷𒆤</br>𒂍</br>𒈬𒈾𒆕</h2>
 (lugal la ke4) By the king </br>(e2) a house </br> (mu-na-du3) was built for her </br>
 
+## Interrogative pronouns
+Sumerians marked yes/no interrogative sentences only by intonation
+and possibly by lengthening the final vowels, like many modern
+languages, such as Spanish and Portuguese.
+
+To ask **who** performed a task, Sumerians used
+the interrogative word **𒀀𒁀𒀀** (a-ba-a), as shown below.
+
+<h2>𒂍 • 𒀀𒁀𒀀 • 𒅔𒆕</h2>
+e2 • a-ba-a • in du3</br>
+the temple • who • built?</br>
+Who built the temple?
+
+To ask **who** is something, Sumerians used
+the interrogative pronoun **𒀀𒁀** (a-ba).
+
+<h2>𒀀𒁀 • 𒀭𒌓 • 𒁶</h2>
+a-ba • utu • 𒁶</br>
+Who • Utu • is like?</br>
+Who is like Utu?
+
+In Sumerian, there is no wh-movement to the beginning of the clause,
+like in English and Spanish. Instead, the interrogative words
+are placed immediately before the verb.
+
+<h2>𒈗𒂊 • 𒀀𒈾 • 𒈬𒌦𒀝</h2>
+lugal.e • a-na • mu-un-ak</br>
+the king • what • did he do?</br>
+What did the king do?
+
+<h2>𒌉𒈬 • 𒀀𒈾 •  𒉡𒍪</h2>
+dumu.ĝu10 • a-na • nu.zu</br>
+my son • what • does not know?<br>
+What does my son not know?
+
+<h2>𒀀𒈾 •  𒀀𒀭 •  𒉈𒂊</h2>
+a-na • am3 • ne-e</br>
+what • is • this?</br>
+What is this?
+
+An exception to the rule of placing the interrogative
+word immediately before the verb occurs in why-questions,
+as the example below shows.
+
+<h2>𒀀𒈾𒀸 •  𒀀𒀭 • 𒉌𒁺  </h2>
+a-na-aš.am3 • i3.ĝen</br>
+what is it • that he came?</br>
+Why did he come?
+
+The expression 𒀀𒈾𒀸 (a-na-aš) that one usually translates
+as "**why?**" means literally "**what for?**"
 
 

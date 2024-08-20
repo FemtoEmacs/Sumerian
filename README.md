@@ -369,7 +369,7 @@ the conversation. Besides the subject, the sentence may have
 other marked components called case elements.
 The leading case elements and their marks are:
 
-<h3>the ergative (𒂊 • e • dower of a task)</h3>
+<h3>the ergative (𒂊 • e • doer of a task)</h3>
 <h3>dative (𒊏 • ra • beneficiary)</h3>
 <h3>locative (𒀀 • a • place)</h3>
 <h3>terminative (𒂠 • še • goal)</h3>

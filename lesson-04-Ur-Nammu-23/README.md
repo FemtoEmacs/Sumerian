@@ -363,3 +363,8 @@ his temple 𒂍𒀀𒉌  (cn e2 a ni).
 9- [ID2.EN.ERIN2.NUN -- The Enerinnun canal,\
 10-  [ID2.NIDBA].{K}.ANI].{} -- his canal of food offering,\
 11- MU.NA.BA.AL -- (the king) dredged for him.
+
+## Translation
+***For Enil, the king of all the lands, his master,
+Ur-Nammu, the king of Sumer and Akkad, built his temple. The king
+also dredged the Enerinnun canal for Enlil.***

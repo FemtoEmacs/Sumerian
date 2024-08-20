@@ -572,7 +572,7 @@ find a complete list of possessive pronouns.
 <h3>𒁉 • (bi, be₂) its</h3>
 <h3>𒈨 • (me) our</h3>
 <h3>𒍪𒉈𒉈 • (zu-ne-ne) your</h3>
-<h3>𒂊𒉈𒉈 (e-ne-ne) their</h3>
+<h3>𒀀𒉈𒉈 (a-ne-ne) their</h3>
 
 ## Independent pronouns
 Sumerian has a set of independent pronouns that I advise you to learn
@@ -581,9 +581,10 @@ right away.
 <h3>𒂷 • (g̃e26) I/me</h3>
 <h3>𒍢 • (ze2) thou/thee</h3>
 <h3>𒍢 (ze2) becomes 𒍝 (za) when followed by the dative 𒊏 (ra). </h3>
-<h3>𒀀𒉈 • (a-ne) he/she/him/her</h3>
+<h3>𒀀𒉈 • (e-ne) he/she/him/her</h3>
+<h3>𒀀𒉈𒉈 • (a-ne-ne) they</h3>
 
-<h2>𒀀𒉈 𒁾 𒍝𒊏 𒈠𒊏𒀊𒋧𒈬</h2>
+<h2>Ex: 𒀀𒉈 𒁾 𒍝𒊏 𒈠𒊏𒀊𒋧𒈬</h2>
 <table>
  <tr>
   <td><h3>𒀀𒉈</h3></td>
@@ -616,6 +617,61 @@ right away.
    <h4>𒍢 (ze2) followed by 𒊏 (ra) becomes 𒍝 (za).</h4> 
   </td>
  </tr>
+</table>
+
+Sometimes, the personal pronoun appears with an enclitic copula (verb *to be*)
+attached to the end.
+
+<h3>𒆪𒇷𒍪 • 𒂷𒈨𒂗</h3>
+gu5-li.zu (your friend) • ĝe26.e-me-en (I am)</br>
+I am your friend.
+
+<h3>𒆪𒇷𒈬 • 𒍢 𒈨𒂗</h3>
+gu5-li.ĝu10 (my friend) • ze2-me-en (you are) </br>
+You are my friend.
+
+<h3>𒆪𒇷𒍪 • 𒀀𒉈  𒀀𒀭 </h3>
+gu5-li.zu (your friend) • a-ne.am3 (she/he is)</br>
+She is your friend.
+
+<h3>𒆪𒇷𒍪 • 𒈨 • 𒂗𒉈𒂗</h3>
+ gu5-li.zu (your friend) • me.en-de3-en (we are)</br>
+ We are your friend.
+ 
+<h3>𒆪𒇷𒈬 • 𒈨𒂗𒍢𒂗</h3>
+gu5-li.ĝu10 (my friend) • me-en-ze2-en (you are)</br>
+You guys are my friend.
+
+<h3>𒆪𒇷𒍪 • 𒀀𒉈𒉈𒈨𒂠</h3>
+gu5-li.zu (your friend) • a-ne-ne me-esh (they are)</br>
+They are your friend.
+  
+<h2>Ex: 𒆪𒇷𒍪𒂷𒈨𒂗</h2>
+<table>
+  <tr>
+    <td><h3>𒆪𒇷</h3></td>
+    <td><h3>𒍪</h3></td>
+    <td><h3>𒂷</h3></td>
+    <td><h3>𒈨𒂗</h3></td>
+  </tr>
+  <tr>
+    <td>gu5-li</td>
+    <td>zu</td>
+    <td>ĝe26</td>
+    <td>me-en</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <i>I am your friend</i>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <h3>𒆪𒇷 • (gu5-li) friend</h3>
+      <h3>𒍪 • (zu) thy, your • 2nd-person possessive pronoun</h3>
+      <h3>𒂷𒈨𒂗 • (ge26-me-en) copula, I am</h3>
+    </td>
+  </tr>
 </table>
 
 ## Nominal chain

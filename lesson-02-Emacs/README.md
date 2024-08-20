@@ -305,6 +305,178 @@ and the e4 is the ergative marker.</p>
 King of Urim, King of Sumer and Akad, built her
 temple.</i></p>
 
+# Possessive pronouns
+In the example above, you found an instance of a possessive pronoun in
+the expression 𒌷𒈬 (uru.ĝu10) **my city**. Below, you will
+find a complete list of possessive pronouns.
+
+<h3>𒈬 • (g̃u10) my </h3>
+<h3>𒍪 • (zu) thy</h3>
+<h3>(𒀀)𒉌 (a-ni) -- his/her</h3>
+<h3>𒁉 • (bi, be₂) its</h3>
+<h3>𒈨 • (me) our</h3>
+<h3>𒍪𒉈𒉈 • (zu-ne-ne) your</h3>
+<h3>𒀀𒉈𒉈 (a-ne-ne) their</h3>
+
+# Independent pronouns
+Sumerian has a set of independent pronouns that I advise you to learn
+right away.
+
+<h3>𒂷 • (g̃e26) I/me</h3>
+<h3>𒍢 • (ze2) thou/thee</h3>
+<h3>𒍢 (ze2) becomes 𒍝 (za) when followed by the dative 𒊏 (ra). </h3>
+<h3>𒀀𒉈 • (e-ne) he/she/him/her</h3>
+<h3>𒀀𒉈𒉈 • (a-ne-ne) they</h3>
+
+<h2>Ex: 𒀀𒉈 𒁾 𒍝𒊏 𒈠𒊏𒀊𒋧𒈬</h2>
+<table>
+ <tr>
+  <td><h3>𒀀𒉈</h3></td>
+  <td><h3>𒁾</h3></td>
+  <td><h3>𒍝𒊏</h3></td>
+  <td><h3>𒈠𒊏𒀊𒋧𒈬</h3></td>
+ </tr>
+ <tr>
+  <td><h3>a-ne</h3></td>
+  <td><h3>dab</h3></td>
+  <td><h3>za.ra</h3></td>
+  <td><h3>ma-ra-ab-shum2-mu</h3></td>
+ </tr>
+  <tr>
+  <td><h3>He</h3></td>
+    <td><h3>the tablet</h3></td>
+  <td><h3>to you</h3></td>
+   <td><h3>will give</h3></td>
+ </tr>
+ <tr>
+  <td colspan="4">
+   <i>He will give you the tablet.</i>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="4">
+   <h4>𒀀𒉈 • (a-ne) he/she</h4>
+   <h4>𒁾 • (dab) the tablet </h4>
+   <h4>𒍝𒊏 • (zara) to you</h4>
+   <h4>𒍢 (ze2) followed by 𒊏 (ra) becomes 𒍝 (za).</h4> 
+  </td>
+ </tr>
+</table>
+
+Sometimes, an independent pronoun appears with an enclitic copula (verb *to be*)
+attached to its end. Below are examples of all independent pronouns for you
+to practice.
+
+<h3>𒆪𒇷𒍪 • 𒂷𒈨𒂗</h3>
+gu5-li.zu (your friend) • ĝe26.me-en (I am)</br>
+I am your friend.
+
+<h3>𒆪𒇷𒈬 • 𒍢 𒈨𒂗</h3>
+gu5-li.ĝu10 (my friend) • ze2.me-en (you are) </br>
+You are my friend.
+
+<h3>𒆪𒇷𒍪 • 𒀀𒉈  𒀀𒀭 </h3>
+gu5-li.zu (your friend) • a-ne.am3 (she/he is)</br>
+She is your friend.
+
+<h3>𒆪𒇷𒍪 • 𒈨 • 𒂗𒉈𒂗</h3>
+ gu5-li.zu (your friend) • me.en-de3-en (we are)</br>
+ We are your friend.
+ 
+<h3>𒆪𒇷𒈬 • 𒈨𒂗𒍢𒂗</h3>
+gu5-li.ĝu10 (my friend) • me.en-ze2-en (you are)</br>
+You guys are my friend.
+
+<h3>𒆪𒇷𒍪 • 𒀀𒉈𒉈𒈨𒂠</h3>
+gu5-li.zu (your friend) • a-ne-ne.me-esh (they are)</br>
+They are your friend.
+  
+<h2>Ex: 𒆪𒇷𒍪𒂷𒈨𒂗</h2>
+<table>
+  <tr>
+    <td><h3>𒆪𒇷</h3></td>
+    <td><h3>𒍪</h3></td>
+    <td><h3>𒂷</h3></td>
+    <td><h3>𒈨𒂗</h3></td>
+  </tr>
+  <tr>
+    <td>gu5-li</td>
+    <td>zu</td>
+    <td>ĝe26</td>
+    <td>me-en</td>
+  </tr>
+  <tr>
+    <td>friend</td>
+    <td>your</td>
+    <td>I</td>
+    <td>am</td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <i>I am your friend</i>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <h3>𒆪𒇷 • (gu5-li) friend</h3>
+      <h3>𒍪 • (zu) thy, your • 2nd-person possessive pronoun</h3>
+      <h3>𒂷𒈨𒂗 • (ge26-me-en) copula, I am</h3>
+    </td>
+  </tr>
+</table>
+
+# Interrogative pronouns
+Sumerians marked yes/no interrogative sentences only by intonation
+and possibly by lengthening the final vowels, like many modern
+languages, such as Spanish and Portuguese.
+
+To ask **who** performed a task, Sumerians used
+the interrogative word **𒀀𒁀𒀀** (a-ba-a), as shown below.
+
+<h2>𒂍 • 𒀀𒁀𒀀 • 𒅔𒆕</h2>
+e2 • a-ba-a • in du3</br>
+the temple • who • built?</br>
+Who built the temple?
+
+To ask **who** is something, Sumerians used
+the interrogative pronoun **𒀀𒁀** (a-ba).
+
+<h2>𒀀𒁀 • 𒀭𒌓 • 𒁶</h2>
+a-ba • utu • 𒁶</br>
+Who • Utu • is like?</br>
+Who is like Utu?
+
+In Sumerian, there is no wh-movement to the beginning of the clause,
+like in English and Spanish. Instead, the interrogative words
+are placed immediately before the verb.
+
+<h2>𒈗𒂊 • 𒀀𒈾 • 𒈬𒌦𒀝</h2>
+lugal.e • a-na • mu-un-ak</br>
+the king • what • did he do?</br>
+What did the king do?
+
+<h2>𒌉𒈬 • 𒀀𒈾 •  𒉡𒍪</h2>
+dumu.ĝu10 • a-na • nu.zu</br>
+my son • what • does not know?<br>
+What does my son not know?
+
+<h2>𒀀𒈾 •  𒀀𒀭 •  𒉈𒂊</h2>
+a-na • am3 • ne-e</br>
+what • is • this?</br>
+What is this?
+
+An exception to the rule of placing the interrogative
+word immediately before the verb occurs in why-questions,
+as the example below shows.
+
+<h2>𒀀𒈾𒀸 •  𒀀𒀭 • 𒉌𒁺  </h2>
+a-na-aš.am3 • i3.ĝen</br>
+what is it • that he came?</br>
+Why did he come?
+
+The expression 𒀀𒈾𒀸 (a-na-aš) that one usually translates
+as "**why?**" means literally "**what for?**"
+
 # Conjugation
 Transitive verbs have two aspects: the hamtu (perfective) and
 the marû (imperfective). For the time being, you can translate

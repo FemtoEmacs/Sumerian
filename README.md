@@ -561,7 +561,7 @@ not marked.
  </tr>
 </table>
 
-## Possessive pronouns
+# Possessive pronouns
 In the example above, you found an instance of a possessive pronoun in
 the expression 𒌷𒈬 (uru.ĝu10) **my city**. Below, you will
 find a complete list of possessive pronouns.
@@ -574,7 +574,7 @@ find a complete list of possessive pronouns.
 <h3>𒍪𒉈𒉈 • (zu-ne-ne) your</h3>
 <h3>𒀀𒉈𒉈 (a-ne-ne) their</h3>
 
-## Independent pronouns
+# Independent pronouns
 Sumerian has a set of independent pronouns that I advise you to learn
 right away.
 
@@ -681,7 +681,7 @@ They are your friend.
   </tr>
 </table>
 
-## Nominal chain
+# Nominal chain
 In Sumerian, adjectives are formed from verbs by adding the
 suffix 𒀀 (A). For example, the verb below means **to be strong**. 
 
@@ -707,7 +707,7 @@ The king's house</br>
 <h2>𒈗𒆷𒆤</br>𒂍</br>𒈬𒈾𒆕</h2>
 (lugal la ke4) By the king </br>(e2) a house </br> (mu-na-du3) was built for her </br>
 
-## Interrogative pronouns
+# Interrogative pronouns
 Sumerians marked yes/no interrogative sentences only by intonation
 and possibly by lengthening the final vowels, like many modern
 languages, such as Spanish and Portuguese.

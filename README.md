@@ -620,7 +620,8 @@ right away.
 </table>
 
 Sometimes, the personal pronoun appears with an enclitic copula (verb *to be*)
-attached to the end.
+attached to its end. Below is the copula for all independent pronouns for you
+to practice.
 
 <h3>𒆪𒇷𒍪 • 𒂷𒈨𒂗</h3>
 gu5-li.zu (your friend) • ĝe26.e-me-en (I am)</br>

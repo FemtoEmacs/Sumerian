@@ -619,16 +619,16 @@ right away.
  </tr>
 </table>
 
-Sometimes, a personal pronoun appears with an enclitic copula (verb *to be*)
+Sometimes, an independent pronoun appears with an enclitic copula (verb *to be*)
 attached to its end. Below are examples of all independent pronouns for you
 to practice.
 
 <h3>𒆪𒇷𒍪 • 𒂷𒈨𒂗</h3>
-gu5-li.zu (your friend) • ĝe26.e-me-en (I am)</br>
+gu5-li.zu (your friend) • ĝe26.me-en (I am)</br>
 I am your friend.
 
 <h3>𒆪𒇷𒈬 • 𒍢 𒈨𒂗</h3>
-gu5-li.ĝu10 (my friend) • ze2-me-en (you are) </br>
+gu5-li.ĝu10 (my friend) • ze2.me-en (you are) </br>
 You are my friend.
 
 <h3>𒆪𒇷𒍪 • 𒀀𒉈  𒀀𒀭 </h3>
@@ -640,11 +640,11 @@ She is your friend.
  We are your friend.
  
 <h3>𒆪𒇷𒈬 • 𒈨𒂗𒍢𒂗</h3>
-gu5-li.ĝu10 (my friend) • me-en-ze2-en (you are)</br>
+gu5-li.ĝu10 (my friend) • me.en-ze2-en (you are)</br>
 You guys are my friend.
 
 <h3>𒆪𒇷𒍪 • 𒀀𒉈𒉈𒈨𒂠</h3>
-gu5-li.zu (your friend) • a-ne-ne me-esh (they are)</br>
+gu5-li.zu (your friend) • a-ne-ne.me-esh (they are)</br>
 They are your friend.
   
 <h2>Ex: 𒆪𒇷𒍪𒂷𒈨𒂗</h2>

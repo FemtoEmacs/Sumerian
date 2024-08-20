@@ -619,8 +619,8 @@ right away.
  </tr>
 </table>
 
-Sometimes, the personal pronoun appears with an enclitic copula (verb *to be*)
-attached to its end. Below is the copula for all independent pronouns for you
+Sometimes, a personal pronoun appears with an enclitic copula (verb *to be*)
+attached to its end. Below are examples of all independent pronouns for you
 to practice.
 
 <h3>𒆪𒇷𒍪 • 𒂷𒈨𒂗</h3>

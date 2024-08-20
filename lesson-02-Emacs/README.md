@@ -306,9 +306,10 @@ King of Urim, King of Sumer and Akad, built her
 temple.</i></p>
 
 # Possessive pronouns
-In the example above, you found an instance of a possessive pronoun in
-the expression 𒌷𒈬 (uru.ĝu10) **my city**. Below, you will
-find a complete list of possessive pronouns.
+In the first lesson, you found two instances of a possessive pronoun in
+the expressions 𒈗𒀀𒉌 (lugar ani) **his master**,
+and 𒌷𒈬 (uru.ĝu10) **my city**.
+Below, I've included a complete list of possessive pronouns.
 
 <h3>𒈬 • (g̃u10) my </h3>
 <h3>𒍪 • (zu) thy</h3>
@@ -478,7 +479,7 @@ The expression 𒀀𒈾𒀸 (a-na-aš) that one usually translates
 as "**why?**" means literally "**what for?**"
 
 # Conjugation
-Transitive verbs have two aspects: the hamtu (perfective) and
+Sumerian verbs have two aspects: the hamtu (perfective) and
 the marû (imperfective). For the time being, you can translate
 the hamtu as the English present perfect, and the marû,
 as the English future.

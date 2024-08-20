@@ -584,6 +584,9 @@ the ergative. In this case, it was written as 𒆤 (ke4).
 e2 lugal-la</br>
 The king's house</br>
 
-<h2>𒈗𒆷𒆤</br>𒂍</br>𒈬𒈾𒆕</h2>
-(lugal la ke4) By the king </br>(e2) a house </br> (mu-na-du3) was built for her </br>
+<h2>𒂼𒀀𒉌𒊏 </br>𒌉𒈗𒆷𒆤</br>𒂍</br>𒈬𒈾𒆕</h2>
+(ama a ni ra) for his mother,</br>
+(dumu lugal la ke4) by the king's son </br>
+(e2) a house </br>
+(mu-na-du3) was built for her
 

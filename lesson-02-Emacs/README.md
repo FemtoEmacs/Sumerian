@@ -6,7 +6,8 @@ of typesetting the ***Inscription of Inanna's Temple in Uruk***.
 
 ![image](https://github.com/user-attachments/assets/72e00385-2687-49e6-9b43-089f659ec217)
 
-![image](https://github.com/user-attachments/assets/b4d20fe0-2467-42f4-b76f-3a5cf6a20b8d)
+![image](https://github.com/user-attachments/assets/4ab0b2c1-d8fc-4f64-a8ba-ddbf6d792d2f)
+
 
 ## Translation
 <p><i>For Inanna, his lady, Ur-Nammu, the mighty man,

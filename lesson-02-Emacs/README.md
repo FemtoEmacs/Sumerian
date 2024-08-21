@@ -6,7 +6,7 @@ of typesetting the ***Inscription of Inanna's Temple in Uruk***.
 
 ![image](https://github.com/user-attachments/assets/72e00385-2687-49e6-9b43-089f659ec217)
 
-![image](https://github.com/user-attachments/assets/4ab0b2c1-d8fc-4f64-a8ba-ddbf6d792d2f)
+![image](https://github.com/user-attachments/assets/1f7685dd-5f42-44be-8d9a-964e0e4a4366)
 
 
 ## Translation

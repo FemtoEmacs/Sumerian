@@ -2,7 +2,7 @@
 In conjunction with the text editor Emacs, the file ```cnf.el``` 
 allow you to write all cuneiforms introduced in the first
 twelve lessons of Hayes' grammar. Below, you can see the result
-of typesetting the inscription of Inanna's Temple in Uruk.
+of typesetting the ***Inscription of Inanna's Temple in Uruk***.
 
 ![image](https://github.com/user-attachments/assets/72e00385-2687-49e6-9b43-089f659ec217)
 

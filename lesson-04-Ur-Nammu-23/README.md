@@ -368,3 +368,94 @@ his temple 𒂍𒀀𒉌  (cn e2 a ni).
 ***For Enil, the king of all the lands, his master,
 Ur-Nammu, the king of Sumer and Akkad, built his temple. The king
 also dredged the Enerinnun canal for Enlil.***
+
+# Sumerian numerals
+To count things, modern people use ten
+digits: 1, 2, 3, 4, 5, 6, 7, 8, 9 and 0. Therefore,
+it is said that we use base 10. Computers use only
+two digits to perform calculations: 0 and 1.
+Then, computers work with base 2. As we will see below,
+Sumerians used base 60. Therefore, they needed 60 digits
+to count things.
+
+## Numbers from 1 to 9 (ash)
+Numbers from 1 to 9 can be written with horizontal wedges
+called ash. 
+
+<h2>1 (cn ash) 𒀸 </h2>
+<h2>2 (cn 2-ash) 𒐀</h2>
+<h2>3 (cn 3-ash) 𒐁</h2>
+<h2>4 (cn 4-ash) 𒐂</h2>
+<h2>5 (cn 5-ash) 𒐃</h2>
+<h2>6 (cn 6-ash) 𒐄</h2>
+<h2>7 (cn 7-ash) 𒐅</h2>
+<h2>8 (cn 8-ash) 𒐆</h2>
+<h2>9 (cn 9-ash) 𒐇</h2>
+
+## Numbers from 1 to 9 (dish)
+Numbers from 1 to 9 can also be represented by vertical
+wedges, as shown below.
+
+<h2>1 (cn dish) 𒁹</h2>
+<h2>2 (cn 2-dish) 𒈫</h2>
+<h2>3 (cn 3-dish) 𒐈</h2>
+<h2>4 (cn 4-dish) 𒐉</h2>
+<h2>5 (cn 5-dish) 𒐊</h2>
+<h2>6 (cn 6-dish) 𒐋</h2>
+<h2>7 (cn 7-dish) 𒐌</h2>
+<h2>8 (cn 8-dish) 𒐍</h2>
+<h2>9 (cn 9-dish) 𒐎</h2>
+
+## Numbers from 10 to 50
+Numbers from 10 to 50 can be represented with
+Winkelhaken. By the way, Winkelhaken is a German
+word that means angle-hook. The plural is Winkelhaken.
+Then, one can say that five Winkelhaken represents
+the number fifty.
+
+<h2>10 (cn 1-u) 𒌋 </h2>
+<h2>20 (cn 2-u) 𒎙 </h2>
+<h2>30 (cn 3-u) 𒌍</h2>
+<h2>40 (cn 4-u) 𒐏</h2>
+<h2>50 (cn 5-u) 𒐐 </h2>
+<h2>60 (cn 6-u) 𒐑</h2>
+<h2>70 (cn 7-u) 𒐒</h2>
+<h2>80 (cn 8-u) 𒐓</h2>
+<h2>90 (cn 9-u) 𒐔</h2>
+<h2>54 (cn 5-u 4-dish) 𒐐𒐉</h2>
+<h2>42 (cn 4-u 2-dish) 𒐏𒈫</h2>
+
+## Numbers from 60 to 540
+The Sumerians represented multiples of sixty
+with the same symbols they used for counting
+from 1 to 9: vertical wedges. This makes sense
+because their numerical base was 60. Then, in
+the same way that we use the digit 1 to represent
+the number one and the number ten, the Sumerians
+used 𒐕 to represent the numbers one and sixty.
+However, in these lessons, you will use
+ĝesh-wedges to represent multiples of 60.
+The **ĝesh** wedges are slightly larger
+than the **dish** wedges.
+
+<h2>60  (cn ĝesh) 𒐕</h2>
+<h2>120 (cn 2-ĝesh) 𒐖</h2>
+<h2>180 (cn 3-ĝesh) 𒐗</h2>
+<h2>240 (cn 4-ĝesh) 𒐘</h2>
+<h2>300 (cn 5-ĝesh) 𒐙</h2>
+<h2>360 (cn 6-ĝesh) 𒐚</h2>
+<h2>420 (cn 7-ĝesh) 𒐛</h2>
+<h2>480 (cn 8-ĝesh) 𒐜</h2>
+<h2>540 (cn 9-ĝesh) 𒐝</h2>
+
+## Numbers from 600 to 3600
+The **geshu** wedges are used to represent
+both multiples of 600 and the numbers
+70, 80, 90, 100 and 110, as shown below.
+
+<h2>600 or 70 (cn 600-geshu) 𒐞 </h2>
+<h2>1200 or 80 (cn 1200-2-geshu) 𒐟 </h2>
+<h2>1800 or 90 (cn 1800-3-geshu) 𒐠</h2>
+<h2>2400 or 100 (cn 2400-4-geshu) 𒐡</h2>
+<h2>3000 or 110 (cn 3000-5-geshu) 𒐢</h2>
+<h2>3600 (cn 3600-shar2) 𒊹</h2>

@@ -436,7 +436,7 @@ The king built a house for us.
 lugal.e e2 mu.ne.du3</br>
 The king built a house for them.
 
-## Transitive verbs
+# Transitive verbs
 A transitive verb describes an action that transitions
 from a subject to a direct object. In a transitive verb, the subject is the
 doer of the action and is called ergative, which is the Greek
@@ -517,7 +517,7 @@ you can scan the sentence.
  </tr>
 </table>
 
-## Intransitive verb
+# Intransitive verb
 An intransitive verb does not have a direct object.
 In Sumerian, the subject of an intransitive verb is
 not marked.

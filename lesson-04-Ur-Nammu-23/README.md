@@ -378,6 +378,21 @@ Then, computers work with base 2. As we will see below,
 Sumerians used base 60. Therefore, they needed 60 digits
 to count things.
 
+You will be happy to learn that we still
+use the Sumerian method of counting when we
+deal with navigation and time. That is the reason
+for having 60 minutes in an hour and 60 seconds in
+a minute. Besides this, the latitude and the longitude
+that determines a position on the Earth's surface
+is measured in degrees, where each degree is divided
+in 60 minutes.
+
+Since the distance from the North Pole is 90 degrees
+and ten thousand km, each degree of latitude has
+10000/90, roughly 111 km. If you divide 111 km
+by 60 to discover the length of one minute, you
+get 1852 km, which is a nautical mile.
+
 ## Numbers from 1 to 9 (ash)
 Numbers from 1 to 9 can be written with horizontal wedges
 called ash. 

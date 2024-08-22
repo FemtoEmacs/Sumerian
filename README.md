@@ -276,27 +276,24 @@ He brought it here.
 (cn bi2 in re6)</br>
 He made the team bring it.
 
-<h3>3. 𒈠𒊏𒀭𒁺</h3>
+<h3>3. 𒈠 - 𒊏𒀭𒁺</h3>
 (cn ma ra an re6) </br>
 He brought it here to you.
 
 <h3>4. 𒉌 - 𒅎𒁺</h3>
 (cn i3 im ĝen)</br>
-He came.
+He came here.</br>
+<i>Obs. The middle voice with /ba/ indicates an action that affects the doer.</i>
 
-<h3>𒁀𒀭𒁺</h3>
-( ba-an-ře6)</br>
+<h3>5. 𒁀 - 𒀭𒁺</h3>
+(cn ba an re6)</br>
 He took it for himself.</br>
-<i>Obs. The middle voice with /ba/ is used to indicate action that affects the doer.</i>
 
-<h3>6. 𒁀𒁺</h3>
-(ba-ře6)</br>
+
+<h3>6. 𒁀 - 𒁺</h3>
+(cn ba re6)</br>
 It was brought.
 
-<h3>5.  𒉌𒅎𒁺</h3>
-(i3-im-g̃en)</br>
-He came here.</br>
-<i>Obs. /im/ has the same meaning as /mu/.</i>
 
 ## Seventh Rectangle
 The noun phrase 𒂦𒋀𒀕𒆠𒈠 (BAD2.URIM2.MA) means "wall of URIM2." The sumerogram 𒂦 (BAD2) means "city wall." The /K/ of the genitive is omissible, meaning it is not expressed because it is not pronounced at the end of a nominal phrase.

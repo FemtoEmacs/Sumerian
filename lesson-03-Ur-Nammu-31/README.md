@@ -553,6 +553,24 @@ is tukun-be2, which means "if."
   <td><h4>𒁺𒈾</h4></td>
  </tr>
  <tr>
+  <td>tukun-be2</td>
+  <td>ne-en</td>
+  <td>gu3</td>
+  <td>mu da ab</td>
+  <td>de2</td>
+  <td>e2 she3</td>
+  <td>ĝen na</td>
+ </tr>
+ <tr>
+  <td>if</td>
+  <td>this</td>
+  <td>out</td>
+  <td><i>prefixes</i></td>
+  <td>read</td>
+  <td>to house</td>
+  <td>go</td>
+ </tr>
+ <tr>
   <td colspan="7">
    (cn tukun-be2 ne-en gu3 mu da ab de2 e2 she3 ĝen na)
   </td>

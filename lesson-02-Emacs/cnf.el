@@ -654,6 +654,10 @@
 	("𒅇" and u3)
 	("𒄑" gish ĝish)
 	("𒄤" to-execute gaz)
+	("𒁺" to-bring re6)
+        ("𒃶" let-him hhe2)
+	("𒅁" syllabic ib)
+	
 	));; end
 
 ;; 𒃻 -- thing

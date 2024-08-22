@@ -598,10 +598,19 @@ are 𒅇 u3 "and also," 𒌓 ud "when,"
 Below there is an example of the usage
 of 𒌓 ud "when."
 
-<h3>𒀭𒄑𒉋𒂵𒎌𒊏</br>
+<h2>𒀚 𒅇 𒉆𒆬𒍪</h2>
+lipish u3 nam-ku3-zu</br>
+Courage and Sagacity
+
+<h2>𒍝𒂊 • 𒅇 •𒂷𒂊 • 𒋀• 𒈨𒂗𒉈𒂗</h2>
+za-e • u3 •  ĝe26-e •  shesh • me.en.de3.en</br>
+you • and • I • brothers • we are</br>
+You and I are brothers.
+
+<h2>𒀭𒄑𒉋𒂵𒎌𒊏</br>
  𒌨𒀭𒇉𒈗𒆠𒂗𒄀𒆠𒌵𒆤</br>
 𒌓𒂍𒀭𒋀𒆠𒈬𒆕𒀀</br>
-𒀀𒈬𒈾𒊒</h3>
+𒀀𒈬𒈾𒊒</h2>
 
 <h3>𒀭𒄑𒉋𒂵𒎌𒊏</h3>
 (cn bil3-ga-mesh3 ra)</br>
@@ -621,6 +630,7 @@ when he built the temple of Nanna,
 dedicated this object.
 
 ## Vocabulary for the examples of conjunctions
+<h4>𒍝𒂊 • (za-e /ze/) Alternative form of 𒍢, you</h4>
 <h4>𒉈𒂗 • (ne-en) this thing</h4>
 <h4>𒀀⫽𒊒 • (a // ru) to dedicate </h4>
 <h4>𒌓 • (ud) sun, day, when</h4>

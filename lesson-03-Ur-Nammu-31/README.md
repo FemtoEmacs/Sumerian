@@ -576,6 +576,11 @@ is tukun-be2, which means "if."
   </td>
  </tr>
  <tr>
+  <td colspan="7">
+  <i>If you can read out this tablet, go home.</i>
+  </td>
+ </tr>
+ <tr>
    <td colspan="7">
    <h4>𒉈𒂗 • (ne-en) this thing</h4>
     <h4>𒋗𒃻𒌉𒇲𒁉 • (tukun-be2) if</h4>

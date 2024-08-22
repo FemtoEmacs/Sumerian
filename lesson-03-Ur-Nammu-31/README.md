@@ -639,7 +639,7 @@ For Gilgamesh,
 
 <h4>𒊏 • (ra) Dative marker, to || for </h4>
 
-<h3>𒌨𒀭𒇉𒈗𒆠𒂗𒄀𒆠𒌵𒆤</h3>
+<h3>𒌨𒀭𒇉 • 𒈗 •𒆠𒂗𒄀 •𒆠𒌵 • 𒆤</h3>
 (cn ur-nammu lugal ki-en-gi ki uri ke4)</br>
 Ur-Nammu, the king of Sumer and Akkad,
 

@@ -568,31 +568,31 @@ You can only learn the indicative and negation modal prefixes for now.
 You may learn the other prefixes when you encounter them in Sumerian documents.
 
 
-<h3>/Ø-/ Indicative</h3>
+<h3>Indicative: /Ø-/</h3>
 In Sumerian, the indicative is unmarked. The empty prefix /Ø-/represents
 this fact in transliteration.
 
-<h3>𒉡 nu- Negation</h3>
+<h3>Negation: 𒉡 nu-</h3>
 <h4>𒉡𒌦𒅥</h4>
 (cn nu un gu7)</br>
 He didn't eat it.
 
-<h3>𒃶 ḫe2- Let him...</h3>
+<h3>Let him: 𒃶 ḫe2-</h3>
 <h4>𒃶𒅁𒅥𒂊</h4>
 (cn hhe2 ib gu7 e)</br>
 Let him eat it.
 
-<h3>𒄩 ḫa- indeed</h3>
+<h3>Indeed: 𒄩 ḫa-</h3>
 <h4>𒄩𒀭𒅥</h4>
 (cn hha an gu7)</br>
 He ate it, indeed.
 
-<h3>𒂵 ga- Cohortative</h3>
+<h3>Cohortative: 𒂵 ga-</h3>
 <h4>𒂵𒉌𒌈𒃻𒊑𒂗𒉈𒂗</h4>
 (cn ga ni ib2 ĝar re en de3 en)</br>
 Let us put it there.
 
-<h3>𒈾 na- Prohibitive</h3>
+<h3>Prohibitive: 𒈾 na-</h3>
 <h4>𒈾𒀊𒅥𒂊</h4>
 (cn na ab gu7 e)</br>
 He must not eat it.

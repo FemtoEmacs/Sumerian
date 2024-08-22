@@ -541,7 +541,9 @@ In all languages, sentences have conjunctions to connect them,
 and Sumerian is no exception. A very important conjunction
 is tukun-be2, which means "if."
 
-<h3>𒋗𒃻𒌉𒇲𒁾𒁉𒋫𒅗𒈬𒁕𒀊𒌤𒂍𒂠𒁺𒈾</h3>
+## 𒂼𒌉 (ama dumu): Home education 
+
+<h2>𒋗𒃻𒌉𒇲𒁾𒁉𒋫𒅗𒈬𒁕𒀊𒌤𒂍𒂠𒁺𒈾</h2>
 <table>
  <tr>
   <td><h4>𒋗𒃻𒌉𒇲</h4></td>
@@ -592,50 +594,106 @@ is tukun-be2, which means "if."
 </table>
 
 Other important conjunctions
-are 𒅇 u3 "and also," 𒌓 ud "when,"
-𒌓𒁕 ud-da "when or if,"
-𒋗𒃻𒌉𒇲𒁉 tukum-bi "if" and 𒂗𒈾 en-na "until."
-Below there is an example of the usage
-of 𒌓 ud "when."
+are 𒅇 u3 "***/also||and/,***" 𒌓 ud "***/when/***,"
+𒌓𒁕 ud-da "***/when||if/***,"
+𒋗𒃻𒌉𒇲𒁉 tukum-bi "***/if/***" and 𒂗𒈾 en-na "***/until/***."
 
+## Mark of an entrepreneur
 <h2>𒀚 𒅇 𒉆𒆬𒍪</h2>
+<h3>𒀚  • 𒅇  • 𒉆𒆬𒍪</h3>
 lipish u3 nam-ku3-zu</br>
 Courage and Sagacity
 
-<h2>𒍝𒂊 • 𒅇 •𒂷𒂊 • 𒋀• 𒈨𒂗𒉈𒂗</h2>
+<h4>𒀚 • (lipiš) emotion, anger, rage, courage</h4>
+<h4>𒅇 • (u3) and</h4>
+<h4>𒉆𒆬𒍪 • (nam-ku3-zu) intelligence, sagacity</h4>
+
+## A collaborator is a brother
+<h2>𒍝𒂊 𒅇 𒂷𒂊 𒋀 𒈨𒂗𒉈𒂗</h2>
+<h3>𒍝𒂊 • 𒅇 •𒂷𒂊 • 𒋀• 𒈨𒂗𒉈𒂗</h3>
 za-e • u3 •  ĝe26-e •  shesh • me.en.de3.en</br>
 you • and • I • brothers • we are</br>
 You and I are brothers.
+
+<h4>𒍝𒂊 • (za-e /ze/) Alternative form of 𒍢, you</h4>
+<h4>𒅇 • (u3) and</h4>
+<h4>𒂷𒂊 • (g̃a2-e) Alternative form of 𒂷 (g̃e26), “I”</h4>
+<h4>𒋀 • (šeš /šeš/) brother, collaborator</h4>
+<h4>𒈨𒂗𒉈𒂗 • (me.en.de3.en) we are</h4>
+
+## Dedication to Gilgamesh
+Gilgamesh was the first king of Uruk.
+His rule probably took place in the beginning of
+the Dynastic Period, c. 2900 – 2350 BC, and he
+became a major figure in Sumerian legend during
+the Third Dynasty of Ur, from  circa 2112 to circa  2004 BC.
 
 <h2>𒀭𒄑𒉋𒂵𒎌𒊏</br>
  𒌨𒀭𒇉𒈗𒆠𒂗𒄀𒆠𒌵𒆤</br>
 𒌓𒂍𒀭𒋀𒆠𒈬𒆕𒀀</br>
 𒀀𒈬𒈾𒊒</h2>
 
-<h3>𒀭𒄑𒉋𒂵𒎌𒊏</h3>
+<h3>𒀭𒄑𒉋𒂵𒎌 𒊏</h3>
 (cn bil3-ga-mesh3 ra)</br>
 For Gilgamesh,
+
+<h4>𒊏 • (ra) Dative marker, to || for </h4>
 
 <h3>𒌨𒀭𒇉𒈗𒆠𒂗𒄀𒆠𒌵𒆤</h3>
 (cn ur-nammu lugal ki-en-gi ki uri ke4)</br>
 Ur-Nammu, the king of Sumer and Akkad,
 
-<h3>𒌓𒂍𒀭𒋀𒆠𒈬𒆕𒀀</h3>
-(cn ud e2 an nanna mu du3 a)</br>
-when he built the temple of Nanna,
-<h4>Obs. 𒀀 (a) is the locative marker.</h4>
+<h4>𒆠𒂗𒄀 • (ki-en-gi) Sumer</h4>
+<h4>𒆠𒌵 • (ki-uri) Akkad</h4>
 
-<h3>𒉈𒂗𒀀𒈬𒈾𒊒</h3>
-𒉈𒂗𒀀𒈬𒈾𒊒</br>
-dedicated this object.
+<h3>𒌓 • 𒂍𒀭𒋀𒆠 • 𒈬𒆕 • 𒀀</h3>
+(cn ud • e2 an nanna • mu du3 • a)</br>
+when he built the temple of Nanna,
+
+<h4>Obs. 𒀀 (a) is the locative marker.</h4>
+<h4>𒌓 • (ud) when</h4>
+<h4>𒂍𒀭𒋀𒆠 • (e2 an nanna) temple of the god Nanna</h4>
+<h4>𒈬𒆕 • (mu-du3) he built here</h4>
+
+<h3>𒉈𒂗 • 𒀀/ 𒈬𒈾 /𒊒</h3>
+ne-en • a/ mu-e /ru</br>
+he dedicated this object.
+
+<h4>𒉈𒂗 • (ne-en) this thing, this object</h4>
+<h4>𒀀⫽𒊒 • (a // ru) to dedicate </h4>
+<h4>Obs. the verb 𒀀⫽𒊒 is split around its prefixes</h4>
+The 𒀀/ (a) component comes before the prefix chain,
+and the /𒊒 (ru) component comes after. In the vocabulary,
+the two components of such a verb are separated by
+a double slash, C1//C2. Examples:
+
+<h4>𒅗⫽𒌤 • (gu3//de2) to read out • <i>requires ablative</i></h4>
+<h4>𒀀⫽𒊒 • (a // ru) to dedicate </h4>
+<h4>𒊕𒄑//𒊏 • (sag̃-g̃iš-ra) to commit murder</h4>
 
 ## Ur-Nammu Law 
-<h2>𒋗𒃻𒌉𒇲𒁉𒇽𒅇𒊕𒄑𒉈𒅔𒊏</br>
+<h2>𒋗𒃻𒌉𒇲𒁉 𒇽𒅇 𒊕𒄑 𒉈𒅔 𒊏</br>
  𒇽𒁉𒉌𒄤𒂊</h2>
- (cn tukun-be2 lu2 u3 saĝ gish bi in ra lu2 bi i3 gaz e)</br>
+(cn tukun-be2 lu2 u3 saĝ gish bi in ra lu2 bi i3 gaz e)</br>
 If a man commits murder,</br>
 this man will be executed.
 
+<h3>𒋗𒃻𒌉𒇲𒁉 • 𒇽 • 𒅇 • 𒊕𒄑/ 𒉈𒅔 /𒊏</h3>
+tukun-be2 • lu2 •  u3 • saĝ-gish/ bi in /ra</br>
+if • a man • and • commit murder</br>
+
+<h4>𒋗𒃻𒌉𒇲𒁉 • (tukun-be2) if</h4>
+<h4>𒇽 •  (lu2) man</h4>
+<h4>𒅇 • (u3) and</h4>
+<h4>𒊕𒄑//𒊏 • (sag̃-g̃iš-ra) to commit murder</h4>
+
+<h3>𒇽𒁉 • 𒉌-𒄤.𒂊</h3>
+lu2.bi • i3-gaz.e</br>
+that man • will be executed.
+
+<h4>𒇽𒁉 •  (lu2 bi or lu2 be2) this man</h4>
+<h4>𒉌  • (i3) finite verb marker in the verbal chain </h4>
+<h4>𒄤 • (gaz) to kill, slaughter, execute</h4>
 
 ## Vocabulary for the examples of conjunctions
 <h4>𒍝𒂊 • (za-e /ze/) Alternative form of 𒍢, you</h4>
@@ -647,6 +705,8 @@ this man will be executed.
 <h4>𒄤 • (gaz) to kill, to execute</h4>
 <h4>𒊕𒄑//𒊏 • (sag̃-g̃iš-ra) to commit murder</h4>
 <h4>𒇽 •  (lu2) man</h4>
-<h4>𒇽𒁉 •  (lu2 bi or lu2 be2)</h4>
-<h4>𒉈𒂗 • (ne-en /nēn/) this</h4>
-<h4>𒉈 • (ne-en /nēn/) this</h4>
+<h4>𒇽𒁉 •  (lu2 bi or lu2 be2) this man</h4>
+<h4>𒉈𒂗 • (ne-en /nēn/) this object</h4>
+<h4>𒉈 • (ne-en /nēn/) this object</h4>
+<h4>𒄤 • (gaz) to kill, slaughter, execute</h4>
+<h4>𒋗𒃻𒌉𒇲𒁉 • (tukun-be2) if</h4>

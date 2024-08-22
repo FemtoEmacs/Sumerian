@@ -629,6 +629,14 @@ when he built the temple of Nanna,
 𒉈𒂗𒀀𒈬𒈾𒊒</br>
 dedicated this object.
 
+## Ur-Nammu Law 
+<h2>𒋗𒃻𒌉𒇲𒁉𒇽𒅇𒊕𒄑𒉈𒅔𒊏</br>
+ 𒇽𒁉𒉌𒄤𒂊</h2>
+ (cn tukun-be2 lu2 u3 saĝ gish bi in ra lu2 bi i3 gaz e)</br>
+If a man commits murder,</br>
+this man will be executed.
+
+
 ## Vocabulary for the examples of conjunctions
 <h4>𒍝𒂊 • (za-e /ze/) Alternative form of 𒍢, you</h4>
 <h4>𒉈𒂗 • (ne-en) this thing</h4>
@@ -636,3 +644,9 @@ dedicated this object.
 <h4>𒌓 • (ud) sun, day, when</h4>
 <h4>𒆠𒂗𒄀 • (ki-en-gi) Sumer</h4>
 <h4>𒆠𒌵 • (ki-uri) Akkad</h4>
+<h4>𒄤 • (gaz) to kill, to execute</h4>
+<h4>𒊕𒄑//𒊏 • (sag̃-g̃iš-ra) to commit murder</h4>
+<h4>𒇽 •  (lu2) man</h4>
+<h4>𒇽𒁉 •  (lu2 bi or lu2 be2)</h4>
+<h4>𒉈𒂗 • (ne-en /nēn/) this</h4>
+<h4>𒉈 • (ne-en /nēn/) this</h4>

@@ -541,11 +541,11 @@ In all languages, sentences have conjunctions to connect them,
 and Sumerian is no exception. A very important conjunction
 is tukun-be2, which means "if."
 
-<h3>𒋗𒃻𒌉𒇲𒁉𒉈𒂗𒅗𒈬𒁕𒀊𒌤𒂍𒂠𒁺𒈾</h3>
+<h3>𒋗𒃻𒌉𒇲𒁾𒁉𒋫𒅗𒈬𒁕𒀊𒌤𒂍𒂠𒁺𒈾</h3>
 <table>
  <tr>
-  <td><h4>𒋗𒃻𒌉𒇲𒁉</h4></td>
-  <td><h4>𒉈𒂗</h4></td>
+  <td><h4>𒋗𒃻𒌉𒇲</h4></td>
+  <td><h4>𒁾𒁉𒋫</h4></td>
   <td><h4>𒅗</h4></td>
   <td><h4>𒈬𒁕𒀊</h4></td>
   <td><h4>𒌤</h4></td>
@@ -554,7 +554,7 @@ is tukun-be2, which means "if."
  </tr>
  <tr>
   <td>tukun-be2</td>
-  <td>ne-en</td>
+  <td>dub.be2 ta</td>
   <td>gu3</td>
   <td>mu da ab</td>
   <td>de2</td>
@@ -563,7 +563,7 @@ is tukun-be2, which means "if."
  </tr>
  <tr>
   <td>if</td>
-  <td>this</td>
+  <td>from this tablet</td>
   <td>out</td>
   <td><i>prefixes</i></td>
   <td>read</td>
@@ -572,7 +572,16 @@ is tukun-be2, which means "if."
  </tr>
  <tr>
   <td colspan="7">
-   (cn tukun-be2 ne-en gu3 mu da ab de2 e2 she3 ĝen na)
+   (cn tukum dub be2 ta gu3 mu da ab de2 e2 she3 ĝen na)
+  </td>
+ </tr>
+ <tr>
+   <td colspan="7">
+   <h4>𒉈𒂗 • (ne-en) this thing</h4>
+    <h4>𒋗𒃻𒌉𒇲𒁉 • (tukun-be2) if</h4>
+    <h4>𒅗⫽𒌤 • (gu3//de2) to read out • <i>requires ablative</i></h4>
+    <h4>𒁾 • (dub) tablet</h4>
+    <h4>𒁾𒁉 • (dub.be2) this tablet</h4>
   </td>
  </tr>
 </table>

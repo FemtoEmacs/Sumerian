@@ -523,3 +523,38 @@ Another example of imperative:
   </td>
  </tr>
 </table>
+
+In the imperative, the prefix 𒉌 (i3) is often replaced
+by /-a/: 
+
+<h3>𒂍𒂠𒉌𒁺</h3>
+(cn e2 she3 i3 ĝen)</br>
+ "He went home."
+
+<h3>𒂍𒂠𒁺𒈾</h3>
+(cn e2 she3 ĝen na) </br>
+Go home!
+
+
+# Conjunctions
+In all languages, sentences have conjunctions to connect them,
+and Sumerian is no exception. A very important conjunction
+is tukun-be2, which means "if."
+
+<h3>𒋗𒃻𒌉𒇲𒁉𒉈𒂗𒅗𒈬𒁕𒀊𒌤𒂍𒂠𒁺𒈾</h3>
+<table>
+ <tr>
+  <td><h4>𒋗𒃻𒌉𒇲𒁉</h4></td>
+  <td><h4>𒉈𒂗</h4></td>
+  <td><h4>𒅗</h4></td>
+  <td><h4>𒈬𒁕𒀊</h4></td>
+  <td><h4>𒌤</h4></td>
+  <td><h4>𒂍𒂠</h4></td>
+  <td><h4>𒁺𒈾</h4></td>
+ </tr>
+ <tr>
+  <td colspan="7">
+   (cn tukun-be2 ne-en gu3 mu da ab de2 e2 she3 ĝen na)
+  </td>
+ </tr>
+</table>

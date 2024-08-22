@@ -601,6 +601,8 @@ He must not eat it.
 The main Conjugation Prefixes (CP) are  /mu-/ to indicate that the action occurs ***here***,
 /bi2-/ in front of open vowels such as /i/,  /ba/ to form middle/passive voice,
 /i3/ to create a finite verbal tense, and /ma/ in combination with /ra/ of benefit.
+Below, you will find a fairly complete list of Conjugation Prefixes, but
+you need to learn only /mu-/ and /i3/ for this first lesson.
 
 <h3>1. 𒈬 - 𒌦𒁺</h3>
 (cn mu un re6)</br>

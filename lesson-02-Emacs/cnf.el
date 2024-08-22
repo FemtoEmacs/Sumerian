@@ -651,7 +651,9 @@
 	("𒉈𒂗" this ne-en)
 	("𒌤" to-read de2)
 	("𒅗⫽𒌤" to-read gu3-de2)
-	
+	("𒅇" and u3)
+	("𒄑" gish ĝish)
+	("𒄤" to-execute gaz)
 	));; end
 
 ;; 𒃻 -- thing

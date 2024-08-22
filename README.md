@@ -562,6 +562,41 @@ not marked.
  </tr>
 </table>
 
+# Modal prefix
+The modal prefixes express modality, i.e., relationships to reality or truth.
+You can only learn the indicative and negation modal prefixes for now.
+You may learn the other prefixes when you encounter them in Sumerian documents.
+
+
+<h3>/Ø-/ Indicative</h3>
+In Sumerian, the indicative is unmarked. The empty prefix /Ø-/represents
+this fact in transliteration.
+
+<h3>𒉡 nu- Negation</h3>
+<h4>𒉡𒌦𒅥</h4>
+(cn nu un gu7)</br>
+He didn't eat it.
+
+<h3>𒃶 ḫe2- Let him...</h3>
+<h4>𒃶𒅁𒅥𒂊</h4>
+(cn hhe2 ib gu7 e)</br>
+Let him eat it.
+
+<h3>𒄩 ḫa- indeed</h3>
+<h4>𒄩𒀭𒅥</h4>
+(cn hha an gu7)</br>
+He ate it, indeed.
+
+<h3>𒂵 ga- Cohortative</h3>
+<h4>𒂵𒉌𒌈𒃻𒊑𒂗𒉈𒂗</h4>
+(cn ga ni ib2 ĝar re en de3 en)</br>
+Let us put it there.
+
+<h3>𒈾 na- Prohibitive</h3>
+<h4>𒈾𒀊𒅥𒂊</h4>
+(cn na ab gu7 e)</br>
+He must not eat it.
+
 # Conjugation prefix
 The main Conjugation Prefixes (CP) are  /mu-/ to indicate that the action occurs ***here***,
 /bi2-/ in front of open vowels such as /i/,  /ba/ to form middle/passive voice,

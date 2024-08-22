@@ -266,7 +266,7 @@ can be translated as "built." This verbal chain has two prefixes and a stem:
 
 The main Conjugation Prefixes (CP) are  /mu-/ to indicate that the action occurs ***here***,
 /bi2-/ in front of open vowels such as /i/,  /ba/ to form middle/passive voice,
-/i3/ to create finite verbal tense, and /ma/ in combination with /ra/ of benefit.
+/i3/ to create a finite verbal tense, and /ma/ in combination with /ra/ of benefit.
 
 <h3>1. 𒈬 - 𒌦𒁺</h3>
 (cn mu un re6)</br>

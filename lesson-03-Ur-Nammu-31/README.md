@@ -611,7 +611,7 @@ Courage and Sagacity
 ## A collaborator is a brother
 <h2>𒍝𒂊 𒅇 𒂷𒂊 𒋀 𒈨𒂗𒉈𒂗</h2>
 <h3>𒍝𒂊 • 𒅇 •𒂷𒂊 • 𒋀• 𒈨𒂗𒉈𒂗</h3>
-za-e • u3 •  ĝe26-e •  shesh • me.en.de3.en</br>
+za-e • u3 •  g̃a2-e •  shesh • me.en.de3.en</br>
 you • and • I • brothers • we are</br>
 You and I are brothers.
 

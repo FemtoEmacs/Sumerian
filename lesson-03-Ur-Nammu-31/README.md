@@ -590,3 +590,39 @@ is tukun-be2, which means "if."
   </td>
  </tr>
 </table>
+
+Other important conjunctions
+are 𒅇 u3 "and also," 𒌓 ud "when,"
+𒌓𒁕 ud-da "when or if,"
+𒋗𒃻𒌉𒇲𒁉 tukum-bi "if" and 𒂗𒈾 en-na "until."
+Below there is an example of the usage
+of 𒌓 ud "when."
+
+<h3>𒀭𒄑𒉋𒂵𒎌𒊏</br>
+ 𒌨𒀭𒇉𒈗𒆠𒂗𒄀𒆠𒌵𒆤</br>
+𒌓𒂍𒀭𒋀𒆠𒈬𒆕𒀀</br>
+𒀀𒈬𒈾𒊒</h3>
+
+<h3>𒀭𒄑𒉋𒂵𒎌𒊏</h3>
+(cn bil3-ga-mesh3 ra)</br>
+For Gilgamesh,
+
+<h3>𒌨𒀭𒇉𒈗𒆠𒂗𒄀𒆠𒌵𒆤</h3>
+(cn ur-nammu lugal ki-en-gi ki uri ke4)</br>
+Ur-Nammu, the king of Sumer and Akkad,
+
+<h3>𒌓𒂍𒀭𒋀𒆠𒈬𒆕𒀀</h3>
+(cn ud e2 an nanna mu du3 a)</br>
+when he built the temple of Nanna,
+<h4>Obs. 𒀀 (a) is the locative marker.</h4>
+
+<h3>𒉈𒂗𒀀𒈬𒈾𒊒</h3>
+𒉈𒂗𒀀𒈬𒈾𒊒</br>
+dedicated this object.
+
+## Vocabulary for the examples of conjunctions
+<h4>𒉈𒂗 • (ne-en) this thing</h4>
+<h4>𒀀⫽𒊒 • (a // ru) to dedicate </h4>
+<h4>𒌓 • (ud) sun, day, when</h4>
+<h4>𒆠𒂗𒄀 • (ki-en-gi) Sumer</h4>
+<h4>𒆠𒌵 • (ki-uri) Akkad</h4>

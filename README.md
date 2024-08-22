@@ -562,7 +562,7 @@ not marked.
  </tr>
 </table>
 
-# Modal prefix
+# Modal Prefix (MP)
 The modal prefixes express modality, i.e., relationships to reality or truth.
 You can only learn the indicative and negation modal prefixes for now.
 You may learn the other prefixes when you encounter them in Sumerian documents.
@@ -597,7 +597,7 @@ Let us put it there.
 (cn na ab gu7 e)</br>
 He must not eat it.
 
-# Conjugation prefix
+# Conjugation Prefix (CP)
 The main Conjugation Prefixes (CP) are  /mu-/ to indicate that the action occurs ***here***,
 /bi2-/ in front of open vowels such as /i/,  /ba/ to form middle/passive voice,
 /i3/ to create a finite verbal tense, and /ma/ in combination with /ra/ of benefit.

@@ -264,36 +264,6 @@ can be translated as "built." This verbal chain has two prefixes and a stem:
  </tr>
 </table>
 
-The main Conjugation Prefixes (CP) are  /mu-/ to indicate that the action occurs ***here***,
-/bi2-/ in front of open vowels such as /i/,  /ba/ to form middle/passive voice,
-/i3/ to create a finite verbal tense, and /ma/ in combination with /ra/ of benefit.
-
-<h3>1. 𒈬 - 𒌦𒁺</h3>
-(cn mu un re6)</br>
-He brought it here.
-
-<h3>2. 𒉈 - 𒅔𒁺</h3>
-(cn bi2 in re6)</br>
-He made the team bring it.
-
-<h3>3. 𒈠 - 𒊏𒀭𒁺</h3>
-(cn ma ra an re6) </br>
-He brought it here to you.
-
-<h3>4. 𒉌 - 𒅎𒁺</h3>
-(cn i3 im ĝen)</br>
-He came here.</br>
-<i>Obs. The middle voice with /ba/ indicates an action that affects the doer.</i>
-
-<h3>5. 𒁀 - 𒀭𒁺</h3>
-(cn ba an re6)</br>
-He took it for himself.</br>
-
-
-<h3>6. 𒁀 - 𒁺</h3>
-(cn ba re6)</br>
-It was brought.
-
 
 ## Seventh Rectangle
 The noun phrase 𒂦𒋀𒀕𒆠𒈠 (BAD2.URIM2.MA) means "wall of URIM2." The sumerogram 𒂦 (BAD2) means "city wall." The /K/ of the genitive is omissible, meaning it is not expressed because it is not pronounced at the end of a nominal phrase.
@@ -591,6 +561,38 @@ not marked.
   </td>
  </tr>
 </table>
+
+# Conjugation prefix
+The main Conjugation Prefixes (CP) are  /mu-/ to indicate that the action occurs ***here***,
+/bi2-/ in front of open vowels such as /i/,  /ba/ to form middle/passive voice,
+/i3/ to create a finite verbal tense, and /ma/ in combination with /ra/ of benefit.
+
+<h3>1. 𒈬 - 𒌦𒁺</h3>
+(cn mu un re6)</br>
+He brought it here.
+
+<h3>2. 𒉈 - 𒅔𒁺</h3>
+(cn bi2 in re6)</br>
+He made the team bring it.
+
+<h3>3. 𒈠 - 𒊏𒀭𒁺</h3>
+(cn ma ra an re6) </br>
+He brought it here to you.
+
+<h3>4. 𒉌 - 𒅎𒁺</h3>
+(cn i3 im ĝen)</br>
+He came here.</br>
+<i>Obs. The middle voice with /ba/ indicates an action that affects the doer.</i>
+
+<h3>5. 𒁀 - 𒀭𒁺</h3>
+(cn ba an re6)</br>
+He took it for himself.</br>
+
+
+<h3>6. 𒁀 - 𒁺</h3>
+(cn ba re6)</br>
+It was brought.
+
 
 # Nominal chain
 In Sumerian, adjectives are formed from verbs by adding the

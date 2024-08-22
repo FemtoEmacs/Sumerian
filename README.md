@@ -604,29 +604,29 @@ The main Conjugation Prefixes (CP) are  /mu-/ to indicate that the action occurs
 Below, you will find a fairly complete list of Conjugation Prefixes, but
 you need to learn only /mu-/ and /i3/ for this first lesson.
 
-<h3>1. 𒈬 - 𒌦𒁺</h3>
+<h3>1. Here: 𒈬 - 𒌦𒁺</h3>
 (cn mu un re6)</br>
 He brought it here.
 
-<h3>2. 𒉈 - 𒅔𒁺</h3>
+<h3>2. Followed by open vowel: 𒉈 - 𒅔𒁺</h3>
 (cn bi2 in re6)</br>
 He made the team bring it.
 
-<h3>3. 𒈠 - 𒊏𒀭𒁺</h3>
+<h3>3. Followed by ra: 𒈠 - 𒊏𒀭𒁺</h3>
 (cn ma ra an re6) </br>
 He brought it here to you.
 
-<h3>4. 𒉌 - 𒅎𒁺</h3>
+<h3>4. Finite verb: 𒉌 - 𒅎𒁺</h3>
 (cn i3 im ĝen)</br>
 He came here.</br>
 <i>Obs. The middle voice with /ba/ indicates an action that affects the doer.</i>
 
-<h3>5. 𒁀 - 𒀭𒁺</h3>
+<h3>5. Middle voice: 𒁀 - 𒀭𒁺</h3>
 (cn ba an re6)</br>
 He took it for himself.</br>
 
 
-<h3>6. 𒁀 - 𒁺</h3>
+<h3>6. Passive voice: 𒁀 - 𒁺</h3>
 (cn ba re6)</br>
 It was brought.
 

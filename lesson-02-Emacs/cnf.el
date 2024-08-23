@@ -657,7 +657,11 @@
 	("𒁺" to-bring re6)
         ("𒃶" let-him hhe2)
 	("𒅁" syllabic ib)
-	
+
+	("𒂠" terminative-noun she-terminative)
+	("𒅆" terminative-in-verbal-chain shi)
+	("𒅆" terminative ši)
+	("𒁶" equitative gin-equitative)
 	));; end
 
 ;; 𒃻 -- thing

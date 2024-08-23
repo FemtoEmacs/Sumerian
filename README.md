@@ -371,43 +371,40 @@ other marked components called case elements.
 Case elements may have references in the verbal chain.
 The leading case elements with their marks and references are:
 
-<h3>the ergative (𒂊 • e • doer of a task)</h3>
-<h3>dative (𒊏//𒈾 • ra • beneficiary)</h3>
-<h3>locative (𒀀//𒉌 • a • place)</h3>
-<h3>terminative (𒂠//𒅆 • še • goal)</h3>
-<h3>ablative (𒋫//𒋫 • ta • separation)</h3>
-<h3>comitative (𒁕//𒁕 • da • with)</h3>
-<h3>equitative (𒁶//𒁶 • gin7 • like)</h3>
+<h2>Ergative: 𒂊 • (e) mark the doer of a task</h2>
+<h3>𒈗𒂊 •  𒂦 𒋀𒀕𒆠𒈠 • 𒈬𒈾𒆕</h3>
+lugal.e bad3 urim ma mu-na-du3</br>
+The king built the city wall of Ur.
 
-As you learned before, in Sumerian, the cases may have references in a chain of
-prefixes that delimit the meaning of the verbal chain.
-Below is a list of examples for case markers and their
-references in the verbal chain.
-
-<h2>Dative: 𒊏 (ra, r)/𒈾 (na) </h2>
+<h2>Dative: 𒊏 • (ra, r)/𒈾 (na) for </h2>
 <h3>𒎏𒊏𒈗𒂊𒂍𒈬𒈾𒆕</h3>
 nin.ra lugal.e e2 mu-na-du3</br>
 For the lady, the king built a house.
 
-<h2>Locative: 𒀀 (a)/𒉌 (ni)</h2>
+<h2>Locative: 𒀀 • (a)/𒉌 • (ni) in, on</h2>
 <h3>𒈗𒂊𒌷𒀀𒂍𒈬𒉌𒆕</h3>
 lugal.e uru.a e2 mu-ni-du3</br>
 The king built a house in a city.
 
-<h2>Terminative: 𒂠 (še)/𒅆(ši)</h2>
+<h2>Terminative: 𒂠 • (še)/𒅆 • (ši) in order to</h2>
 <h3>𒂷𒂊𒌷𒈬𒂠𒂵𒅆𒁺</h3>
 ĝa2.e uru.ĝu10.še ga.ši.ĝen</br>
 I will go there to my city.
 
-<h2>Ablative: 𒋫 (ta)/𒋫 (ta) or 𒊏 (ra)</h2>
+<h2>Ablative: 𒋫 • (ta)/𒋫 • (ta) or 𒊏 (ra) out of</h2>
 <h3>𒌷𒋫 𒁀𒋫𒁺</h3>
 uru.ta ba.ta.ĝen</br>
 He went out from the city.
 
-<h2>Comitative: 𒁕 (da)/𒁕 (da) or 𒉈 (de3) or 𒁲 (di)</h2>
+<h2>Comitative: 𒁕 • (da)/𒁕 • (da) or 𒉈 • (de3) or 𒁲 • (di) with</h2>
 <h3>𒈗𒂊𒌉𒁕𒂍𒈬𒌦𒁕𒆕</h3>
 lugal.e dumu.da e2 mu.un.da.du3</br>
 The king built the house with a son.
+
+<h2>Equitative: 𒁶 •  (gin7) // 𒁶 • (gin7) like, as</h3>
+<h3>𒀀𒁀𒋀𒈬𒁶</h3>
+a ba shesh ĝu10-my gin-equitative</br>
+Who is like my brother?
 
 ## Dative conjugation
 When used as a prefix to a verb, the dative takes a different

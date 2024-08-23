@@ -406,7 +406,7 @@ The king built the house with a son.
 a ba shesh ĝu10-my gin-equitative</br>
 Who is like my brother?
 
-## Dative conjugation
+# Dative conjugation
 When used as a prefix to a verb, the dative takes a different
 forms depending on the person and number it is referring to.
 

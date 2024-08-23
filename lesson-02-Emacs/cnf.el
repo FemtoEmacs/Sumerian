@@ -662,6 +662,7 @@
 	("𒅆" terminative-in-verbal-chain shi)
 	("𒅆" terminative ši)
 	("𒁶" equitative gin-equitative)
+	("𒈬" possessive-my ĝu10-my)
 	));; end
 
 ;; 𒃻 -- thing

@@ -379,9 +379,9 @@ The leading case elements with their marks and references are:
 <h3>comitative (𒁕//𒁕 • da • with)</h3>
 <h3>equitative (𒁶//𒁶 • gin7 • like)</h3>
 
-In Sumerian, the cases may have references in a chain of
+As you learned before, in Sumerian, the cases may have references in a chain of
 prefixes that delimit the meaning of the verbal chain.
-Below is a list of case markers and their
+Below is a list of examples for case markers and their
 references in the verbal chain.
 
 <h2>Dative: 𒊏 (ra, r)/𒈾 (na) </h2>

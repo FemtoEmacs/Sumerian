@@ -364,7 +364,7 @@ Let's read the whole brick inscription:
 
 The meaning of the whole document is something like this: **"For the god Nanna, his Master, Ur-Nammu, the King of Urim, built his temple. The king also built the city walls of Urim."**
 
-# Sentence structure
+# Case Elements
 The subject of a sentence is the topic of
 the conversation. Besides the subject, the sentence may have
 other marked components called case elements.

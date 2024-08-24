@@ -663,7 +663,7 @@
 	("𒅆" terminative ši)
 	("𒁶" equitative gin-equitative)
 	("𒈬" possessive-my ĝu10-my)
-        ("𒈬" possessive-my ĝu-my)
+  ("𒈬" possessive-my ĝu-my)
 	));; end
 
 ;; 𒃻 -- thing
@@ -700,7 +700,7 @@
 
 ;;(gethash 'lugal xxx)
 ;; (gethash 'du3 xxx)
-
+;; 𒀊𒂦???𒀼𒁀𒀭𒀊𒀀𒈗𒂦?
 
 (defun cnf(xs)
   (dolist (x xs)

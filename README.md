@@ -388,7 +388,7 @@ The king built a house in a city.
 
 <h2>Terminative: 𒂠 • (še)/𒅆 • (ši) in order to</h2>
 <h3>𒂷𒂊𒌷𒈬𒂠𒂵𒅆𒁺</h3>
-ĝa2.e uru.ĝu10-my.še ga.ši.ĝen</br>
+ĝe26.e uru.ĝu10-my.še ga.ši.ĝen</br>
 I will go there to my city.
 
 <h2>Ablative: 𒋫 • (ta)/𒋫 • (ta) or 𒊏 (ra) out of</h2>

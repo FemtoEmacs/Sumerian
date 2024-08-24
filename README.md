@@ -401,7 +401,7 @@ He went out from the city.
 lugal.e dumu.da e2 mu.un.da.du3</br>
 The king built the house with a son.
 
-<h2>Equitative: 𒁶 •  (gin7) // 𒁶 • (gin7) like, as</h3>
+<h2>Equitative: 𒁶 // 𒁶 • (gin-equitative) like, as</h3>
 <h3>𒀀𒁀𒋀𒈬𒁶</h3>
 a ba shesh ĝu10-my gin-equitative</br>
 Who is like my brother?

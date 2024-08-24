@@ -397,9 +397,9 @@ uru.ta ba.ta.ĝen</br>
 He went out from the city.
 
 <h2>Comitative: 𒁕 • (da)/𒁕 • (da) or 𒉈 • (de3) or 𒁲 • (di) with</h2>
-<h3>𒈗𒂊𒌉𒁕𒂍𒈬𒌦𒁕𒆕</h3>
-lugal.e dumu.da e2 mu.un.da.du3</br>
-The king built the house with a son.
+<h3>𒈗𒂊𒌉𒀀𒉌𒁕𒂍𒈬𒌦𒁕𒆕</h3></h3>
+lugal.e dumu a ni da e2 mu.un.da.du3</br>
+The king built the house with his son.
 
 <h2>Equitative: 𒁶 // 𒁶 • (gin-equitative) like, as</h3>
 <h3>𒀀𒁀𒋀𒈬𒁶</h3>

@@ -377,9 +377,9 @@ lugal.e bad3 urim ma mu-na-du3</br>
 The king built the city wall of Ur.
 
 <h2>Dative: 𒊏 • (ra, r)/𒈾 (na) for </h2>
-<h3>𒎏𒊏𒈗𒂊𒂍𒈬𒈾𒆕</h3>
-nin.ra lugal.e e2 mu-na-du3</br>
-For the lady, the king built a house.
+<h3>𒎏𒀀𒉌𒈗𒂊𒂦𒋀𒀊𒆠𒈠𒈬𒈾𒆕</h3>
+nin a ni ra lugal.e bad3 urim ma mu-na-du3</br>
+For his lady, the king built the wall of Urim.
 
 <h2>Locative: 𒀀 • (a)/𒉌 • (ni) in, on</h2>
 <h3>𒈗𒂊𒌷𒀀𒂍𒈬𒉌𒆕</h3>
@@ -388,7 +388,7 @@ The king built a house in a city.
 
 <h2>Terminative: 𒂠 • (še)/𒅆 • (ši) in order to</h2>
 <h3>𒂷𒂊𒌷𒈬𒂠𒂵𒅆𒁺</h3>
-ĝa2.e uru.ĝu10.še ga.ši.ĝen</br>
+ĝa2.e uru.ĝu10-my.še ga.ši.ĝen</br>
 I will go there to my city.
 
 <h2>Ablative: 𒋫 • (ta)/𒋫 • (ta) or 𒊏 (ra) out of</h2>

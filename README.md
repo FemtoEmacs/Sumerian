@@ -23,23 +23,25 @@ of cuneiforms to solve pendencies.
 This site's finality is to help tourists reading
 royal inscriptions that they may find in
 museums and universities. The site may be
-useful to amateur historians who may need
+useful to amateur historians who need
 to assert the meaning of ancient documents.
 
 For scholars and graduate students who are
 writing their thesis, the webmaster of this
 site recommend  John Hayes' **Manual of Sumerian**
 and Joshua Bowen's **Learn to Read Ancient Sumerian**.
-The University of Pennsylvania has also
+Hayes' manual strong points are inscriptions and
+dedicatories, while Bowen and Lewis prefer literary
+texts. The University of Pennsylvania has also
 excellent material for consultation that can
 be used by graduate students.
 
 ## Order of reading this tutorial
-1. The present README contains the first lesson with the document ```Ur-Nammu 9```.
-2. In the ```Emacs``` directory, the second lesson briefly introduces the Emacs editor and annotates the document ```Ur-Nammu 7```.
-3. Directory ```ur-nammu-31``` contains the third lesson.
-4. The fourth lesson is in the directory ```Ur-Nammu-23```.
-5. The fifth lesson is in the directory ```lesson-five-Ur-Nammu-5```.
+1. The present README contains the first lesson, the document ```Ur-Nammu 9,``` and an overview of Sumerian grammar.
+2. The second lesson in the ```lesson-02-Emacs``` directory provides a practical introduction to the Emacs editor and annotates the document ```Ur-Nammu 7```. It also covers essential topics such as possessive pronouns, independent pronouns, interrogative pronouns, intransitive verbs, and conjugations.
+3. Directory ```lesson-03-Ur-Nammu-31``` contains the third lesson. The third lesson analyses the Ur-Nammu-31 document and contains a short tutorial about the imperative and conjunctions. 
+4. The fourth lesson is in the directory ```lesson-04-Ur-Nammu-23``` contains the Ur-Nammu-23 document and an introduction to Sumerian numerals..
+5. The fifth lesson is in the directory ```lesson-05-Ur-Nammu-5```.
 
 ## Sentence structure
 To discuss grammar, scholars

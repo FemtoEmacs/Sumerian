@@ -75,7 +75,7 @@ In the example, the grammar functions are:
 <p>Square brackets delimit a noun chain, i.e., a noun
 followed by a sequence of limiting qualifiers that may
 contain adjectives, apositives and a genitive.
-Example: [UR-NAMMU LUGAL.URIM5.{AK}]{E} means
+Example: [UR-NAMMU LUGAL.URIM5.{AK}].{E} means
 [Ur-Nammu, Ur's king].{task-doer}. After the
 close square bracket, a braced symbol
 suffix indicates the function
@@ -96,10 +96,16 @@ follows the noun and is marked with AK after consonant
 and K after vowel: {URIM5 MA].{K} is equivalent to
 Ur's king.</p>
 
-<p>Braces represent the grammatical function endings. For instance,
-  the ergative function-ending is written as {E} #erg,
-  where #erg is a comment. The
-  empty ending of the object is commented as {∅} #obj
+<p>Braces represent the grammatical
+  function endings. For instance,
+  the ergative function-ending represents the
+  doer of the action and is written as {E} #erg,
+  where #erg is a comment that will be omitted in
+  more advanced lessons. The person who receives
+  the benefit of the action is called dative and
+  is represented as {RA} #dat, where the #dat comment
+  is usually omitted.
+  The empty ending of the object is commented as {∅} #obj
   or simply as {} #obj. In the example, the objects
   are the constructions, "his temple" [E2 A NI].{∅} and
   "the city wall of Ur" [[BAD3.URIM5].{A(K)].{∅}. 

@@ -107,9 +107,12 @@ Ur's king.</p>
   is usually omitted.
   The empty ending of the object is commented as {∅} #obj
   or simply as {} #obj. In the example, the objects
-  are the constructions, "his temple" [E2 A NI].{∅} and
-  "the city wall of Ur" [[BAD3.URIM5].{A(K)].{∅}. 
+  are the constructions of king Ur-Nammu:
   
+  ```
+  [E2 A NI].{∅}              -- his temple
+  [[BAD3.URIM5].{A(K)].{∅}   -- the city wall of Ur
+  ```
   Unwritten endings are placed between parentheses, such as {(R)}.
 </p>
 

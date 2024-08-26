@@ -64,7 +64,7 @@ In the example, the grammar functions are:
 
 1,2- The benefactive has an unwritten R, which is represented by {(R)}\
 3,4- The genitive ends in {AK} after consonant; the ergative ends in {E}\
-5- The object of the action has no ending, which is represented by {}\
+5- The object of the action has no ending, which is represented by {∅}\
 7- The genitive has an unwritten K, which is represented by {A(K)}
 
 <p>Square brackets delimit a noun chain, i.e., a noun
@@ -95,6 +95,7 @@ Ur's king.</p>
   empty ending of the object is commented as {∅ #object}
   or simply as {#object}. In the example, the objects
   are the constructions, "his temple" [E2 A NI].{∅} and
+  "the city wall of Ur" [[BAD3.URIM5].{A(K)].{∅}. 
   
   Unwritten endings are placed between parentheses, such as {(R)}.
 </p>

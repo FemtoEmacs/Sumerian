@@ -13,6 +13,27 @@ There are two ways of typesetting Sumerian. The first uses Unicode and a scripta
 ## Books
 There are few grammar books for Sumerian. Unfortunately, Marie-Louise Thomsen's "**The Sumerian Language**" does not use cuneiform, so I cannot recommend it. This leaves us with John Hayes' **Manual of Sumerian** and Joshua Bowen's **Learn to Read Ancient Sumerian**. Therefore, I advise you to buy  "**A Manual of Sumerian: Grammar and Texts**" by Hayes to learn this ancient language in depth. It is also a good idea to acquire "**Learn to Read Ancient Sumerian**" by Joshua Bowen and Megan Lewis.
 
+## Disclaimer
+The owner of this portal is not a scholar
+in Sumerian studies in any sense. His collaborators
+are not scholars either. Therefore, people associated
+with this tutorial may not help serious students
+of cuneiforms to solve pendencies.
+
+This site's finality is to help tourists reading
+royal inscriptions that they may find in
+museums and universities. The site may be
+useful to amateur historians who may need
+to assert the meaning of ancient documents.
+
+For scholars and graduate students who are
+writing their thesis, the webmaster of this
+site recommend  John Hayes' **Manual of Sumerian**
+and Joshua Bowen's **Learn to Read Ancient Sumerian**.
+The University of Pennsylvania has also
+excellent material for consultation that can
+be used by graduate students.
+
 ## Order of reading this tutorial
 1. The present README contains the first lesson with the document ```Ur-Nammu 9```.
 2. In the ```Emacs``` directory, the second lesson briefly introduces the Emacs editor and annotates the document ```Ur-Nammu 7```.
@@ -21,26 +42,61 @@ There are few grammar books for Sumerian. Unfortunately, Marie-Louise Thomsen's 
 5. The fifth lesson is in the directory ```lesson-five-Ur-Nammu-5```.
 
 ## Sentence structure
-1- [NANNA \
-2-  LUGAL.ANI].{(R) #benefactive}  -- For his king\
-3- [UR.NAMMU\
-4- LUGAL.URIM5.{AK #genitive}].{E #ergative} --  the king of UR\
-5- [E2.ANI].{#object}      --  his temple\
+To discuss grammar, scholars
+use a transliteration of Sumerian cuneiforms
+to the Latin alphabet. Below, you will find
+the transliteration of the Ur-Nammu-9 document
+that we will study in this lesson.
+
+1- [1- NANNA 2- LUGAL.ANI].{(R) #benefactive}  -- For his king\
+3- [UR-NAMMU 4- LUGAL.URIM5.{AK #genitive}].{E #ergative} --  the king of UR\
+5- [E2.ANI].{∅ #object}      --  his temple\
 6- MU.NA.DU3 #verb     -- he built\
 7- [[BAD3.URIM5].{A(K) #genitive}].{#object} -- the city wall of Ur\
 8- MU.NA.DU3  #verb      -- he built
+
+### Grammar functions in transliteration
+In the transliteration, grammar functions
+are represented by indicators between braces.
+In the example, the grammar functions are:
 
 1,2- The benefactive has an unwritten R, which is represented by {(R)}\
 3,4- The genitive ends in {AK} after consonant; the ergative ends in {E}\
 5- The object of the action has no ending, which is represented by {}\
 7- The genitive has an unwritten K, which is represented by {A(K)}
 
-<p>Braces represent endings. In the representation of an ending,
-I may add a hash-prefixed comment on the grammatical function. For instance,
-  the ergative ending {E} may be written as {E #ergative}. The
-  empty ending of the object is commented as {#object}.
+<p>Square brackets delimit a noun chain, i.e., a noun
+followed by a sequence of limiting qualifiers that may
+contain adjectives, apositives and a genitive.
+Example: [UR-NAMMU LUGAL.URIM5.{AK}]{E} means
+[Ur-Nammu, Ur's king].{task-doer}. After the
+close square bracket, a braced symbol
+suffix indicates the function
+of the noun chain. For instance, .{E} shows that
+[UR.NAMMU...].{E} is the doer of the sentence's task. The {(R)} symbol shows that [NANNA...].{(R)}
+receives the benefits of the task:
+[God Nanna].{benefactive}.</p>
+
+<p>The noun chain may contain a genitive, as was
+stated in the previous paragraph. If you don't
+know the role of a genitive, it is a grammar
+function that shows possession. In English,
+the Saxon genitive marks the possessor
+with apostrophe-s and comes before the
+noun: <i>Ur's king</i>. In Sumerian, the possessor
+follows the noun and is marked with AK after consonant
+and K after vowel: {URIM5 MA].{K} is equivalent to
+Ur's king.</p>
+
+<p>Braces represent the grammatical function endings. For instance,
+  the ergative function-ending {E} may be written as {E #ergative}. The
+  empty ending of the object is commented as {∅ #object}
+  or simply as {#object}. In the example, the objects
+  are the constructions, "his temple" [E2 A NI].{∅} and
+  
   Unwritten endings are placed between parentheses, such as {(R)}.
 </p>
+
 
 ## First Rectangle
 The Ur-Nammu 9 document is divided into eight rectangles. In the first rectangle, the text 𒀭𒋀𒆠 is written, which is the Sumerogram for the name of Nanna, the god of the Moon. The 𒀭 symbol is read as AN (or DIG̃IR) and is determinative for deity. We will learn in the next paragraph that this word is in the dative case; therefore, the translation of the rectangle is "**For Nanna.**"

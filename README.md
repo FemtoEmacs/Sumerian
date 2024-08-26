@@ -50,12 +50,17 @@ to the Latin alphabet. Below, you will find
 the transliteration of the Ur-Nammu-9 document
 that we will study in this lesson.
 
-1- [1- NANNA 2- LUGAL.ANI].{(R) #benefactive}  -- For his king\
-3- [UR-NAMMU 4- LUGAL.URIM5.{AK #genitive}].{E #ergative} --  the king of UR\
-5- [E2.ANI].{∅ #object}      --  his temple\
+
+``` sumerian
+1- [NANNA
+2-     LUGAL.ANI].{(R)} #dat           -- For his king\
+3- [UR-NAMMU
+4-     LUGAL.URIM5.{AK}].{E} #gen/erg  --  the king of UR\
+5- [E2.ANI].{Ø}  #object               --  his temple\
 6- MU.NA.DU3 #verb     -- he built\
-7- [[BAD3.URIM5].{A(K) #genitive}].{#object} -- the city wall of Ur\
-8- MU.NA.DU3  #verb      -- he built
+7- [BAD3.URIM5.{A(K)}].{Ø} #gen/obj    -- the city wall of Ur\
+8- MU.NA.DU3  #verb                    -- he built
+```
 
 ### Grammar functions in transliteration
 In the transliteration, grammar functions
@@ -75,7 +80,8 @@ Example: [UR-NAMMU LUGAL.URIM5.{AK}]{E} means
 close square bracket, a braced symbol
 suffix indicates the function
 of the noun chain. For instance, .{E} shows that
-[UR.NAMMU...].{E} is the doer of the sentence's task. The {(R)} symbol shows that [NANNA...].{(R)}
+[UR.NAMMU...].{E} is the doer of the sentence's task.
+The {(R)} symbol shows that [NANNA...].{(R)}
 receives the benefits of the task:
 [God Nanna].{benefactive}.</p>
 
@@ -91,23 +97,23 @@ and K after vowel: {URIM5 MA].{K} is equivalent to
 Ur's king.</p>
 
 <p>Braces represent the grammatical function endings. For instance,
-  the ergative function-ending {E} may be written as {E #ergative}. The
-  empty ending of the object is commented as {∅ #object}
-  or simply as {#object}. In the example, the objects
+  the ergative function-ending is written as {E} #erg,
+  where #erg is a comment. The
+  empty ending of the object is commented as {∅} #obj
+  or simply as {} #obj. In the example, the objects
   are the constructions, "his temple" [E2 A NI].{∅} and
   "the city wall of Ur" [[BAD3.URIM5].{A(K)].{∅}. 
   
   Unwritten endings are placed between parentheses, such as {(R)}.
 </p>
 
-
 ## First Rectangle
-The Ur-Nammu 9 document is divided into eight rectangles. In the first rectangle, the text 𒀭𒋀𒆠 is written, which is the Sumerogram for the name of Nanna, the god of the Moon. The 𒀭 symbol is read as AN (or DIG̃IR) and is determinative for deity. We will learn in the next paragraph that this word is in the dative case; therefore, the translation of the rectangle is "**For Nanna.**"
+The Ur-Nammu 9 document is divided into eight rectangles. In the first rectangle, the text 𒀭𒋀𒆠 is written, which is the Sumerogram for the name of Nanna, the god of the Moon. The 𒀭 symbol is read as AN (or DIGIR) and is determinative for deity. We will learn in the next paragraph that this word is in the dative case; therefore, the translation of the rectangle is "**For Nanna.**"
 
 <table>
  <tr>
-  <th><h3>𒀭</h3></th>
-   <th><h3>𒋀𒆠</h3></th>
+  <td><h3>𒀭</h3></td>
+   <td><h3>𒋀𒆠</h3></td>
  </tr>
  <tr>
   <td>an</td>
@@ -136,12 +142,12 @@ The Ur-Nammu 9 document is divided into eight rectangles. In the first rectangle
 ## Second rectangle
 The second rectangle contains three Sumerograms: 𒈗 (LUGAL), 𒀀 (syllable A), and 𒉌 (syllable NI). LUGAL (𒈗) means "King" or "Lord." ANI (𒀀𒉌) can be translated as "his." Then LUGAL ANI (𒈗𒀀𒉌) means "his Lord." The Sumerogram 𒈗 (LUGAL) is formed from 𒇽 (lu₂, "person") and 𒃲 (gal, "big").
 
-In Sumerian, like in Latin and German, a nominal phrase has a case marker that indicates various grammatical functions. On the first and second rectangles, the case marker is the dative, which suggests the beneficiary of the action (**cui bono**). The dative marker is an "R," rarely expressed in writing. Therefore, the whole nominal phrase can be transliterated as [NANNA LUGAL.ANI].(R), where the (R) is not expressed.
+In Sumerian, like in Latin and German, a nominal phrase has a case marker that indicates various grammatical functions. On the first and second rectangles, the case marker is the dative, which suggests the beneficiary of the action (**cui bono**). The dative marker is an "R," rarely expressed in writing. Therefore, the whole nominal phrase can be transliterated as **[NANNA LUGAL.ANI].{(R)}**, where the **(R)** is not expressed.
 
 <table>
  <tr>
-  <th><h3>𒈗</h3></th>
-   <th><h3>𒀀𒉌</h3></th>
+  <td><h3>𒈗</h3></td>
+   <td><h3>𒀀𒉌</h3></td>
  </tr>
  <tr>
   <td>lugal</td>
@@ -168,11 +174,11 @@ In Sumerian, like in Latin and German, a nominal phrase has a case marker that i
 </table>
 
 ## Third Rectangle
-The third rectangle contains the name of Ur-Nammu (𒌨𒀭𒇉), the king who rebuilt the temple of Nanna and is the document's author. The king's name is formed by 𒌨 (UR), which means man or dog, and 𒀭𒇉 (NAMMA), the Mother Earth of the Sumerians. Therefore, the king's name, 𒌨𒀭𒇉, means "The Man of Namma." Note that the determinative of deity (𒀭) precedes the goddess's name.
+The third rectangle contains the name of Ur-Nammu (𒌨𒀭𒇉), the king who rebuilt the temple of Nanna and is the document's author. The king's name is formed by 𒌨 (UR), which means man or dog, and 𒀭𒇉 (NAMMU), the Mother Earth of the Sumerians. Therefore, the king's name, 𒌨𒀭𒇉, means "The Man of Nammu." Note that the determinative of deity (𒀭) precedes the goddess's name.
 
 <table>
  <tr>
-  <th><h3>𒌨𒀭𒇉</h3></th>
+  <td><h3>𒌨𒀭𒇉</h3></td>
  </tr>
  <tr>
   <td>ur-nammu</td>
@@ -205,10 +211,10 @@ Sumerian is an ergative language, meaning the agent of transitive actions is mar
 
 <table>
  <tr>
-  <th><h3>𒈗</h3></th>
-   <th><h3>𒋀𒀊𒆠</h3></th>
-   <th><h3>𒈠</h3></th>
-   <th><h3>𒆤</h3></th>
+  <td><h3>𒈗</h3></td>
+   <td><h3>𒋀𒀊𒆠</h3></td>
+   <td><h3>𒈠</h3></td>
+   <td><h3>𒆤</h3></td>
  </tr>
  <tr>
   <td>lugal</td>
@@ -219,7 +225,7 @@ Sumerian is an ergative language, meaning the agent of transitive actions is mar
  <tr>
   <td colspan="4">
     ===============================================</br>
-    (cn lugal urim ma ke4)</br>
+    (tr lugal urim ma ke4)</br>
     lugal.urim5.ak].e
   </td>
  </tr>
@@ -241,9 +247,9 @@ The fifth rectangle introduces the temple (E2 - 𒂍) that Ur-Nammu built. The e
 
 <table>
  <tr>
-  <th><h3>𒂍</h3></th>
-   <th><h3>𒀀</h3></th>
-   <th><h3>𒉌</h3></th>
+  <td><h3>𒂍</h3></td>
+   <td><h3>𒀀</h3></td>
+   <td><h3>𒉌</h3></td>
  </tr>
  <tr>
   <td>e2</td>
@@ -253,7 +259,7 @@ The fifth rectangle introduces the temple (E2 - 𒂍) that Ur-Nammu built. The e
  <tr>
   <td colspan="3">
      ===============================================</br>
-    (cn e2 a ni)</br>
+    (tr e2 a ni)</br>
     e2.ani
   </td>
  </tr>
@@ -282,9 +288,9 @@ can be translated as "built." This verbal chain has two prefixes and a stem:
 
 <table>
  <tr>
-  <th><h3>𒈬</h3></th>
-   <th><h3>𒈾</h3></th>
-   <th><h3>𒆕</h3></th>
+  <td><h3>𒈬</h3></td>
+   <td><h3>𒈾</h3></td>
+   <td><h3>𒆕</h3></td>
  </tr>
  <tr>
   <td>mu</td>
@@ -294,7 +300,7 @@ can be translated as "built." This verbal chain has two prefixes and a stem:
  <tr>
   <td colspan="3">
      ===============================================</br>
-    (cn mu na du3)</br>
+    (tr mu na du3)</br>
     mu.na.du3
   </td>
  </tr>
@@ -320,9 +326,9 @@ The noun phrase 𒂦𒋀𒀕𒆠𒈠 (BAD2.URIM2.MA) means "wall of URIM2." The 
 
 <table>
  <tr>
-  <th><h3>𒂦</h3></th>
-   <th><h3>𒋀𒀕𒆠</h3></th>
-   <th><h3>𒈠</h3></th>
+  <td><h3>𒂦</h3></td>
+   <td><h3>𒋀𒀕𒆠</h3></td>
+   <td><h3>𒈠</h3></td>
  </tr>
  <tr>
   <td>bad3</td>
@@ -332,7 +338,7 @@ The noun phrase 𒂦𒋀𒀕𒆠𒈠 (BAD2.URIM2.MA) means "wall of URIM2." The 
  <tr>
   <td colspan="3">
      ===============================================</br>
-    (cn bad3 urim ma)</br>
+    (tr bad3 urim ma)</br>
     bad3.urim5.a
   </td>
  </tr>
@@ -354,9 +360,9 @@ The last rectangle repeats the 𒈬𒈾𒆕 (MUNADU3) verbal chain.
 
 <table>
  <tr>
-  <th><h3>𒈬</h3></th>
-   <th><h3>𒈾</h3></th>
-   <th><h3>𒆕</h3></th>
+  <td><h3>𒈬</h3></td>
+   <td><h3>𒈾</h3></td>
+   <td><h3>𒆕</h3></td>
  </tr>
  <tr>
   <td>mu</td>
@@ -366,10 +372,10 @@ The last rectangle repeats the 𒈬𒈾𒆕 (MUNADU3) verbal chain.
  <tr>
   <td colspan="3">
      ===============================================</br>
-    (cn mu na du3)</br>
+    (tr mu na du3)</br>
     mu.na.du3
   </td>
- </tr>𒈬𒌦𒉈𒆪𒂊 (mu-nne.dab.e) he seizes them
+ </tr>𒈬𒌦𒉈𒆪𒂊 (mu un ne dab5 e) he seizes them
   <tr>
   <td colspan="3">
    <i>he built for him</i> 
@@ -622,27 +628,27 @@ this fact in transliteration.
 
 <h3>Negation: 𒉡 nu-</h3>
 <h4>𒉡𒌦𒅥</h4>
-(cn nu un gu7)</br>
+(tr nu un gu7)</br>
 He didn't eat it.
 
 <h3>Let him: 𒃶 ḫe2-</h3>
 <h4>𒃶𒅁𒅥𒂊</h4>
-(cn hhe2 ib gu7 e)</br>
+(tr hhe2 ib gu7 e)</br>
 Let him eat it.
 
 <h3>Indeed: 𒄩 ḫa-</h3>
 <h4>𒄩𒀭𒅥</h4>
-(cn hha an gu7)</br>
+(tr hha an gu7)</br>
 He ate it, indeed.
 
 <h3>Cohortative: 𒂵 ga-</h3>
 <h4>𒂵𒉌𒌈𒃻𒊑𒂗𒉈𒂗</h4>
-(cn ga ni ib2 ĝar re en de3 en)</br>
+(tr ga ni ib2 ĝar re en de3 en)</br>
 Let us put it there.
 
 <h3>Prohibitive: 𒈾 na-</h3>
 <h4>𒈾𒀊𒅥𒂊</h4>
-(cn na ab gu7 e)</br>
+(tr na ab gu7 e)</br>
 He must not eat it.
 
 # Conjugation Prefix (CP)
@@ -653,29 +659,29 @@ Below, you will find a fairly complete list of Conjugation Prefixes, but
 you need to learn only /mu-/ and /i3/ for this first lesson.
 
 <h3>1. Here: 𒈬 - 𒌦𒁺</h3>
-(cn mu un re6)</br>
+(tr mu un re6)</br>
 He brought it here.
 
 <h3>2. Followed by open vowel: 𒉈 - 𒅔𒁺</h3>
-(cn bi2 in re6)</br>
+(tr bi2 in re6)</br>
 He made the team bring it.
 
 <h3>3. Followed by ra: 𒈠 - 𒊏𒀭𒁺</h3>
-(cn ma ra an re6) </br>
+(tr ma ra an re6) </br>
 He brought it here to you.
 
 <h3>4. Finite verb: 𒉌 - 𒅎𒁺</h3>
-(cn i3 im ĝen)</br>
+(tr i3 im ĝen)</br>
 He came here.</br>
 <i>Obs. The middle voice with /ba/ indicates an action that affects the doer.</i>
 
 <h3>5. Middle voice: 𒁀 - 𒀭𒁺</h3>
-(cn ba an re6)</br>
+(tr ba an re6)</br>
 He took it for himself.</br>
 
 
 <h3>6. Passive voice: 𒁀 - 𒁺</h3>
-(cn ba re6)</br>
+(tr ba re6)</br>
 It was brought.
 
 

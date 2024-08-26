@@ -26,6 +26,35 @@
 	("𒆕"	U+12195	du3)         ;; 15
         ("𒆤"  gen ke4)
 
+	("𒂠" terminative-noun she-terminative)
+	("𒅆" terminative-in-verbal-chain shi)
+	("𒅆" terminative ši)
+	("𒁶" equitative gin-equitative)
+	("𒈬" possessive-my ĝu10-my)
+        ("𒈬" possessive-my ĝu-my)
+        ("𒆪" U+121AA  dab5)      ;; 92 to hold
+	("𒆪" to-seize  dab-seize)      ;; 92 to hold
+	("𒌦" to-it un)
+	
+	("𒂼" mother ama)  ;; 114
+        ("𒌉"	U+12309	dumu)   ;; 75
+	("𒍑"	U+12351	uš)       ;;31
+        ("𒍑"	U+12351	nita)     ;;32
+	("𒆗"	U+12197	kal)      ;;33
+	("𒆗"	U+12197	kalag)    ;;33
+
+	("𒁺"	U+1207A	gub)     ;;61 to stand
+        ("𒁺" to-bring tum2)
+        ("𒁺" to-go ĝen)
+	("𒁻" to-go-pl re7)
+	("𒁺" to-bring re6)
+	("𒉡" not nu)
+        ("𒅥" to-eat gu7)
+	("𒅥" to-eat gu-eat)
+	("Ø" null-symbol null)
+	("•" separator sep)
+	("𒅎" venitive im)
+	("𒀊" it ab-it)
 	;; (cn an nanna)             𒀭𒋀𒆠
 	;; (cn lugal a ni)           𒈗𒀀𒉌
 	;; (cn ur-nammu)             𒌨𒀭𒇉
@@ -43,13 +72,13 @@
 	("𒈬"  U+1222C	mu)          ;; 20
 	("𒈾"	U+1223E	na )         ;; 21
 	("𒉌"	U+1224C	ni)          ;; 22
+	("𒃻" to-place gar)
         ;; ("𒂵"	U+120B5	ga)          ;; 23
         ;; ("𒆷"  la la)  
 	;; ("𒅗"	U+12157	ka)
 	;; ("𒊏"	U+1228F	ra)
         ;; ("𒉈"	U+12248	ne)      ;;64 syllabic
 	;; ("𒊑"	U+12291	re)      ;;65 syllabic
-	;; ("𒅔"	U+12154	in)      ;; 67 syllabic
 	;; ("𒅔" U+12154	in)      ;; 67 syllabic
 	;; ("𒇲" U+121F2 la2)       ;; 68 syllabic
 	;; ("𒂷"	U+120B7	ga2)   ;; 70 syllabic
@@ -69,10 +98,6 @@
 	("𒌵"	U+12335	uri)      ;;28
 	("𒆠𒌵"    akad  akad)   ;;29
 	("𒎏"	U+1238F	nin)      ;;30
-	("𒍑"	U+12351	uš)       ;;31
-	("𒍑"	U+12351	nita)     ;;32
-	("𒆗"	U+12197	kal)      ;;33
-	("𒆗"	U+12197	kalag)    ;;33
 	("𒂵"	U+120B5	ga)       ;;34
 
 	;; (cn an inanna)          𒀭𒈹
@@ -140,7 +165,7 @@
 	("𒁈"  U+12048	bara2) ;;59
 	("𒁈"  U+12048	barag)
 	("𒊬"   U+122AC  kiri6) ;;60
-	("𒁺"	U+1207A	gub)     ;;61 to stand
+	;; ("𒁺"	U+1207A	gub)     ;;61 to stand
 	("𒈤"	U+12224	mah)     ;;62 to be splendid
 	("𒂖"	U+12096	sikil)   ;;63 to be clean
 	("𒉈"	U+12248	ne)      ;;64 syllabic
@@ -185,7 +210,7 @@
 	("𒅍" U+1214D	il2)   ;; 74
 	("𒅍" U+1214D	guru3)   ;;
 	("𒂍𒋼𒉎𒅍"  U+122FC   etemenniguru)
-	("𒌉"	U+12309	dumu)   ;; 75
+	
 	("𒊕"	U+12295	sag)    ;; 76 head
 	("𒄄"	U+12104	gi4)    ;; 77 to return
 	("𒁉"	U+12049	bi)     ;; 78 syllabic
@@ -226,7 +251,6 @@
 	("𒇷"	U+121F7	li)       ;; 89
 	("𒊩" U+122A9 munus)      ;; 90 woman
 	("𒌓𒅗𒁇" bronze zabar) ;; 91
-	("𒆪" U+121AA  dab5)      ;; 92 to hold
 	("𒌓𒅗𒁇𒆪" officer zabar-dab5 )
 	("𒁶" U+12076 dim2)     ;; 93 to form
 	("𒀀𒀭"	aan	am3)     ;; syllabic
@@ -318,7 +342,7 @@
 	("𒈨" syllabic me)
 ;;; https://oracc.museum.upenn.edu/etcsri/Q001789
 	
-	("𒂼" mother ama)  ;; 114
+	
 	( "𒉢𒁓𒆷" LAGAŠ lagash)
 	;; ("𒌉" child dumu)  ;; 115
        
@@ -347,8 +371,8 @@
 	("𒂗𒀭𒈾𒁺" a-king en-an-na-tum2)
 	("𒀊" shrine esh3)
 	("𒂁𒊒" temple dug-ru)
-	("𒃻" to-place gar) ;; 
-	("𒅎" venitive im)
+	;; ("𒃻" to-place gar) ;; 
+	;; ("𒅎" venitive im)
 	("𒉌𒅎𒄄" return ni-im-gi4)
 	("𒊺" barley  she) ;; 121
 	("𒄯" handmill ur5) ;; 122
@@ -406,7 +430,7 @@
         ;;Fat bull
 	("𒅗" nose kir4)
         ("𒌨" pride tesh2)
-	("𒉡" not nu)
+	;; ("𒉡" not nu)
 	("𒍪" wisdom zu)
 	("𒆪" grab dab5)
         ("𒌒" praise ar2)
@@ -421,7 +445,7 @@
 	;; (cn gud gal niga) 𒄞𒃲𒊺
         ("𒀭𒈾𒁺" a-king an-na-tum2)
 	("𒀉"  strength a2)
-	("𒅥" to-eat gu7)
+	;; ("𒅥" to-eat gu7)
 	("𒀭𒎏𒄯𒊕" goddess ninhursag)
 	("𒄈" dagger gir2)
 	("𒄈𒋢𒆠" city girsu)
@@ -568,15 +592,14 @@
 	("𒋼" to-be-near teĝ3)
 	("𒈬" my ĝu10-my)
 	("𒉐" to-bring tum3)
-	("𒁺" to-bring tum2)
+	;;; ("𒁺" to-bring tum2)
 	("𒂷" to-me ma2-me)
 	("𒂷" to-me ĝe26)
 	("𒈨𒂊" me me-e)
 	("𒀀𒉈" he-him ane-him)
 	("𒋧" to-give ŝum2-give)
-	("𒀊" it ab-it)
+	;; ("𒀊" it ab-it)
 	("𒎐" sister nin9-sister)
-	("𒌦" to-it un)
 	("𒌦𒍢𒂗" they un-ze2-en)
 	
 	;;; (cn niĝ2 tuku tuku al sud3-ud nam ukur3 ra al teĝ3)
@@ -598,8 +621,8 @@
 	("𒂗𒉈𒂗" we enden)
 	("𒍢" you ze2)
 
-	("𒁺" to-go ĝen)
-	("𒁻" to-go-pl re7)
+	;; ("𒁺" to-go ĝen)
+	;; ("𒁻" to-go-pl re7)
 
         ("𒆪" component-friend gu5)
 	("𒀸" one ash)
@@ -654,53 +677,14 @@
 	("𒅇" and u3)
 	("𒄑" gish ĝish)
 	("𒄤" to-execute gaz)
-	("𒁺" to-bring re6)
+	;; ("𒁺" to-bring re6)
         ("𒃶" let-him hhe2)
 	("𒅁" syllabic ib)
 
-	("𒂠" terminative-noun she-terminative)
-	("𒅆" terminative-in-verbal-chain shi)
-	("𒅆" terminative ši)
-	("𒁶" equitative gin-equitative)
-	("𒈬" possessive-my ĝu10-my)
-        ("𒈬" possessive-my ĝu-my)
 	));; end
-
-;; 𒃻 -- thing
-;; 𒌓𒁺 -- to bring forth, to erect, to set up
-;; 𒀭𒀫𒀭𒂗𒍪 (cn an amar-zuen)
-;; 𒂗𒆤𒆠𒀀    (cn nibru a)
-;;  𒀭𒂗𒆤𒇷 (cn an enlil le)
-;; 𒈬 𒅆𒊒𒁕  (cn mu-pad3 da)
-;; 𒊕𒍑       (cn sang us2)
-;; 𒂍𒀭𒂗𒆤𒅗 (cn e2 an enlil ka)
-;; 𒈗𒆗𒂵   (cn lugal kalag ga)
-;; 𒈗𒋀𒀊𒆠𒈠  (cn lugal urim ma)
-;; 𒈗𒀭𒌒𒁕𒇹𒁀𒈨  (cn lugal an ub da limmu2 ba me)
-
-;; (cn e2 kiri6)
-;; (cn ama-a-na-ak)
-;; (cn dam)
-;; (cn inim uttu zid)
-
-;; 𒉆𒋀 𒂊𒀝 nam-šeš e-ak
-
-;;; Testes
-;;; 𒌉 𒂼 𒄄
-;;; 𒄷𒊒 𒂼𒅈𒄄 𒅔𒃻𒊏   ḪURU AMA-AR-GI4 IN-ĜAR-RA
-;;; 𒌓𒁺  𒃻 e-gar
-;;; 𒄿𒉌𒉎𒄄
-;;; 𒂗𒍪 𒈬 𒅆𒊒
-;;; SHA	𒊭𒍡 ZAM
-;;; SHA 𒊭  𒍝 𒄠 ZA AM
-
 
 (dolist (x yyy)	
   (puthash  (caddr x) (car x) xxx))
-
-;;(gethash 'lugal xxx)
-;; (gethash 'du3 xxx)
-
 
 (defun cnf(xs)
   (dolist (x xs)
@@ -713,10 +697,7 @@
 (defmacro cn(&rest args)
   `(cnf ',args))
 
-;; Testes
-;; Press M-;
-;; Eval: (cn lugal bad3 du3) ;; 𒇽𒂦𒆕
-;; 𒇽𒆕𒂦
-;;𒇽𒂦𒆕𒂦𒆕
-;; 𒇽𒂦
-;; 𒇽?𒆕𒂦
+(defmacro tr(&rest args)
+  `(cnf ',args))
+
+

@@ -40,7 +40,7 @@ be used by graduate students.
 1. The present README contains the first lesson, the document ```Ur-Nammu 9,``` and an overview of Sumerian grammar.
 2. The second lesson in the ```lesson-02-Emacs``` directory provides a practical introduction to the Emacs editor and annotates the document ```Ur-Nammu 7```. It also covers essential topics such as possessive pronouns, independent pronouns, interrogative pronouns, intransitive verbs, and conjugations.
 3. Directory ```lesson-03-Ur-Nammu-31``` contains the third lesson. The third lesson analyses the Ur-Nammu-31 document and contains a short tutorial about the imperative and conjunctions. 
-4. The fourth lesson is in the directory ```lesson-04-Ur-Nammu-23``` contains the Ur-Nammu-23 document and an introduction to Sumerian numerals..
+4. The fourth lesson is in the directory ```lesson-04-Ur-Nammu-23``` and contains, besides the Ur-Nammu-23 document, an introduction to Sumerian numerals..
 5. The fifth lesson is in the directory ```lesson-05-Ur-Nammu-5```.
 
 ## Sentence structure

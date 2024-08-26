@@ -54,10 +54,10 @@ that we will study in this lesson.
 ``` sumerian
 1- [NANNA
 2-     LUGAL.ANI].{(R)} #dat           -- For his king\
-3- [UR-NAMMU
-4-     LUGAL.URIM5.{AK}].{E} #gen/erg  --  the king of UR\
-5- [E2.ANI].{Ø}  #object               --  his temple\
-6- MU.NA.DU3 #verb     -- he built\
+3- [UR-NAMMU                           -- Ur-Nammu,
+4-     LUGAL.URIM5.{AK}].{E} #gen/erg  -- the king of UR,\
+5- [E2.ANI].{Ø}  #object               -- his temple\
+6- MU.NA.DU3 #verb                     -- he built\
 7- [BAD3.URIM5.{A(K)}].{Ø} #gen/obj    -- the city wall of Ur\
 8- MU.NA.DU3  #verb                    -- he built
 ```

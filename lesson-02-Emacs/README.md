@@ -341,11 +341,11 @@ In the first lesson, you found two instances of a possessive pronoun in
 the expressions 𒈗𒀀𒉌 (lugar ani) **his master**,
 and 𒌷𒈬 (uru.ĝu10) **my city**.
 Below, I've included a complete list of possessive pronouns.
-
+ 
 <h3>𒈬 • (g̃u10) my </h3>
 <h3>𒍪 • (zu) thy</h3>
 <h3>(𒀀)𒉌 (a-ni) -- his/her</h3>
-<h3>𒁉 • (bi, be₂) its</h3>
+<h3>𒁉 • (bi, be2) its</h3>
 <h3>𒈨 • (me) our</h3>
 <h3>𒍪𒉈𒉈 • (zu-ne-ne) your</h3>
 <h3>𒀀𒉈𒉈 (a-ne-ne) their</h3>
@@ -353,11 +353,11 @@ Below, I've included a complete list of possessive pronouns.
 # Independent pronouns
 Sumerian has a set of independent pronouns that I advise you to learn
 right away.
-
+ 
 <h3>𒂷 • (g̃e26) I/me</h3>
 <h3>𒍢 • (ze2) thou/thee</h3>
 <h3>𒍢 (ze2) becomes 𒍝 (za) when followed by the dative 𒊏 (ra). </h3>
-<h3>𒀀𒉈 • (e-ne) he/she/him/her</h3>
+<h3>𒀀𒉈 • (a-ne) he/she/him/her</h3>
 <h3>𒀀𒉈𒉈 • (a-ne-ne) they</h3>
 
 <h2>Ex: 𒀀𒉈 𒁾 𒍝𒊏 𒈠𒊏𒀊𒋧𒈬</h2>
@@ -370,7 +370,7 @@ right away.
  </tr>
  <tr>
   <td><h3>a-ne</h3></td>
-  <td><h3>dab</h3></td>
+  <td><h3>dab5</h3></td>
   <td><h3>za.ra</h3></td>
   <td><h3>ma-ra-ab-shum2-mu</h3></td>
  </tr>
@@ -388,7 +388,7 @@ right away.
  <tr>
   <td colspan="4">
    <h4>𒀀𒉈 • (a-ne) he/she</h4>
-   <h4>𒁾 • (dab) the tablet </h4>
+   <h4>𒁾 • (dab5) the tablet </h4>
    <h4>𒍝𒊏 • (zara) to you</h4>
    <h4>𒍢 (ze2) followed by 𒊏 (ra) becomes 𒍝 (za).</h4> 
   </td>
@@ -473,6 +473,7 @@ Who built the temple?
 To ask **who** is something, Sumerians used
 the interrogative pronoun **𒀀𒁀** (a-ba).
 
+
 <h2>𒀀𒁀 • 𒀭𒌓 • 𒁶</h2>
 a-ba • utu • 𒁶</br>
 Who • Utu • is like?</br>
@@ -501,8 +502,9 @@ An exception to the rule of placing the interrogative
 word immediately before the verb occurs in why-questions,
 as the example below shows.
 
+
 <h2>𒀀𒈾𒀸 •  𒀀𒀭 • 𒉌𒁺  </h2>
-a-na-aš.am3 • i3.ĝen</br>
+a-na-aš  • am3 • i3.ĝen</br>
 what is it • that he came?</br>
 Why did he come?
 
@@ -527,56 +529,56 @@ The king will erect a wall.
 ## First person
 <h3>𒈾𒈬𒁺</h3>
 (tr na mu gub)</br>
-I have set up a border stone.
+hamtu: I have set up a border stone.
 
 <h3>𒈾𒉌𒁺𒂗</h3>
 (tr na i3 gub en)</br>
-I will set up a stone.
+marû: I will set up a stone.
 
 ## Second person singular
 <h3>𒈾𒈬𒂊𒁺</h3>
 (tr na mu e gub)</br>
-You have set up a stone.
+hamtu: You have set up a stone.
 
 <h3>𒈾𒉌𒁺𒂗</h3>
 (tr na i3 gub en)</br>
-You will set up a stone.
+marû: You will set up a stone.
 
 ## Third person singular (humans)
 <h3>𒈾𒈬𒌦𒁺</h3>
 (tr na mu un gub)</br>
-He has set up a stone
+hamtu: He has set up a stone.
 
 <h3>𒈾𒉌𒁺𒂊</h3>
 (tr na i3 gub e)</br>
-He will set up a stone.
+marû: He will set up a stone.
 
 ## First person plural
 <h3>𒈾𒈬𒁺𒁁𒂗𒉈𒂗</h3>
 (tr na mu gub be en de3 en)</br>
-We have set up a stone
+hamtu: We have set up a stone.
 
 <h3>𒈾𒉌𒁺𒂗𒉈𒂗</h3>
 (tr na i3 gub en de3 en)</br>
-We will set up a stone.
+marû: We will set up a stone.
 
 ## Second person plural
 <h3>𒈾𒈬𒂊𒁺𒁁𒂗𒍢𒂗</h3>
 (tr na mu e gub be en ze2 en)</br>
-You have set up a stone.
+hamtu: You have set up a stone.
 
 <h3>𒈾𒉌𒁺𒁁𒂗𒍢𒂗</h3>
 (tr na i3 gub be en ze2 en)</br>
-You will set up a stone.
+marû: You will set up a stone.
 
 ## Third person plural
 </h3>𒈾𒈬𒌦𒁺𒁁𒂠</h3>
 (tr na mu un gub be esh)</br>
-They have set up a stone.
+hamtu: They have set up a stone.
 
 <h3>𒈾𒉌𒁺𒁁𒂊𒉈</h3>
 (tr na i3 gub be e ne)</br>
-They will set up a stone.
+marû: They will set up a stone.
 
 
 Animals and plants have different

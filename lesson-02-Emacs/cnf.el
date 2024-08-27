@@ -104,7 +104,7 @@
 	("𒆠𒌵"    akad  akad)   ;;29
 	("𒎏"	U+1238F	nin)      ;;30
 	("𒂵"	U+120B5	ga)       ;;34
-
+        ("𒀭𒌓" god-utu utu) 
 	;; (cn an inanna)          𒀭𒈹
 	;; (cn nin a ni)           𒎏𒀀𒉌
         ;; (cn ur-nammu)           𒌨𒀭𒇉

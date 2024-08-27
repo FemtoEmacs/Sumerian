@@ -19,27 +19,26 @@ Emacs is a popular text editor. Therefore, it should be easy to find
 a computer science student to help you install it on your machine.
 There are many tutorials on Emacs available on the internet.
 
-To use Emacs to typeset Sumerian cuneiform, press and hold the Alt key
-while striking the x key. In the one-line buffer that appears,
-type 'load-file' and press Enter. Then, type ```cnf.el```, the program you
-will find in the same directory as this README.md file. You'll need to
-download ```cnf.el``` to a directory on your computer where you can
-quickly locate it. I advise you to create a ```~/.emacs.d/sumerian/``` and
-place ```cnf.el``` there. In this case, ```~/.emacs.d/sumerian/cnf.el``` 
-will be the full path to the typesetting application. 
-
-To use Emacs to typeset Sumerian cuneiform,
-keep the Alt key pressed and strike the x-key. On the
-one-line buffer, type 'load-file' followed by Enter.
-Then type the full path '~/.emacs.d/sumerian/cnf.el'
-to the typesetting application.
+To use Emacs to typeset Sumerian cuneiform, press and
+hold the Alt key while striking the x key.
+Type ' load-file ' in the one-line buffer that appears
+and press Enter. Then, type the script name ```cnf.el``` to
+load the application found in the same directory
+as this README.md file. You'll need to download
+the ```cnf.el``` script to a directory on your
+computer where you can quickly locate it.
+I advise you to create a ```~/.emacs.d/Sumerian/``` 
+and place the ```cnf.el``` script there.
+In this case, ```~/.emacs.d/Sumerian/cnf.el```  will
+be the full path to the typesetting application. 
 
 You can also place the ```load-file``` command into the
-```~/.emacs``` cofiguration directory. Here is
-my ```.emacs``` file:
+```~/.emacs``` cofiguration directory.
+Here is my ```.emacs``` file:
+
 
 ```elisp
-(load-file "~/.emacs.d/sumerian/cnf.el")
+(load-file "~/.emacs.d/Sumerian/cnf.el")
 
 (setq inhibit-startup-message t)
 
@@ -54,7 +53,7 @@ With this ```.emacs``` configuration file, whenever you
 start Emacs, it will be ready to typeset Sumerian cuneiforms.
 Therefore, you can insert Sumerograms by name into your text.
 You can find the names of the Sumerograms in Hayes's manual
-or Lewiss and Bowen's ***Learn to Read Ancient Sumerian***.
+or Lewis and Bowen's ***Learn to Read Ancient Sumerian***.
 
 When you press **Alt-;** (hold the **Alt** key
 and strike the semicolon), Emacs will answer with the

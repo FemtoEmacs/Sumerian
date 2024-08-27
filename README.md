@@ -37,7 +37,7 @@ excellent material for consultation that can
 be used by graduate students.
 
 ## Order of reading this tutorial
-1. The present README contains the first lesson, the document ```Ur-Nammu 9,``` and an overview of Sumerian grammar.
+1. The present README contains the first lesson: the document ```Ur-Nammu 9```  and an overview of Sumerian grammar.
 2. The second lesson in the ```lesson-02-Emacs``` directory provides a practical introduction to the Emacs editor and annotates the document ```Ur-Nammu 7```. It also covers essential topics such as possessive pronouns, independent pronouns, interrogative pronouns, intransitive verbs, and conjugations.
 3. Directory ```lesson-03-Ur-Nammu-31``` contains the third lesson. The third lesson analyses the Ur-Nammu-31 document and contains a short tutorial about the imperative and conjunctions. 
 4. The fourth lesson is in the directory ```lesson-04-Ur-Nammu-23``` and contains, besides the Ur-Nammu-23 document, an introduction to Sumerian numerals..
@@ -111,7 +111,7 @@ Ur's king.</p>
   
   ```
   [E2 A NI].{∅}              -- his temple
-  [[BAD3.URIM5].{A(K)].{∅}   -- the city wall of Ur
+  [[BAD3.URIM5].{A(K)}].{∅}   -- the city wall of Ur
   ```
   Unwritten endings are placed between parentheses, such as {(R)}.
 </p>
@@ -151,7 +151,7 @@ The Ur-Nammu 9 document is divided into eight rectangles. In the first rectangle
 ## Second rectangle
 The second rectangle contains three Sumerograms: 𒈗 (LUGAL), 𒀀 (syllable A), and 𒉌 (syllable NI). LUGAL (𒈗) means "King" or "Lord." ANI (𒀀𒉌) can be translated as "his." Then LUGAL ANI (𒈗𒀀𒉌) means "his Lord." The Sumerogram 𒈗 (LUGAL) is formed from 𒇽 (lu₂, "person") and 𒃲 (gal, "big").
 
-In Sumerian, like in Latin and German, a nominal phrase has a case marker that indicates various grammatical functions. On the first and second rectangles, the case marker is the dative, which suggests the beneficiary of the action (**cui bono**). The dative marker is an "R," rarely expressed in writing. Therefore, the whole nominal phrase can be transliterated as **[NANNA LUGAL.ANI].{(R)}**, where the **(R)** is not expressed.
+In Sumerian, like in Latin and German, a nominal phrase has a case marker that indicates various grammatical functions. On the first and second rectangles, the case marker is the dative, which suggests the beneficiary of the action (**cui bono**). The dative marker is an "{R}," rarely expressed in writing. Therefore, the whole nominal phrase can be transliterated as **[NANNA LUGAL.ANI].{(R)}**, where the **{(R)}** is not expressed.
 
 <table>
  <tr>
@@ -177,7 +177,7 @@ In Sumerian, like in Latin and German, a nominal phrase has a case marker that i
 <tr>
   <td colspan="2">
    <h4>𒈗 • (lugal) king, lord, master, owner</h4>
-    <h4>𒀀𒉌 • (a-ni, a-ne2) his/her (3d-person human possessive pronoun)</h4>
+    <h4>𒀀𒉌 • (a-ni, a-ne2) his/her, <i>3d-person human possessive pronoun)</i></h4>
   </td>
  </tr>
 </table>
@@ -212,11 +212,11 @@ The third rectangle contains the name of Ur-Nammu (𒌨𒀭𒇉), the king who r
 </table>
 
 ## Fourth Rectangle
-The fourth rectangle contains 𒈗𒋀𒀕𒆠𒈠𒆤 (LUGAL URIM2 MA KE2), where 𒋀𒀕𒆠 (URIM2) represents the city that was the cult center of Nanna. It is formed by the Sumerograms ŠEŠ (𒋀) and UNUG (𒀕). The Sumerogram 𒆠 is determinative for geographic names.
+The fourth rectangle contains 𒈗𒋀𒀕𒆠𒈠𒆤 (LUGAL URIM2 MA KE4), where 𒋀𒀕𒆠 (URIM2) represents the city that was the cult center of Nanna. It is formed by the Sumerograms ŠEŠ (𒋀) and UNUG (𒀕). The Sumerogram 𒆠 is determinative for geographic names. Determinatives, such as 𒀭 ("digir" - deity) and 𒆠 ("ki" - place), are not pronounced. Their role is to make the meaning of the word clearer.
 
-The genitive case denotes possession. Unlike the dative, English has a genitive case, formed by an apostrophe followed by "s." In English, one would say, "Urim's King." In Sumerian, the genitive follows the possessor and is marked with "AK" after consonants and "K" after vowels. In this case, the "A" of "AK" was assimilated with the previous consonant, becoming 𒈠 (MA). The Sumerogram 𒆤 (KE4) represents the "K" of the genitive and the "E4" of the ergative.
+The genitive case denotes possession. Unlike the dative, English has a genitive case, formed by an apostrophe followed by "s." In English, one would say, "Urim's King." In Sumerian, the genitive follows the possessor and is marked with "AK" after consonants and "K" after vowels. In this nominal chain, the "A" of "AK" was assimilated with the previous consonant, becoming 𒈠 (MA). The Sumerogram 𒆤 (KE4) represents the "{K}" of the genitive and the "{E}" of the ergative.
 
-Sumerian is an ergative language, meaning the agent of transitive actions is marked. In Sumerian, the marker is "E." However, the subject of an intransitive verb, like "*to go*" or "*to sleep*," does not receive the "E" that marks the agent.
+Sumerian is an ergative language, meaning the agent of transitive actions is marked. In Sumerian, the ergative marker is "{E}." However, the subject of an intransitive verb, like "*to go*" or "*to sleep*," does not receive the "{E}" that marks the agent, whom linguists call ergative. Unmarked functions, such as the Sumerian subject of an intransitive verb and direct object of a transitive verb, are called ***absolutive*** and said to be marked with the null symbol "{Ø}." In short, for the Sumerians and modern Basques, if the subject of a sentence does not perform a task, it cannot be called ergative.
 
 <table>
  <tr>
@@ -252,7 +252,14 @@ Sumerian is an ergative language, meaning the agent of transitive actions is mar
 </table>
 
 ## Fifth Rectangle
-The fifth rectangle introduces the temple (E2 - 𒂍) that Ur-Nammu built. The expression 𒂍𒀀𒉌 (E2 ANI) means "his temple."
+The fifth rectangle introduces the temple (E2 - 𒂍) that Ur-Nammu built.
+The expression 𒂍𒀀𒉌 (E2 ANI) means *"his temple."*
+It is in the ***absolutive case*** and, therefore,
+receives the null symbol mark "{}," a technical way
+of saying it does not bear a mark.
+The noun chain 𒂍𒀀𒉌 (E2 ANI) undergoes the
+consequences of the task performed. Thus, it
+is often called patient, accusative or target.
 
 <table>
  <tr>
@@ -279,20 +286,21 @@ The fifth rectangle introduces the temple (E2 - 𒂍) that Ur-Nammu built. The e
  </tr>
   <tr>
   <td colspan="3">
-   <h4>𒂍 • (e2) (pl. 𒂍𒈨𒌍 (È.MEŠ)) house, temple</h4> 
-  </td>
+   <h4>𒂍 • (e2) pl. 𒂍𒈨𒌍 (E2 ME ESH-pl) house, temple</h4> 
+  </td> 
  </tr>
 </table>
 
 
 ## Sixth Rectangle
 A verbal stem prefixed by a sequence of particles and possibly followed
-by a suffix is called a verbal chain. The verbal chain 𒈬𒈾𒆕 (MUNADU3)
+by a suffix is called a verbal chain. The verbal chain 𒈬𒈾𒆕 (MU-NA-DU3)
 can be translated as "built." This verbal chain has two prefixes and a stem:
 
 1. 𒈬 — Ventive Conjugation Prefix (CP). The Ventive CP indicates that the action occurs here, close to the speaker.
 3. 𒈾 — Dimensional Prefix (DP) cross-referencing the dative.
-   Sumerian has a DP for each sentence component, except the ergative and the patient.
+   Sumerian has a DP for each sentence component,
+   except the ergative and the absolutive cases.
 5. 𒆕 — verbal stem
 
 <table>
@@ -321,7 +329,7 @@ can be translated as "built." This verbal chain has two prefixes and a stem:
   <tr>
   <td colspan="3">
    <h4>𒆕 • (du3) to build, to make, to plant</h4>
-   <h4>𒈬 • (mu) conjugation prefix (CP), ventive prefix</h4>
+   <h4>𒈬 • (mu) conjugation prefix (CP), *ventive prefix*</h4>
    <h4>𒉌 • (i3), 𒀀 • (a), 𒀠 • (al) CP: finite marker prefixes  </h4>
    <h4>𒉌 𒌈 • (ib2), 𒉎 • (im), 𒅔 • (in) CP: finite marker prefixes  </h4>
   <h4> 𒈾 or 𒀀 • (na) DP that cross-references the dative</h4>
@@ -331,7 +339,7 @@ can be translated as "built." This verbal chain has two prefixes and a stem:
 
 
 ## Seventh Rectangle
-The noun phrase 𒂦𒋀𒀕𒆠𒈠 (BAD2.URIM2.MA) means "wall of URIM2." The sumerogram 𒂦 (BAD2) means "city wall." The /K/ of the genitive is omissible, meaning it is not expressed because it is not pronounced at the end of a nominal phrase.
+The noun phrase 𒂦𒋀𒀕𒆠𒈠 (BAD3.URIM2.MA) means "wall of URIM." The sumerogram 𒂦 (BAD3) means "city wall." The **{(K)}** of the genitive is omitted, meaning it is not expressed because it was not pronounced at the end of a nominal phrase.
 
 <table>
  <tr>
@@ -394,7 +402,7 @@ The last rectangle repeats the 𒈬𒈾𒆕 (MUNADU3) verbal chain.
   Below, there is a complete list of Dimensional Prefixes (DP).</br>
   The concept of DP does not exist in English. Each of these</br>
   Dimensional Prefixes has two kinds of markers, one to be used as</br>
-  a suffix with a noun and the other to be used in the verbal chain.
+  a suffix with a noun chain and the other to be used in the verbal chain.
    <h4>𒊏 or 𒈾   • (ra or na) DP that cross-references the dative</h4>
    <h4> 𒁕 • (da) DP comitative indicates group action, as in ‘with’</h4>
    <h4> 𒋫 • (ta) DP ablative, indicates separation</h4>
@@ -407,26 +415,50 @@ The last rectangle repeats the 𒈬𒈾𒆕 (MUNADU3) verbal chain.
 
 
 ## The Method
-I will use the method I employed in this first document to introduce a few other documents. In other words, each document's directory will contain a README.md with precise details: grammar, vocabulary, syllables, and Sumerograms essential for reading the document. This methodology ensures you will be able to handle a manageable amount of information initially.
+I will use the method I employed in this first document to introduce a few other documents. In other words, each document's directory will contain a README.md with precise details: grammar, vocabulary, syllables,
+and essential Sumerograms for reading the document. This methodology ensures you can handle a manageable amount of information initially.
 
-Additionally, directories will include wedges, syllables, and necessary dictionary entries for the Sumerian document typesetting. Main directories store wedges of average size, while subdirectories like 'short' contain shorter wedges, 'long' hold longer ones, and others are designated for shallow, repeated, and angular wedges.
-
-In the Gimp-Installation directory, you'll find a README.md with instructions for installing Gimp to facilitate Sumerogram typesetting.
+If you want to create your fonts, 
+in the ```Gimp``` directory,
+you'll find a README.md with instructions
+for installing Gimp to facilitate Sumerogram typesetting.
+The same directory will include a few wedges, syllables,
+and necessary dictionary entries for the Sumerian typesetting
+of the Ur-Nammu-9 document. The ```GIMP``` directory stores
+wedges of average size, while the ```short``` subdirectory
+contains shorter wedges and ```long``` holds longer ones.
+There are also directories
+for shallow, repeated, and Winkelhaken wedges.
 
 
 ## Reading the brick
 Let's read the whole brick inscription:
 
-1. ᵈNANNA (𒀭𒋀𒆠) -- For the god Nanna...
-2. LUGAL ANI (𒈗𒀀𒉌) -- his master. The word 'LUGAL' means  king or master. It is formed from 'lu,' which means 'man,' and 'gal,' which can be translated as 'great.' The expression 'a-ni' is equivalent to the possessive pronoun 'his.'
-3. UR-NAMMU (𒌨𒀭𒇉)
-4. LUGAL-URIM2ki-MA-KE4 (𒈗 𒋀𒀕𒆠 𒈠 𒆤)-- King of Ur,
-5. E2-ANI (𒂍𒀀𒉌) -- his temple. Remember that you already learned the meaning of 'ANI.'
-6. MU-NA-DU3 (𒈬𒈾𒆕) -- built.
-7. BAD3.URIM2.MA (𒂦𒋀𒀕𒆠𒈠) -- The wall of Ur,
-8. MU-NA-DU3 (𒈬𒈾𒆕) -- he built for NANNA.
+1. ᵈNANNA (𒀭𒋀𒆠) ***-- For the god Nanna...***
+2. LUGAL ANI (𒈗𒀀𒉌) ***-- his master.*** The word 'LUGAL' means  king or master. It is formed from 'lu,' which means 'man,' and 'gal,' which can be translated as 'great.' The expression 'a-ni' is equivalent to the possessive pronoun 'his.'
+3. UR-NAMMU (𒌨𒀭𒇉) ***-- Ur-Nammu,***
+4. LUGAL-URIM2ki-MA-KE4 (𒈗 𒋀𒀕𒆠 𒈠 𒆤) ***-- King of Ur,***
+5. E2-ANI (𒂍𒀀𒉌) ***-- his temple.*** Remember that you already learned the meaning of 'ANI.'
+6. MU-NA-DU3 (𒈬𒈾𒆕) ***-- built.***
+7. BAD3.URIM2.MA (𒂦𒋀𒀕𒆠𒈠) ***-- The wall of Ur,***
+8. MU-NA-DU3 (𒈬𒈾𒆕) ***-- he built for NANNA.***
 
-The meaning of the whole document is something like this: **"For the god Nanna, his Master, Ur-Nammu, the King of Urim, built his temple. The king also built the city walls of Urim."**
+The meaning of the whole document is something like this: **"For the god Nanna, his Master, Ur-Nammu, the King of Ur, built his temple. The king also built the city walls of Ur."**
+
+<table>
+<tr><th><h1>APPENDIX: Grammar notes</h1></th> </tr>
+<tr><th>========================================== </th> </tr>
+<tr>
+<td>
+Congratulations. You have finished the first lesson.</br>
+This appendix gives further details about the case</br>
+elements, the noun chain and the verbal chain. If you</br>
+don't feel like it, you don't need to read it now.</br>
+You can return to this lesson after completing a few</br>
+Sumerian documents.
+<td>
+</tr>
+</table>
 
 # Case Elements
 The subject of a sentence is the topic of
@@ -441,7 +473,7 @@ lugal.e bad3 urim ma mu-na-du3</br>
 The king built the city wall of Ur.
 
 <h2>Dative: 𒊏 • (ra, r)/𒈾 (na) for </h2>
-<h3>𒎏𒀀𒉌𒈗𒂊𒂦𒋀𒀊𒆠𒈠𒈬𒈾𒆕</h3>
+<h3>𒎏𒀀𒉌𒊏𒈗𒂊𒂦𒋀𒀊𒆠𒈠𒈬𒈾𒆕</h3>
 nin a ni ra lugal.e bad3 urim ma mu-na-du3</br>
 For his lady, the king built the wall of Urim.
 
@@ -465,10 +497,15 @@ He went out from the city.
 lugal.e dumu a ni da e2 mu.un.da.du3</br>
 The king built the house with his son.
 
-<h2>Equitative: 𒁶 // 𒁶 • (gin-equitative) like, as</h3>
+<h2>Equitative: 𒁶 // 𒁶 • (tr gin-equitative) like, as</h2>
 <h3>𒀀𒁀𒋀𒈬𒁶</h3>
 a ba shesh ĝu10-my gin-equitative</br>
 Who is like my brother?
+
+<h2>Absolutive: Ø</h2>
+<h3>𒎏𒀀𒉌𒊏𒈗𒂊𒂦𒈬𒈾𒆕 </h2>
+nin a ni ra lugal e bad3.{Ø} mu na du3</br>
+For his lady the king built the city wall.
 
 # Dative conjugation
 When used as a prefix to a verb, the dative takes a different

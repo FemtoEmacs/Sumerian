@@ -475,28 +475,28 @@ lugal.e bad3 urim ma mu-na-du3</br>
 The king built the city wall of Ur.
 
 <h2>Dative: 𒊏 • (ra, r)/𒈾 (na) for </h2>
-<h3>𒎏𒀀𒉌𒊏𒈗𒂊𒂦𒋀𒀊𒆠𒈠𒈬𒈾𒆕</h3>
-nin a ni ra lugal.e bad3 urim ma mu-na-du3</br>
+<h3>𒎏𒀀𒉌𒊏 • 𒈗𒂊 • 𒂦𒋀𒀊𒆠𒈠 • 𒈬𒈾𒆕</h3>
+nin a ni ra • lugal.e • bad3 urim ma • mu-na-du3</br>
 For his lady, the king built the wall of Urim.
 
 <h2>Locative: 𒀀 • (a)/𒉌 • (ni) in, on</h2>
-<h3>𒈗𒂊𒌷𒀀𒂍𒈬𒉌𒆕</h3>
-lugal.e uru.a e2 mu-ni-du3</br>
+<h3>𒈗𒂊  • 𒌷𒀀  • 𒂍  • 𒈬𒉌𒆕</h3>
+lugal.e  • uru.a  • e2  • mu-ni-du3</br>
 The king built a house in a city.
 
 <h2>Terminative: 𒂠 • (še)/𒅆 • (ši) in order to</h2>
-<h3>𒂷𒂊𒌷𒈬𒂠𒂵𒅆𒁺</h3>
-ĝe26.e uru.ĝu10-my.še ga.ši.ĝen</br>
+<h3>𒂷𒂊 • 𒌷𒈬𒂠 • 𒂵𒅆𒁺</h3>
+ĝe26.e • uru.ĝu10-my.še • ga.ši.ĝen</br>
 I will go there to my city.
 
 <h2>Ablative: 𒋫 • (ta)/𒋫 • (ta) or 𒊏 (ra) out of</h2>
-<h3>𒌷𒋫 𒁀𒋫𒁺</h3>
-uru.ta ba.ta.ĝen</br>
+<h3>𒌷𒋫 • 𒁀𒋫𒁺</h3>
+uru.ta  • ba.ta.ĝen</br>
 He went out from the city.
 
 <h2>Comitative: 𒁕 • (da)/𒁕 • (da) or 𒉈 • (de3) or 𒁲 • (di) with</h2>
-<h3>𒈗𒂊𒌉𒀀𒉌𒁕𒂍𒈬𒌦𒁕𒆕</h3></h3>
-lugal.e dumu a ni da e2 mu.un.da.du3</br>
+<h3>𒈗𒂊 • 𒌉𒀀𒉌𒁕 • 𒂍 • 𒈬𒌦𒁕𒆕</h3></h3>
+lugal.e • dumu a ni da • e2 • mu.un.da.du3</br>
 The king built the house with his son.
 
 <h2>Equitative: 𒁶 // 𒁶 • (tr gin-equitative) like, as</h2>
@@ -505,12 +505,13 @@ a ba shesh ĝu10-my gin-equitative</br>
 Who is like my brother?
 
 <h2>Absolutive: Ø</h2>
-<h3>𒎏𒀀𒉌𒊏𒈗𒂊𒂦𒈬𒈾𒆕 </h2>
-nin a ni ra lugal e bad3.{Ø} mu na du3</br>
+<h3>𒎏𒀀𒉌𒊏 • 𒈗𒂊 • 𒂦 • 𒈬𒈾𒆕</h2>
+nin a ni ra • lugal e • bad3.{Ø} • mu na du3</br>
 For his lady the king built the city wall.
 
+
 # Dative conjugation
-When used as a prefix to a verb, the dative takes a different
+When used as a prefix to a verb, the dative takes different
 forms depending on the person and number it is referring to.
 
 <h2>𒈠 (ma) to me</h2>
@@ -518,10 +519,12 @@ forms depending on the person and number it is referring to.
 g̃e26.ra lugal.e e2 mu.ma.du3</br>
 For me, the king built a house.
 
+
 <h2>𒊏 (ra) to you</h2>
 <h3>𒍢𒊏𒈗𒂊𒂍𒈬𒊏𒆕</h3>
 ze2.ra lugal.e e2 mu.ra.du3</br>
 The king built a house for you.
+
 
 <h2>𒈾 (na) to him/to her</h2>
 <h3>𒎏𒊏𒈗𒂊𒂍𒈬𒈾𒆕</h3>
@@ -543,23 +546,28 @@ A transitive verb describes an action that transitions
 from a subject to a direct object. In a transitive verb, the subject is the
 doer of the action and is called ergative, which is the Greek
 term for the person who performs a task.
-In Sumerian, the ergative is marked with 𒂊 (e).
+In Sumerian, the ergative is marked with 𒂊 **{e}.**
 
-The direct object can be the person accused of a deed.
-In this case, the direct object is called accusative.
-The direct object can also be a target of a shooting. Or it can be the
-object of health care, in which case it is called patient by the doctors.
-Some linguists call **patient**  all kinds of direct objects, while others
+The absolutive case  is the entity that undergoes the
+consequences of a task. The absolutive case can be the
+person accused of a deed. In this case, it is called
+accusative. The absolutive case can also be a target
+of a shooting. Or it can be the object of health care,
+in which case it is called patient by the doctors.
+Some linguists call **patient**  all kinds of absolutive
+cases of a transitive verb, while others
 prefer the term **accusative**. In Sumerian, the
-direct object does not receive any mark.
+absolutive case  receives no mark, but the
+linguists say it is marked by the null symbol **{Ø}.**
+
 
 The transitive verb itself comes last in a Sumerian sentence,
 and is described by a chain of affixes
-surrounding the stem.
-
-The verbal chain may contain a Modal Prefix (MP, such as 𒉡 • nu • not),
+surrounding the stem. This verbal chain may contain
+a Modal Prefix (MP, such as 𒉡 • nu • not),
 a Conjugation Prefix (CP, such as 𒈬 • mu • *ventive*, here),
-initial pronominal prefix (IPP, such as N in 𒈬𒌦𒆪𒂊 •  mu-n.dab.e •  he seizes him)
+initial pronominal prefix (IPP, such
+as N in 𒈬𒌦𒆪𒂊 •  mu-n.dab.e •  he seizes her)
 and suffix pronouns (𒂗𒉈𒂗 • en-de3-en • **us**, 𒌦𒍢𒂗 • un-ze2-en • **you people**).
 Below, there are examples of all initial pronominal prefixes.
 
@@ -572,7 +580,6 @@ Below, there are examples of all initial pronominal prefixes.
 I have for you a complete example of a transitive sentence below.
 I provided you with a pronunciation key and vocabulary, so I hope
 you can scan the sentence.
-
 
 <h2>𒊩𒊏𒇽𒂊𒊺𒌷𒀀</br>𒈬𒈾𒀊𒋧𒂊</h2>
 <table>
@@ -621,7 +628,8 @@ you can scan the sentence.
 
 # Intransitive verb
 An intransitive verb does not have a direct object.
-In Sumerian, the subject of an intransitive verb is
+In Sumerian, the subject of an intransitive verb
+goes to the absolutive case and, therefore, is
 not marked.
 
 <h2>𒈗𒌷𒈬𒂠𒉌𒅎𒁺</h2>
@@ -692,7 +700,7 @@ He ate it, indeed.
 <h4>𒂵𒉌𒌈𒃻𒊑𒂗𒉈𒂗</h4>
 (tr ga ni ib2 ĝar re en de3 en)</br>
 Let us put it there.
-
+ 
 <h3>Prohibitive: 𒈾 na-</h3>
 <h4>𒈾𒀊𒅥𒂊</h4>
 (tr na ab gu7 e)</br>
@@ -746,8 +754,8 @@ the adjectives follow the noun.
 
 In English, the Saxon genitive is marked with S and precedes the verb.
 Therefore, one writes "Elil's Warrior." In Sumerian, the genitive
-is marked with K after a vowel and AK after a consonant.
-Like the adjective, the genitive follows the noun. The K
+is marked with **{K}** after a vowel and **{AK}** after a consonant.
+Like the adjective, the genitive follows the noun. The **{K}**
 of the genitive was rarely written except when combined with
 the ergative. In this case, it was written as 𒆤 (ke4).
 

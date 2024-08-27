@@ -27,6 +27,7 @@
         ("𒆤"  gen ke4)
 
 	("𒂠" terminative-noun she-terminative)
+	("𒂠" terminative-noun she-goal)
 	("𒅆" terminative-in-verbal-chain shi)
 	("𒅆" terminative ši)
 	("𒁶" equitative gin-equitative)

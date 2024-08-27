@@ -384,7 +384,6 @@ The last rectangle repeats the 𒈬𒈾𒆕 (MUNADU3) verbal chain.
     (tr mu na du3)</br>
     mu.na.du3
   </td>
- </tr>𒈬𒌦𒉈𒆪𒂊 (mu un ne dab5 e) he seizes them
   <tr>
   <td colspan="3">
    <i>he built for him</i> 

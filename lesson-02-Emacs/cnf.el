@@ -52,9 +52,13 @@
         ("𒅥" to-eat gu7)
 	("𒅥" to-eat gu-eat)
 	("Ø" null-symbol null)
-	("•" separator sep)
+	(" • " separator sep)
+	("," comma cmm)
+	("." point prd)
+	(" " space spc)
 	("𒅎" venitive im)
 	("𒀊" it ab-it)
+	("𒌍" plural esh-pl)
 	;; (cn an nanna)             𒀭𒋀𒆠
 	;; (cn lugal a ni)           𒈗𒀀𒉌
 	;; (cn ur-nammu)             𒌨𒀭𒇉
@@ -690,7 +694,7 @@
   (dolist (x xs)
     (let ((s (gethash x xxx)))
        (if s (insert s)
-          (insert "?")) )))
+          (insert (format " %s" x)) )) ))
 
 (global-set-key (kbd "M-;") 'eval-expression)
 

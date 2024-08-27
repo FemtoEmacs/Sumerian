@@ -446,19 +446,20 @@ Let's read the whole brick inscription:
 The meaning of the whole document is something like this: **"For the god Nanna, his Master, Ur-Nammu, the King of Ur, built his temple. The king also built the city walls of Ur."**
 
 <table>
-<tr><th><h1>APPENDIX: Grammar notes</h1></th> </tr>
+<tr><th><h1>APPENDIX: Grammar notes</h1></th></tr>
 <tr>
 <td>
-<h2>======================================================</h2>
-Congratulations. You have finished the first lesson.</br>
-This appendix gives further details about the case</br>
-elements, the noun chain and the verbal chain. If you</br>
-don't feel like it, you don't need to read it now.</br>
-You can return to this lesson after completing a few</br>
-Sumerian documents.
+<h2>========================================</h2>
 <td>
 </tr>
 </table>
+Congratulations. You have finished the first lesson.
+This appendix gives further details about the case
+elements, the noun chain and the verbal chain. If you
+don't feel like it, you don't need to read it now.
+You can return to this lesson after completing a few
+Sumerian documents.
+
 
 # Case Elements
 The subject of a sentence is the topic of

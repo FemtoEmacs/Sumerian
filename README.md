@@ -448,6 +448,8 @@ The meaning of the whole document is something like this: **"For the god Nanna, 
 <table>
 <tr>
 <th><h1>APPENDIX: Grammar notes</h1></th>
+</tr>
+<tr>
 <th>======================================</th>
 </tr>
 </table>

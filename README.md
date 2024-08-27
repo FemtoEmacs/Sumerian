@@ -450,7 +450,7 @@ The meaning of the whole document is something like this: **"For the god Nanna, 
 <th><h1>APPENDIX: Grammar notes</h1></th>
 </tr>
 <tr>
-<th>======================================</th>
+<th>=====================================================</th>
 </tr>
 </table>
 

@@ -216,11 +216,10 @@ the noun they modify.</p>
 </table>
 
 
-
-<p>As we learned from text 1, the genitive is formed
-by K after vowels and AK after consonants. The scribe
-often omitted the K of AK. The M of MA is contamination
-from the final consonant of the previous word.</p>
+As we learned from text 1, the genitive is formed
+by **{k}** after vowels and **{ak}** after consonants. The scribe
+often omitted the **{k}** of **{ak}**. The **m** of **ma**
+is contamination from the final consonant of the previous word.
 
 <h1>𒈗𒆠𒂗𒄀𒆠𒌵𒆤</h1>
 <table>
@@ -259,9 +258,8 @@ from the final consonant of the previous word.</p>
 </table>
 
 
-
-<p>In ke4 (𒆤), the **{k}** is the genitive marker,
-and the **{e}** is the ergative marker.</p>
+In ke4 (𒆤), the **{k}** is the genitive marker,
+and the **{e}** is the ergative marker.
 
 <h1>𒂍𒀀𒉌</h1>
 <table>

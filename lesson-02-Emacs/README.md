@@ -122,7 +122,7 @@ lessons will be commented on.
   <td colspan="5">
     ======================================</br>
     (tr an inanna nin a ni)</br>
-    [Inanna nin.ani].(r)
+    [Inanna nin.ani].{(r)}
   </td>
  </tr>
   <tr>
@@ -164,7 +164,7 @@ lessons will be commented on.
   <td colspan="4">
     ======================================</br>
     (tr ur-nammu nita kalag ga)</br>
-    [Ur.Nammu nitah.kalag.a
+    [Ur.Nammu nitah.kalag.{a}
   </td>
  </tr>
   <tr>
@@ -205,7 +205,7 @@ the noun they modify.</p>
   <td colspan="3">
     ======================================</br>
     (tr lugal urim ma)</br>
-    lugal.urim5.a
+    lugal.urim5.{a(k)}
   </td>
  </tr>
   <tr>
@@ -242,7 +242,7 @@ from the final consonant of the previous word.</p>
   <td colspan="5">
     ======================================</br>
     (tr lugal ki-en-gi ki uri ke4)</br>
-    lugal.kiengi.Kiuri.k].e
+    lugal.kiengi.Kiuri.{k}].{e}
   </td>
  </tr>
   <tr>
@@ -279,7 +279,7 @@ and the e4 is the ergative marker.</p>
   <td colspan="3">
     ======================================</br>
     (tr e2 a ni)</br>
-    [e2.ani].{}
+    [e2.ani].{Ø}
   </td>
  </tr>
   <tr>

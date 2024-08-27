@@ -447,9 +447,9 @@ The meaning of the whole document is something like this: **"For the god Nanna, 
 
 <table>
 <tr><th><h1>APPENDIX: Grammar notes</h1></th> </tr>
-<tr><th>========================================== </th> </tr>
 <tr>
 <td>
+<h2>======================================================</h2>
 Congratulations. You have finished the first lesson.</br>
 This appendix gives further details about the case</br>
 elements, the noun chain and the verbal chain. If you</br>

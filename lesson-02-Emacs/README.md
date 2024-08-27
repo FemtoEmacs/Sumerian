@@ -54,45 +54,63 @@ With this ```.emacs``` configuration file, whenever you
 start Emacs, it will be ready to typeset Sumerian cuneiforms.
 Therefore, you can insert Sumerograms by name into your text.
 You can find the names of the Sumerograms in Hayes's manual
-or in Lewiss and Bowen's ***Learn to Read Ancient Sumerian***.
+or Lewiss and Bowen's ***Learn to Read Ancient Sumerian***.
 
 When you press **Alt-;** (hold the **Alt** key
 and strike the semicolon), Emacs will answer with the
 **Eval** prompt. Then,
-type the ```(cn ...)``` commands  below to introduce the
-corresponding Sumerograms into the document.
+type the ```(tr ...)``` command to introduce the
+corresponding Sumerograms into the document, as shown
+below. You can type the ```(cn ...)``` macro command
+to the same effect. By the way, **cn** is abbreviation
+of ***cuneiform***, while **tr**
+abbreviates ***transliteration***.
 
-1. Eval: (cn an inanna) > 𒀭𒈹
-2. Eval: (cn nin a ni) > 𒎏𒀀𒉌
-3. Eval: (cn ur-nammu) > 𒌨𒀭𒇉
-4. Eval: (cn nita kalag ga) > 𒍑𒆗𒂵
-5. Eval: (cn lugal urim ma) > 𒈗𒋀𒀊𒆠𒈠
-6. Eval: (cn lugal ki-en-gi) > 𒈗𒆠𒂗𒄀
-7. Eval: (cn ki uri ke4) > 𒆠𒌵𒆤
-8. Eval: (cn e2 a ni) > 𒂍𒀀𒉌
-9. Eval: (cn mu na du3) > 𒈬𒈾𒆕
+1. Eval: (tr an inanna) > 𒀭𒈹
+2. Eval: (tr nin a ni) > 𒎏𒀀𒉌
+3. Eval: (tr ur-nammu) > 𒌨𒀭𒇉
+4. Eval: (tr nita kalag ga) > 𒍑𒆗𒂵
+5. Eval: (tr lugal urim ma) > 𒈗𒋀𒀊𒆠𒈠
+6. Eval: (tr lugal ki-en-gi) > 𒈗𒆠𒂗𒄀
+7. Eval: (tr ki uri ke4) > 𒆠𒌵𒆤
+8. Eval: (tr e2 a ni) > 𒂍𒀀𒉌
+9. Eval: (tr mu na du3) > 𒈬𒈾𒆕
 
 ## Sentence structure
+From now on, the sentence structure will
+not contain the comments **.{K} #gen** for the
+genitive, **.{R} #dat** for the dative
+or **.{E} #erg** for the ergative (doer of
+the task). The suffixes **.{R}** for the
+benefactive, **.{K}** for the genitive
+and **.{E}**  for the ergative should suffice
+for showing the grammatical function of the
+noun chain and its components. However,
+functional suffixes you didn't learn in the previous
+lessons will be commented on. 
 
-1- [INANNA   -- For Inanna,\
-2- NIN.ANI].{(R) #benefactive} -- his Lady,\
-3- [UR.NAMMU -- Ur-Nammu,\
-4- [NITAH.KALAG].{A #adjective from verbal root} -- the mighty man,\
-5- [LUGAL.URIM5^ki].{MA(K) #genitive} -- the king of Ur,\
-6- [LUGAL.KIENGI.KIURI].{K #genitive}].{E #ergative} -- the king of Sumer and Akkad,\
-7- [E2.ANI].{} -- her (Inanna's) temple\
-8- MU.NA.DU -- built.
+
+``` Sumerian
+1- [INANNA                           -- For Inanna,\
+2-    NIN.ANI].{(R)}                 -- his Lady,\
+3- [UR.NAMMU                         -- Ur-Nammu,\
+4-    [NITAH.KALAG].{A} #adj.        -- the mighty man,\
+5-    [LUGAL.URIM5^ki MA].{(K)}      -- the king of Ur,\
+6-    [LUGAL.KIENGI.KIURI].{K}].{E}  -- the king of Sumer and Akkad,\
+7- [E2.ANI].{}                       -- her (Inanna's) temple\
+8- MU.NA.DU                          -- built.
+```
 
 ## Annotations
 
 <h1>𒀭𒈹 𒎏𒀀𒉌</h1> 
 <table>
  <tr>
-  <th><h2>𒀭</h2></th>
-   <th><h2>𒈹</h2></th>
-   <th><h2> 𒎏</h2></th>
-   <th><h2>𒀀</h2></th>
-  <th><h2>𒉌</h2></th>
+  <td><h2>𒀭</h2></td>
+   <td><h2>𒈹</h2></td>
+   <td><h2> 𒎏</h2></td>
+   <td><h2>𒀀</h2></td>
+  <td><h2>𒉌</h2></td>
  </tr>
  <tr>
   <td>an</td>
@@ -104,7 +122,7 @@ corresponding Sumerograms into the document.
  <tr>
   <td colspan="5">
     ======================================</br>
-    (cn an inanna nin a ni)</br>
+    (tr an inanna nin a ni)</br>
     [Inanna nin.ani].(r)
   </td>
  </tr>
@@ -132,10 +150,10 @@ corresponding Sumerograms into the document.
 <h1>𒌨𒀭𒇉 𒍑𒆗𒂵</h1>
 <table>
  <tr>
-  <th><h2>𒌨𒀭𒇉</h2></th>
-   <th><h2>𒍑</h2></th>
-   <th><h2> 𒆗</h2></th>
-   <th><h2>𒂵</h2></th>
+  <td><h2>𒌨𒀭𒇉</h2></td>
+   <td><h2>𒍑</h2></td>
+   <td><h2> 𒆗</h2></td>
+   <td><h2>𒂵</h2></td>
  </tr>
  <tr>
   <td>ur-nammu</td>
@@ -146,7 +164,7 @@ corresponding Sumerograms into the document.
  <tr>
   <td colspan="4">
     ======================================</br>
-    (cn ur-nammu nita kalag ga)</br>
+    (tr ur-nammu nita kalag ga)</br>
     [Ur.Nammu nitah.kalag.a
   </td>
  </tr>
@@ -175,9 +193,9 @@ the noun they modify.</p>
 <h1>𒈗𒋀𒀊𒆠𒈠</h1>
 <table>
  <tr>
-  <th><h2>𒈗</h2></th>
-   <th><h2>𒋀𒀊𒆠</h2></th>
-   <th><h2>𒈠</h2></th>
+  <td><h2>𒈗</h2></td>
+   <td><h2>𒋀𒀊𒆠</h2></td>
+   <td><h2>𒈠</h2></td>
  </tr>
  <tr>
   <td>lugal</td>
@@ -187,7 +205,7 @@ the noun they modify.</p>
  <tr>
   <td colspan="3">
     ======================================</br>
-    (cn lugal urim ma)</br>
+    (tr lugal urim ma)</br>
     lugal.urim5.a
   </td>
  </tr>
@@ -208,11 +226,11 @@ from the final consonant of the previous word.</p>
 <h1>𒈗𒆠𒂗𒄀𒆠𒌵𒆤</h1>
 <table>
  <tr>
-  <th><h2>𒈗</h2></th>
-   <th><h2>𒆠𒂗𒄀</h2></th>
-   <th><h2>𒆠</h2></th>
-  <th><h2>𒌵</h2></th>
-  <th><h2>𒆤</h2></th>
+  <td><h2>𒈗</h2></td>
+   <td><h2>𒆠𒂗𒄀</h2></td>
+   <td><h2>𒆠</h2></td>
+  <td><h2>𒌵</h2></td>
+  <td><h2>𒆤</h2></td>
  </tr>
  <tr>
   <td>lugal</td>
@@ -224,7 +242,7 @@ from the final consonant of the previous word.</p>
  <tr>
   <td colspan="5">
     ======================================</br>
-    (cn lugal ki-en-gi ki uri ke4)</br>
+    (tr lugal ki-en-gi ki uri ke4)</br>
     lugal.kiengi.Kiuri.k].e
   </td>
  </tr>
@@ -249,9 +267,9 @@ and the e4 is the ergative marker.</p>
 <h1>𒂍𒀀𒉌</h1>
 <table>
  <tr>
-  <th><h2>𒂍</h2></th>
-   <th><h2>𒀀</h2></th>
-   <th><h2>𒉌</h2></th>
+  <td><h2>𒂍</h2></td>
+   <td><h2>𒀀</h2></td>
+   <td><h2>𒉌</h2></td>
  </tr>
  <tr>
   <td>e2</td>
@@ -261,7 +279,7 @@ and the e4 is the ergative marker.</p>
  <tr>
   <td colspan="3">
     ======================================</br>
-    (cn e2 a ni)</br>
+    (tr e2 a ni)</br>
     [e2.ani].{}
   </td>
  </tr>
@@ -277,9 +295,9 @@ and the e4 is the ergative marker.</p>
 <h1> 𒈬𒈾𒆕</h1>
 <table>
  <tr>
-  <th><h2>𒈬</h2></th>
-   <th><h2>𒈾</h2></th>
-   <th><h2>𒆕</h2></th>
+  <td><h2>𒈬</h2></td>
+   <td><h2>𒈾</h2></td>
+   <td><h2>𒆕</h2></td>
  </tr>
  <tr>
   <td>mu</td>
@@ -289,7 +307,7 @@ and the e4 is the ergative marker.</p>
  <tr>
   <td colspan="3">
     ======================================</br>
-    (cn mu na du3)</br>
+    (tr mu na du3)</br>
     mu.na.(n.)du3
   </td>
  </tr>
@@ -486,66 +504,66 @@ the hamtu as the English present perfect, and the marû,
 as the English future.
 
 <h2>hamtu: 𒈗𒂊𒂦𒈬𒌦𒁺</h2>
-(cn lugal e bad3 mu un gub)</br>
+(tr lugal e bad3 mu un gub)</br>
 The king has erected a wall here.
 
 <h2>marû: 𒈗𒂊𒂦𒉌𒁺𒂊</h2>
-(cn lugal e bad3  i3 gub e)</br>
+(tr lugal e bad3  i3 gub e)</br>
 The king will erect a wall.
 
 # Hamtu and marû conjugation
 ## First person
 <h3>𒈾𒈬𒁺</h3>
-(cn na mu gub)</br>
+(tr na mu gub)</br>
 I have set up a border stone.
 
 <h3>𒈾𒉌𒁺𒂗</h3>
-(cn na i3 gub en)</br>
+(tr na i3 gub en)</br>
 I will set up a stone.
 
 ## Second person singular
 <h3>𒈾𒈬𒂊𒁺</h3>
-(cn na mu e gub)</br>
+(tr na mu e gub)</br>
 You have set up a stone.
 
 <h3>𒈾𒉌𒁺𒂗</h3>
-(cn na i3 gub en)</br>
+(tr na i3 gub en)</br>
 You will set up a stone.
 
 ## Third person singular (humans)
 <h3>𒈾𒈬𒌦𒁺</h3>
-(cn na mu un gub)</br>
+(tr na mu un gub)</br>
 He has set up a stone
 
 <h3>𒈾𒉌𒁺𒂊</h3>
-(cn na i3 gub e)</br>
+(tr na i3 gub e)</br>
 He will set up a stone.
 
 ## First person plural
 <h3>𒈾𒈬𒁺𒁁𒂗𒉈𒂗</h3>
-(cn na mu gub be en de3 en)</br>
+(tr na mu gub be en de3 en)</br>
 We have set up a stone
 
 <h3>𒈾𒉌𒁺𒂗𒉈𒂗</h3>
-(cn na i3 gub en de3 en)</br>
+(tr na i3 gub en de3 en)</br>
 We will set up a stone.
 
 ## Second person plural
 <h3>𒈾𒈬𒂊𒁺𒁁𒂗𒍢𒂗</h3>
-(cn na mu e gub be en ze2 en)</br>
+(tr na mu e gub be en ze2 en)</br>
 You have set up a stone.
 
 <h3>𒈾𒉌𒁺𒁁𒂗𒍢𒂗</h3>
-(cn na i3 gub be en ze2 en)</br>
+(tr na i3 gub be en ze2 en)</br>
 You will set up a stone.
 
 ## Third person plural
 </h3>𒈾𒈬𒌦𒁺𒁁𒂠</h3>
-(cn na mu un gub be esh)</br>
+(tr na mu un gub be esh)</br>
 They have set up a stone.
 
 <h3>𒈾𒉌𒁺𒁁𒂊𒉈</h3>
-(cn na i3 gub be e ne)</br>
+(tr na i3 gub be e ne)</br>
 They will set up a stone.
 
 
@@ -556,7 +574,7 @@ the hamtu aspect is not the same for
 humans and animals.
 
 <h3>𒈾𒈬𒌒𒁺</h3>
-(cn na mu ub gub)</br>
+(tr na mu ub gub)</br>
 It has set up a stone.
 
 
@@ -566,26 +584,26 @@ and the marû aspects. Below is the complete conjugation
 of the verb 𒁺 (ĝen), **to go** (or **to come**). 
 
 <h3>𒉌𒁺𒂗</h3>
-(cn i3 ĝen en)</br>
+(tr i3 ĝen en)</br>
 I went.
 
 <h3>𒉌𒁺𒂗</h3>
-(cn i3 ĝen en)
+(tr i3 ĝen en)
 You went.
 
 <h3>𒉌𒁺</h3>
-(cn i3 ĝen)</br>
+(tr i3 ĝen)</br>
 He went.
 
 <h3>𒉌𒁻𒂗𒉈𒂗</h3>
-(cn i3 re7 en de3 en)</br>
+(tr i3 re7 en de3 en)</br>
 We went.
 
 <h3>𒉌𒁻𒂗𒍢𒂗</h3>
-(cn i3 re7 en ze2 en)</br>
+(tr i3 re7 en ze2 en)</br>
 You people went.
 
 <h3>𒉌𒁻𒂠</h3>
-(cn i3 re7 esh)</br>
+(tr i3 re7 esh)</br>
 They went.
 

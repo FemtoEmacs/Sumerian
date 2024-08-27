@@ -138,11 +138,11 @@ lessons will be commented on.
  </tr>
 </table>
 
-<p>Note that the elisp command for typesetting Sumerian also shows
- the text's pronunciation.</p>
+Note that the elisp command for typesetting Sumerian also shows
+ the text's pronunciation.
 
-<p> As in text one, this noun phrase ends in an unwritten **{(r)}**,
- the dative marker.</p>
+As in text one, this noun phrase ends in an unwritten **{(r)}**,
+ the dative marker.
 
 <h1>𒌨𒀭𒇉 𒍑𒆗𒂵</h1>
 <table>
@@ -179,15 +179,15 @@ lessons will be commented on.
  </tr>
 </table>
 
-<p>One may form adjectives by adding
+One may form adjectives by adding
 a nominalizing A-particle to a verbal root,
  **kalag** in the present expression.
  The nominalizing particle was
- contaminated by the final G consonant of the preceding word,
- giving extra information about its correct reading.</p>
+ contaminated by the final **g** consonant of the preceding word,
+ giving extra information about its correct reading.
 
-<p>Different from English, Sumerian adjectives follow
-the noun they modify.</p>
+Different from English, Sumerian adjectives follow
+the noun they modify.
 
 <h1>𒈗𒋀𒀊𒆠𒈠</h1>
 <table>

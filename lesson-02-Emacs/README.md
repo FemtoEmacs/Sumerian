@@ -159,7 +159,7 @@ lessons will be commented on.
   <td>ur-nammu</td>
    <td>nitah</td>
    <td>kalag</td>
-   <td>ya</td>
+   <td>ga</td>
  </tr>
  <tr>
   <td colspan="4">

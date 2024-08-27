@@ -324,6 +324,21 @@ and the e4 is the ergative marker.</p>
 King of Urim, King of Sumer and Akad, built her
 temple.</i></p>
 
+<table>
+<tr>
+<th><h1>APPENDIX: Grammar notes</h1></th>
+</tr>
+<tr>
+<th>=====================================================</th>
+</tr>
+</table>
+
+Congratulations again! You have finished the second lesson.
+As in the first lesson, this appendix details Sumerian grammar.
+You can return to it after completing the fifth lesson
+to gain an in-depth understanding of possessive pronouns,
+independent pronouns, interrogative pronouns and verb conjugation. 
+
 # Possessive pronouns
 In the first lesson, you found two instances of a possessive pronoun in
 the expressions 𒈗𒀀𒉌 (lugar ani) **his master**,

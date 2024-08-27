@@ -446,13 +446,12 @@ Let's read the whole brick inscription:
 The meaning of the whole document is something like this: **"For the god Nanna, his Master, Ur-Nammu, the King of Ur, built his temple. The king also built the city walls of Ur."**
 
 <table>
-<tr><th><h1>APPENDIX: Grammar notes</h1></th></tr>
 <tr>
-<td>
-<h2>========================================</h2>
-<td>
+<th><h1>APPENDIX: Grammar notes</h1></th>
+<th>======================================</th>
 </tr>
 </table>
+
 Congratulations. You have finished the first lesson.
 This appendix gives further details about the case
 elements, the noun chain and the verbal chain. If you

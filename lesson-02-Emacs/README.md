@@ -138,12 +138,10 @@ lessons will be commented on.
  </tr>
 </table>
 
-<p>The elisp command for typesetting Sumerian also shows
- the text's pronunciation. The semicolon introduces an elisp comment.
- Here, we use this comment feature to teach the translation
- of Sumerian expressions.</p>
+<p>Note that the elisp command for typesetting Sumerian also shows
+ the text's pronunciation.</p>
 
-<p> As in text one, this noun phrase ends in an unwritten R,
+<p> As in text one, this noun phrase ends in an unwritten **{(r)}**,
  the dative marker.</p>
 
 <h1>𒌨𒀭𒇉 𒍑𒆗𒂵</h1>
@@ -181,8 +179,10 @@ lessons will be commented on.
  </tr>
 </table>
 
-<p>One may form adjectives by adding a nominalizing A-particle to a verbal root,
- **kalag** in the present expression. The nominalizing particle was
+<p>One may form adjectives by adding
+a nominalizing A-particle to a verbal root,
+ **kalag** in the present expression.
+ The nominalizing particle was
  contaminated by the final G consonant of the preceding word,
  giving extra information about its correct reading.</p>
 
@@ -260,8 +260,8 @@ from the final consonant of the previous word.</p>
 
 
 
-<p>In ke4 (𒆤), the K is the genitive marker,
-and the e4 is the ergative marker.</p>
+<p>In ke4 (𒆤), the **{k}** is the genitive marker,
+and the **{e}** is the ergative marker.</p>
 
 <h1>𒂍𒀀𒉌</h1>
 <table>

@@ -91,13 +91,13 @@ lessons will be commented on.
 
 
 ``` Sumerian
-1- [INANNA                           -- For Inanna,\
-2-    NIN.ANI].{(R)}                 -- his Lady,\
-3- [UR.NAMMU                         -- Ur-Nammu,\
-4-    [NITAH.KALAG].{A} #adj.        -- the mighty man,\
-5-    [LUGAL.URIM5^ki MA].{(K)}      -- the king of Ur,\
-6-    [LUGAL.KIENGI.KIURI].{K}].{E}  -- the king of Sumer and Akkad,\
-7- [E2.ANI].{}                       -- her (Inanna's) temple\
+1- [INANNA                           -- For Inanna,
+2-    NIN.ANI].{(R)}                 -- his Lady,
+3- [UR.NAMMU                         -- Ur-Nammu,
+4-    [NITAH.KALAG].{A} #adj.        -- the mighty man,
+5-    [LUGAL.URIM5^ki MA].{(K)}      -- the king of Ur,
+6-    [LUGAL.KIENGI.KIURI].{K}].{E}  -- the king of Sumer and Akkad,
+7- [E2.ANI].{}                       -- her (Inanna's) temple
 8- MU.NA.DU                          -- built.
 ```
 

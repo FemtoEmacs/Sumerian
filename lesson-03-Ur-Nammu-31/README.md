@@ -27,10 +27,10 @@ in a particular order:
 <table>
 <tr>
  <td>Modal Prefix (MP)</td>
- <td>Indicative Ø. </td>
+ <td>Indicative <h4>Ø.</h4> </td>
  <td>Negative<h4>𒉡</h4></td>
  <td>Coortative<h4>𒂵</h4></td>
- <td colspan="3">Desiderative<h4>𒄩 or 𒃶</h4></td>
+ <td colspan="2">Desiderative<h4>𒄩 or 𒃶</h4></td>
 </tr>
 <tr>
  <td>Conjugation Prefix (CP)</td>

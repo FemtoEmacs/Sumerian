@@ -248,7 +248,7 @@ in a particular order:
   <td colspan="5">
   -------------------------------------------------------</br>
   Eval: (cn lugal ki-en-gi ki uri ke4)</br>
-  lugal.kiengi.kiuri.{k}].{e}
+  [lugal.kiengi.kiuri.{k}].{e}
   </td>
  </tr>
  <tr>

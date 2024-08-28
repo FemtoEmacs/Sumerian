@@ -362,6 +362,9 @@ two free hours.
 Anyway, here you will learn about
 a verbal mode that one seldom finds
 in royal inscriptions: the imperative.
+After learning about the imperative,
+you will have a brief introduction
+to conjunctions as well.
 
 # Imperative
 The prefix /ḫa/ 𒄩  expresses a request to the second person.

@@ -325,15 +325,32 @@ to indicate end-points in space or time and
   <td colspan="4">
  <i>dedicated it (this object).</i>
   </td>
- </tr>𒀀⫽𒊒 • (a ru)
-
-to dedicate
- <tr>
+ </tr>
+  <tr>
   <td colspan="4">
  <h4>𒀀⫽𒊒 • (a ru) to dedicate</h4>
   </td>
  </tr>
 </table>
+
+<table>
+<tr>
+<th><h1>APPENDIX: Grammar notes</h1></th>
+</tr>
+<tr>
+<th>=====================================================</th>
+</tr>
+</table>
+
+Your progress is very fast, and your perseverance
+is commendable. You have finished another lesson.
+
+This appendix is for future work.
+You don't need to read it right now.
+Anyway, here you will learn about
+a verbal mode that one seldom find
+in royal inscriptions: the imperative.
+
 
 # Imperative
 The prefix /ḫa/ 𒄩  expresses a request to the second person.

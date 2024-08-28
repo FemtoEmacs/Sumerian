@@ -2,6 +2,8 @@
 In this lesson, you will read three columns of Eannatum Boulder.
 However, since the text is very long, the annotations will skip
 details of grammar and vocabulary the way we have been doing now.
+From what you learned in previous lessons, you should not have
+any difficulty in filling the gaps in the explanations.
 
 ## Columns I, II
 
@@ -55,7 +57,7 @@ details of grammar and vocabulary the way we have been doing now.
     <td colspan="3">
       ---------------------------------------------------------------------------------------------</br>
       (cn e2 an-na-tum2) </br>
-      (cn ensi2) </br>
+      (cn ensi2)  </br>
        (cn lagash ki)
     </td>
   </tr>
@@ -90,8 +92,8 @@ details of grammar and vocabulary the way we have been doing now.
   <tr>
     <td colspan="5">
       ---------------------------------------------------------------------------------------------</br>
-      (cn mu pad3 da) </br>
-      (cn en-lil2 ke4) 
+      (cn mu pad3 da)  </br>
+      (cn en-lil2 ke4)  
     </td>
   </tr>
   <tr>
@@ -322,8 +324,10 @@ details of grammar and vocabulary the way we have been doing now.
   <tr>
     <td colspan="4">
     <h4>𒅆𒁾𒋾 • (ngeshkimtil) to be trustworthy</h4>
-    There are several different words for the concept of “trust” in Sumerian.</br>
-    The word ngeshkimtil means “to trust, to aid, to be trustworthy” and</br>
+    There are several different words for the concept
+	of “trust” in Sumerian.</br>
+    The word ngeshkimtil means “to trust, to aid,
+	to be trustworthy” and</br>
     it is written 𒅆𒁾𒋾 in cuneiform. 
     </td>
   </tr>
@@ -339,10 +343,10 @@ details of grammar and vocabulary the way we have been doing now.
     <th><h3>𒆤</h3></th>
   </tr>
   <tr>
-    <td>sha3</td>
-    <td>pad3</td>
-    <td>da</td>
-    <td>nanshe</td>
+    <td>gu5-li</td>
+    <td>kiag2</td>
+    <td>lugaluru</td>
+    <td>ka</td>
     <td>ke4</td>
   </tr>
   <tr>

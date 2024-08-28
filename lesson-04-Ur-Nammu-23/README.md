@@ -390,7 +390,8 @@ of the ***APPENDIX: Gramar notes***.
 Thus, you will improve your holding
 of case elements, and learn that the
 dative changes depending on the person
-to whom the scribe is addressing.
+to whom the scribe is dedicating a
+building or an object.
 You will also receive an introductory
 concepts of transitive verbs, intransitive
 verbs, the hamtu and the marû conjugation.

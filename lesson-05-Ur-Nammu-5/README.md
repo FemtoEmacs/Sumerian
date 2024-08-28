@@ -53,9 +53,9 @@ the final consonant of the previous word,
 <h2>𒈗𒀀𒉌</h2>
 <table>
  <tr>
-  <th><h3>𒈗</h3></th>
-  <th><h3>𒀀</h3></th>
-  <th><h3>𒉌</h3></th>
+  <td><h3>𒈗</h3></td>
+  <td><h3>𒀀</h3></td>
+  <td><h3>𒉌</h3></td>
  </tr>
  <tr>
   <td>lugal</td>
@@ -70,7 +70,7 @@ the final consonant of the previous word,
  </tr>
  <tr>
   <td colspan="3">
-  <i>His King,</i>
+  <i>his master,</i>
   </td>
  </tr>
 </table>
@@ -78,7 +78,7 @@ the final consonant of the previous word,
 <h2>𒌨𒀭𒇉</h2>
 <table>
  <tr>
-  <th><h3>𒌨𒀭𒇉</h3></th>
+  <td><h3>𒌨𒀭𒇉</h3></td>
  </tr>
  <tr>
   <td>ur-nammu</td>
@@ -100,10 +100,10 @@ the final consonant of the previous word,
 <h2>𒈗𒋀𒀊𒆠𒈠𒆤</h2>
 <table>
  <tr>
-  <th><h3>𒈗</h3></th>
-  <th><h3>𒋀𒀊𒆠</h3></th>
-  <th><h3>𒈠</h3></th>
-  <th><h3>𒆤</h3></th>
+  <td><h3>𒈗</h3></td>
+  <td><h3>𒋀𒀊𒆠</h3></td>
+  <td><h3>𒈠</h3></td>
+  <td><h3>𒆤</h3></td>
  </tr>
  <tr>
   <td>lugal</td>
@@ -130,9 +130,9 @@ the final consonant of the previous word,
 <h2>𒄑𒊬𒈤</h2>
 <table>
  <tr>
-  <th><h3>𒄑</h3></th>
-  <th><h3>𒊬</h3></th>
-  <th><h3>𒈤</h3></th>
+  <td><h3>𒄑</h3></td>
+  <td><h3>𒊬</h3></td>
+  <td><h3>𒈤</h3></td>
  </tr>
  <tr>
   <td>gish</td>
@@ -163,9 +163,9 @@ the final consonant of the previous word,
 <h2>𒈬𒈾𒁺</h2>
 <table>
  <tr>
-  <th><h3>𒈬</h3></th>
-  <th><h3>𒈾</h3></th>
-  <th><h3>𒁺</h3></th>
+  <td><h3>𒈬</h3></td>
+  <td><h3>𒈾</h3></td>
+  <td><h3>𒁺</h3></td>
  </tr>
  <tr>
   <td>mu</td>
@@ -186,7 +186,7 @@ the final consonant of the previous word,
  </tr>
  <tr>
   <td colspan="3">
-  <h4>𒁺 • (gub) pl. • 𒁻 (sug₂) to erect, set up</h4>
+  <h4>𒁺 • (gub) pl. • 𒁻 (sug₂) to erect, to set up</h4>
   </td>
  </tr>
 </table>
@@ -194,10 +194,10 @@ the final consonant of the previous word,
 <h2>𒁈𒆠𒂖𒆷</h2>
 <table>
  <tr>
-  <th><h3>𒁈</h3></th>
-  <th><h3>𒆠</h3></th>
-  <th><h3>𒂖</h3></th>
-   <th><h3>𒆷</h3></th>
+  <td><h3>𒁈</h3></td>
+  <td><h3>𒆠</h3></td>
+  <td><h3>𒂖</h3></td>
+   <td><h3>𒆷</h3></td>
  </tr>
  <tr>
   <td>barag</td>
@@ -234,9 +234,9 @@ final consonant of sikil (𒂖).
 <h2>𒈬𒈾𒆕</h2>
 <table>
  <tr>
-  <th><h3>𒈬</h3></th>
-  <th><h3>𒈾</h3></th>
-  <th><h3>𒆕</h3></th>
+  <td><h3>𒈬</h3></td>
+  <td><h3>𒈾</h3></td>
+  <td><h3>𒆕</h3></td>
  </tr>
  <tr>
   <td>mu</td>
@@ -259,11 +259,18 @@ final consonant of sikil (𒂖).
 
 ## Sentence structure
 
-1- [AN LUGAL.[DIĜIR.{RE.NE #plural}] -- For An, the king of the gods,\
-2-  LUGAL.ANI].{(R)} -- his king,\
-3- [UR.NAMMU\
-4-   [LUGAL.URIM5.M].{AK}].{E} -- the king of UR,\
-5- [GISH.KIRI6.MAH].{} -- an outstandig garden\
-6- MU.NA.GUB -- planted.\
-7- [BARAG.[KI.SIKIL].{LA #locative}].{} -- a dais in a pure place\
-8- MU.NA.DU3 -- (the king) build (for An).
+``` Sumerian
+1- [AN LUGAL.[DIĜIR.{RE.NE}] #plural  -- For An, the king of the gods,
+2-    LUGAL.ANI].{(R)}                -- his master,
+3- [UR.NAMMU                          -- Ur-Nammu,
+4-   [LUGAL.URIM5.M].{AK}].{E}        -- the king of Ur,
+5- [GISH.KIRI6.MAH].{Ø}               -- an outstandig garden
+6- MU.NA.GUB                          -- planted.
+7- [BARAG.[KI.SIKIL].{LA}].{Ø} #loc   -- a dais in a pure place\
+8- MU.NA.DU3                          -- (the king) built (for An).
+```
+
+## Translation
+*Ur-Nammu, the king of Ur, planted a magnificent
+garden for An, the king of gods. He also has built
+a dais in a pure place for the god.*

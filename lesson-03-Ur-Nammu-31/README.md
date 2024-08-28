@@ -4,14 +4,21 @@
 
 ## Sentence structure
 
-1- [NINGAL   -- For Ningal\
-2- NIN.ANI].{(R)} -- his Lady,\
-3- [UR-NAMMU -- Ur-Nammu,\
-4- [NITAH.KALAG].{A #adjective from verb} -- the mighty man,\
-5- [LUGAL.URIM5].{MA(K) #genitive} -- the king of Ur,\
-6- [LUGAL.KIENGI.KIURI].{K #gen.}].{E #ergative} -- the king of Sumer and Akkad,\
-7- [{NAM #abstract noun}.TIL3.ANI].{ŠE3 #goal} -- for the sake of his life,\
-8- A.MU.NA.RU -- dedicated (this vessel).
+``` Sumerian
+1- [NINGAL                       -- For Ningal,
+2-     NIN.ANI].{(R)}            -- his Lady,
+3- [UR-NAMMU                     -- Ur-Nammu,
+4-    [NITAH.KALAG].{A}          -- the mighty man,
+5- [LUGAL.URIM5 MA].{(K)}        -- the king of Ur,
+6- [LUGAL.KIENGI.KIURI].{K}].{E} -- the king of Sumer and Akkad,
+7- [{NAM}.TIL3.ANI].{ŠE3} #goal  -- for the sake of his life,
+8- A.MU.NA.RU                    -- dedicated (this vessel).
+```
+
+## Translation
+*For Ningal, his lady, Ur-Nammu, the mighty man,
+the king of Ur, the king of Sumer and Akkad,
+dedicated this vessel for the protection of his life.*
 
 ## Verbal chain
 In a sentence, a Sumerian verb appears as a chain of affixes

@@ -4,6 +4,16 @@ Although it is badly damaged, let's try to read it.
 
 ![image](https://github.com/user-attachments/assets/5ec05590-dd58-4af8-89a4-9b65dce985de)
 
+## Translation
+*For Lugalemush, Entemena, governor of Lagash,
+the chosen of Nanshe's heart, the general
+governor of Ningirsu, the son of Enannatum,
+the governor of Lagash, has built the
+shrine of Dugru. He instituted a remission
+of Lagash's obligations. He returned
+the mother to her children. He returned
+the children to their mother.*
+
 
 ## Annotations
 I want to invite you to help me with the translation. You can request a pull if you disagree with my reading or interpretation of the famous cone. 
@@ -147,7 +157,7 @@ I want to invite you to help me with the translation. You can request a pull if 
  <tr>
   <td colspan="4">
   <h4>𒃲 • (gal), pl. 𒃲𒃲 (gal-gal) big, large, great</h4>
-   <h4>𒀭𒎏𒄈𒋢 • (<sup>d</sup>-nin-g̃ir2-su) Ningirsu, god of Lagaš</h4>
+   <h4>𒀭𒎏𒄈𒋢 • (<sup>d</sup>nin-g̃ir2-su) Ningirsu, god of Lagaš</h4>
   </td>
  </tr>
 </table>
@@ -230,7 +240,7 @@ I want to invite you to help me with the translation. You can request a pull if 
   <th><h3>𒈾</h3></th>
   <th><h3>𒆕</h3></th>
  </tr>
- <tr>
+ <tr> 
   <td>an</td>
   <td>ningirsu</td>
    <td>ra</td>
@@ -251,9 +261,10 @@ I want to invite you to help me with the translation. You can request a pull if 
   <i>he built the shrine of Dugru for Ningirsu.</i>
   </td>
  </tr>
- <tr>
+ <tr> 
   <td colspan="8">
   <h4>𒀊 • (eš3) shrine, sanctuary </h4>
+  <h4>𒂁 • (dug) clay pot</h4>
   </td>
  </tr>
 </table>

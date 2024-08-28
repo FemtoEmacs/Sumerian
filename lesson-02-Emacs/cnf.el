@@ -353,7 +353,8 @@
        
 	;; ("𒄄" restore gi4) ;; 116
         ("𒁓" dish bur)
-	("𒉢" syllabic nu11) 
+	("𒉢" syllabic nu11)
+	("𒂁" pot dug)
         ;;;Lesson 14
 	("𒊬" nome kiri6)
 	("𒂼𒀀𒈾𒀝" nome ama-a-na-ak)

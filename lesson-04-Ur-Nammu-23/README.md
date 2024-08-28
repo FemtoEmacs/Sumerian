@@ -369,6 +369,37 @@ his temple 𒂍𒀀𒉌  (cn e2 a ni).
 Ur-Nammu, the king of Sumer and Akkad, built his temple. The king
 also dredged the Enerinnun canal for Enlil.***
 
+
+<table>
+<tr>
+<th><h1>APPENDIX: Grammar notes</h1></th>
+</tr>
+<tr>
+<th>=====================================================</th>
+</tr>
+</table>
+
+You completed lesson four. Then you should
+be able to read many votive Sumerian artifacts
+that you find in museums around the world.
+
+To boost your reading skills,
+I recommend that you go back to the first
+lesson and read the contents
+of the ***APPENDIX: Gramar notes***.
+Thus, you will improve your holding
+of case elements, and learn that the
+dative changes depending on the person
+to whom the scribe is addressing.
+You will also receive an introductory
+concepts of transitive verbs, intransitive
+verbs, the hamtu and the marû conjugation.
+
+However, before returning to the first lesson,
+you may want to read about Sumerian numerals,
+and learn to count things in cuneiform.
+
+
 # Sumerian numerals
 To count things, modern people use ten
 digits: 1, 2, 3, 4, 5, 6, 7, 8, 9 and 0. Therefore,

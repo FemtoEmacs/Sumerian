@@ -103,7 +103,7 @@ in a particular order:
   <td colspan="2">
   -------------------------------------------------------</br>
   Eval: (cn an ningal)</br>
-  [ningal
+  ningal
   </td>
  </tr>
  <tr>
@@ -136,7 +136,7 @@ in a particular order:
   <td colspan="3">
   -------------------------------------------------------</br>
   Eval: (cn nin a ni)</br>
-  [nin a ni
+  nin.a.ni
   </td>
  </tr>
  <tr>
@@ -162,7 +162,7 @@ in a particular order:
   <td colspan="2">
    -------------------------------------------------------</br>
   Eval: (cn ur-nammu)</br>
-  [Ur.Nammu
+  Ur.Nammu
   </td>
  </tr>
  <tr>

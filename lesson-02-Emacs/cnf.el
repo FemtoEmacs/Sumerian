@@ -352,7 +352,8 @@
 	;; ("𒌉" child dumu)  ;; 115
        
 	;; ("𒄄" restore gi4) ;; 116
-
+        ("𒁓" dish bur)
+	("𒉢" syllabic nu11) 
         ;;;Lesson 14
 	("𒊬" nome kiri6)
 	("𒂼𒀀𒈾𒀝" nome ama-a-na-ak)

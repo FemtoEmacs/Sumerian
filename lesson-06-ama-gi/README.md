@@ -75,6 +75,10 @@ I want to invite you to help me with the translation. You can request a pull if 
   <td colspan="4">
    <h4>𒉺𒋼𒋛 • (ensi2) ruler, governor, farmer</h4>
    <h4>𒉢𒁓𒆷𒆠 • (lagaški) Lagash (Sumerian city-state)</h4>
+   <h4>𒋼 • (te) cheek</h4>
+   <h4>𒁓 • (bur) shallow (stone) bowl, platter</h4>
+   <h4>𒉢 • (nu11) <i>syllabic</i>, nu</h4>
+   <i>In Sumerian, the name of Lagaš was Nuburla.</i>
   </td>
  </tr>
 </table>
@@ -143,7 +147,7 @@ I want to invite you to help me with the translation. You can request a pull if 
  <tr>
   <td colspan="4">
   <h4>𒃲 • (gal), pl. 𒃲𒃲 (gal-gal) big, large, great</h4>
-   <h4>𒀭𒎏𒄈𒋢 • (dnin-g̃ir2-su) Ningirsu, god of Lagaš</h4>
+   <h4>𒀭𒎏𒄈𒋢 • (<sup>d</sup>-nin-g̃ir2-su) Ningirsu, god of Lagaš</h4>
   </td>
  </tr>
 </table>

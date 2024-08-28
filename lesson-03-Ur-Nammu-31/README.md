@@ -33,10 +33,11 @@ in a particular order:
 </tr>
 <tr>
  <td>Conjugation Prefix (CP)</td>
+ <td>Indicative  Ø.<td>
  <td>Finite Marker <h4>𒉌</h4> i3</td>
  <td>Coordinator </br> Prefix <h4>𒅔𒂵</h4> -nga-</td>
  <td>Ventive </br> Prefix <h4>𒈬</h4>mu</td>
- <td colspan="2">Middle Voice </br>Prefix<h4> 𒁀</h4>ba</td>
+ <td>Middle Voice </br>Prefix<h4> 𒁀</h4>ba</td>
 </tr>
 <tr>
  <td>Dimensional Infix</td>

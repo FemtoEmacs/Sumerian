@@ -351,15 +351,17 @@ to indicate end-points in space or time and
 </tr>
 </table>
 
-Your progress is very fast, and your perseverance
+Your progress is impressive, and your perseverance
 is commendable. You have finished another lesson.
 
-This appendix is for future work.
-You don't need to read it right now.
+This appendix is for further work.
+You don't need to read it now,
+but it will benefit your future studies.
+Return to it when you have at least
+two free hours.
 Anyway, here you will learn about
-a verbal mode that one seldom find
+a verbal mode that one seldom finds
 in royal inscriptions: the imperative.
-
 
 # Imperative
 The prefix /ḫa/ 𒄩  expresses a request to the second person.

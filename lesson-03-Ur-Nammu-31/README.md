@@ -54,7 +54,8 @@ in a particular order:
  <td>ib-du<h4>𒌈𒆕</h4>they built</td>
 </tr>
 <tr>
- <td colspan="6">Verbal Stem</td> 
+ <td>Verbal Stem</td>
+ <td colspan="5"><h3>𒆕</h3> built </td> 
 </tr>
 </table>
 

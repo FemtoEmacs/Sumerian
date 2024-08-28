@@ -136,7 +136,7 @@ in a particular order:
   <td colspan="3">
   -------------------------------------------------------</br>
   Eval: (cn nin a ni)</br>
-  [ningal
+  [nin a ni
   </td>
  </tr>
  <tr>
@@ -217,7 +217,7 @@ in a particular order:
   <td colspan="3">
    -------------------------------------------------------</br>
   Eval: (cn lugal urim ma)</br>
-  lugal.urim5.a
+  lugal.urim5.a.{(k)}
   </td>
  </tr>
  <tr>
@@ -248,7 +248,7 @@ in a particular order:
   <td colspan="5">
   -------------------------------------------------------</br>
   Eval: (cn lugal ki-en-gi ki uri ke4)</br>
-  lugal.kiengi.kiuri.k].e
+  lugal.kiengi.kiuri.{k}].{e}
   </td>
  </tr>
  <tr>
@@ -279,7 +279,7 @@ in a particular order:
   <td colspan="5">
   -------------------------------------------------------</br>
   Eval: (cn nam til3 la ni she3)</br>
-  [nam.til3.ani].še3
+  [nam.til3.ani].{še3}
   </td>
  </tr>
  <tr>
@@ -327,7 +327,7 @@ to indicate end-points in space or time and
   <td colspan="4">
   -------------------------------------------------------</br>
   Eval: (cn a mu na ru)</br>
-  [a].{} mu.na.(n.)ru.{}
+  [a].{Ø} mu.na.(n.)ru.{Ø} 
   </td>
  </tr>
  <tr>

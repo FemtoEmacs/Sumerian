@@ -5,14 +5,14 @@
 ## Sentence structure
 
 ``` Sumerian
-1- [NINGAL                       -- For Ningal,
-2-     NIN.ANI].{(R)}            -- his Lady,
-3- [UR-NAMMU                     -- Ur-Nammu,
-4-    [NITAH.KALAG].{A}          -- the mighty man,
-5- [LUGAL.URIM5 MA].{(K)}        -- the king of Ur,
-6- [LUGAL.KIENGI.KIURI].{K}].{E} -- the king of Sumer and Akkad,
-7- [{NAM}.TIL3.ANI].{ŠE3} #goal  -- for the sake of his life,
-8- A.MU.NA.RU                    -- dedicated (this vessel).
+1- [NINGAL                          -- For Ningal,
+2-     NIN.ANI].{(R)}               -- his Lady,
+3- [UR-NAMMU                        -- Ur-Nammu,
+4-    NITAH.KALAG.{A} #adjective    -- the mighty man,
+5-    [LUGAL.URIM5 MA].{(K)}        -- the king of Ur,
+6-    [LUGAL.KIENGI.KIURI].{K}].{E} -- the king of Sumer and Akkad,
+7- [NAM.TIL3.ANI].{ŠE3} #goal       -- for the sake of his life,
+8- A.MU.NA.RU                       -- dedicated (this vessel).
 ```
 
 ## Translation

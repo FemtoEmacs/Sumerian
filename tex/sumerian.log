@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.6.1)  29 AUG 2024 12:58
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.6.1)  29 AUG 2024 13:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -904,12 +904,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 932--941
  []
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 950--962
+Underfull \hbox (badness 10000) in paragraph at lines 952--964
 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1931) has occurred while \output is active []
 
  [21]
 [22] (./sumerian.aux)

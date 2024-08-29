@@ -1,0 +1,476 @@
+\documentclass[a4paper,12pt]{book}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{menukeys}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage[T1]{fontenc}
+\usepackage{upquote}
+\usepackage{wrapfig}
+\usepackage{makeidx}
+\usepackage{tikz, pgf}
+\usepackage{listing}
+\usepackage{fancyvrb}
+
+\makeindex
+
+\title{An introduction to Sumerian Cuneiforms}
+\author{Eduardo Costa \and Marcus Santos \and Sergio Teixeira}
+\date{}
+
+
+\usepackage{fontspec}
+
+%%%\setromanfont{Noto Sans}
+\newcommand{\fcn}{\setromanfont{Noto Sans Cuneiform}}
+\newcommand{\ttf}{\ttfamily}
+
+\begin{document}
+\maketitle
+\thispagestyle{empty}
+
+\chapter{Ur-Nammu-9}
+
+The Sumerian cuneiform script was the first
+writing system invented by humankind.
+Therefore, all educated individuals should
+learn this 5,000-year-old script.
+In this tutorial, we will learn how to read
+and reproduce the writing on the Ur-Nammu 9 Brick.
+
+%% \setromanfont{Noto Sans Cuneiform}
+
+\begin{quotation}\large\fcn
+𒀭𒋀𒆠
+
+𒈗𒀀𒉌
+
+𒌨𒀭𒇉
+
+𒈗𒋀𒀊𒆠𒈠𒆤
+
+𒂍𒀀𒉌
+
+𒈬𒈾𒆕
+
+𒂦𒋀𒀊𒆠𒈠
+
+𒈬𒈾𒆕
+\end{quotation}
+There are few grammar books for Sumerian.
+Unfortunately, Marie-Louise Thomsen's
+{\bf ``The Sumerian Language"} does not use cuneiform,
+so I cannot recommend it. This leaves us with
+John Hayes' Manual of Sumerian and Joshua
+Bowen's Learn to Read Ancient Sumerian.
+Therefore, I advise you
+to buy {\bf ``A Manual of Sumerian: Grammar and Texts"}
+by Hayes to learn this ancient language in depth.
+It is also a good idea to acquire
+{\bf ``Learn to Read Ancient Sumerian"}
+by Joshua Bowen and Megan Lewis.
+
+\section{Disclaimer}
+The authors of this book are not a scholars
+in Sumerian studies in any sense.
+Therefore, they may not help serious students
+of cuneiforms to solve their pendencies
+and questions.
+
+For scholars and graduate students who are
+writing their thesis, the authors recommend
+John Hayes' {\bf Manual of Sumerian} and
+Joshua Bowen's {\bf Learn to Read Ancient Sumerian}.
+Hayes' manual strong points are inscriptions
+and dedicatories, while Bowen and Lewis prefer
+literary texts.
+
+\section{Sentence structure}
+To discuss grammar, scholars use a transliteration
+of Sumerian cuneiforms to the Latin alphabet.
+Below, you will find the transliteration of
+the Ur-Nammu-9 document that we will study
+in this lesson.
+\begin{verbatim}
+1- [NANNA
+2-     LUGAL.ANI].{(R)} #dat           -- For his king
+3- [UR-NAMMU                           -- Ur-Nammu,
+4-     LUGAL.URIM5.{AK}].{E} #gen/erg  -- the king of UR,
+5- [E2.ANI].{Ø}  #object               -- his temple
+6- MU.NA.DU3 #verb                     -- he built
+7- [BAD3.URIM5.{A(K)}].{Ø} #gen/obj    -- the city wall of Ur
+8- MU.NA.DU3  #verb                    -- he built
+\end{verbatim}
+
+\section{Grammar functions in transliteration}
+
+In the transliteration, grammar functions are
+represented by indicators between braces.
+In the example, the grammar functions are:
+\begin{description}
+\item[1,2] The benefactive has an unwritten R,
+  which is represented by \verb|{(R)}|
+\item[3,4] The genitive ends in \verb|{AK}| after
+  consonant; the ergative ends in \verb|{E}|
+\item[5] The object of the action has no ending,
+  which is represented by \verb|{Ø}|
+\item[7] The genitive has an unwritten K,
+  which is represented by \verb|{A(K)}|
+\end{description}
+Square brackets delimit a noun chain, i.e.,
+a noun followed by a sequence of limiting
+qualifiers that may contain adjectives,
+apositives and a genitive.
+Example: \verb|[UR-NAMMU LUGAL.URIM5.{AK}].{E}|
+means
+\begin{quote}
+\begin{verbatim}
+[Ur-Nammu, Ur's king].{task-doer}
+\end{verbatim}
+\end{quote}
+After the close square bracket, a braced symbol
+suffix indicates the function of the noun chain.
+For instance, \verb|.{E}| shows that
+\verb|[UR.NAMMU...].{E}| is the doer of
+the sentence's task. The \verb|{(R)}| symbol
+shows that \verb|[NANNA...].{(R)}| receives
+the benefits of the task:
+\verb|[God Nanna].{benefactive}|.
+
+The noun chain may contain a genitive, as was
+stated in the previous paragraph. If you don't
+know the role of a genitive, it is a grammar
+function that shows possession. In English,
+the Saxon genitive marks the possessor with
+apostrophe-s and comes before the noun:
+{\em Ur's king}. In Sumerian, the possessor
+follows the noun and is marked with \verb|{AK}|
+after consonant and \verb|{K}| after vowel:
+\verb|{URIM5 MA].{K}| is equivalent
+to {\em Ur's king}.
+
+Braces represent the grammatical function endings.
+For instance, the ergative function-ending
+represents the doer of the task and is written
+as \verb|{E} #erg|, where \verb|#erg| is a comment
+that will be omitted in more advanced lessons.
+The person who receives the benefit of the
+action is called dative and is represented
+as \verb|{RA} #dat|, where the \verb|#dat|
+comment is usually omitted.
+
+The empty ending of the object is commented
+as \verb|{∅} #obj| or simply as \verb|{} #obj|.
+In the example, the objects are the constructions
+of king Ur-Nammu:
+\begin{quote}
+\begin{verbatim}
+[E2 A NI].{∅}               -- his temple
+[[BAD3.URIM5].{A(K)}].{∅}   -- the city wall of Ur
+\end{verbatim}
+\end{quote}
+Unwritten endings are placed between parentheses,
+such as \verb|{(R)}|.
+
+\section{Line 1 \& 2}
+The Ur-Nammu 9 document is divided into eight
+rectangles. In the first rectangle,
+the text {\fcn 𒀭𒋀𒆠} is written, which is
+the Sumerogram for the name of Nanna, the god of the Moon.
+The {\fcn 𒀭} symbol is read as \verb|an|
+(or \verb|digir|) and is determinative for deity.
+We will learn in the next paragraph that this word
+is in the dative case; therefore, the translation
+of the rectangle is {\em ``For Nanna."}\\
+
+
+\begin{tabular}[!h]{l l l}
+\fcn\Large 𒀭 𒋀𒆠
+&\fcn\Large 𒈗 &\fcn\Large 𒀀𒉌\\
+  $^d$nanna & lugal & a ni\\
+\multicolumn{3}{l}{\ttf (tr an nanna lugal a ni)}\\
+\multicolumn{3}{l}{\em For the god Nanna, his master,}\\
+\hline\\
+\multicolumn{3}{l}{{\fcn 𒀭 𒋀𒆠}
+                    ($^d$nanna) the god Nanna }\\
+\multicolumn{3}{l}{{\fcn 𒈗}
+                    (lugal) king, master }\\
+\multicolumn{3}{l}{{\fcn 𒀀𒉌}
+                    (a ni) his }\\
+\end{tabular}
+
+\verb||\\
+Sumerian uses symbols, called determinatives,
+to make the meaning clearer. The star {\fcn 𒀭}
+in front of a god's name is the determinative
+of divinity. In transliteration, the determinatives
+are represented as a superscript letter, such
+as $^d$\verb|nanna|.
+
+The Emacs command \verb|(tr an nanna lugal a ni)| is used
+to typeset Sumerian. There are instructions about
+this command on the page where you found this tutorial.
+
+\section{Line 3 \& 4}
+The third line of the Ur-Nammu-9 document contains the name of
+Ur-Nammu ({\fcn 𒌨𒀭𒇉}), the king who rebuilt the temple
+of $^d$Nanna and is the document's author.
+The king's name is formed by {\fcn 𒌨} (\verb|ur|),
+which means {\em man} or {\em dog},
+and {\fcn 𒀭𒇉} ($^d$\verb|nanna|),
+the Mother Earth of the Sumerians.
+Therefore, the king's name, {\fcn 𒌨𒀭𒇉},
+means {\em ``The Man of Nammu."}
+Note that the determinative of
+deity ({\fcn 𒀭}) precedes the goddess's name.\\
+
+\begin{tabular}[!h]{l l l l l l l l}
+\fcn\Large 𒌨𒀭𒇉
+&\fcn\Large 𒈗 &\fcn\Large 𒋀𒀊𒆠 &
+\fcn\Large 𒈠 & \fcn\Large 𒆤\\
+  ur-$^d$nammu & lugal & urim & ma & ke4\\
+\multicolumn{5}{l}{\ttf (tr ur nammu lugal urim ma ke4)}\\
+\multicolumn{5}{l}{\em Ur-Nammu, the king of Ur,}\\
+\hline\\
+\multicolumn{5}{l}{{\fcn 𒌨𒀭𒇉}
+                    (ur-$^d$nammu) King Ur-Nammu}\\
+\multicolumn{5}{l}{{\fcn 𒈗}
+                    (lugal) king, master }\\
+\multicolumn{5}{l}{{\fcn 𒋀𒀊𒆠}
+                    (urim$^{ki}$) the city of Ur }\\
+\multicolumn{5}{l}{{\fcn 𒆠}
+     (ki) {\em determinative of places} }\\
+\multicolumn{5}{l}{{\fcn 𒈠}
+     (ma(k)) {\em dative after consonant M} }\\
+\multicolumn{5}{l}{{\fcn 𒆤}
+     (ke4) {\em contraction of dative with ergative} }\\
+\multicolumn{5}{l}{{\fcn 𒈠𒆤}
+     (make4) {\em genitive contracted with ergative} }\\
+\end{tabular} 
+
+\verb||\\
+The fourth line contains {\fcn 𒈗𒋀𒀕𒆠𒈠𒆤}
+(tr lugal urim2 ma ke4), where {\fcn 𒋀𒀕𒆠} (tr urim)
+represents the city that was the cult center of Nanna.
+It is formed by the Sumerograms (tr shesh) ({\fcn 𒋀})
+and (tr unug) ({\fcn 𒀕}).
+The Sumerogram {\fcn 𒆠} is the determinative
+for geographic names. Determinatives,
+such as {\fcn 𒀭} ("digir" - deity)
+and {\fcn 𒆠} ("ki" - place), are not pronounced.
+Their role is to make the meaning of the word clearer.
+
+The genitive case denotes possession.
+Unlike the dative, English has a genitive case,
+formed by an apostrophe followed by {\bf ``s."}
+In English, one would say, {\bf ``Urim's King."}
+In Sumerian, the genitive follows the possessor
+and is marked with \verb|{ak}| after consonants
+and \verb|{k}| after vowels. In this nominal
+chain, the ``\verb|a|" of \verb|{ak}| was
+assimilated with the previous consonant,
+becoming {\fcn 𒈠} (\verb|ma|).
+The Sumerogram {\fcn 𒆤} (\verb|ke4|)
+represents the \verb|{k}| of the genitive
+and the \verb|{e}| of the ergative.
+
+Sumerian is an ergative language, meaning the agent
+of transitive actions is marked. In Sumerian, the
+ergative marker is \verb|{e}|. However, the subject
+of an intransitive verb, like ``to go" or ``to sleep,"
+does not receive the \verb|{e}| that marks the agent,
+whom linguists call ergative. Unmarked functions,
+such as the Sumerian subject of an intransitive
+verb and direct object of a transitive verb,
+are called absolutive and said to be marked
+with the null symbol \verb|{Ø}|.
+In short, for the Sumerians and
+modern Basques, if the subject of a sentence
+does not perform a task, it cannot be called ergative.
+
+\section{Line 5}
+The fifth rectangle introduces the
+temple (22 - {\fcn 𒂍}) that Ur-Nammu built.
+The expression {\fcn 𒂍𒀀𒉌} (e2 ani)
+means ``{\em his temple}." It is in the absolutive
+case and, therefore, receives the null
+symbol mark \verb|{Ø}|, a technical way of
+saying it does not bear a mark.
+The noun chain {\fcn 𒂍𒀀𒉌} (e2 ani) undergoes
+the consequences of the task performed.
+Thus, it is often called patient, accusative or target.
+
+\verb||\\
+\begin{tabular}[!h]{l l l}
+\fcn\Large 𒂍
+&\fcn\Large 𒀀 &\fcn\Large 𒉌\\
+  e2 & a & ni\\
+\multicolumn{3}{l}{\ttf (tr e2 a ni)}\\
+\multicolumn{3}{l}{\em his temple}\\
+\hline\\
+\multicolumn{3}{l}{{\fcn 𒂍}
+  (e2 me esh) {\em plural},
+  houses, temples }\\
+\multicolumn{3}{l}{{\fcn 𒂍𒈨𒌍}
+                    (lugal) king, master }\\
+\multicolumn{3}{l}{{\fcn 𒀀𒉌}
+                    (a ni) his }\\
+\end{tabular}
+
+\section{Line 6}
+A verbal stem prefixed by a sequence of
+particles and possibly followed by a suffix
+is called a {\em verbal chain}. The verbal
+chain {\fcn 𒈬𒈾𒆕} (mu-na-du3) can be translated
+as ``{\em built}."\\
+
+\begin{tabular}[!h]{l l l}
+\fcn\Large 𒈬
+&\fcn\Large 𒈾 &\fcn\Large 𒆕\\
+  mu & na & du3\\
+\multicolumn{3}{l}{\ttf (tr mu na du3)}\\
+\multicolumn{3}{l}{\em he has built for the god}\\
+\hline\\
+\multicolumn{3}{l}{{\fcn 𒆕}
+                    (du3) to build, to make, to plant }\\
+\multicolumn{3}{l}{{\fcn 𒈬}
+  (mu) {\em conjugation prefix (CP), ventive prefix,}
+            here}\\
+\multicolumn{3}{l}{{\fcn 𒈾}
+                    (na) {\em cross-references the dative} }\\
+\end{tabular}
+
+\verb||\\
+The verbal chain of the example has two
+prefixes and a stem:\\
+
+\begin{description}
+\item[\fcn 𒈬] — Ventive Conjugation Prefix (CP).
+  The Ventive CP indicates that the action occurs
+  here, close to the speaker.
+\item[\fcn 𒈾] — Dimensional Prefix (DP) cross-referencing
+  the dative. Sumerian has a DP for each sentence component,
+  except the ergative and the absolutive cases.
+\item[\fcn 𒆕] — verbal stem, {\em he has built}
+\end{description}
+
+\section{Line 7 \& 8}
+The noun phrase {\fcn 𒂦𒋀𒀕𒆠𒈠}
+(tr bad3 urim ma) means ``{\em wall of Ur}."
+The sumerogram {\fcn 𒂦} (tr bad3) means
+``{\em city wall}." The \verb|{(k)}| of the
+genitive is omitted, meaning it is not expressed
+because it was not pronounced at
+the end of a nominal phrase.\\
+
+\verb||\\
+\begin{tabular}[!h]{l l l l l l l l}
+\fcn\Large 𒂦
+&\fcn\Large 𒋀𒀕𒆠 &\fcn\Large 𒈠 &
+\fcn\Large 𒈬 & \fcn\Large 𒈾
+& \fcn\Large  𒆕\\
+  bad3 & urim & ma & mu & na & du3\\
+\multicolumn{6}{l}{\ttf (tr bad3 urim ma mu na du3)}\\
+\multicolumn{6}{l}{\em the city wall of Ur, he has built}\\
+\hline\\
+\multicolumn{5}{l}{{\fcn 𒊏}
+                    (ra) ra, {\em dative ending}}\\
+\multicolumn{5}{l}{{\fcn 𒈾}
+                    (na) {\em reference to dative} }\\
+\end{tabular} 
+
+\section{Reading the brick}
+Let's read the whole brick inscription.
+
+\begin{enumerate}
+\item (tr an nanna) ({\fcn 𒀭𒋀𒆠 }) {\bf\em-- For the god Nanna...}
+\item (tr lugal ani) ({\fcn 𒈗𒀀𒉌}) {\bf\em -- his master,}
+  The word `lugal' means king or master. It is formed
+  from `lu2,' ({\fcn 𒇽}) which means `man,'
+  and `gal,' ({\fcn 𒃲}) which can be translated
+  as `great.' The expression `a-ni' ({\fcn 𒀀𒉌 })
+  is equivalent to the possessive pronoun `his.'
+\item (tr ur-nammu) ({\fcn 𒌨𒀭𒇉}) {\bf\em -- Ur-Nammu,}
+\item (tr lugal urim ki ma ke4) ({\fcn 𒈗𒋀𒀊𒆠𒈠𒆤})
+  {\bf\em -- the king of Ur,}
+\item (tr e2 a ni) ({\fcn 𒂍𒀀𒉌}) {\bf\em -- his temple,}
+  Remember that you already learned the
+  meaning of `a ni.'
+\item (tr mu na du3) ({\fcn 𒈬𒈾𒆕}) {\bf\em -- he has built.}
+\item (tr bad3 urim ma) ({\fcn 𒂦𒋀𒀕𒆠𒈠})
+  {\bf\em -- The wall of Ur,}
+\item (tr mu na du3) ({\fcn 𒈬𒈾𒆕})
+  {\bf\em -- he built for Nanna.}
+\end{enumerate}
+
+\section{Translation}
+The meaning of the whole document is something
+like this: {\bf\em``For the god Nanna, his Master, Ur-Nammu, the King of Ur, built his temple. The king also built the city walls of Ur for Nannaa."}
+
+\section{The method}
+I will use the method I employed in this first
+chapter to introduce a few other documents.
+In other words, each chapter will contain
+grammar, vocabulary, syllables,
+and essential Sumerograms for reading
+a Sumerian document. This methodology ensures
+you can handle a manageable amount of information
+initially.
+
+After discussing how to read a Sumerian inscription,
+each chapter contains an in-depth presentation
+of the Sumerian grammar. Initially,
+you can do without reading this final
+grammar section. You can return to return
+to it after practicing Sumerian with a few inscriptions.
+
+
+\section{APPENDIX: Grammar notes}
+
+Congratulations. You have finished the first lesson.
+This appendix gives further details about the
+case elements, the noun chain and the verbal chain.
+If you don't feel like it, you don't need to read
+it now. You can return to this lesson after completing
+a few Sumerian documents.
+
+\section*{Case elements}
+The subject of a sentence is the topic of the conversation.
+Besides the subject, the sentence may have other marked
+components called case elements. Case elements may have
+references in the verbal chain. The leading case elements
+with their marks and references are:
+
+\subsection*{Ergative: {\fcn 𒂊} \{e\} task doer}
+
+{\fcn\Large 𒈗𒂊  𒂦 𒋀𒀕𒆠𒈠  𒈬𒈾𒆕}\\
+(tr lugal e bad3 urim ma mu na du3)\\
+The king built the city wall of Ur.
+
+\subsection*{Dative: {\fcn 𒊏} 
+\{ra\}/ {\fcn 𒈾} (-na-) for}
+
+{\fcn\Large 𒎏𒀀𒉌𒊏𒈗𒂊𒂦𒋀𒀊𒆠𒈠𒈬𒈾𒆕}\\
+(tr nin a ni ra lugal e bad3 urim ma mu na du3)\\
+For his lady, the king built the wall of Urim.
+
+\subsection*{Locative: {\fcn 𒀀} • \{a\}
+/{\fcn 𒉌} • (-ni-) in, on}
+
+{\fcn\Large 𒈗𒂊𒌷𒀀𒂍𒈬𒉌𒆕}\\
+(tr lugal e uru a e2 mu ni du3)\\
+The king built a house in the city.
+
+\subsection*{Terminative: {\fcn 𒂠}
+ • \{še\}/{\fcn 𒅆} • (-ši-) in order to}
+
+{\fcn\Large 𒂷𒂊𒌷𒈬𒂠𒂵𒅆𒁺}\\
+(tr ĝe26 e uru ĝu10-my she-goal ga shi ĝen)\\
+I will go there to my city.
+
+
+
+
+\end{document}
+

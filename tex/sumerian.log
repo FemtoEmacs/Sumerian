@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.6.1)  28 AUG 2024 21:04
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.6.1)  29 AUG 2024 12:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -768,43 +768,163 @@ Missing character: There is no ∅ (U+2205) in font [lmmono12-regular]:!
 Missing character: There is no ∅ (U+2205) in font [lmmono12-regular]:!
 Missing character: There is no ∅ (U+2205) in font [lmmono12-regular]:!
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--186
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 216--227
-
- []
-
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 322--327
-
+Overfull \hbox (7.14563pt too wide) in paragraph at lines 209--215
+[]\TU/lmr/m/n/12 Sumerian uses symbols, called determinatives, to make the mean
+ing clearer.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--347
+Underfull \hbox (badness 10000) in paragraph at lines 221--232
 
  []
 
-[7]
-Underfull \hbox (badness 10000) in paragraph at lines 359--366
+[6] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 327--332
 
  []
 
-[8] [9] [10] (./sumerian.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--352
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--371
+
+ []
+
+[8] [9] [10] [11] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 608--613
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 627--658
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 660--663
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 676--695
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 697--702
+
+ []
+
+[15] [16]
+Underfull \hbox (badness 10000) in paragraph at lines 765--767
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 786--789
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 790--792
+
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 800--802
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 803--814
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 821--823
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 824--827
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 828--839
+
+ []
+
+[18]
+Chapter 2.
+
+Overfull \hbox (42.59988pt too wide) in paragraph at lines 872--872
+[]\TU/lmtt/m/n/12 5-   [lugal ki-en-gi ki uri].{k}].{e}  -- the king of Sumer a
+nd Akkad,[] 
+ []
+
+[19
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 888--900
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 901--904
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 905--920
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 921--929
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 930--931
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 932--941
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 950--962
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
+[22] (./sumerian.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 19882 strings out of 476878
- 433702 string characters out of 5805250
- 1929627 words of memory out of 5000000
- 41407 multiletter control sequences out of 15000+600000
- 568520 words of font info for 92 fonts, out of 8000000 for 9000
+ 19891 strings out of 476878
+ 433962 string characters out of 5805250
+ 1928627 words of memory out of 5000000
+ 41409 multiletter control sequences out of 15000+600000
+ 568568 words of font info for 98 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 99i,8n,107p,466b,350s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,8n,107p,466b,403s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on sumerian.pdf (10 pages).
+Output written on sumerian.pdf (22 pages).

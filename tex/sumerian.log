@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.6.1)  29 AUG 2024 21:54
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.6.1)  30 AUG 2024 00:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -912,103 +912,83 @@ Underfull \hbox (badness 10000) in paragraph at lines 956--968
 Underfull \vbox (badness 1931) has occurred while \output is active []
 
  [19]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [20]
-Underfull \hbox (badness 10000) in paragraph at lines 1063--1064
+[20] [21]
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1080
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1076--1084
+Underfull \hbox (badness 10000) in paragraph at lines 1101--1104
 
  []
 
-[21]
-Underfull \hbox (badness 10000) in paragraph at lines 1116--1120
-
- []
-
-
-Underfull \vbox (badness 4479) has occurred while \output is active []
-
- [22]
-Underfull \hbox (badness 10000) in paragraph at lines 1130--1135
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 1140--1144
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1137--1144
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1145--1150
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1151--1154
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1155--1160
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1161--1169
+Underfull \hbox (badness 10000) in paragraph at lines 1152--1155
 
  []
 
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 1170--1175
+Underfull \hbox (badness 10000) in paragraph at lines 1156--1161
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1176--1181
+Underfull \hbox (badness 10000) in paragraph at lines 1162--1165
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1183--1187
+Underfull \hbox (badness 10000) in paragraph at lines 1166--1171
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1194--1199
+Underfull \hbox (badness 10000) in paragraph at lines 1172--1177
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1205--1209
+Underfull \hbox (badness 10000) in paragraph at lines 1178--1183
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1210--1214
+Underfull \hbox (badness 10000) in paragraph at lines 1184--1189
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1191--1195
 
  []
 
 [24]
-Underfull \hbox (badness 10000) in paragraph at lines 1215--1219
+Underfull \hbox (badness 10000) in paragraph at lines 1202--1207
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1223--1226
+Underfull \hbox (badness 10000) in paragraph at lines 1214--1218
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1233--1236
+Underfull \hbox (badness 10000) in paragraph at lines 1219--1223
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1237--1241
+Underfull \hbox (badness 10000) in paragraph at lines 1224--1228
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1232--1235
 
  []
 
@@ -1017,48 +997,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 1242--1245
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1247--1250
-
- []
-
 [25]
-Underfull \hbox (badness 10000) in paragraph at lines 1251--1255
+Underfull \hbox (badness 10000) in paragraph at lines 1252--1255
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1257--1260
+Underfull \hbox (badness 10000) in paragraph at lines 1262--1265
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1261--1265
+Underfull \hbox (badness 10000) in paragraph at lines 1272--1275
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1267--1270
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1271--1275
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1276--1279
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1280--1283
+Underfull \hbox (badness 10000) in paragraph at lines 1282--1285
 
  []
 
 [26]
-Underfull \hbox (badness 10000) in paragraph at lines 1284--1288
+Underfull \hbox (badness 10000) in paragraph at lines 1286--1290
 
  []
 

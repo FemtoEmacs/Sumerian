@@ -47,6 +47,7 @@
 
 	("𒁺"	U+1207A	gub)     ;;61 to stand
         ("𒁺" to-bring tum2)
+	("𒁻" to-go-pl lahh4)
         ("𒁺" to-go ĝen)
 	("𒁻" to-go-pl re7)
 	("𒁺" to-bring re6)
@@ -126,6 +127,8 @@
 	("𒂠"	U+120A0	še3)      ;;40
 	("𒂠"	U+120A0	she3)     ;;40
 
+	("𒀚" courage lipish)
+	("𒉆𒆬𒍪" sagacity nam-ku3-zu)
 	;; (cn an ningal)              𒀭𒎏𒃲
 	;; (cn nin a ni)               𒎏𒀀𒉌
 	;; (cn ur-nammu)               𒌨𒀭𒇉

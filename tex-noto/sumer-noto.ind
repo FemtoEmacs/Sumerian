@@ -4,6 +4,8 @@
     \subitem  his/her , 1
   \item a {\fcn 𒀀} 
     \subitem  locative mark, 10
+  \item ab {\fcn 𒀊} 
+    \subitem  it, initial pron. prefix, 13
   \item an {\fcn 𒀭} 
     \subitem  determinative of god, 1
   \item an {\fcn 𒋀𒆠} 
@@ -27,6 +29,9 @@
     \subitem  houses, 5
   \item e2 {\fcn 𒂍 } 
     \subitem  house, 1
+  \item en de3 en {\fcn 𒂗𒉈𒂗} 
+    \subitem  us, 12
+  \item Ergative, 12
 
   \indexspace
 
@@ -35,11 +40,17 @@
 
   \indexspace
 
+  \item Initial Pronominal Prefixes, 12
+
+  \indexspace
+
   \item ki {\fcn 𒆠 } 
     \subitem  det. place, 1
 
   \indexspace
 
+  \item lu2 {\fcn 𒇽} 
+    \subitem  man, 13
   \item lugal {\fcn 𒈗} 
     \subitem  king, 1
 
@@ -51,10 +62,22 @@
     \subitem  ref. dat, for me, 11
   \item me {\fcn 𒈨} 
     \subitem  ref. dat., for us, 11
+  \item mu e dab e {\fcn 𒈬𒂊𒆪𒂊} 
+    \subitem  he seizes you, 13
+  \item mu me dab e {\fcn 𒈬𒈨𒆪𒂊} 
+    \subitem  he seizes us, 13
   \item mu na du3 {\fcn 𒈬𒈾𒆕} 
     \subitem  he built for her, 1
+  \item mu un dab e {\fcn 𒈬𒌦𒆪𒂊} 
+    \subitem  he seizes her, 13
+  \item mu un ne dab e {\fcn 𒈬𒌦𒉈𒆪𒂊} 
+    \subitem  he seizes them, 13
   \item mu {\fcn 𒈬 } 
     \subitem  venitive , 1
+  \item mu'dab e {\fcn 𒈬𒆪𒂊} 
+    \subitem  he seizes me, 13
+  \item munus {\fcn 𒊩} 
+    \subitem  woman, 13
 
   \indexspace
 
@@ -74,10 +97,14 @@
 
   \indexspace
 
+  \item she {\fcn 𒊺} 
+    \subitem  barley, 13
   \item she-goal {\fcn 𒂠} 
     \subitem  terminative mark, 10
   \item shi {\fcn 𒅆} 
     \subitem  ref. term., 10
+  \item shum2 {\fcn 𒋧} 
+    \subitem  to give, 13
 
   \indexspace
 
@@ -86,9 +113,13 @@
 
   \indexspace
 
+  \item un ze2 en {\fcn 𒌦𒍢𒂗} 
+    \subitem  you people, 12
   \item ur-nammu {\fcn 𒌨𒀭𒇉} 
     \subitem  Ur-Nammu, 1
   \item urim5 {\fcn 𒋀𒀊𒆠} 
     \subitem  the city  of Ur , 1
+  \item uru {\fcn 𒌷} 
+    \subitem  city, 13
 
 \end{theindex}

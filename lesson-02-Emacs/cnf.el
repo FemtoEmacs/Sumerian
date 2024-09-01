@@ -745,6 +745,15 @@
 (global-set-key (kbd "C-c C-g") 'cuneiform-large)
 (global-set-key (kbd "C-c C-d") 'wrap-cuneiform-medium)
 
+(defun syntax-tr(a)
+  (and (listp a) (equal (car a) 'tr)))
+
+(defun no-errors(xs)
+  (eval (cons 'and (mapcar 'syntax-tr xs))))
+
+(no-errors '((tr ur-nammu) (tr lugal) (tr urim ma ke4)))
+
+
 (defun instr(s)
   (cond ( (cdr s)
           (eval (car s))
@@ -762,12 +771,7 @@
 	    (insert (format "%s" (car s)))
 	    (insert "\\\\\n")) ))
 
-(defun mktable(beg end)
-  (interactive "r")
-  (let* ((txt (buffer-substring-no-properties beg end))
-	 (s (car (read-from-string txt)))
-	 (n (length s)))
-    (kill-region beg end)
+(defun process-table(s n)
     (insert
      "\\begin{tabular}[!h]{l l l l l l l l l}\n")
     (insert "\\fcm ")
@@ -777,7 +781,17 @@
      (format "\\multicolumn{%s}{l} {%s}\\\\\n" n
 	  (cons 'tr (apply 'append (mapcar 'cdr s)))))
     (insert (format "\\multicolumn{%s}{l} {\\em  }\\\\\n" n))
-    (insert "\\end{tabular}\\\\\n")))
+    (insert "\\end{tabular}\\\\\n"))
+
+(defun mktable(beg end)
+  (interactive "r")
+  (let* ((txt (buffer-substring-no-properties beg end))
+	 (s (car (read-from-string txt)))
+	 (n (length s)))
+    (cond ((no-errors s)
+           (kill-region beg end)
+           (process-table s n))
+	  (t (princ "Syntax error!")) )) )
 
 (global-set-key (kbd "C-c C-w") 'mktable)
 

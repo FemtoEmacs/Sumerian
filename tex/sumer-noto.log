@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.6.1)  31 AUG 2024 14:24
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.6.1)  31 AUG 2024 23:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -817,19 +817,87 @@ Underfull \hbox (badness 10000) in paragraph at lines 1831--1857
 
  []
 
-[44] (./sumer-noto.aux)
+[44]
+Chapter 4.
+[45
+
+]
+Overfull \hbox (11.69987pt too wide) in paragraph at lines 1916--1916
+[]\TU/lmtt/m/n/12 10- [id2 nidba].{k}.ani].{}        -- his canal of food offer
+ing,[] 
+ []
+
+
+Overfull \hbox (11.69977pt too wide) in paragraph at lines 1916--1916
+[]\TU/lmtt/m/n/12 11- mu na ba al                    -- (the king) dredged for 
+him.[] 
+ []
+
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 1932--1939
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1940--1947
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1948--1955
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1956--1963
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1964--1971
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1972--1981
+
+ []
+
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 1985--1987
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1988--1990
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1991--1993
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1994--1996
+
+ []
+
+[48] [49
+
+] [50] [51] [52] [53] (./sumer-noto.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4706 strings out of 476878
- 129728 string characters out of 5805250
+ 4708 strings out of 476878
+ 129786 string characters out of 5805250
  1927627 words of memory out of 5000000
- 26554 multiletter control sequences out of 15000+600000
+ 26556 multiletter control sequences out of 15000+600000
  565045 words of font info for 90 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  79i,8n,93p,232b,398s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on sumer-noto.pdf (45 pages).
+Output written on sumer-noto.pdf (54 pages).

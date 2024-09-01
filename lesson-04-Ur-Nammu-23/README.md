@@ -251,7 +251,7 @@
  </tr>
  <tr>
   <td colspan="4">
-  <i>The Enerinnum canal, </i>
+  <i>The Enerinnun canal, </i>
   </td>
  </tr>
  <tr>

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.6.1)  31 AUG 2024 14:25
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.6.1)  31 AUG 2024 23:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1091,19 +1091,133 @@ LaTeX Info: Redefining \ttfamily on input line 1857.
 LaTeX Info: Redefining \rmfamily on input line 1857.
 LaTeX Info: Redefining \sffamily on input line 1857.
 LaTeX Info: Redefining \ttfamily on input line 1857.
-[44] (./sumer-poly.aux)
+[44]
+Chapter 4.
+[45
+
+]
+Overfull \hbox (11.69987pt too wide) in paragraph at lines 1915--1915
+[]\TU/lmtt/m/n/12 10- [id2 nidba].{k}.ani].{}        -- his canal of food offer
+ing,[] 
+ []
+
+
+Overfull \hbox (11.69977pt too wide) in paragraph at lines 1915--1915
+[]\TU/lmtt/m/n/12 11- mu na ba al                    -- (the king) dredged for 
+him.[] 
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1930.
+LaTeX Info: Redefining \sffamily on input line 1930.
+LaTeX Info: Redefining \ttfamily on input line 1930.
+LaTeX Info: Redefining \rmfamily on input line 1930.
+LaTeX Info: Redefining \sffamily on input line 1930.
+LaTeX Info: Redefining \ttfamily on input line 1930.
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 1931--1938
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1939--1946
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1947--1954
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1955--1962
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1963--1970
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1971--1980
+
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1981.
+LaTeX Info: Redefining \sffamily on input line 1981.
+LaTeX Info: Redefining \ttfamily on input line 1981.
+LaTeX Info: Redefining \rmfamily on input line 1981.
+LaTeX Info: Redefining \sffamily on input line 1981.
+LaTeX Info: Redefining \ttfamily on input line 1981.
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 1984--1986
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1987--1989
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1990--1992
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1993--1995
+
+ []
+
+LaTeX Info: Redefining \rmfamily on input line 1996.
+LaTeX Info: Redefining \sffamily on input line 1996.
+LaTeX Info: Redefining \ttfamily on input line 1996.
+LaTeX Info: Redefining \rmfamily on input line 1996.
+LaTeX Info: Redefining \sffamily on input line 1996.
+LaTeX Info: Redefining \ttfamily on input line 1996.
+[48] [49
+
+]
+LaTeX Info: Redefining \rmfamily on input line 2059.
+LaTeX Info: Redefining \sffamily on input line 2059.
+LaTeX Info: Redefining \ttfamily on input line 2059.
+LaTeX Info: Redefining \rmfamily on input line 2059.
+LaTeX Info: Redefining \sffamily on input line 2059.
+LaTeX Info: Redefining \ttfamily on input line 2059.
+ [50]
+LaTeX Info: Redefining \rmfamily on input line 2082.
+LaTeX Info: Redefining \sffamily on input line 2082.
+LaTeX Info: Redefining \ttfamily on input line 2082.
+LaTeX Info: Redefining \rmfamily on input line 2082.
+LaTeX Info: Redefining \sffamily on input line 2082.
+LaTeX Info: Redefining \ttfamily on input line 2082.
+ [51]
+LaTeX Info: Redefining \rmfamily on input line 2108.
+LaTeX Info: Redefining \sffamily on input line 2108.
+LaTeX Info: Redefining \ttfamily on input line 2108.
+LaTeX Info: Redefining \rmfamily on input line 2108.
+LaTeX Info: Redefining \sffamily on input line 2108.
+LaTeX Info: Redefining \ttfamily on input line 2108.
+ [52]
+LaTeX Info: Redefining \rmfamily on input line 2123.
+LaTeX Info: Redefining \sffamily on input line 2123.
+LaTeX Info: Redefining \ttfamily on input line 2123.
+LaTeX Info: Redefining \rmfamily on input line 2123.
+LaTeX Info: Redefining \sffamily on input line 2123.
+LaTeX Info: Redefining \ttfamily on input line 2123.
+ [53] (./sumer-poly.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6145 strings out of 476878
- 160320 string characters out of 5805250
+ 6147 strings out of 476878
+ 160378 string characters out of 5805250
  1927627 words of memory out of 5000000
- 27964 multiletter control sequences out of 15000+600000
+ 27966 multiletter control sequences out of 15000+600000
  565045 words of font info for 90 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  93i,8n,107p,302b,368s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on sumer-poly.pdf (45 pages).
+Output written on sumer-poly.pdf (54 pages).

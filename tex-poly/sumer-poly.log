@@ -1,298 +1,173 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.6.1)  31 AUG 2024 23:27
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.1)  1 SEP 2024 12:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **sumer-poly.tex
 (./sumer-poly.tex
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-22>
-(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
-Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
-File: bk12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-08-16>
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2024/02/08 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count183
-\c@chapter=\count184
-\c@section=\count185
-\c@subsection=\count186
-\c@subsubsection=\count187
-\c@paragraph=\count188
-\c@subparagraph=\count189
-\c@figure=\count190
-\c@table=\count191
-\abovecaptionskip=\skip48
-\belowcaptionskip=\skip49
-\bibindent=\dimen140
+\c@part=\count190
+\c@chapter=\count191
+\c@section=\count192
+\c@subsection=\count193
+\c@subsubsection=\count194
+\c@paragraph=\count195
+\c@subparagraph=\count196
+\c@figure=\count197
+\c@table=\count198
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
 )
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2024/01/07 v24.1 The Babel package
-\babel@savecnt=\count192
-\U@D=\dimen141
-\l@unhyphenated=\language5
+(/usr/local/texlive/2024/texmf-dist/tex/latex/polyglossia/polyglossia.sty
+Package: polyglossia 2024/07/15 v2.2 Modern multilingual typesetting with XeLaT
+eX and LuaLaTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/xebabel.def)
-\bbl@readstream=\read2
-\bbl@dirlevel=\count193
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
-Language: english 2017/06/06 v3.3r English support from the babel system
-Package babel Info: Hyphen rules for 'british' set to \l@english
-(babel)             (\language0). Reported on input line 82.
-Package babel Info: Hyphen rules for 'UKenglish' set to \l@english
-(babel)             (\language0). Reported on input line 83.
-Package babel Info: Hyphen rules for 'canadian' set to \l@english
-(babel)             (\language0). Reported on input line 102.
-Package babel Info: Hyphen rules for 'australian' set to \l@english
-(babel)             (\language0). Reported on input line 105.
-Package babel Info: Hyphen rules for 'newzealand' set to \l@english
-(babel)             (\language0). Reported on input line 108.
-))
-(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
-Package babel Info: Importing font and identification data for english
-(babel)             from babel-en.ini. Reported on input line 11.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks17
-\inpenc@posthook=\toks18
-
-
-Package inputenc Warning: inputenc package ignored with utf8 based engines.
-
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks19
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: xetex.def on input line 107.
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
-File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
-))
-\Gin@req@height=\dimen142
-\Gin@req@width=\dimen143
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
-2.
-
-(/usr/share/texmf/tex/latex/lm/t1lmr.fd
-File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-))
-(/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty
-Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
-tim
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
-Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-))
-(/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
-Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
-)
-(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/polyglossia.sty
-Package: polyglossia 2023/12/11 v1.66 Modern multilingual typesetting with XeLa
-TeX and LuaLaTeX
-
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count194
+\etb@tempcnta=\count199
 )
-(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-08-16 L3 programming layer (loader) 
 
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks20
-\XKV@tempa@toks=\toks21
-)
-\XKV@depth=\count195
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
+\g__graphics_track_int=\count266
+\l__pdf_internal_box=\box52
+\g__pdf_backend_annotation_int=\count267
+\g__pdf_backend_link_int=\count268
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2024-01-22 L3 programming layer (loader) 
-
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-File: l3backend-xetex.def 2024-01-04 L3 backend support: XeTeX
-\g__graphics_track_int=\count196
-\l__pdf_internal_box=\box51
-\g__pdf_backend_object_int=\count197
-\g__pdf_backend_annotation_int=\count198
-\g__pdf_backend_link_int=\count199
-))
-Package: xparse 2023-10-10 L3 Experimental document command parser
+Package: xparse 2024-08-16 L3 Experimental document command parser
 )
-Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
 
-(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
+(/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count266
-\l__fontspec_language_int=\count267
-\l__fontspec_strnum_int=\count268
-\l__fontspec_tmp_int=\count269
-\l__fontspec_tmpa_int=\count270
-\l__fontspec_tmpb_int=\count271
-\l__fontspec_tmpc_int=\count272
-\l__fontspec_em_int=\count273
-\l__fontspec_emdef_int=\count274
-\l__fontspec_strong_int=\count275
-\l__fontspec_strongdef_int=\count276
-\l__fontspec_tmpa_dim=\dimen144
-\l__fontspec_tmpb_dim=\dimen145
-\l__fontspec_tmpc_dim=\dimen146
+\l__fontspec_script_int=\count269
+\l__fontspec_language_int=\count270
+\l__fontspec_strnum_int=\count271
+\l__fontspec_tmp_int=\count272
+\l__fontspec_tmpa_int=\count273
+\l__fontspec_tmpb_int=\count274
+\l__fontspec_tmpc_int=\count275
+\l__fontspec_em_int=\count276
+\l__fontspec_emdef_int=\count277
+\l__fontspec_strong_int=\count278
+\l__fontspec_strongdef_int=\count279
+\l__fontspec_tmpa_dim=\dimen142
+\l__fontspec_tmpb_dim=\dimen143
+\l__fontspec_tmpc_dim=\dimen144
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
-\xpg@normalclass=\XeTeXcharclass4
+\l_xpg_alias_keyvals_int=\count280
 
-(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-latex.lde
-Package: gloss-latex 2023/12/11 v1.66 polyglossia: module for default language
-)
-Package polyglossia Info: Default language is latex.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-english.ldf
+(/usr/local/texlive/2024/texmf-dist/tex/latex/polyglossia/gloss-latex.ldf
+File: gloss-latex.ldf polyglossia: module for default language
+))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/polyglossia/gloss-english.ldf
 File: gloss-english.ldf polyglossia: module for English
-Package polyglossia Info: Option: English, variant=american.
 )
-
-Package fontspec Info: Font family 'NotoSerif(0)' created for font 'Noto
-(fontspec)             Serif' with options [].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Noto
-(fontspec)             Serif/OT:script=latn;language=dflt;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Noto
-(fontspec)             Serif/OT:script=latn;language=dflt;+smcp;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Noto
-(fontspec)             Serif/B/OT:script=latn;language=dflt;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Noto
-(fontspec)             Serif/B/OT:script=latn;language=dflt;+smcp;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Noto
-(fontspec)             Serif/I/OT:script=latn;language=dflt;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->"Noto Serif/I/OT:script=latn;language=dflt;+smcp;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Noto
-(fontspec)             Serif/BI/OT:script=latn;language=dflt;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->"Noto Serif/BI/OT:script=latn;language=dflt;+smcp;"
-
-\@indexfile=\write3
-\openout3 = `sumer-poly.idx'.
-
-
-Writing index file sumer-poly.idx
 (./sumer-poly.aux)
 \openout1 = `sumer-poly.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
-0.
- (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
+6.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Info: Redefining \rmfamily on input line 30.
-LaTeX Info: Redefining \sffamily on input line 30.
-LaTeX Info: Redefining \ttfamily on input line 30.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 
-Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 30.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 30.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 30.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 30.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 30.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 30.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 30.
-LaTeX Font Info:    Redeclaring math accent \check on input line 30.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 30.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 30.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 30.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 30.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 30.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 30.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 30.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 30.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 30.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 30.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 30.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 30.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 30.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 30.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 30.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 30.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 30.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 16.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 16.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 16.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 16.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 16.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 16.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 16.
+LaTeX Font Info:    Redeclaring math accent \check on input line 16.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 16.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 16.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 16.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 16.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 16.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 16.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 16.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 16.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 16.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 16.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 16.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 16.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 16.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 16.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 16.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 16.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 16.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 30.
+(Font)              `operators' in the math version `normal' on input line 16.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 30.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 16.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 30.
+(Font)              `operators' in the math version `bold' on input line 16.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 30.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 16.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 30.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 30.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 30.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 30.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 30.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 16.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 30.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 30.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 30.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 16.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 30.
-LaTeX Info: Redefining \rmfamily on input line 30.
-LaTeX Info: Redefining \sffamily on input line 30.
-LaTeX Info: Redefining \ttfamily on input line 30.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 31.
+(Font)              <14.4> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 31.
+(Font)              <7> on input line 17.
+
 
 [1
 
@@ -300,193 +175,141 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ]
 Chapter 1.
 
-Package fontspec Info: Could not resolve font "Akkadian/BI" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "Akkadian/B" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "Akkadian/I" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Font family 'Akkadian(0)' created for font 'Akkadian'
-(fontspec)             with options [Ligatures=TeX].
+Package fontspec Info: 
+(fontspec)             Font family 'Akkadian.otf(0)' created for font
+(fontspec)             'Akkadian.otf' with options [Ligatures=TeX].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"Akkadian/OT:script=latn;language=dflt;mapping=tex-te
-xt;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             <->"[Akkadian.otf]/OT:script=latn;language=dflt;mapping=
+tex-text;"
+
+
 
 [1
 
 ]
-LaTeX Info: Redefining \rmfamily on input line 134.
-LaTeX Info: Redefining \sffamily on input line 134.
-LaTeX Info: Redefining \ttfamily on input line 134.
-LaTeX Info: Redefining \rmfamily on input line 134.
-LaTeX Info: Redefining \sffamily on input line 134.
-LaTeX Info: Redefining \ttfamily on input line 134.
- [2]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 171.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 171.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 171.
 
-Underfull \hbox (badness 10000) in paragraph at lines 184--185
+[2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 156.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 156.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 156.
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
 
  []
 
-LaTeX Info: Redefining \rmfamily on input line 210.
-LaTeX Info: Redefining \sffamily on input line 210.
-LaTeX Info: Redefining \ttfamily on input line 210.
-LaTeX Info: Redefining \rmfamily on input line 210.
-LaTeX Info: Redefining \sffamily on input line 210.
-LaTeX Info: Redefining \ttfamily on input line 210.
+
+
 [3]
-Overfull \hbox (7.14563pt too wide) in paragraph at lines 211--217
+Overfull \hbox (7.14563pt too wide) in paragraph at lines 196--202
 []\TU/lmr/m/n/12 Sumerian uses symbols, called determinatives, to make the mean
 ing clearer.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--234
+Underfull \hbox (badness 10000) in paragraph at lines 208--219
 
  []
 
-LaTeX Info: Redefining \rmfamily on input line 270.
-LaTeX Info: Redefining \sffamily on input line 270.
-LaTeX Info: Redefining \ttfamily on input line 270.
-LaTeX Info: Redefining \rmfamily on input line 270.
-LaTeX Info: Redefining \sffamily on input line 270.
-LaTeX Info: Redefining \ttfamily on input line 270.
+
+
 [4]
-LaTeX Info: Redefining \rmfamily on input line 327.
-LaTeX Info: Redefining \sffamily on input line 327.
-LaTeX Info: Redefining \ttfamily on input line 327.
-LaTeX Info: Redefining \rmfamily on input line 327.
-LaTeX Info: Redefining \sffamily on input line 327.
-LaTeX Info: Redefining \ttfamily on input line 327.
- [5]
-Underfull \hbox (badness 10000) in paragraph at lines 329--334
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 314--319
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--355
+Underfull \hbox (badness 10000) in paragraph at lines 337--340
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 368--375
+Underfull \hbox (badness 10000) in paragraph at lines 353--360
 
  []
 
-LaTeX Info: Redefining \rmfamily on input line 398.
-LaTeX Info: Redefining \sffamily on input line 398.
-LaTeX Info: Redefining \ttfamily on input line 398.
-LaTeX Info: Redefining \rmfamily on input line 398.
-LaTeX Info: Redefining \sffamily on input line 398.
-LaTeX Info: Redefining \ttfamily on input line 398.
+
+
 [6]
-LaTeX Info: Redefining \rmfamily on input line 441.
-LaTeX Info: Redefining \sffamily on input line 441.
-LaTeX Info: Redefining \ttfamily on input line 441.
-LaTeX Info: Redefining \rmfamily on input line 441.
-LaTeX Info: Redefining \sffamily on input line 441.
-LaTeX Info: Redefining \ttfamily on input line 441.
- [7]
-LaTeX Info: Redefining \rmfamily on input line 441.
-LaTeX Info: Redefining \sffamily on input line 441.
-LaTeX Info: Redefining \ttfamily on input line 441.
-LaTeX Info: Redefining \rmfamily on input line 441.
-LaTeX Info: Redefining \sffamily on input line 441.
-LaTeX Info: Redefining \ttfamily on input line 441.
- [8
 
-] [9]
-LaTeX Info: Redefining \rmfamily on input line 504.
-LaTeX Info: Redefining \sffamily on input line 504.
-LaTeX Info: Redefining \ttfamily on input line 504.
-LaTeX Info: Redefining \rmfamily on input line 504.
-LaTeX Info: Redefining \sffamily on input line 504.
-LaTeX Info: Redefining \ttfamily on input line 504.
- [10]
-LaTeX Info: Redefining \rmfamily on input line 549.
-LaTeX Info: Redefining \sffamily on input line 549.
-LaTeX Info: Redefining \ttfamily on input line 549.
-LaTeX Info: Redefining \rmfamily on input line 549.
-LaTeX Info: Redefining \sffamily on input line 549.
-LaTeX Info: Redefining \ttfamily on input line 549.
- [11]
-LaTeX Info: Redefining \rmfamily on input line 596.
-LaTeX Info: Redefining \sffamily on input line 596.
-LaTeX Info: Redefining \ttfamily on input line 596.
-LaTeX Info: Redefining \rmfamily on input line 596.
-LaTeX Info: Redefining \sffamily on input line 596.
-LaTeX Info: Redefining \ttfamily on input line 596.
- [12]
-Underfull \hbox (badness 10000) in paragraph at lines 619--623
+[7]
+
+[8
+
+]
+
+[9]
+
+[10]
+
+[11]
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 604--608
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 624--628
+Underfull \hbox (badness 10000) in paragraph at lines 609--613
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 632--640
+Underfull \hbox (badness 10000) in paragraph at lines 617--625
 
  []
 
-LaTeX Info: Redefining \rmfamily on input line 650.
-LaTeX Info: Redefining \sffamily on input line 650.
-LaTeX Info: Redefining \ttfamily on input line 650.
-LaTeX Info: Redefining \rmfamily on input line 650.
-LaTeX Info: Redefining \sffamily on input line 650.
-LaTeX Info: Redefining \ttfamily on input line 650.
+
+
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 652--674
+Underfull \hbox (badness 10000) in paragraph at lines 637--659
 
  []
 
-LaTeX Info: Redefining \rmfamily on input line 675.
-LaTeX Info: Redefining \sffamily on input line 675.
-LaTeX Info: Redefining \ttfamily on input line 675.
-LaTeX Info: Redefining \rmfamily on input line 675.
-LaTeX Info: Redefining \sffamily on input line 675.
-LaTeX Info: Redefining \ttfamily on input line 675.
+
+
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 677--680
+Underfull \hbox (badness 10000) in paragraph at lines 662--665
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 681--692
+Underfull \hbox (badness 10000) in paragraph at lines 666--677
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 694--713
+Underfull \hbox (badness 10000) in paragraph at lines 679--698
 
  []
 
-LaTeX Info: Redefining \rmfamily on input line 714.
-LaTeX Info: Redefining \sffamily on input line 714.
-LaTeX Info: Redefining \ttfamily on input line 714.
-LaTeX Info: Redefining \rmfamily on input line 714.
-LaTeX Info: Redefining \sffamily on input line 714.
-LaTeX Info: Redefining \ttfamily on input line 714.
+
+
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 723--728
+Underfull \hbox (badness 10000) in paragraph at lines 708--713
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 714--718
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 719--723
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 724--728
 
  []
 
@@ -496,728 +319,685 @@ Underfull \hbox (badness 10000) in paragraph at lines 729--733
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 734--738
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 739--743
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 744--748
-
- []
-
-LaTeX Info: Redefining \rmfamily on input line 755.
-LaTeX Info: Redefining \sffamily on input line 755.
-LaTeX Info: Redefining \ttfamily on input line 755.
-LaTeX Info: Redefining \rmfamily on input line 755.
-LaTeX Info: Redefining \sffamily on input line 755.
-LaTeX Info: Redefining \ttfamily on input line 755.
 [16]
+Underfull \hbox (badness 10000) in paragraph at lines 753--757
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 758--762
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 763--767
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 768--772
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 773--777
+Underfull \hbox (badness 10000) in paragraph at lines 773--779
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 778--782
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 783--787
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 788--794
-
- []
-
-LaTeX Info: Redefining \rmfamily on input line 801.
-LaTeX Info: Redefining \sffamily on input line 801.
-LaTeX Info: Redefining \ttfamily on input line 801.
-LaTeX Info: Redefining \rmfamily on input line 801.
-LaTeX Info: Redefining \sffamily on input line 801.
-LaTeX Info: Redefining \ttfamily on input line 801.
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 809--812
+Underfull \hbox (badness 10000) in paragraph at lines 794--797
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 819--822
+Underfull \hbox (badness 10000) in paragraph at lines 804--807
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 823--834
+Underfull \hbox (badness 10000) in paragraph at lines 808--819
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 835--839
+Underfull \hbox (badness 10000) in paragraph at lines 820--824
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 840--843
+Underfull \hbox (badness 10000) in paragraph at lines 825--828
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 844--847
+Underfull \hbox (badness 10000) in paragraph at lines 829--832
 
  []
 
-LaTeX Info: Redefining \rmfamily on input line 856.
-LaTeX Info: Redefining \sffamily on input line 856.
-LaTeX Info: Redefining \ttfamily on input line 856.
-LaTeX Info: Redefining \rmfamily on input line 856.
-LaTeX Info: Redefining \sffamily on input line 856.
-LaTeX Info: Redefining \ttfamily on input line 856.
+
+
 [18]
 Chapter 2.
 
-Overfull \hbox (42.59988pt too wide) in paragraph at lines 888--888
+Overfull \hbox (42.59988pt too wide) in paragraph at lines 873--873
 []\TU/lmtt/m/n/12 5-   [lugal ki-en-gi ki uri].{k}].{e}  -- the king of Sumer a
 nd Akkad,[] 
  []
 
+
+
 [19
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 906--917
+Underfull \hbox (badness 10000) in paragraph at lines 891--902
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 918--921
+Underfull \hbox (badness 10000) in paragraph at lines 903--906
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 922--937
+Underfull \hbox (badness 10000) in paragraph at lines 907--922
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 938--946
+Underfull \hbox (badness 10000) in paragraph at lines 923--931
 
  []
 
-LaTeX Info: Redefining \rmfamily on input line 947.
-LaTeX Info: Redefining \sffamily on input line 947.
-LaTeX Info: Redefining \ttfamily on input line 947.
-LaTeX Info: Redefining \rmfamily on input line 947.
-LaTeX Info: Redefining \sffamily on input line 947.
-LaTeX Info: Redefining \ttfamily on input line 947.
+
+
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 948--957
+Underfull \hbox (badness 10000) in paragraph at lines 933--942
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 966--978
+Underfull \hbox (badness 10000) in paragraph at lines 951--963
 
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1026.
-LaTeX Info: Redefining \sffamily on input line 1026.
-LaTeX Info: Redefining \ttfamily on input line 1026.
-LaTeX Info: Redefining \rmfamily on input line 1026.
-LaTeX Info: Redefining \sffamily on input line 1026.
-LaTeX Info: Redefining \ttfamily on input line 1026.
+
+
 [21]
-LaTeX Info: Redefining \rmfamily on input line 1026.
-LaTeX Info: Redefining \sffamily on input line 1026.
-LaTeX Info: Redefining \ttfamily on input line 1026.
-LaTeX Info: Redefining \rmfamily on input line 1026.
-LaTeX Info: Redefining \sffamily on input line 1026.
-LaTeX Info: Redefining \ttfamily on input line 1026.
- [22
+
+[22
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1041--1044
+Underfull \hbox (badness 10000) in paragraph at lines 1026--1029
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1045--1048
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1033
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1049--1052
+Underfull \hbox (badness 10000) in paragraph at lines 1034--1037
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1053--1056
+Underfull \hbox (badness 10000) in paragraph at lines 1038--1041
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1057--1060
+Underfull \hbox (badness 10000) in paragraph at lines 1042--1045
 
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 1046--1049
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1050--1053
+
+ []
+
+
+
+[23]
 Underfull \hbox (badness 10000) in paragraph at lines 1061--1064
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1065--1068
-
- []
-
-[23]
-Underfull \hbox (badness 10000) in paragraph at lines 1076--1079
+Underfull \hbox (badness 10000) in paragraph at lines 1065--1070
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1080--1085
+Underfull \hbox (badness 10000) in paragraph at lines 1071--1074
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1086--1089
+Underfull \hbox (badness 10000) in paragraph at lines 1075--1079
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1090--1094
 
- []
-
-LaTeX Info: Redefining \rmfamily on input line 1117.
-LaTeX Info: Redefining \sffamily on input line 1117.
-LaTeX Info: Redefining \ttfamily on input line 1117.
-LaTeX Info: Redefining \rmfamily on input line 1117.
-LaTeX Info: Redefining \sffamily on input line 1117.
-LaTeX Info: Redefining \ttfamily on input line 1117.
 [24]
-Underfull \hbox (badness 10000) in paragraph at lines 1118--1121
+Underfull \hbox (badness 10000) in paragraph at lines 1103--1106
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1124--1131
+Underfull \hbox (badness 10000) in paragraph at lines 1109--1116
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1152--1156
+Underfull \hbox (badness 10000) in paragraph at lines 1137--1141
 
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1158.
-LaTeX Info: Redefining \sffamily on input line 1158.
-LaTeX Info: Redefining \ttfamily on input line 1158.
-LaTeX Info: Redefining \rmfamily on input line 1158.
-LaTeX Info: Redefining \sffamily on input line 1158.
-LaTeX Info: Redefining \ttfamily on input line 1158.
+
+
 [25]
-Underfull \hbox (badness 10000) in paragraph at lines 1165--1168
+Underfull \hbox (badness 10000) in paragraph at lines 1150--1153
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1169--1174
+Underfull \hbox (badness 10000) in paragraph at lines 1154--1159
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1175--1178
+Underfull \hbox (badness 10000) in paragraph at lines 1160--1163
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1179--1184
+Underfull \hbox (badness 10000) in paragraph at lines 1164--1169
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1185--1190
+Underfull \hbox (badness 10000) in paragraph at lines 1170--1175
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1191--1196
+Underfull \hbox (badness 10000) in paragraph at lines 1176--1181
 
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1197.
-LaTeX Info: Redefining \sffamily on input line 1197.
-LaTeX Info: Redefining \ttfamily on input line 1197.
-LaTeX Info: Redefining \rmfamily on input line 1197.
-LaTeX Info: Redefining \sffamily on input line 1197.
-LaTeX Info: Redefining \ttfamily on input line 1197.
+
+
 [26]
-Underfull \hbox (badness 10000) in paragraph at lines 1198--1203
+Underfull \hbox (badness 10000) in paragraph at lines 1183--1188
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1204--1209
+Underfull \hbox (badness 10000) in paragraph at lines 1189--1194
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1216--1221
+Underfull \hbox (badness 10000) in paragraph at lines 1201--1206
 
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1226.
-LaTeX Info: Redefining \sffamily on input line 1226.
-LaTeX Info: Redefining \ttfamily on input line 1226.
-LaTeX Info: Redefining \rmfamily on input line 1226.
-LaTeX Info: Redefining \sffamily on input line 1226.
-LaTeX Info: Redefining \ttfamily on input line 1226.
+
+
 [27]
-Underfull \hbox (badness 10000) in paragraph at lines 1228--1232
+Underfull \hbox (badness 10000) in paragraph at lines 1213--1217
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1233--1237
+Underfull \hbox (badness 10000) in paragraph at lines 1218--1222
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1246--1249
+Underfull \hbox (badness 10000) in paragraph at lines 1231--1234
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1256--1259
+Underfull \hbox (badness 10000) in paragraph at lines 1241--1244
 
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1265.
-LaTeX Info: Redefining \sffamily on input line 1265.
-LaTeX Info: Redefining \ttfamily on input line 1265.
-LaTeX Info: Redefining \rmfamily on input line 1265.
-LaTeX Info: Redefining \sffamily on input line 1265.
-LaTeX Info: Redefining \ttfamily on input line 1265.
+
+
 [28]
-Underfull \hbox (badness 10000) in paragraph at lines 1267--1270
+Underfull \hbox (badness 10000) in paragraph at lines 1252--1255
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1277--1280
+Underfull \hbox (badness 10000) in paragraph at lines 1262--1265
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1287--1290
+Underfull \hbox (badness 10000) in paragraph at lines 1272--1275
 
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1296.
-LaTeX Info: Redefining \sffamily on input line 1296.
-LaTeX Info: Redefining \ttfamily on input line 1296.
-LaTeX Info: Redefining \rmfamily on input line 1296.
-LaTeX Info: Redefining \sffamily on input line 1296.
-LaTeX Info: Redefining \ttfamily on input line 1296.
+
+
 [29]
-Underfull \hbox (badness 10000) in paragraph at lines 1298--1301
+Underfull \hbox (badness 10000) in paragraph at lines 1283--1286
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1302--1306
+Underfull \hbox (badness 10000) in paragraph at lines 1287--1291
 
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1318.
-LaTeX Info: Redefining \sffamily on input line 1318.
-LaTeX Info: Redefining \ttfamily on input line 1318.
-LaTeX Info: Redefining \rmfamily on input line 1318.
-LaTeX Info: Redefining \sffamily on input line 1318.
-LaTeX Info: Redefining \ttfamily on input line 1318.
+
+
 [30]
-LaTeX Info: Redefining \rmfamily on input line 1357.
-LaTeX Info: Redefining \sffamily on input line 1357.
-LaTeX Info: Redefining \ttfamily on input line 1357.
-LaTeX Info: Redefining \rmfamily on input line 1357.
-LaTeX Info: Redefining \sffamily on input line 1357.
-LaTeX Info: Redefining \ttfamily on input line 1357.
- [31]
-LaTeX Info: Redefining \rmfamily on input line 1357.
-LaTeX Info: Redefining \sffamily on input line 1357.
-LaTeX Info: Redefining \ttfamily on input line 1357.
-LaTeX Info: Redefining \rmfamily on input line 1357.
-LaTeX Info: Redefining \sffamily on input line 1357.
-LaTeX Info: Redefining \ttfamily on input line 1357.
- [32
+
+[31]
+
+[32
 
 ]
 Chapter 3.
 
-Overfull \hbox (36.4079pt too wide) in paragraph at lines 1391--1391
+Overfull \hbox (36.4079pt too wide) in paragraph at lines 1376--1376
 []\TU/lmtt/m/n/12 6-   [lugal ki-en-gi ki uri].{k}].{e} -- the king of Sumer an
 d Akkad,[] 
  []
 
 
-Overfull \hbox (17.87985pt too wide) in paragraph at lines 1391--1391
+Overfull \hbox (17.87985pt too wide) in paragraph at lines 1376--1376
 []\TU/lmtt/m/n/12 7- [nam til3 a ni].{she3} #goal       -- for the sake of his 
 life,[] 
  []
 
 
-Overfull \hbox (11.69972pt too wide) in paragraph at lines 1391--1391
+Overfull \hbox (11.69972pt too wide) in paragraph at lines 1376--1376
 []\TU/lmtt/m/n/12 8- a mu na ru                         -- dedicated (this vess
 el).[] 
  []
 
+
+
 [33]
-Underfull \hbox (badness 10000) in paragraph at lines 1395--1399
+Underfull \hbox (badness 10000) in paragraph at lines 1380--1384
 
  []
 
 
-Overfull \hbox (3.67216pt too wide) in paragraph at lines 1425--1432
+Overfull \hbox (3.67216pt too wide) in paragraph at lines 1411--1418
 [] 
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1433.
-LaTeX Info: Redefining \sffamily on input line 1433.
-LaTeX Info: Redefining \ttfamily on input line 1433.
-LaTeX Info: Redefining \rmfamily on input line 1433.
-LaTeX Info: Redefining \sffamily on input line 1433.
-LaTeX Info: Redefining \ttfamily on input line 1433.
+
+
 [34]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \rmfamily on input line 1499.
-LaTeX Info: Redefining \sffamily on input line 1499.
-LaTeX Info: Redefining \ttfamily on input line 1499.
-LaTeX Info: Redefining \rmfamily on input line 1499.
-LaTeX Info: Redefining \sffamily on input line 1499.
-LaTeX Info: Redefining \ttfamily on input line 1499.
- [35]
-LaTeX Info: Redefining \rmfamily on input line 1539.
-LaTeX Info: Redefining \sffamily on input line 1539.
-LaTeX Info: Redefining \ttfamily on input line 1539.
-LaTeX Info: Redefining \rmfamily on input line 1539.
-LaTeX Info: Redefining \sffamily on input line 1539.
-LaTeX Info: Redefining \ttfamily on input line 1539.
+
+
+[35]
 
 [36]
-Underfull \hbox (badness 10000) in paragraph at lines 1541--1544
+Underfull \hbox (badness 10000) in paragraph at lines 1527--1530
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1545--1560
+Underfull \hbox (badness 10000) in paragraph at lines 1531--1546
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1561--1567
+Underfull \hbox (badness 10000) in paragraph at lines 1547--1553
 
  []
+
+
 
 [37
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1584--1586
+Underfull \hbox (badness 10000) in paragraph at lines 1570--1572
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1587--1600
+Underfull \hbox (badness 10000) in paragraph at lines 1573--1586
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1601--1606
+Underfull \hbox (badness 10000) in paragraph at lines 1587--1592
 
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1623.
-LaTeX Info: Redefining \sffamily on input line 1623.
-LaTeX Info: Redefining \ttfamily on input line 1623.
-LaTeX Info: Redefining \rmfamily on input line 1623.
-LaTeX Info: Redefining \sffamily on input line 1623.
-LaTeX Info: Redefining \ttfamily on input line 1623.
+
+
 [38]
-Underfull \hbox (badness 10000) in paragraph at lines 1624--1626
+Underfull \hbox (badness 10000) in paragraph at lines 1610--1612
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1639--1643
+Underfull \hbox (badness 10000) in paragraph at lines 1625--1629
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1644--1648
+Underfull \hbox (badness 10000) in paragraph at lines 1630--1634
 
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1654.
-LaTeX Info: Redefining \sffamily on input line 1654.
-LaTeX Info: Redefining \ttfamily on input line 1654.
-LaTeX Info: Redefining \rmfamily on input line 1654.
-LaTeX Info: Redefining \sffamily on input line 1654.
-LaTeX Info: Redefining \ttfamily on input line 1654.
+
+
 [39]
-Underfull \hbox (badness 10000) in paragraph at lines 1656--1660
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1646
 
  []
 
 
-Overfull \hbox (6.9645pt too wide) in paragraph at lines 1661--1674
+Overfull \hbox (6.9645pt too wide) in paragraph at lines 1647--1660
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1677--1688
+Underfull \hbox (badness 10000) in paragraph at lines 1663--1674
 
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1697.
-LaTeX Info: Redefining \sffamily on input line 1697.
-LaTeX Info: Redefining \ttfamily on input line 1697.
-LaTeX Info: Redefining \rmfamily on input line 1697.
-LaTeX Info: Redefining \sffamily on input line 1697.
-LaTeX Info: Redefining \ttfamily on input line 1697.
+
+
 [40]
-Underfull \hbox (badness 10000) in paragraph at lines 1699--1703
+Underfull \hbox (badness 10000) in paragraph at lines 1685--1689
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1705--1711
+Underfull \hbox (badness 10000) in paragraph at lines 1691--1697
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1713--1718
+Underfull \hbox (badness 10000) in paragraph at lines 1699--1704
 
  []
 
 Missing character: There is no 𒍢 (U+12362) in font [lmroman12-regular]:mapping=
 tex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 1720--1731
+Underfull \hbox (badness 10000) in paragraph at lines 1706--1717
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1733--1738
+Underfull \hbox (badness 10000) in paragraph at lines 1719--1724
 
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1738.
-LaTeX Info: Redefining \sffamily on input line 1738.
-LaTeX Info: Redefining \ttfamily on input line 1738.
-LaTeX Info: Redefining \rmfamily on input line 1738.
-LaTeX Info: Redefining \sffamily on input line 1738.
-LaTeX Info: Redefining \ttfamily on input line 1738.
+
+
 [41]
+Underfull \hbox (badness 10000) in paragraph at lines 1725--1730
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1736--1737
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 1739--1744
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1750--1751
+Underfull \hbox (badness 10000) in paragraph at lines 1750--1754
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1753--1758
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1764--1768
-
- []
-
-LaTeX Info: Redefining \rmfamily on input line 1775.
-LaTeX Info: Redefining \sffamily on input line 1775.
-LaTeX Info: Redefining \ttfamily on input line 1775.
-LaTeX Info: Redefining \rmfamily on input line 1775.
-LaTeX Info: Redefining \sffamily on input line 1775.
-LaTeX Info: Redefining \ttfamily on input line 1775.
 [42]
-Underfull \hbox (badness 10000) in paragraph at lines 1776--1780
+Underfull \hbox (badness 10000) in paragraph at lines 1762--1766
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1798--1805
+Underfull \hbox (badness 10000) in paragraph at lines 1784--1791
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1806--1811
+Underfull \hbox (badness 10000) in paragraph at lines 1792--1797
 
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1818.
-LaTeX Info: Redefining \sffamily on input line 1818.
-LaTeX Info: Redefining \ttfamily on input line 1818.
-LaTeX Info: Redefining \rmfamily on input line 1818.
-LaTeX Info: Redefining \sffamily on input line 1818.
-LaTeX Info: Redefining \ttfamily on input line 1818.
+
+
 [43]
-Underfull \hbox (badness 10000) in paragraph at lines 1819--1823
+Underfull \hbox (badness 10000) in paragraph at lines 1805--1809
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1830--1856
+Underfull \hbox (badness 10000) in paragraph at lines 1816--1842
 
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1857.
-LaTeX Info: Redefining \sffamily on input line 1857.
-LaTeX Info: Redefining \ttfamily on input line 1857.
-LaTeX Info: Redefining \rmfamily on input line 1857.
-LaTeX Info: Redefining \sffamily on input line 1857.
-LaTeX Info: Redefining \ttfamily on input line 1857.
+
+
 [44]
 Chapter 4.
+
+
 [45
 
 ]
-Overfull \hbox (11.69987pt too wide) in paragraph at lines 1915--1915
+Overfull \hbox (11.69987pt too wide) in paragraph at lines 1901--1901
 []\TU/lmtt/m/n/12 10- [id2 nidba].{k}.ani].{}        -- his canal of food offer
 ing,[] 
  []
 
 
-Overfull \hbox (11.69977pt too wide) in paragraph at lines 1915--1915
+Overfull \hbox (11.69977pt too wide) in paragraph at lines 1901--1901
 []\TU/lmtt/m/n/12 11- mu na ba al                    -- (the king) dredged for 
 him.[] 
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1930.
-LaTeX Info: Redefining \sffamily on input line 1930.
-LaTeX Info: Redefining \ttfamily on input line 1930.
-LaTeX Info: Redefining \rmfamily on input line 1930.
-LaTeX Info: Redefining \sffamily on input line 1930.
-LaTeX Info: Redefining \ttfamily on input line 1930.
+
+
 [46]
-Underfull \hbox (badness 10000) in paragraph at lines 1931--1938
+Underfull \hbox (badness 10000) in paragraph at lines 1917--1924
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1939--1946
+Underfull \hbox (badness 10000) in paragraph at lines 1925--1932
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1947--1954
+Underfull \hbox (badness 10000) in paragraph at lines 1933--1940
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1955--1962
+Underfull \hbox (badness 10000) in paragraph at lines 1941--1948
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1963--1970
+Underfull \hbox (badness 10000) in paragraph at lines 1949--1956
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1971--1980
+Underfull \hbox (badness 10000) in paragraph at lines 1957--1966
 
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1981.
-LaTeX Info: Redefining \sffamily on input line 1981.
-LaTeX Info: Redefining \ttfamily on input line 1981.
-LaTeX Info: Redefining \rmfamily on input line 1981.
-LaTeX Info: Redefining \sffamily on input line 1981.
-LaTeX Info: Redefining \ttfamily on input line 1981.
+
+
 [47]
-Underfull \hbox (badness 10000) in paragraph at lines 1984--1986
+Underfull \hbox (badness 10000) in paragraph at lines 1970--1972
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1987--1989
+Underfull \hbox (badness 10000) in paragraph at lines 1973--1975
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1990--1992
+Underfull \hbox (badness 10000) in paragraph at lines 1976--1978
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1993--1995
+Underfull \hbox (badness 10000) in paragraph at lines 1979--1981
 
  []
 
-LaTeX Info: Redefining \rmfamily on input line 1996.
-LaTeX Info: Redefining \sffamily on input line 1996.
-LaTeX Info: Redefining \ttfamily on input line 1996.
-LaTeX Info: Redefining \rmfamily on input line 1996.
-LaTeX Info: Redefining \sffamily on input line 1996.
-LaTeX Info: Redefining \ttfamily on input line 1996.
-[48] [49
+
+
+[48]
+
+[49
 
 ]
-LaTeX Info: Redefining \rmfamily on input line 2059.
-LaTeX Info: Redefining \sffamily on input line 2059.
-LaTeX Info: Redefining \ttfamily on input line 2059.
-LaTeX Info: Redefining \rmfamily on input line 2059.
-LaTeX Info: Redefining \sffamily on input line 2059.
-LaTeX Info: Redefining \ttfamily on input line 2059.
- [50]
-LaTeX Info: Redefining \rmfamily on input line 2082.
-LaTeX Info: Redefining \sffamily on input line 2082.
-LaTeX Info: Redefining \ttfamily on input line 2082.
-LaTeX Info: Redefining \rmfamily on input line 2082.
-LaTeX Info: Redefining \sffamily on input line 2082.
-LaTeX Info: Redefining \ttfamily on input line 2082.
- [51]
-LaTeX Info: Redefining \rmfamily on input line 2108.
-LaTeX Info: Redefining \sffamily on input line 2108.
-LaTeX Info: Redefining \ttfamily on input line 2108.
-LaTeX Info: Redefining \rmfamily on input line 2108.
-LaTeX Info: Redefining \sffamily on input line 2108.
-LaTeX Info: Redefining \ttfamily on input line 2108.
- [52]
-LaTeX Info: Redefining \rmfamily on input line 2123.
-LaTeX Info: Redefining \sffamily on input line 2123.
-LaTeX Info: Redefining \ttfamily on input line 2123.
-LaTeX Info: Redefining \rmfamily on input line 2123.
-LaTeX Info: Redefining \sffamily on input line 2123.
-LaTeX Info: Redefining \ttfamily on input line 2123.
- [53] (./sumer-poly.aux)
+
+[50]
+
+[51]
+
+[52]
+
+[53]
+
+[54
+
+]
+Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2111--2112
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2113--2114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2115--2116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2117--2118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2119--2120
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2121--2122
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2123--2124
+
+ []
+
+
+
+[55]
+Underfull \hbox (badness 10000) in paragraph at lines 2146--2157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2158--2165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2166--2173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2174--2181
+
+ []
+
+
+
+[56]
+Underfull \hbox (badness 10000) in paragraph at lines 2183--2190
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2192--2194
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2195--2197
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2198--2200
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2201--2203
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2204--2206
+
+ []
+
+
+
+[57] (./sumer-poly.aux)
  ***********
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-22>
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-08-16>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6147 strings out of 476878
- 160378 string characters out of 5805250
- 1927627 words of memory out of 5000000
- 27966 multiletter control sequences out of 15000+600000
- 565045 words of font info for 90 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 93i,8n,107p,302b,368s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 4273 strings out of 474235
+ 127201 string characters out of 5742254
+ 1930609 words of memory out of 5000000
+ 26950 multiletter control sequences out of 15000+600000
+ 561974 words of font info for 80 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 93i,8n,107p,276b,372s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on sumer-poly.pdf (54 pages).
+Output written on sumer-poly.pdf (58 pages).

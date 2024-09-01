@@ -1,0 +1,2214 @@
+\documentclass[a4paper,12pt]{book}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+
+\usepackage{upquote}
+\usepackage{makeidx}
+\usepackage{fontspec}
+
+
+\newcommand{\fcn}{\setmainfont{Akkadian}[Extension=.ttf]}
+\newcommand{\fcm}{\large\setmainfont{Akkadian}[Extension=.ttf]}
+\newcommand{\fsm}{\Large\setmainfont{Akkadian}[Extension=.ttf]}
+
+
+\title{An introduction to Sumerian Cuneiforms}
+\author{Eduardo Costa \and Marcus Santos
+  \and Sergio Teixeira}
+\date{}
+
+\begin{document}
+\maketitle
+\thispagestyle{empty}
+\pagenumbering{arabic}
+\chapter{Ur-Nammu-9}
+
+The cuneiform script was the first
+writing system invented by humankind.
+Therefore, all educated individuals should
+learn this 5,000-year-old script.
+In this tutorial, we will learn how to read
+Sumerian cuneiform.
+
+%% \setromanfont{Noto Sans Cuneiform}
+
+\begin{quotation}\LARGE\fcn
+𒀭𒋀𒆠
+
+𒈗𒀀𒉌
+
+𒌨𒀭𒇉
+
+𒈗𒋀𒀊𒆠𒈠𒆤
+
+𒂍𒀀𒉌
+
+𒈬𒈾𒆕
+
+𒂦𒋀𒀊𒆠𒈠
+
+𒈬𒈾𒆕
+\end{quotation}
+There are few grammar books for Sumerian.
+Unfortunately, Marie-Louise Thomsen's
+{\bf ``The Sumerian Language"} does not use cuneiform,
+so I cannot recommend it. This leaves us with
+John Hayes' Manual of Sumerian and Joshua
+Bowen's {\bf ``Learn to Read Ancient Sumerian''}.
+Therefore, I advise you
+to buy {\bf ``A Manual of Sumerian: Grammar and Texts"}
+by Hayes to learn this ancient language in depth.
+It is also a good idea to acquire
+{\bf ``Learn to Read Ancient Sumerian"}
+by Joshua Bowen and Megan Lewis.
+
+\section{Disclaimer}
+The authors of this book are not a scholars
+in Sumerian studies in any sense.
+Therefore, they may not help serious students
+of cuneiforms to solve their pendencies
+and questions.
+
+For scholars and graduate students who are
+writing their thesis, the authors recommend
+John Hayes' {\bf Manual of Sumerian} and
+Joshua Bowen's {\bf Learn to Read Ancient Sumerian}.
+Hayes' manual strong points are inscriptions
+and dedicatories, while Bowen and Lewis prefer
+literary texts.
+
+\section{Sentence structure}
+To discuss grammar, scholars use a transliteration
+of Sumerian cuneiforms to the Latin alphabet.
+Below, you will find the transliteration of
+the Ur-Nammu-9 document that we will study
+in this lesson.
+\begin{verbatim}
+1- [nanna
+2-     lugal.ani].{(r)} #dat           -- For his king
+3- [ur-nammu                           -- Ur-Nammu,
+4-     lugal.urim.{ak}].{e} #gen/erg   -- the king of UR,
+5- [e2.ani].{}  #object                -- his temple
+6- mu.na.du3 #verb                     -- he built
+7- [bad3.urim5.{a(k)}].{} #gen/obj     -- the city wall of Ur
+8- mu.na.du3  #verb                    -- he built
+\end{verbatim}
+
+\section{Grammar functions in transliteration}
+
+In the transliteration, grammar functions are
+represented by indicators between braces.
+In the example, the grammar functions are:
+\begin{description}
+\item[1,2] The benefactive has an unwritten ``(r)'',
+  which is represented by \verb|{(r)}|
+\item[3,4] The genitive ends in \verb|{ak}| after
+  consonant; the ergative ends in \verb|{e}|
+\item[5] The object of the action has no ending,
+  which is represented by \verb|{}|
+\item[7] The genitive has an unwritten ``(k)'',
+  which is represented by \verb|{a(k)}|
+\item[8] The verbal chain {\fcn 𒈬𒈾𒆕} (tr mu na du3)
+  starts with the ventive prefix {\fcn 𒈬},
+  followed by a cross-reference {\fcn 𒈾} (tr na)
+  to the dative.
+\end{description}
+
+Square brackets delimit a noun chain, i.e.,
+a noun followed by a sequence of limiting
+qualifiers that may contain adjectives,
+apositives and a genitive.
+Example: \verb|[ur-nammu lugal.urim5.{ak}].{e}|
+means
+\begin{quote}
+\begin{verbatim}
+[Ur-Nammu, Ur's king].{task-doer}
+\end{verbatim}
+\end{quote}
+After the close square bracket, a braced symbol
+suffix indicates the function of the noun chain.
+For instance, \verb|.{e}| shows that
+\verb|[ur.nammu...].{e}| is the doer of
+the sentence's task. The \verb|{(r)}| symbol
+shows that \verb|[nanna...].{(r)}| receives
+the benefits of the task:
+\verb|[God Nanna].{benefactive}|.
+
+The noun chain may contain a genitive, as was
+stated in the previous paragraph. If you don't
+know the role of a genitive, it is a grammar
+function that shows possession. In English,
+the Saxon genitive marks the possessor with
+[{\bf 's}] and comes before the noun:
+{\em Ur's king}. In Sumerian, the possessor
+follows the noun and is marked with \verb|{ak}|
+after consonant and \verb|{k}| after vowel:
+\verb|{urim5 ma].{k}| is equivalent
+to {\em Ur's king}.
+
+Braces represent the grammatical function endings.
+For instance, the ergative function-ending
+represents the doer of the task and is written
+as \verb|{e} #erg|, where \verb|#erg| is a comment
+that will be omitted in more advanced lessons.
+The person who receives the benefit of the
+action is called dative and is represented
+as \verb|{ra} #dat|, where the \verb|#dat|
+comment is usually omitted.
+
+The empty ending of the object is commented
+as \verb|{|$\emptyset$\verb|} #obj| or simply as \verb|{} #obj|.
+In the example, the objects are the constructions
+of king Ur-Nammu:
+\begin{quote}
+\begin{verbatim}
+[e2 a ni].{}               -- his temple
+[[bad3.urim5].{a(k)}].{}   -- the city wall of Ur
+\end{verbatim}
+\end{quote}
+Unwritten endings are placed between parentheses,
+such as \verb|{(r)}|.
+
+\section{Line 1 \& 2}
+The Ur-Nammu 9 document is divided into eight lines.\\
+
+\begin{tabular}[!h]{l l l}
+\fcn\Large 𒀭 𒋀𒆠
+&\fcn\Large 𒈗 &\fcn\Large 𒀀𒉌\\
+  $^d$nanna & lugal & a ni\\
+\multicolumn{3}{l}{\texttt (tr an nanna lugal a ni)}\\
+\multicolumn{3}{l}{\em For the god Nanna, his master,}\\
+\hline\\
+\multicolumn{3}{l}{{\fcn 𒀭 𒋀𒆠}
+                    ($^d$nanna) the god Nanna }\\
+\multicolumn{3}{l}{{\fcn 𒈗}
+                    (lugal) king, master }\\
+\multicolumn{3}{l}{{\fcn 𒀀𒉌}
+                    (a ni) his }\\
+\end{tabular}
+
+\verb||\\
+ In the first line,
+the text {\fcn 𒀭𒋀𒆠} is written, which is
+the Sumerogram for the name of Nanna, the god of the Moon.
+The {\fcn 𒀭} symbol is read as \verb|an|
+(or \verb|digir|) and is determinative for deity.
+We will learn in the next paragraph that this word
+is in the dative case; therefore, the translation
+of the rectangle is {\em ``For Nanna."}
+
+Sumerian uses symbols, called determinatives,
+to make the meaning clearer. The star {\fcn 𒀭}
+in front of a god's name is the determinative
+of divinity. In transliteration, the determinatives
+are represented as a superscript letter, such
+as $^d$\verb|nanna|.
+
+The Emacs command \verb|(tr an nanna lugal a ni)| is used
+to typeset Sumerian. There are instructions about
+this command on the page where you found this tutorial.
+
+\section{Line 3 \& 4}
+The third line of the Ur-Nammu-9 document contains the name of
+Ur-Nammu ({\fcn 𒌨𒀭𒇉}), the king who rebuilt the temple
+of $^d$Nanna and is the document's author.
+The king's name is formed by {\fcn 𒌨} (\verb|ur|),
+which means {\em man} or {\em dog},
+and {\fcn 𒀭𒇉} ($^d$\verb|nanna|),
+the Mother Earth of the Sumerians.
+Therefore, the king's name, {\fcn 𒌨𒀭𒇉},
+means {\em ``The Man of Nammu."}
+Note that the determinative of
+deity ({\fcn 𒀭}) precedes the goddess' name.\\
+
+\begin{tabular}[!h]{l l l l l l l l}
+\fcn\Large 𒌨𒀭𒇉
+&\fcn\Large 𒈗 &\fcn\Large 𒋀𒀊𒆠 &
+\fcn\Large 𒈠 & \fcn\Large 𒆤\\
+  ur-$^d$nammu & lugal & urim & ma & ke4\\
+\multicolumn{5}{l}{\texttt (tr ur nammu lugal urim ma ke4)}\\
+\multicolumn{5}{l}{\em Ur-Nammu, the king of Ur,}\\
+\hline\\
+\multicolumn{5}{l}{{\fcn 𒌨𒀭𒇉}
+                    (ur-$^d$nammu) King Ur-Nammu}\\
+\multicolumn{5}{l}{{\fcn 𒈗}
+                    (lugal) king, master }\\
+\multicolumn{5}{l}{{\fcn 𒋀𒀊𒆠}
+                    (urim$^{ki}$) the city of Ur }\\
+\multicolumn{5}{l}{{\fcn 𒆠}
+     (ki) {\em determinative of places} }\\
+\multicolumn{5}{l}{{\fcn 𒈠}
+     (ma(k)) {\em dative after the consonant ``M''} }\\
+\multicolumn{5}{l}{{\fcn 𒆤}
+     (ke4) {\em contraction of dative with ergative} }\\
+\multicolumn{5}{l}{{\fcn 𒈠𒆤}
+     (ma ke4) {\em genitive contracted with ergative} }\\
+\end{tabular} 
+
+\verb||\\
+The fourth line contains {\fcn 𒈗𒋀𒀕𒆠𒈠𒆤}
+(tr lugal urim2 ma ke4), where {\fcn 𒋀𒀕𒆠} (tr urim)
+represents the city that was the cult center of Nanna.
+It is formed by the Sumerograms (tr shesh) ({\fcn 𒋀})
+and (tr unug) ({\fcn 𒀕}).
+The Sumerogram {\fcn 𒆠} is the determinative
+for geographic names. Determinatives,
+such as {\fcn 𒀭} ("digir" - deity)
+and {\fcn 𒆠} ("ki" - place), are not pronounced.
+Their role is to make the meaning of the word clearer.
+
+The genitive case denotes possession.
+Unlike the dative, English has a genitive case,
+formed by an apostrophe followed by {\bf ``s."}
+In English, one would say, {\bf ``Urim's King."}
+In Sumerian, the genitive follows the possessor
+and is marked with \verb|{ak}| after consonants
+and \verb|{k}| after vowels. In this nominal
+chain, the ``\verb|a|" of \verb|{ak}| was
+assimilated with the previous consonant,
+becoming {\fcn 𒈠} (\verb|ma|).
+The Sumerogram {\fcn 𒆤} (\verb|ke4|)
+represents the \verb|{k}| of the genitive
+and the \verb|{e}| of the ergative.
+
+Sumerian is an ergative language, meaning the agent
+of transitive actions is marked. In Sumerian, the
+ergative marker is \verb|{e}|. However, the subject
+of an intransitive verb, like ``to go" or ``to sleep,"
+does not receive the \verb|{e}| that marks the agent,
+whom linguists call ergative. Unmarked functions,
+such as the Sumerian subject of an intransitive
+verb and direct object of a transitive verb,
+are called absolutive and said to be marked
+with the null symbol \verb|{}|.
+In short, for the Sumerians and
+modern Basques, if the subject of a sentence
+does not perform a task, it cannot be called ergative.
+
+\section{Line 5}
+The fifth rectangle introduces the
+temple (e2 - {\fcn 𒂍}) that Ur-Nammu built.
+The expression {\fcn 𒂍𒀀𒉌} (e2 ani)
+means ``{\em his temple}." It is in the absolutive
+case and, therefore, receives the null
+symbol mark \verb|{}|, a technical way of
+saying it does not bear a mark.
+The noun chain {\fcn 𒂍𒀀𒉌} (e2 ani) undergoes
+the consequences of the task performed.
+Thus, it is often called patient, accusative or target.
+
+\verb||\\
+\begin{tabular}[!h]{l l l}
+\fcn\Large 𒂍
+&\fcn\Large 𒀀 &\fcn\Large 𒉌\\
+  e2 & a & ni\\
+\multicolumn{3}{l}{\texttt (tr e2 a ni)}\\
+\multicolumn{3}{l}{\em his temple}\\
+\hline\\
+\multicolumn{3}{l}{{\fcn 𒂍}
+  (e2) house, temple }\\
+\multicolumn{3}{l}{{\fcn 𒂍𒈨𒌍} 
+                    (e2 me esh-pl) pl. houses, temples }\\
+\multicolumn{3}{l}{{\fcn 𒀀𒉌}
+                    (a ni) his }\\
+\end{tabular}
+
+\newpage
+\section{Line 6}
+A verbal stem prefixed by a sequence of
+particles and possibly followed by a suffix
+is called a {\em verbal chain}. The verbal
+chain {\fcn 𒈬𒈾𒆕} (mu-na-du3) can be translated
+as ``{\em built}."\\
+
+\begin{tabular}[!h]{l l l}
+\fcn\Large 𒈬
+&\fcn\Large 𒈾 &\fcn\Large 𒆕\\
+  mu & na & du3\\
+\multicolumn{3}{l}{\texttt (tr mu na du3)}\\
+\multicolumn{3}{l}{\em he has built for the god}\\
+\hline\\
+\multicolumn{3}{l}{{\fcn 𒆕}
+                    (du3) to build, to make, to plant }\\
+\multicolumn{3}{l}{{\fcn 𒈬}
+  (mu) {\em conjugation prefix (CP), ventive prefix,}
+            here}\\
+\multicolumn{3}{l}{{\fcn 𒈾}
+                    (na) {\em cross-references the dative} }\\
+\end{tabular}
+
+
+\verb||\\
+The verbal chain of the example has two
+prefixes and a stem:\\
+
+\begin{description}
+\item[Ventive Conjugation Prefix] {\fcn 𒈬}   (CP).
+  The Ventive CP indicates that the action occurs
+  here, close to the speaker.
+\item[Dimensional Prefix] {\fcn 𒈾}
+  (DP) cross-referencing
+  the dative. Sumerian has a DP for each sentence component,
+  except the ergative and the absolutive cases.
+\item[Verbal stem] {\fcn 𒆕}  {\em he has built}
+\end{description}
+
+\section{Line 7 \& 8}
+The noun phrase {\fcn 𒂦𒋀𒀕𒆠𒈠}
+(tr bad3 urim ma) means ``{\em wall of Ur}."
+The sumerogram {\fcn 𒂦} (tr bad3) means
+``{\em city wall}." The \verb|{(k)}| of the
+genitive is omitted, meaning it is not expressed
+because it was not pronounced at
+the end of a nominal phrase.\\
+
+\verb||\\
+\begin{tabular}[!h]{l l l l l l l l}
+\fcn\Large 𒂦
+&\fcn\Large 𒋀𒀕𒆠 &\fcn\Large 𒈠 &
+\fcn\Large 𒈬 & \fcn\Large 𒈾
+& \fcn\Large  𒆕\\
+  bad3 & urim & ma & mu & na & du3\\
+\multicolumn{6}{l}{\texttt (tr bad3 urim ma mu na du3)}\\
+\multicolumn{6}{l}{\em the city wall of Ur, he has built}\\
+\hline\\
+\multicolumn{5}{l}{{\fcn 𒊏}
+                    (ra) ra, {\em dative ending}}\\
+\multicolumn{5}{l}{{\fcn 𒈾}
+                    (na) {\em reference to dative} }\\
+\end{tabular} 
+
+%%aqui
+
+\section{Reading the brick}
+Let's read the whole brick inscription.
+
+\begin{enumerate}
+\item (tr an nanna) ({\fcn 𒀭𒋀𒆠 }) {\bf\em-- For the god Nanna...}
+\item (tr lugal ani) ({\fcn 𒈗𒀀𒉌}) {\bf\em -- his master,}
+  // The word `lugal' means king or master. It is formed
+  from `lu2,' ({\fcn 𒇽}) which means `man,'
+  and `gal,' ({\fcn 𒃲}) which can be translated
+  as `great.' The expression `a-ni' ({\fcn 𒀀𒉌 })
+  is equivalent to the possessive pronoun `his.'
+\item (tr ur-nammu) ({\fcn 𒌨𒀭𒇉}) {\bf\em -- Ur-Nammu,}
+\item (tr lugal urim ki ma ke4) ({\fcn 𒈗𒋀𒀊𒆠𒈠𒆤})
+  {\bf\em -- the king of Ur,}
+\item (tr e2 a ni) ({\fcn 𒂍𒀀𒉌}) {\bf\em -- his temple,}
+  // Remember that you already learned the
+  meaning of `a ni.'
+\item (tr mu na du3) ({\fcn 𒈬𒈾𒆕}) {\bf\em -- he has built.}
+\item (tr bad3 urim ma) ({\fcn 𒂦𒋀𒀕𒆠𒈠})
+  {\bf\em -- The wall of Ur,}
+\item (tr mu na du3) ({\fcn 𒈬𒈾𒆕})
+  {\bf\em -- he built for Nanna.}
+\end{enumerate}
+
+\section{Translation}
+The meaning of the whole document is something
+like this: {\bf\em``For the god Nanna, his Master,
+  Ur-Nammu, the King of Ur, built his temple.
+  The king also built the city walls of Ur for Nanna."}
+
+\section{The method}
+I will use the method I employed in this first
+chapter to introduce a few other documents.
+In other words, each chapter will contain
+grammar, vocabulary, syllables,
+and essential Sumerograms for reading
+a Sumerian document. This methodology ensures
+you can handle a manageable amount of information
+initially.
+
+After discussing how to read a Sumerian inscription,
+each chapter contains an in-depth presentation
+of the Sumerian grammar. Initially,
+you can do without reading this final
+grammar section. You can return
+to it after practicing Sumerian with a few inscriptions.
+
+\chapter*{APPENDIX 1: Grammar notes}
+
+Congratulations. You have finished the first lesson.
+This appendix gives further details about the
+case elements, the noun chain and the verbal chain.
+If you don't feel like it, you don't need to read
+it now. You can return to this lesson after completing
+a few Sumerian documents.
+
+\section*{Case elements}
+The subject of a sentence is the topic of the conversation.
+Besides the subject, the sentence may have other marked
+components called case elements. Case elements may have
+references in the verbal chain. The leading case elements
+with their marks and references are:
+
+\subsection*{Ergative:  \{e\} task doer}
+{\fsm 𒈗𒂊  𒂦 𒋀𒀕𒆠𒈠  𒈬𒈾𒆕}\\
+(tr lugal e bad3 urim ma mu na du3)\\
+The king built the city wall of Ur.
+
+\subsection*{Dative: \{ra\} / (-na-) for}
+{\fcn\Large 𒎏𒀀𒉌𒊏𒈗𒂊𒂦𒋀𒀊𒆠𒈠𒈬𒈾𒆕}\\
+(tr nin a ni ra lugal e bad3 urim ma mu na du3)\\
+The king built the wall of Ur for his lady.
+
+\newpage
+\subsection*{Locative:  \{a\} // (-ni-) in, on}
+
+{\fcn\Large 𒈗𒂊𒌷𒀀𒂍𒈬𒉌𒆕}\\
+(tr lugal e uru a e2 mu ni du3)\\
+The king built a house in the city.
+
+\subsection*{Terminative: \{še\}// (-ši-) in order to}
+
+{\fcn\Large 𒂷𒂊𒌷𒈬𒂠𒂵𒅆𒁺}\\
+(tr ĝe26 e uru ĝu10-my she-goal ga shi ĝen)\\
+I will go there to my city.
+
+\subsection*{Ablative: \{ta\}// (-ta-) or (-ra-) out of}
+
+{\fcn\Large 𒌷𒋫𒁀𒋫𒁺}\\
+(cn uru ta ba ta ĝen)\\
+He went out from the city.
+
+\subsection*{Comitative: \{da\} //   (-da-)  with}
+
+{\fcn\Large 𒈗𒂊𒌉𒀀𒉌𒁕𒂍𒈬𒌦𒁕𒆕}\\
+(tr lugal e dumu a ni da e2 mu un da du3)\\
+The king built the house with his son.
+
+\subsection*{Equitative: \{gin\} // (-gin-) like, as}
+
+{\fcn 𒀀𒁀𒋀𒈬𒁶}\\
+(tr a ba shesh ĝu10-my gin-equitative)\\
+Who is like my brother?
+
+\subsection*{Absolutive: \{$\emptyset$\} or \{\}}
+
+{\fcn\Large 𒎏𒀀𒉌𒊏𒈗𒂊𒂦𒈬𒈾𒆕}\\
+(tr nin a ni ra lugal e bad3 mu na du3)\\
+For his lady, the king has built the city wall.
+
+\newpage
+\section*{Dative conjugation}
+When used as a prefix to a verb, the dative takes
+different forms depending on the person and number
+it is referring to.
+
+
+\subsection*{ (-ma-) to me}
+{\fcn\Large 𒂷𒊏𒈗𒂊𒂍𒈬𒈠𒆕}\\
+(tr ĝe26 ra lugal e e2 mu ma du3)\\
+The king built a house for me.
+
+\subsection*{ (-ra-) to you}
+
+{\fcn\Large 𒍢𒊏𒈗𒂊𒂍𒈬𒊏𒆕}\\
+(tr ze2 ra lugal e e2 mu ra du3)\\
+The king has built a house for you.
+
+\subsection*{ (-na-) to him/to her}
+
+{\fcn\Large 𒎏𒊏𒈗𒂊𒂍𒈬𒈾𒆕}\\
+(tr nin ra lugal e e2 mu na du3)\\
+The king has built a house for the lady.
+
+\subsection*{ (-me-) to us}
+
+{\fcn\Large 𒈗𒂊𒂍𒈬𒈨𒆕}\\
+(tr lugal e e2 mu me du3)\\
+The king has built a house for us.
+
+\subsection*{ (-ne-) to them}
+{\fcn\Large 𒈗𒂊𒂍𒈬𒉈𒆕}\\
+(tr lugal e e2 mu ne du3)\\
+The king has built a house for them.
+
+%%%aqui
+
+\section*{Transitive verbs}
+A transitive verb describes an action that
+transitions from a subject to a direct object.
+In a transitive verb, the subject is the doer
+of the action and is called ergative, which
+is the Greek term for the person who performs a task.
+In Sumerian, the ergative is marked
+with {\fcn 𒂊} \verb|{e}|.
+
+The absolutive case is the entity that undergoes
+the consequences of a task. The absolutive case
+can be the person accused of a deed. In this case,
+it is called accusative.
+
+The absolutive case can also be a target of a shooting.
+Or it can be the object of health care, in which case
+it is called patient by the doctors.
+
+Some linguists call {\em patient} all kinds of
+absolutive cases of a transitive verb, while others
+prefer the term accusative.
+
+In Sumerian,
+the absolutive case receives no mark, but the
+linguists say it is marked by the
+null symbol \verb|{Ø}|.
+
+The transitive verb itself comes last in a Sumerian
+sentence, and is described by a chain of affixes
+surrounding the stem. This verbal chain may contain
+a Modal Prefix (MP, such as {\fcn 𒉡} • nu • not),
+a Conjugation Prefix (CP, such as {\fcn 𒈬}
+• mu • {\em ventive}, here), initial pronominal
+prefix (IPP, such as N in {\fcn 𒈬𒌦𒆪𒂊}
+• mu-n.dab.e • he seizes her) and suffix
+pronouns ({\fcn 𒂗𒉈𒂗} • en-de3-en
+• us, {\fcn 𒌦𒍢𒂗} • un-ze2-en • you people).
+Below, there are examples of all initial
+pronominal prefixes.
+
+\section*{Initial Pronominal Prefixes (IPP)}
+In the verbal chain, the Initial Pronominal
+Prefixes (IPP) come after the Conjugation
+Prefix (CP) that is {\fcn 𒈬} (-mu-) in the examples below. 
+The {\fcn 𒈬} (-mu-) prefix is the ventive,
+i.e., it shows that the
+action is performed towards the speaker.
+English uses different verbs for the
+{\em andative} (motion away from the speaker)
+and the {\em ventive} (motion towards the speaker):
+{\em to take away / to bring}, {\em to go / to come}, etc.
+Sumerian gets the same effect by adding
+the {\em ventive} Conjugation Prefix (CP)
+to the verbal chain.
+
+\newpage
+Below is an exhaustive list of the Initial Pronominal Prefixes
+for all grammatical persons.\\
+\verb||\\
+(tr mu dab e)\\
+{\fcn\Large 𒈬𒆪𒂊}\\
+He seizes me.
+
+\verb||\\
+(tr mu e dab e)\\
+{\fcn\Large 𒈬𒂊𒆪𒂊}\\
+He seizes you.
+
+\verb||\\
+(tr mu un dab e)\\
+{\fcn\Large 𒈬𒌦𒆪𒂊}\\
+He seizes her.
+
+\verb||\\
+(tr mu me dab e)\\
+{\fcn\Large 𒈬𒈨𒆪𒂊}\\
+He seizes us.
+
+\verb||\\
+(tr mu un ne dab e)\\
+{\fcn\Large 𒈬𒌦𒉈𒆪𒂊}\\
+He seizes them.\\
+
+I have for you a complete example of a transitive
+sentence below. I provide  a pronunciation
+key and vocabulary, so I hope you can
+scan the sentence.\\
+
+{\fcn\Large 𒊩𒊏𒇽𒂊𒊺𒌷𒀀𒈬𒈾𒀊𒋧𒂊}\\
+(tr munus ra lu2 e she uru a mu na ab shum2 e)
+
+\noindent
+\begin{tabular}[!h]{l l l l l l l l}
+  \fcn\Large 𒊩𒊏 &\fcn\Large 𒇽𒂊 &\fcn\Large 𒊺
+  &\fcn\Large 𒌷𒀀 &\fcn\Large 𒈬𒈾𒀊𒋧𒂊\\
+  munus ra & lu2 e & she & uru a & mu na ab shum2 e\\
+  for the woman & the man & barley & in the city
+  & he gave it to her\\
+\end{tabular}\verb||\\
+
+The translation of the sentence is: {\em
+The man gave barley to the woman in the city.}
+The person who receives the barley is
+marked with the dative {\fcn 𒊏} \verb|{ra}|;
+the doer of the action has the ergative
+marker {\fcn 𒂊} \verb|{e}|, and the
+place of the occurrence has the locative
+marker {\fcn 𒀀} \verb|{a}|.
+
+\newpage
+\subsection*{Vocabulary}
+{\fcn\Large 𒊩} • (munus) woman, female\\
+\verb||\\
+{\fcn\Large 𒊏} • (ra) {\em dative marker}\\
+\verb||\\
+{\fcn\Large 𒇽} • (lu2) man, male\\
+\verb||\\
+{\fcn\Large 𒂊} • (e) {\em ergative marker}\\
+\verb||\\
+{\fcn\Large 𒊺} • (še) barley, grain\\
+\verb||\\
+{\fcn\Large 𒌷} • (uru) city\\
+\verb||\\
+{\fcn\Large 𒀀} • (a) {\em locative marker}\\
+\verb||\\
+{\fcn\Large 𒈬} • (mu) {\em venitive conjugation prefix}, here\\
+\verb||\\
+{\fcn\Large 𒈾} • (na) {\em cross-reference to
+the dative}, to her\\
+\verb||\\
+{\fcn\Large 𒀊} • (ab) {\em Initial Prefix Pronoun}, it\\
+\verb||\\
+{\fcn\Large 𒋧} • (shum2) to give\\
+
+\newpage
+\section*{Intransitive verb}
+An intransitive verb does not have a direct object.
+In Sumerian, the subject of an intransitive verb
+goes to the absolutive case and, therefore, is not marked.\\
+
+\verb||\\
+{\fcn\Large 𒈗 𒌷𒈬𒂠 𒉌𒅎𒁺}\\
+(tr lu2 uru ĝu10-my she-goal i3 im ĝen)\\
+\begin{tabular}[!h]{l | l | l | l | l l l l}
+  \fcn\Large 𒈗 &\fcn\Large 𒌷𒈬𒂠
+  &\fcn\Large 𒉌  𒅎
+  &\fcn\Large 𒁺\\
+  lu2 & uru ĝu10 she-goal & i3  im & ĝen\\
+  the king & to my city
+  &\em finite verb prefix & came\\
+\end{tabular}\verb||\\
+
+
+The translation of the above example is:
+{\em The king came to my city.} You find
+the vocabulary necessary to scan this
+example below.\\
+\verb||\\
+{\fcn\Large 𒈗} • (lugal) king \\
+\verb||\\
+{\fcn\Large 𒉌𒅎} • (im) {\em finite verb marker} \\
+\verb||\\
+{\fcn\Large 𒁺} • (g̃en) to come\\
+\verb||\\
+{\fcn\Large 𒂠} • (še3) to, towards\\
+\verb||\\
+{\fcn\Large 𒌷} • (uru) city\\
+\verb||\\
+{\fcn\Large 𒌷𒈬} • (uru.ĝu10) my city\\
+\verb||\\
+{\fcn\Large 𒌷𒈬𒂠} • (uru ĝu10 she-goal) to my city\\
+\verb||\\
+
+\newpage
+\section*{Modal Prefix (MP)}
+The modal prefixes express modality, i.e.,
+relationships to reality or truth.
+You can only learn the indicative and negation
+modal prefixes for now. You may learn the other
+prefixes when you encounter them in Sumerian documents
+and inscriptions.
+\begin{quotation}
+{\large\bf Indicative: ($\emptyset$-)}\\
+In Sumerian, the indicative is unmarked.
+The empty prefix \verb|/Ø-/| may represent
+this fact in transliteration. However,
+people rarely show unmarked prefixes.\\
+
+{\large\bf Negation:  /nu-/}\\
+{\fcn\Large 𒉡𒌦𒅥}\\
+(tr nu un gu7)\\
+He didn't eat it.\\
+
+{\large\bf Let him:  hhe2-}\\
+{\fcn\Large 𒃶𒅁𒅥𒂊}\\
+(tr hhe2 ib gu7 e)\\
+Let him eat it.\\
+
+{\large\bf Indeed:  hha-}\\
+{\fcn\Large 𒄩𒀭𒅥}\\
+(tr hha an gu7)\\
+He ate it, indeed.\\
+
+{\large\bf Cohortative:  ga-}\\
+{\fcn\Large 𒂵𒉌𒌈𒃻𒊑𒂗𒉈𒂗}\\
+(tr ga i3 ib2 ĝar re en ne en)\\
+Let us put it there.\\
+
+{\large\bf Prohibitive: na-}
+{\fcn\Large 𒈾𒀊𒅥𒂊}\\
+(tr na ab gu7 e)\\
+He must not eat it.
+\end{quotation}
+
+\newpage
+\section*{Conjugation Prefix (CP)}
+The main Conjugation Prefixes (CP) are \verb|/mu-/|
+to indicate that the action occurs here,
+ \verb|/ba/| to form
+middle/passive voice, \verb|/i3/| to create
+a finite verbal tense, and \verb|/ma/| in
+combination with \verb|/ra/| of benefit.
+Below, you will find a fairly complete list
+of Conjugation Prefixes, but you need
+to learn only \verb|/mu-/| and \verb|/i3/|
+for this first lesson.
+\begin{quotation}
+{\large\bf Here:}\\
+{\fcn\Large 𒈬} - {\fcn\Large 𒌦𒁺}\\
+(tr mu un re6)\\
+He brought it here.\\
+
+{\large\bf Finite verb:}\\
+{\fcn\Large 𒉌} - {\fcn\Large 𒅎𒁺}\\
+(tr i3 im ĝen)\\
+He came here.\\
+
+{\large\bf Finite verb, followed by open vowel:}\\
+{\fcn\Large 𒉈} - {\fcn\Large 𒅔𒁺}\\
+(tr bi2 in re6)\\
+He made the team bring it.\\
+
+{\large\bf Finite verb, followed by ra:}\\
+{\fcn\Large 𒈠} - {\fcn\Large 𒊏𒀭𒁺}\\
+(tr ma ra an re6)\\
+He brought it here to you.\\
+
+{\large\bf Middle voice:}\\
+{\fcn\Large 𒁀} - {\fcn\Large 𒀭𒁺}\\
+(tr ba an re6)\\
+He took it for himself.\\
+{\em Obs. The middle voice with {\texttt /ba/}
+  indicates an action that affects the doer.}\\
+
+{\large\bf Passive voice:}\\
+{\fcn\Large 𒁀} - {\fcn\Large 𒁺}\\
+(tr ba re6)\\
+It was brought.
+\end{quotation}
+
+\newpage
+\section*{Nominal chain}
+In Sumerian, most adjectives are formed from
+verbs by adding the suffix {\fcn 𒀀} \verb|{a}|.
+For example, the verb below means to be strong.
+\begin{quote}
+{\fsm 𒆗}  (kalag) to be strong
+\end{quote}
+To form an adjective from kalag, one adds an \verb|{a}|.
+In Sumerian, different from English, the adjectives
+follow the noun.\\
+
+The expression below means {\bf\it mighty king}.
+Note that the adjective follows the verb,
+and the {\fcn 𒀀} marker contracts with
+the previous consonant to form the
+{\fcn 𒂵} (ga) syllable.
+
+{\fcn\Large 𒈗 𒆗 𒂵}\\
+(tr lugal kalag ga)\\
+a mighty king\\
+
+In English, the Saxon genitive is marked
+with S and precedes the verb. Therefore,
+one writes ``{\bf\it Elil's Warrior}."
+In Sumerian, the genitive is marked
+with \verb|{k}| after a vowel
+and \verb|{ak}| after a consonant.
+Like the adjective, the genitive follows the noun.
+The \verb|{k}| of the genitive was rarely
+written except when combined with the ergative.
+In this case, it was written
+as {\fcn 𒆤} \verb|{ke4}|.\\
+
+Below, there is another example of
+the adjective {\fcn 𒀀} \verb|{a}|
+marker contracting with the previous
+consonant to form an open syllable.\\
+
+{\fcn\Large 𒂍𒈗𒆷}\\
+(tr e2 lugal la)\\
+the king's house\\
+
+\verb||\\
+Now, let us examine a somewhat longer
+example of a noun chain.\\
+
+\verb||\\
+{\fcm 𒂼𒀀𒉌𒊏} •  {\fcm 𒌉𒈗𒆷𒆤}
+   •   {\fcm 𒂍 𒈬𒈾𒆕}\\
+\verb||\\
+(tr ama a ni ra  • dumu lugal la ke4  • e2 mu na du3)\\
+The king's son has built a house for his mother.
+
+
+\chapter{Inscription in Inanna's temple}
+
+\begin{quotation}\LARGE\fcn
+  𒀭𒈹 𒎏𒀀𒉌
+  
+  𒌨𒀭𒇉
+  
+  𒍑𒆗𒂵
+  
+  𒈗𒋀𒀊𒆠𒈠
+  
+  𒈗𒆠𒂗𒄀 𒆠𒌵𒆤
+  
+  𒂍𒀀𒉌
+  
+𒈬𒈾𒆕
+\end{quotation}
+
+Translation:
+{\bf\em For Inanna, his lady, Ur-Nammu,
+  the mighty man, the king of Ur,
+  the king of Sumer and Akad, built her temple.}
+
+\section{Sentence structure}
+\begin{verbatim}
+1- [inanna nin a ni].{(r)}             -- For Inanna, his Lady,
+2- [ur-nammu                           -- Ur-Nammu,
+3-   [nita kalag].{a}                  -- the mighty man,
+4-   [lugal urim ma].{(k)}             -- the king of Ur,
+5-   [lugal ki-en-gi ki uri].{k}].{e}  -- the king of Sumer and Akkad,
+6- [e2 a ni].{}                        -- her (Inanna's) temple
+7- mu na du3                           -- built.
+\end{verbatim}
+
+\newpage
+From now on, the sentence structure
+will not contain the comments \verb|.{k} #gen|
+for the genitive, \verb|.{r} #dat| for the dative
+or \verb|.{e} #erg| for the ergative (doer of the task).
+The suffixes \verb|.{r}| for the dative,
+\verb|.{k}| for the genitive
+and \verb|.{e}| for the ergative
+should suffice for showing the grammatical
+function of the noun chain and its components.
+However, functional suffixes you didn't learn
+in the previous lessons will be commented on.
+
+\section{Annotations}
+
+%% {\LARGE\fcn 𒀭𒈹 𒎏𒀀𒉌}\\
+\begin{tabular}[!h]{l l l l l l l}
+  \fcm 𒀭 &\fcm 𒈹
+  &\fcm 𒎏 &\fcm 𒀀𒉌\\
+  an & inanna & nin & a ni\\
+  \multicolumn{4}{l}{\texttt (tr an inanna nin a ni)}\\
+  \multicolumn{4}{l}{\em For Inanna, his lady,}\\
+  \hline\\
+  \multicolumn{4}{l}{{\fcn 𒀭𒈹} • ($^d$inana) Inanna}\\
+  \multicolumn{4}{l}{{\fcn 𒎏} • (nin) lady, queen, mistress}\\
+  \multicolumn{4}{l}{{\fcn 𒀀𒉌} • (a ni) his, her}\\
+\end{tabular}\verb||\\
+
+This noun phrase ends in an unwritten \verb|{(r)}|,
+the dative marker. However, there is no ambiguity
+since the verb chain has a dative reference.\\
+
+\verb||\\
+%%{\LARGE\fcn 𒌨𒀭𒇉 𒍑𒆗𒂵}\\
+\begin{tabular}[!h]{l l l l l l l}
+  \fcm 𒌨𒀭𒇉 &\fcm 𒍑
+  &\fcm 𒆗 &\fcm 𒂵\\
+  ur-nammu & nita & kalag & ga\\
+  \multicolumn{4}{l}{\texttt (tr ur-nammu nita kalag ga)}\\
+  \multicolumn{4}{l}{\em Ur-Nammu, the mighty man,}\\
+  \hline\\
+  \multicolumn{4}{l}{{\fcn 𒍑} • (nita) man, male}\\
+  \multicolumn{4}{l}{{\fcn 𒆗} • (kalag)
+    to be strong, to be mighty}\\
+  \multicolumn{4}{l}{{\fcn 𒆗 𒂵} • (kalag ga)
+    {\em adj. from verb}, mighty}\\
+\end{tabular}\verb||\\
+
+One may form adjectives by adding an
+\verb|{a}|-suffix to a verbal root,
+     {\em kalag} in the above expression.
+     This nominalizing suffix contracts with
+     the preceding word's final \verb|g|,
+     giving extra information about its correct reading.
+     Different from English, Sumerian adjectives
+     follow the noun they modify.\\
+
+ \newpage
+ \noindent    
+ %%{\LARGE\fcn 𒈗𒋀𒀊𒆠𒈠}\\
+ \begin{tabular}[!h]{l l l l l l l l l}
+   \fcm 𒈗 &\fcm 𒋀𒀊𒆠
+   &\fcm 𒈠\\
+   lugal & urim & ma\\
+   \multicolumn{3}{l}{\texttt (tr lugal urim ma)}\\
+   \multicolumn{3}{l}{\em the king of Ur,}\\
+ \end{tabular}\verb||\\
+
+ As we learned from text 1, the genitive is
+ formed by \verb|{k}| after vowels
+ and \verb|{ak}| after consonants.
+ The scribe often omitted the \verb|{(k)}|
+ of \verb|{ak}|. The ``{\em m}'' of
+ ``{\em ma}'' is contamination from the final
+ consonant of the previous word.
+
+\verb||\\
+ %%{\LARGE\fcn 𒈗𒆠𒂗𒄀𒆠𒌵𒆤}\\
+ \begin{tabular}[!h]{l l l l l l l l l}
+   \fcm 𒈗 &\fcm 𒆠𒂗𒄀
+   &\fcm 𒆠𒌵 &\fcm 𒆤 \\
+   lugal & ki-en-gi & ki uri & ke4\\
+   \multicolumn{4}{l}{\texttt (tr lugal ki-en-gi ki uri ke4)}\\
+   \multicolumn{4}{l}{\em the king of Sumer and Akkad,}\\
+   \hline\\
+     \multicolumn{4}{l}{{\fcn 𒆠𒂗𒄀} • (ki-en-gi) Sumer }\\
+  \multicolumn{4}{l}{{\fcn 𒆠𒌵} • (ki-uri) Akkad }\\
+ \end{tabular}\verb||\\
+
+ \verb||\\
+ In ke4 ({\fcn 𒆤}), the \verb|{k}| is the
+ genitive marker, and the \verb|{e}| is the ergative marker.
+ You already saw the analysis of the last two
+ lines in lesson 1, therefore they should pose
+ no difficulty to you.
+ 
+ \verb||\\
+ %%{\LARGE\fcn 𒂍𒀀𒉌}\\
+ \verb||\\
+\begin{tabular}[!h]{l l l}
+\fcm 𒂍
+&\fcm 𒀀 &\fcm 𒉌\\
+  e2 & a & ni\\
+\multicolumn{3}{l}{\texttt (tr e2 a ni)}\\
+\multicolumn{3}{l}{\em his temple}\\
+\hline\\
+\multicolumn{3}{l}{{\fcn 𒂍}
+  (e2)  house, temple}\\
+\multicolumn{3}{l}{{\fcn 𒂍𒈨𒌍}
+                    (e2 me esh-pl) houses, temples }\\
+\multicolumn{3}{l}{{\fcn 𒀀𒉌}
+                    (a ni) his }\\
+\end{tabular}
+
+
+\noindent
+%%{\LARGE\fcn 𒈬𒈾𒆕}\\
+\verb||\\
+\verb||\\
+\begin{tabular}[!h]{l l l}
+\fcm 𒈬
+&\fcm 𒈾 &\fcm 𒆕\\
+  mu & na & du3\\
+\multicolumn{3}{l}{\texttt (tr mu na du3)}\\
+\multicolumn{3}{l}{\em he has built for the god}\\
+\hline\\
+\multicolumn{3}{l}{{\fcn 𒆕}
+                    (du3) to build, to make, to plant }\\
+\multicolumn{3}{l}{{\fcn 𒈬}
+  (mu) {\em conjugation prefix (CP), ventive prefix,}
+            here}\\
+\multicolumn{3}{l}{{\fcn 𒈾}
+     (na) {\em cross-references the dative} }\\
+\end{tabular}
+
+
+\chapter*{APPENDIX 2: Conjugation}
+
+Congratulations on finishing another
+lesson. This appendix
+details Sumerian pronouns and verbs.
+After completing the fifth lesson, you can return
+to it  to gain an in-depth
+understanding of verbs.
+
+\subsection*{Possessive Pronouns}
+You already learned a possessive pronoun:
+{\fcn 𒈗𒀀𒉌} (tr lugar ani) ``{\em his master}''.
+Below, I've included a complete list of
+possessive pronouns.
+\begin{quotation}
+\noindent
+{\bf (tr e2 g̃u10)} -- my house\\
+{\fcm 𒂍 𒈬}\\
+
+\noindent
+{\bf (tr e2 zu)} -- thy house\\
+{\fcm 𒂍𒍪}\\
+
+\noindent
+{\bf (tr e2 a ni)} -- his house\\
+{\fcm 𒂍𒀀𒉌}\\
+
+\noindent
+{\bf (tr e2 bi)} -- its house\\
+{\fcm 𒂍𒁉}\\
+
+\noindent
+{\bf (tr e2 me)} -- our house\\
+{\fcm 𒂍𒈨}\\
+
+\noindent
+{\bf (tr e2 zu ne ne)} -- your house\\
+{\fcm 𒂍𒍪𒉈𒉈}\\
+
+\noindent
+{\bf (tr e2 a ne ne)} -- their house\\
+{\fsm 𒂍𒀀𒉈𒉈}\\
+\end{quotation}
+
+\newpage
+\section*{Independent pronouns}
+Sumerian has a set of independent pronouns
+that I advise you to learn right away.
+They are very important.
+\begin{quotation}
+\noindent
+{\bf (g̃e26) I/me}\\
+{\fcm 𒂷}\\
+
+\noindent
+{\bf (ze2) thou/thee}\\
+{\fcm 𒍢}\\
+Obs. {\Large\fcn 𒍢} (ze2) becomes {\Large \fcn 𒍝} (za)
+when followed by the dative {\Large\fcn 𒊏} (ra).\\
+
+\noindent
+{\bf (a-ne) he/she/him/her}\\
+{\fcm 𒀀𒉈}\\
+
+\noindent
+{\bf (a-ne-ne) they}\\
+{\Large\fcn 𒀀𒉈𒉈}
+\verb||\\
+\end{quotation}
+
+\noindent
+\begin{tabular}[!h]{l l l l l l l l l}
+  \fcm 𒀀𒉈 &\fcm 𒁾
+  &\fcm 𒍝𒊏 &\fcm 𒈠𒊏𒀊𒋧𒈬\\
+  a ne & dab5 & za ra & ma ra ab shum2 mu\\
+  he & the tablet & to you & will give\\
+  \multicolumn{4}{l}{\em He will give you the tablet.}\\
+\end{tabular}
+
+\subsection*{Vocabulary}
+\begin{quotation}
+\noindent
+{\fsm 𒀀𒉈}  (a-ne) he/she\\
+\verb||\\
+{\fsm 𒁾}  (dab5) the tablet\\
+\verb||\\
+{\fsm 𒍝𒊏}  (zara) to you.
+{\fcn 𒍢} (ze2) plus {\fcn 𒊏} (ra)
+becomes {\fcn 𒍝𒊏}
+\end{quotation}
+
+\newpage
+Sometimes, an independent pronoun appears
+with an enclitic copula (verb {\em to be})
+attached to its end, as shown below.\\
+
+
+\begin{quotation}
+\noindent
+\begin{tabular}[!h]{l l l l l l l l l}
+\fsm 𒆪𒇷 &\fsm 𒍪 &\fsm 𒂷 &\fsm 𒈨𒂗\\ 
+gu5-li & zu & ĝe26 & me en\\
+friend & your & I & am\\
+\multicolumn{4}{l}{\em I am your friend}\\
+\end{tabular}\verb||\\
+
+\verb||\\
+{\fsm 𒆪𒇷𒈬𒍢𒈨𒂗 }\\
+(tr gu5 li ĝu10-my (my friend) ze2 me en (you are))\\     
+You are my friend.
+
+\verb||\\
+{\fsm 𒆪𒇷𒍪𒀀𒉈𒀀𒀭}\\
+(tr gu5 li zu (your friend) a ne am3 (she/he is))\\     
+She is your friend.
+
+\verb||\\
+{\fsm 𒆪𒇷𒍪𒈨𒂗𒉈𒂗}\\
+(tr gu5 li zu (your friend) me en ne en (we are))\\
+We are your friends.
+
+\verb||\\
+{\fsm 𒆪𒇷𒈬𒈨𒂗𒍢𒂗}\\
+(tr gu5 li ĝu10-my (my friend) me en ze2 en (you guys))\\
+You guys are my friends.
+
+\verb||\\
+{\fsm 𒆪𒇷𒍪𒀀𒉈𒉈𒈨𒌍}\\
+(tr gu5 li zu (your friends) a ne ne me esh-pl (they are))\\
+They are your friends.\\
+\end{quotation}
+
+\newpage
+\section*{Interrogative pronouns}
+Sumerians marked yes/no interrogative sentences
+only by intonation and possibly by lengthening
+the final vowels, like many modern languages,
+such as Spanish and Portuguese.
+
+To ask who performed a task, Sumerians used
+the interrogative word {\fcn 𒀀𒁀𒀀} (tr a ba a),
+as shown below.\\
+
+\verb||\\
+{\fsm 𒂍} •  {\fsm 𒀀𒁀𒀀} •  {\fsm 𒅔𒆕}\\
+(tr e2 •  a ba a •  in du3)\\
+the temple • who • built?\\
+Who built the temple?\\
+
+To ask who is something, Sumerians used the
+interrogative pronoun {\fcn 𒀀𒁀} (tr a-ba),
+as shown in the following example:\\
+
+\verb||\\
+{\fsm 𒀀𒁀} • {\fsm 𒀭𒌓} • {\fsm 𒁶}\\
+(tr a ba • utu • gin-equitative)\\
+Who • Utu • is like?\\
+Who is like Utu?\\
+
+In Sumerian, there is no wh-movement
+to the beginning of the clause, like
+in English and Spanish. Instead, the
+interrogative words are placed immediately
+before the verb.\\
+
+\verb||\\
+{\fsm 𒈗𒂊} • {\fsm 𒀀𒈾} • {\fsm 𒈬𒌦𒀝}\\
+(tr lugal e • a na •  mu un ak)\\
+the king • what • did he do?\\
+What did the king do?\\
+
+\newpage
+\noindent
+{\fsm 𒌉𒈬} • {\fsm 𒀀𒈾} • {\fsm 𒉡𒍪}\\
+(tr dumu ĝu10-my • a na • nu zu)\\
+my son • what • does not know?\\
+What does my son not know?\\
+
+\verb||\\
+{\fsm 𒀀𒈾} • {\fsm 𒀀𒀭} • {\fsm 𒉈𒂊}\\
+(tr a na • am3 • ne e)\\
+what • is • this? \\
+What is this?\\
+
+\verb||\\
+An exception to the rule of placing the
+interrogative word immediately before
+the verb occurs in why-questions,
+as the example below shows.
+
+\verb||\\
+{\fsm 𒀀𒈾𒀸} • {\fsm 𒀀𒀭} • {\fsm 𒉌𒁺}\\
+(tr a na ash • am3 • i3 ĝen)\\
+what is it • that he came?\\
+Why did he come?\\
+
+The expression {\fcn 𒀀𒈾𒀸} (a-na-ash)
+that one usually translates as ``why?''
+means literally ``what for?''
+
+\newpage
+\section*{Conjugation}
+Sumerian verbs have two aspects: the hamtu (perfective)
+and the marû (imperfective). For the time being,
+you can translate the hamtu as the English present
+perfect, and the marû, as the English future.\\
+
+\noindent
+hamtu: {\fsm 𒈗𒂊𒂦𒈬𒌦𒁺}\\
+(tr lugal e bad3 mu un gub)\\
+The king has erected a wall here.\\
+
+\noindent
+marû: {\fsm 𒈗𒂊𒂦𒉌𒁺𒂊}\\
+(tr lugal e bad3 i3 gub e)\\
+The king will erect a wall.
+
+\section*{Hamtu and marû conjugation}
+
+\subsection*{First person}
+{\fsm 𒈾𒈬𒁺}\\
+(tr na mu gub)\\
+hamtu: I have set up a border stone.\\
+
+\noindent
+{\fsm 𒈾𒉌𒁺𒂗}\\
+(tr na i3 gub en)\\
+marû: I will set up a stone.
+
+\subsection*{Second person singular}
+{\fsm 𒈾𒈬𒂊𒁺}\\
+(tr na mu e gub)\\
+hamtu: You have set up a stone.\\
+
+\noindent
+{\fsm 𒈾𒉌𒁺𒂗}\\
+(tr na i3 gub en)\\
+marû: You will set up a stone.
+
+\newpage
+\subsection*{Third person singular (humans)}
+{\fsm 𒈾𒈬𒌦𒁺}\\
+(tr na mu un gub)\\
+hamtu: He has set up a stone.\\
+
+\noindent
+{\fsm 𒈾𒉌𒁺𒂊}\\
+(tr na i3 gub e)\\
+marû: He will set up a stone.
+
+\subsection*{First person plural}
+{\fsm 𒈾𒈬𒁺𒁁𒂗𒉈𒂗}\\
+(tr na mu gub be en de3 en)\\
+hamtu: We have set up a stone.\\
+
+\noindent
+{\fsm 𒈾𒉌𒁺𒂗𒉈𒂗}\\
+(tr na i3 gub en de3 en)\\
+marû: We will set up a stone.
+
+\subsection*{Second person plural}
+{\fsm 𒈾𒈬𒂊𒁺𒁁𒂗𒍢𒂗}\\
+(tr na mu e gub be en ze2 en)\\
+hamtu: You have set up a stone.\\
+
+\noindent
+{\fsm 𒈾𒉌𒁺𒁁𒂗𒍢𒂗}\\
+(tr na i3 gub be en ze2 en)\\
+marû: You will set up a stone.
+
+\newpage
+\subsection*{Third person plural}
+{\fsm 𒈾𒈬𒌦𒁺𒁁𒌍}\\
+(tr na mu un gub be esh-pl)\\
+hamtu: They have set up a stone.\\
+
+\verb||\\
+{\fsm 𒈾𒉌𒁺𒁁𒂊𒉈}\\
+(tr na i3 gub be e ne)\\
+marû: They will set up a stone.\\
+
+\verb||\\
+Animals and plants have different pronouns
+for the third person singular. Therefore,
+in the third person singular, the hamtu aspect
+is not the same for humans and animals.
+
+\verb||\\
+{\fsm 𒈾𒈬𒌒𒁺}\\
+(tr na mu ub gub)\\
+It has set up a stone.
+
+\newpage
+\section*{Intransitive verb conjugation}
+Intransitive verbs have the same forms
+for the hamtu and the marû aspects.
+Below is the complete conjugation
+of the verb {\fcn 𒁺} (ĝen),
+``to go'' (or ``to come'').
+
+\subsection*{Singular}
+{\fsm 𒉌𒁺𒂗}\\
+(tr i3 ĝen en)\\
+I went.
+
+\verb||\\
+{\fsm 𒉌𒁺𒂗}\\
+(tr i3 ĝen en)\\
+You went.
+
+\verb||\\
+{\fsm 𒉌𒁺}\\
+(tr i3 ĝen)\\
+He went.
+
+\subsection*{Plural}
+{\fsm 𒉌𒁻𒂗𒉈𒂗}\\
+(tr i3 re7 en de3 en)\\
+We went.
+
+\verb||\\
+{\fsm 𒉌𒁻𒂗𒍢𒂗}\\
+(tr i3 re7 en ze2 en)\\
+You people went.
+
+\verb||\\
+{\fsm 𒉌𒁻𒂠}\\
+(tr i3 re7 esh)\\
+They went.
+
+
+\chapter{Ur-Nammu-31}
+\begin{quotation}\fsm
+𒀭𒎏𒃲
+  
+𒎏𒀀𒉌
+
+𒌨𒀭𒇉
+
+𒍑𒆗𒂵
+
+𒈗𒋀𒀊𒆠𒈠
+
+𒈗𒆠𒂗𒄀𒆠𒌵𒆤
+
+𒉆𒋾𒆷𒉌𒂠
+
+𒀀𒈬𒈾𒊒
+\end{quotation}
+{\em For Ningal, his lady, Ur-Nammu,
+  the mighty man, the king of Ur,
+  the king of Sumer and Akkad,
+  dedicated this vessel for the protection of his life.}
+
+\verb||\\
+{\large\bf Sentence structure}
+\begin{verbatim}
+1- [ningal                            -- For Ningal,
+2-     nin a ni].{(r)}                -- his Lady,
+3- [ur-nammu                          -- Ur-Nammu,
+4-   nita kalag.{a} #adjective        -- the mighty man,
+5-   [lugal urim5 ma].{(k)}           -- the king of Ur,
+6-   [lugal ki-en-gi ki uri].{k}].{e} -- the king of Sumer and Akkad,
+7- [nam til3 a ni].{she3} #goal       -- for the sake of his life,
+8- a mu na ru                         -- dedicated (this vessel).
+\end{verbatim}
+
+\newpage
+\section{Verbal chain}
+A Sumerian verb appears
+as a chain of affixes in a particular order,
+which is depicted in the table below for
+the most common occurrences.\\
+
+\noindent
+\begin{tabular}[!h]{|l | l | l | l | l | l l l l l}
+  \hline
+  Modal  & Indicative & Negative
+  & Coortative & Desiderative\\
+  Prefix&$.\emptyset$ &\fsm 𒉡 &\fsm 𒂵 &\fsm 𒄩
+       {\texttt or} 𒃶\\
+  & null prefix & nu & ga & hha or hhe2\\
+  \hline
+  Conjugation  & Finite & Coordinator & Ventive & Middle Voice\\
+  Prefix&\fsm 𒉌 &\fsm 𒅔𒂵 &\fsm 𒈬 &\fsm 𒁀\\
+  & i3 & 'n ga & mu & ba\\
+  \hline
+  Dimensional & Dative &Locative &Directive &\\
+  Prefix &\fsm 𒈾&\fsm 𒉌 &\fsm 𒂠 & \\
+  & -na- & -ni- & -she3- &\\
+  \hline
+  Ergative & i3 du3 & e du3 & in du3 & ib2 du3 \\
+  Infix   &\fsm 𒉌𒆕&\fsm 𒂊𒆕 &\fsm 𒅔𒆕 &\fsm 𒌈𒆕\\
+  &I built & thou built & s/he built & they built\\
+  \hline
+  Verbal stem &\multicolumn{4}{l|}{\fsm 𒆕}\\
+  \hline
+\end{tabular}
+
+\subsection*{Example:}
+\begin{tabular}[!h]{l | l| l| l | l l l l l l}
+  \fcm 𒀭𒎏𒃲𒊏 &\fcm 𒈗𒂊 &\fcm 𒌷𒀀 &\fcm 𒂍&\fcm 𒈾𒉌𒅔𒆕\\
+  (tr an nin gal ra) & (tr lugal e) & (tr uru a) &
+  (tr e2) & (tr na ni in du3)\\
+  for Ningal & the king & in the city & a temple & he built\\
+  dative & ergative & locative & absolutive & ref. dat/loc\\
+\end{tabular}
+
+\newpage
+\section{Annotations}
+
+\noindent
+\begin{tabular}[!h]{l l l l l l}
+  \fsm  𒀭  𒎏𒃲 &\fsm 𒎏 &\fsm 𒀀𒉌\\
+  (an) ningal & nin & a ni\\
+  \multicolumn{3}{l}{(tr an ningal nin a ni)}\\
+  \multicolumn{3}{l}{\em For Ningal, his lady,}\\
+  \hline\\
+  \fcm 𒀭𒎏𒃲
+  &\multicolumn{2}{l}{($^d$Nin-gal) goddess of prisons}\\
+  \fcm 𒎏
+  &\multicolumn{2}{l}{(nin) lady}\\
+\end{tabular}
+
+\verb||\\
+\verb||\\
+\begin{tabular}[!h]{l l l l l l}
+  \fsm  𒌨𒀭𒇉 &\fsm 𒍑 &\fsm 𒆗 &\fsm 𒂵\\
+  ur-nammu & nita & kalag & ga\\
+  \multicolumn{4}{l}{(tr ur-nammu nita kalag ga)}\\
+  \multicolumn{4}{l}{\em Ur-Nammu, the mighty man,}\\
+  \hline\\
+  \fcm 𒍑
+  &\multicolumn{3}{l}{(nita) man}\\
+  \fcm 𒆗
+  &\multicolumn{3}{l}{(kalag) to be mighty}\\
+  \fcm 𒂵
+  &\multicolumn{3}{l}{(ga) {\em adj. from verb}}\\
+\end{tabular}
+
+\verb||\\
+\verb||\\
+\begin{tabular}[!h]{l l l l l l}
+  \fsm 𒈗 &\fsm 𒋀𒀊𒆠 &\fsm 𒈠\\
+  lugal & urim &  ma\\
+  \multicolumn{3}{l}{(tr lugal urim ma)}\\
+  \multicolumn{3}{l}{\em the king of Ur,}\\
+  \hline\\
+  \fcm 𒈗
+  &\multicolumn{2}{l}{(lugal) king}\\
+  \fcm 𒋀𒀊𒆠
+  &\multicolumn{2}{l}{(urim) the city of Ur}\\
+  \fcm 𒈠
+  &\multicolumn{2}{l}{(ma) {\em contr. of gen. with ``m''
+    of ``urim''}}\\
+\end{tabular}
+
+
+\verb||\\
+\verb||\\
+\begin{tabular}[!h]{l l l l l l}
+  \fsm 𒈗 &\fsm 𒆠𒂗𒄀 &\fsm 𒆠𒌵 &\fsm 𒆤\\
+  lugal & ki-en-gi & ki uri & ke4\\
+  \multicolumn{4}{l}{(tr lugal ki-en-gi ki uri ke4)}\\
+  \multicolumn{4}{l}{\em the king of Sumer and Akkad,}\\
+  \hline\\
+  \fcm 𒆠𒂗𒄀
+  &\multicolumn{3}{l}{(ki-en-gi) Sumer}\\
+  \fcm 𒆠𒌵
+  &\multicolumn{3}{l}{(ki uri) Akkad}\\
+  \fcm 𒆤
+  &\multicolumn{3}{l}{(ke4) {\em adj. contraction gen/erg}}\\
+\end{tabular}
+
+\verb||\\
+\verb||\\
+\begin{tabular}[!h]{l l l l l l}
+  \fsm 𒉆 &\fsm 𒋾 &\fsm 𒆷
+  &\fsm 𒉌 &\fsm 𒂠\\
+  nam & til3 & la & ni & she3\\
+  \multicolumn{5}{l}{(tr nam til3 la ni she3)}\\
+  \multicolumn{5}{l}{\em for the sake of his life,}\\
+  \hline\\
+  \fcm 𒉆//𒂠
+  &\multicolumn{4}{l}{(nam+ gen//she3) because of}\\
+  \fcm 𒉆𒁉𒂠 
+  &\multicolumn{4}{l}{(nam bi she3) because of this}\\
+  \fcm 𒋾
+  &\multicolumn{4}{l}{(til3) to live, to be alive}\\
+  \fcm 𒋾𒆷
+  &\multicolumn{4}{l}{(til3 la(k)) of his life}\\
+\end{tabular}
+
+\verb||\\
+The novelty in this inscription is the terminative
+marked with {\fcn 𒂠} (she3). According to Wikipedia,
+{\em Sumerians used the terminative case ``-še'' to
+  indicate end-points in space or time and
+  the targets or the goals of the action.}
+
+\verb||\\
+\verb||\\
+\begin{tabular}[!h]{l l l l l l}
+  \fsm 𒀀 &\fsm 𒈬 &\fsm 𒈾
+  &\fsm 𒊒\\
+  a & mu & na & ru\\
+  \multicolumn{4}{l}{(tr a mu na ru)}\\
+  \multicolumn{4}{l}{\em dedicated it (this object).}\\
+  \hline\\
+  {\fcm 𒀀} // {\fcm 𒈾}
+  &\multicolumn{3}{l}{(a//ru) to dedicate}\\
+\end{tabular}
+
+
+\chapter*{APPENDIX 3: Imperative}
+
+The prefix /ḫa/ {\fcn 𒄩} expresses a request
+to the second person. It can be considered
+a polite form of imperative.\\
+
+\verb||\\
+\begin{tabular}[!h]{l l l l l l l}
+\fsm 𒊺 &\fsm 𒈬 &\fsm 𒄩 &\fsm 𒈬 &\fsm 𒉐\\
+she     & ĝu10-my & hha & mu & tum3\\
+\multicolumn{5}{l}{(tr she ĝu10-my hha mu tum3)}\\
+\multicolumn{5}{l}{\em You should bring my barley.}\\
+\hline\\
+\fsm 𒊺 &\multicolumn{4}{l}{(she) barley, grain}\\
+\fsm 𒈬 &\multicolumn{4}{l}{(ĝu10) my,
+  {\em first-person possessive pronoun}}\\
+\fsm 𒈬 &\multicolumn{4}{l}{(mu) {\em ventive particle}, here }\\
+\fsm 𒉐 &
+\multicolumn{4}{l}{(tum3) {\em Alternative form of} {\fcn 𒁺} (tum2),
+  to bring }\\
+\end{tabular}\verb||\\
+
+\verb||\\
+On the other hand, the imperative expresses
+a direct command to a person. It is expressed
+by re-shaping the verbal phrase: imperative
+forms start with the hamtu base followed by
+the prefixes of the finite verbal form.\\
+
+\verb||\\
+\begin{tabular}[!h]{l l l l l l l l l l}
+  \fsm  𒋧 &\fsm 𒂷&\fsm 𒀊\\
+  shum2    & ma2-me & ab-it\\
+  \multicolumn{3}{l}{(tr shum2 ma2-me ab-it)}\\
+  \multicolumn{3}{l}{\em Give it to me.}\\
+  \hline\\
+  \fsm 𒋧  &\multicolumn{2}{l}{(šum2) to give}\\
+  \fsm 𒂷
+  &\multicolumn{2}{l}{(ma2)
+    {\em 1st-person personal pronoun:}
+    to me, I, with me}\\
+  \fsm 𒀊  &\multicolumn{2}{l}{(ab) {\em 3rd-person pronoun:} it}\\
+\end{tabular}
+
+\newpage
+\noindent
+Compare the imperative with the declarative sentence:\\
+
+\verb||\\
+\begin{tabular}[!h]{l l l l l l l l}
+  \fsm 𒂷 &\fsm 𒀀𒉈 &\fsm 𒋧\\
+  ma2 & a ne & shum2\\
+  \multicolumn{3}{l}{(tr ma2-me ane-him shum2)}\\
+  \multicolumn{3}{l}{\em He gave it to me.}\\
+  \hline\\
+  \multicolumn{3}{l}{{\fcm 𒋧} (shum2) to give }\\
+  \multicolumn{3}{l}{{\fcm 𒂷} (ma2)
+    {\em personal pronoun:} to me, I, with me }\\
+  \multicolumn{3}{l}{{\fcm 𒀀𒉈} (a ne) he, she }\\
+  \multicolumn{3}{l}{{\fcm 𒀀𒉈𒁕𒉡𒈨𒀀} (a ne da nu me a) without him }\\
+\end{tabular}\verb||\\
+
+\verb||\\
+Plural imperative forms add the
+suffix {\fcn 𒌦𒍢𒂗} (tr un ze2 en) that
+you will learn in a future lesson. This suffix
+means ``You people.''\\
+
+\verb||\\
+\begin{tabular}[!h]{l l l l l l l l l}
+  \fsm 𒎐 &\fsm 𒈬 &\fsm 𒁺 &\fsm 𒈬 &\fsm 𒌦𒍢𒂗\\
+  nin9-sister & ĝu10-my & tum2 & mu & un ze2 en\\
+  \multicolumn{5}{l}{(tr nin9-sister ĝu10-my tum2 mu un ze2 en)}\\
+  \multicolumn{5}{l}{\em You people, bring in my sister.}\\
+  \hline\\
+  \multicolumn{5}{l}{ {\fcm 𒎐} (nin9) sister }\\
+  \multicolumn{5}{l}{{\fcm 𒈬} (ĝu10-my) my}\\
+  \multicolumn{5}{l}{{\fcm 𒈬}(mu) {\em ventive prefix}, here }\\
+  \multicolumn{5}{l}{{\fcm 𒁺} (tum2) to bring,
+    pl. {\fcn 𒁻}}\\
+  \multicolumn{5}{l}{{\fcm 𒌦𒍢𒂗} (un ze2 en)
+    {\em suffix pronoun}: you people }\\
+\end{tabular}
+
+\newpage
+\noindent
+Another example of imperative:\\
+
+\verb||\\
+\begin{tabular}[!h]{l l l l l l l l l l}
+  \fsm 𒅗 &\fsm 𒀀𒉈 &\fsm 𒀊\\
+  dug4 & ane-him & ab-it\\
+  \multicolumn{3}{l}{(tr dug4 ane-him ab-it)}\\
+  \multicolumn{3}{l}{\em Say it to him.}\\
+  \hline\\
+  \multicolumn{3}{l}{{\fcm 𒅗} (dug4) to speak, to say}\\
+  \multicolumn{3}{l}{{\fcm 𒀀𒉈} (ane-him) he/him, she/her}\\
+  \multicolumn{3}{l}{{\fcm 𒀊} (ab-it) {\em 3rd-person pron.:} it}\\
+\end{tabular}
+
+\verb||\\
+\verb||\\
+In the imperative, the prefix {\fcn 𒉌} (i3)
+is often replaced by /-a/:\\
+
+\verb||\\
+{\fsm 𒂍𒂠𒉌𒁺}\\
+(tr e2 she3 i3 ĝen)\\
+``He went home.''\\
+
+\verb||\\
+{\fsm 𒂍𒂠𒁺𒈾}\\
+(tr e2 she3 ĝen na)\\
+Go home!
+
+\newpage
+\section*{Conjunctions}
+All languages have conjunctions
+to connect sentences, and Sumerian is no exception.
+An important conjunction is tukun-be2,
+which means ``if.''\\
+
+\verb||\\
+\begin{tabular}[!h]{l l l l l l l l l l}
+ \large\fcn 𒋗𒃻𒌉𒇲 &\large\fcn 𒁾𒁉𒋫
+ &\large\fcn 𒅗 &\large\fcn 𒈬𒁕𒀊 𒌤
+ &\large\fcn 𒂍𒂠 &\large\fcn 𒁺𒈾\\
+ tukum-be2 & dub bu2 ta & gu3 & mu da ab de2
+ & e2 she3 & ĝen na\\
+ if & this tablet & out & can read & to house & go\\
+ \multicolumn{6}{l}{(tr tukum dub be2 ta gu3
+   mu da ab de2 e2 she3 ĝen na)}\\
+ \multicolumn{6}{l}{\em If you can read out this
+ tablet, go home.}\\
+\end{tabular}
+
+\subsection*{Vocabulary}
+
+\verb||\\
+{\fsm 𒉈𒂗} • (ne-en) this thing\\
+\verb||\\
+{\fsm 𒋗𒃻𒌉𒇲𒁉} • (tukun-be2) if\\
+\verb||\\
+{\fsm 𒅗} // {\fsm 𒌤} • (gu3//de2) to read out,
+     {\em requires ablative}\\
+\verb||\\
+{\fsm 𒁾} • (dub) tablet\\
+\verb||\\
+{\fsm 𒁾𒁉} • (dub.be2) this tablet\\
+
+\verb||\\
+Other important conjunctions
+are {\fcn 𒅇} (tr u3) ``/also||and/,''
+{\fcn 𒌓} (tr ud) ``/when/,''
+{\fcn 𒌓𒁕}  (tr ud da) ``/when||if/,''
+{\fcn 𒋗𒃻𒌉𒇲𒁉} (tr tukum bi) ``/if/''
+and {\fcn 𒂗𒈾}  (tr en na)  ``/until/.''
+
+\newpage
+\subsection*{Mark of an entrepreneur}
+\verb||\\
+{\fsm 𒀚 𒅇 𒉆𒆬𒍪}\\
+(tr lipish u3 nam-ku3-zu)\\
+Courage and Sagacity\\
+
+\subsection*{Vocabulary}
+\verb||\\
+{\fsm 𒀚}  (lipish) emotion, anger, rage, courage\\
+\verb||\\
+{\fsm 𒅇}  (u3) and\\
+\verb||\\
+{\fsm 𒉆𒆬𒍪}  (nam-ku3-zu) intelligence, sagacity\\
+
+\subsection*{A colaborator is a brother}
+\verb||\\
+{\fsm 𒍝𒂊} • {\fsm 𒅇} • {\fsm 𒂷𒂊} • {\fsm 𒋀} • {\fsm 𒈨𒂗𒉈𒂗}\\
+za-e • u3 • g̃a2-e • shesh • me.en.de3.en\\
+you • and • I • brothers • we are\\
+You and I are brothers.\\
+
+\subsection*{Vocabulary}
+\verb||\\
+{\fsm 𒍝𒂊} • (za-e /ze/) Alternative form of 𒍢, you\\
+\verb||\\   
+{\fsm 𒅇} • (u3) and\\
+\verb||\\    
+{\fsm 𒂷𒂊} • (g̃a2-e) {\em Alternative form of}
+  {\fcn 𒂷} (g̃e26), “I”\\
+\verb||\\
+{\fsm 𒋀} • (šeš /šeš/) brother, collaborator\\
+\verb||\\
+{\fsm 𒈨𒂗𒉈𒂗} • (me.en.de3.en) we are\\
+
+\section*{Dedication to Gilgamesh}
+Gilgamesh was the first king of Uruk. His rule
+probably took place in the beginning of the
+Dynastic Period, c. 2900 – 2350 BC, and he became
+a major figure in Sumerian legend during the
+Third Dynasty of Ur, from circa 2112 to circa 2004 BC.\\
+
+\verb||\\
+{\fsm 𒀭𒄑𒉋𒂵𒎌𒊏}\\
+{\fsm 𒌨𒀭𒇉𒈗𒆠𒂗𒄀𒆠𒌵𒆤}\\
+{\fsm 𒌓𒂍𒀭𒋀𒆠𒈬𒆕𒀀}\\
+{\fsm 𒀀𒈬𒈾𒊒}\\
+
+\verb||\\
+{\large\fcn 𒀭𒄑𒉋𒂵𒎌 𒊏}\\
+(tr bil3-ga-mesh3 ra)\\
+For Gilgamesh,
+\begin{quote}
+{\fcm 𒊏} • (ra) {\em Dative marker}, to || for\\
+\end{quote}
+
+\verb||\\
+{\fcm 𒌨𒀭𒇉} • {\fcm 𒈗} • {\fcm 𒆠𒂗𒄀}
+     • {\fcm 𒆠𒌵} • {\fcm 𒆤}\\
+(tr ur-nammu  • lugal  • ki-en-gi • ki uri • ke4)\\
+Ur-Nammu, the king of Sumer and Akkad,\\
+\begin{quote}
+{\fcm 𒆠𒂗𒄀} • (ki-en-gi) Sumer\\
+\verb||\\  
+{\fcm 𒆠𒌵} • (ki-uri) Akkad
+\end{quote}
+
+\verb||\\
+{\fcm 𒌓} • {\fcm 𒂍𒀭𒋀𒆠} • {\fcm 𒈬𒆕} • {\fcm 𒀀}\\
+(tr ud • e2 an nanna • mu du3 • a)\\
+when he built the temple of Nanna,\\
+\begin{quote}
+Obs. {\fcn 𒀀} (a) is the locative marker.\\
+{\fcm 𒌓} • (ud) when\\
+{\fcm 𒂍𒀭𒋀𒆠} • (e2 an nanna) temple of the god Nanna\\
+{\fcm 𒈬𒆕} • (mu-du3) he built here
+\end{quote}
+
+\newpage
+\noindent
+{\fcm 𒉈𒂗} • {\fcm 𒀀} / {\fcm 𒈬𒈾} / {\fcm 𒊒}\\
+(tr ne-en • a / mu-e / ru)\\ 
+he dedicated this object.\\
+\begin{quote}
+{\fcm 𒉈𒂗} • (ne-en) this thing, this object\\
+{\fcm 𒀀}//{\fcm 𒊒} • (a // ru) to dedicate\\
+Obs. the verb {\fcn 𒀀}//{\fcn 𒊒} is split around its prefixes
+\end{quote}
+The {\fcn 𒀀}/ (a/) component comes before the prefix chain,
+and the /{\fcn 𒊒} (/ru) component comes after.
+In the vocabulary, the two components
+of such a verb are separated by a double
+slash, C1//C2. Examples:
+\begin{quote}
+{\fcm 𒅗}//{\fcm 𒌤} • (gu3//de2) to read out,
+  {\em requires ablative}\\
+{\fcm 𒀀}//{\fcm 𒊒} • (a // ru) to dedicate\\
+{\fcm 𒊕𒄑}//{\fcm 𒊏} • (sag̃-g̃iš-ra) to commit murder
+\end{quote}
+
+\section*{Ur-Nammu's Law}
+\noindent
+{\fsm 𒋗𒃻𒌉𒇲𒁉 𒇽𒅇 𒊕𒄑 𒉈𒅔 𒊏}\\
+{\fsm 𒇽𒁉𒉌𒄤𒂊}\\
+\verb||\\
+(tr tukun-be2 lu2 u3 saĝ gish bi in ra lu2 bi i3 gaz e)\\
+If a man commits murder,\\
+this man will be executed.\\
+
+\verb||\\
+{\fcm 𒋗𒃻𒌉𒇲𒁉} • {\fcm 𒇽} • {\fcm 𒅇}
+     • {\fcm 𒊕𒄑}/ {\fcm 𒉈𒅔} /{\fcm 𒊏}\\
+(tr tukun-be2 • lu2 • u3 • saĝ-gish / bi in / ra)\\
+if • a man • and • commit murder,\\
+\begin{quote}  
+{\fcm 𒋗𒃻𒌉𒇲𒁉} • (tukun-be2) if\\
+{\fcm 𒇽} • (lu2) man\\
+{\fcm 𒅇} • (u3) and\\
+{\fcm 𒊕𒄑}//{\fcm 𒊏} • (sag̃-g̃iš-ra) to commit murder
+\end{quote}
+
+\newpage
+\noindent
+{\fcm 𒇽𒁉} • {\fcm 𒉌𒄤𒂊}\\
+(tr lu2 bi • i3 gaz e)\\
+that man • will be executed\\
+\begin{quote}
+{\fcm 𒇽𒁉} • (lu2 bi or lu2 be2) this man\\
+{\fcm 𒉌} • (i3) {\em finite verb marker in the verbal chain}\\
+{\fcm 𒄤} • (gaz) to kill, to slaughter, to execute
+\end{quote}
+
+\subsection*{Vocabulary for the examples of conjunction}
+\noindent
+{\fcm 𒍝𒂊} • (za-e /ze/) {\em Alternative form of} {\fcn 𒍢}, you\\
+\verb||\\    
+{\fcm 𒉈𒂗} • (ne-en) this thing\\
+\verb||\\
+{\fcm 𒀀}// {\fcm 𒊒} • (a // ru) to dedicate\\
+\verb||\\
+{\fcm 𒌓} • (ud) sun, day, when\\
+\verb||\\
+{\fcm 𒆠𒂗𒄀} • (ki-en-gi) Sumer\\
+\verb||\\
+{\fcm 𒆠𒌵} • (ki-uri) Akkad\\
+\verb||\\
+{\fcm 𒄤} • (gaz) to kill, to execute\\
+\verb||\\
+{\fcm 𒊕𒄑}//{\fcm 𒊏} • (sag̃-g̃iš-ra) to commit murder\\
+\verb||\\
+{\fcm 𒇽} • (lu2) man\\
+\verb||\\
+{\fcm 𒇽𒁉} • (lu2 bi or lu2 be2) this man\\
+\verb||\\
+{\fcm 𒉈𒂗} • (ne en) this object\\
+\verb||\\
+{\fcm 𒉈} • (ne) this object\\
+\verb||\\
+{\fcm 𒋗𒃻𒌉𒇲𒁉} • (tukun-be2) if\\
+
+\chapter{Ur-Nammu-23}
+
+{\fsm
+𒀭𒂗𒆤\\
+𒈗𒆳𒆳𒊏\\
+𒈗𒀀𒉌\\
+𒌨𒀭𒇉\\
+𒈗𒋀𒀊𒆠𒈠\\
+𒈗𒆠𒂗𒄀𒆠𒌵𒆤\\
+𒂍𒀀𒉌\\
+𒈬𒈾𒆕\\
+𒀀𒇉𒂗𒂟𒉣\\
+𒀀𒇉𒉻𒀭𒈹𒅗𒉌\\
+𒈬𒈾𒁀𒀠\\
+}
+\verb||\\
+Translation:
+{\em For Enil, the king of all the lands, his master,
+  Ur-Nammu, the king of Sumer and Akkad, built his temple.
+  The king also dredged the Enerinnun canal for Enlil.}
+
+\newpage
+\section{Sentence structure}
+The text starts with the benefactive,
+that ends in \verb|{(r)}|, not expressed.
+
+{\fsm 𒀭𒂗𒆤
+
+𒈗𒆳𒆳𒊏
+
+𒈗𒀀𒉌} 
+
+The plural of nouns that refer to human beings
+is formed by a suffixed ``\verb|ene|''. The plural of things,
+plants and animals is usually unmarked.
+Reduplication
+-- such as ``\verb|kur kur|'' ({\fcn 𒆳𒆳}) --
+conveys the idea of totality: "all the lands."
+
+Then comes the agent, with the E prefix
+combined with the genitive ending
+into KE4 ({\fcn 𒆤}).
+
+The next in the line is the object that
+was built, to wit, his temple {\fcn 𒂍𒀀𒉌}
+(tr e2 a ni).
+\begin{verbatim}
+1- [enlil                          -- For Enlil,
+2-   [lugal kur kur].{ra(K)}       -- the king of all lands,
+3-   [lugar ani]].{(r)}            -- his king,
+4- [ur nammu                       -- Ur-Nammu,
+5-   [lugal urim].{ma(k)}          -- king of Ur,
+6-   lugal [kiengi kiuri].{k}].{e} -- king of Sumer and Akkad,
+7- [e2 ani].{}                     -- his temple
+8- mu na du3                       -- build
+9- [id2 en erin2 nun               -- The Enerinnun canal,
+10- [id2 nidba].{k}.ani].{}        -- his canal of food offering,
+11- mu na ba al                    -- (the king) dredged for him.
+\end{verbatim}
+
+\section{Annotations}
+
+\begin{tabular}[!h]{l l l l l l l l}
+  \fcm 𒀭𒂗𒆤 &\fcm 𒈗 &\fcm 𒆳𒆳𒊏 &\fcm 𒈗𒀀𒉌\\
+  an en lil2  & lugal     & kur kur ra & lugal a ni\\
+  \multicolumn{4}{l}{(tr an en lil2 lugal kur kur ra lugal a ni) }\\
+  \multicolumn{4}{l}{\em For Enlil, king of all lands, his master,}\\
+  \hline\\
+  \multicolumn{4}{l}{{\fcm 𒀭𒂗𒆤}
+     (d-en-lil2) Enlil, the king of gods}\\
+  \multicolumn{4}{l}{{\fcm 𒆳}  (kur) mountain,land, country}\\
+\end{tabular}
+
+\newpage
+\noindent
+\begin{tabular}[!h]{l l l l l l l l l}
+\fcm 𒌨𒀭𒇉 &\fcm 𒈗 &\fcm 𒋀𒀊𒆠 &\fcm 𒈠\\
+(tr ur-nammu) & (tr lugal) & (tr urim5) & (tr ma)\\
+\multicolumn{4}{l} {(tr ur-nammu lugal urim5 ma)}\\
+\multicolumn{4}{l} {\em Ur-Nammu, the king of Ur,}\\
+\end{tabular}\verb||\\
+
+\verb||\\
+\begin{tabular}[!h]{l l l l l l l l l}
+\fcm 𒈗 &\fcm 𒆠𒂗𒄀 &\fcm 𒆠𒌵 &\fcm 𒆤\\
+(tr lugal) & (tr ki-en-gi) & (tr ki uri) & (tr ke4)\\
+\multicolumn{4}{l} {(tr lugal ki-en-gi ki uri ke4)}\\
+\multicolumn{4}{l} {\em the king of Sumer and Akkad, }\\
+\end{tabular}\verb||\\
+
+\verb||\\
+\begin{tabular}[!h]{l l l l l l l l l}
+\fcm 𒂍 &\fcm 𒀀𒉌 &\fcm 𒈬𒈾𒆕\\
+(tr e2) & (tr a ni) & (tr mu na du3)\\
+\multicolumn{3}{l} {(tr e2 a ni mu na du3)}\\
+\multicolumn{3}{l} {\em he has built the god's temple.}\\
+\end{tabular}\\
+
+\verb||\\
+\begin{tabular}[!h]{l l l l l l l l l}
+\fcm 𒀀𒇉 &\fcm 𒂗 &\fcm 𒂟 &\fcm 𒉣\\
+(tr id2) & (tr en) & (tr erin2) & (tr nun)\\
+\multicolumn{4}{l} {(tr id2 en erin2 nun)}\\
+\multicolumn{4}{l} {\em  }\\
+\end{tabular}\\
+
+\verb||\\
+\begin{tabular}[!h]{l l l l l l l l l}
+\fcm 𒀀𒇉 &\fcm 𒂗 &\fcm 𒂟 &\fcm 𒉣\\
+(tr id2) & (tr en) & (tr erin2) & (tr nun)\\
+\multicolumn{4}{l} {(tr id2 en erin2 nun)}\\
+\multicolumn{4}{l} {\em The Enerinnun canal,}\\
+\end{tabular}\\
+
+\verb||\\
+\begin{tabular}[!h]{l l l l l l l l l}
+\fcm 𒀀𒇉 &\fcm 𒉻𒀭𒈹 &\fcm 𒅗 &\fcm 𒉌 &\fcm 𒈬𒈾𒁀𒀠\\
+(tr id2) & (tr nidba) & (tr ka)
+  & (tr ni) & (tr mu na ba al)\\
+\multicolumn{5}{l} {(tr id2 nidba ka ni mu na ba al)}\\
+\multicolumn{5}{l} {\em his canal of food offerings,
+  the king dredged for him.}\\
+\end{tabular}\\
+
+\newpage
+\subsection*{Vocabulary}
+
+\verb||\\
+{\fcm 𒀀𒇉}  (id2) river, watercourse, canal\\
+
+\noindent
+{\fcm 𒉻}  (kurum6) food ration\\
+
+\noindent
+{\fcm 𒉻𒀭𒈹𒅗} (kurum6 inanna.k) food of Inanna\\
+
+\noindent
+{\fcm 𒁀}// {\fcm 𒀠}  (ba-al) to excavate, to dig\\
+
+\chapter*{Appendix 4: Numerals}
+
+You completed lesson four. Then you should
+be able to read many votive Sumerian artifacts
+that you find in museums around the world.
+
+To boost your reading skills, I recommend that
+you go back to the first lesson and read
+the contents of the {\bf APPENDIX: Gramar notes}.
+Thus, you will improve your holding of case
+elements, and learn that the dative changes
+depending on the person to whom the scribe
+is dedicating a building or an object.
+You will also receive an introductory concepts
+of transitive verbs, intransitive verbs,
+the hamtu and the marû conjugation.
+
+However, before returning to the first lesson,
+you may want to read about Sumerian numerals,
+and learn to count things in cuneiform.
+
+\section*{Sumerian Numerals}
+To count things, modern people use ten digits:
+1, 2, 3, 4, 5, 6, 7, 8, 9 and 0.
+Therefore, it is said that we use base 10.
+Computers use only two digits to perform
+calculations: 0 and 1. Then, computers work
+with base 2. As we will see below, Sumerians
+used base 60. Therefore, they needed 60 digits
+to count things.
+
+You will be happy to learn that we still use
+the Sumerian method of counting when we deal
+with navigation and time. That is the reason
+for having 60 minutes in an hour and 60 seconds
+in a minute. Besides this, the latitude and
+the longitude that determines a position on
+the Earth's surface is measured in degrees,
+where each degree is divided in 60 minutes.
+
+Since the distance from the North Pole
+is 90 degrees and ten thousand km, each
+degree of latitude has 10000/90,
+roughly 111 km. If you divide 111 km
+by 60 to discover the length of one minute,
+you get 1852 km, which is a nautical mile.
+
+\newpage
+\subsection*{Numbers from 1 to 9: dish}
+Numbers from 1 to 9 can also be represented
+by vertical wedges, as shown below.
+\begin{enumerate}
+\item (tr dish) {\fcm 𒁹}  
+\item (tr 2-dish) {\fcm 𒈫}  
+\item (tr 3-dish) {\fcm 𒐈} 
+\item (tr 4-dish) {\fcm 𒐉} 
+\item (tr 5-dish) {\fcm 𒐊} 
+\item (tr 6-dish) {\fcm 𒐋} 
+\item (tr 7-dish) {\fcm 𒐌} 
+\item (tr 8-dish) {\fcm 𒐍} 
+\item (tr 9-dish) {\fcm 𒐎}
+\end{enumerate}
+
+\newpage
+\subsection*{Numbers from 10 to 50}
+Numbers from 10 to 50 can be represented
+with Winkelhaken. By the way, Winkelhaken
+is a German word that means angle-hook.
+The plural is Winkelhaken. Then, one can
+say that five Winkelhaken represents
+the number fifty.
+
+\begin{itemize}
+\item 10 (tr 1-u) {\fcm 𒌋} 
+\item 20 (tr 2-u) {\fcm  𒎙} 
+\item 30 (tr 3-u) {\fcm 𒌍} 
+\item 40 (tr 4-u) {\fcm 𒐏} 
+\item 50 (tr 5-u) {\fcm  𒐐} 
+\item 60 (tr 6-u) {\fcm 𒐑} 
+\item 70 (tr 7-u) {\fcm 𒐒} 
+\item 80 (tr 8-u) {\fcm 𒐓} 
+\item 90 (tr 9-u) {\fcm 𒐔} 
+\item 54 (tr 5-u 4-dish) {\fcm 𒐐𒐉} 
+\item 42 (tr 4-u 2-dish) {\fcm 𒐏𒈫} 
+\end{itemize}
+
+\newpage
+\subsection*{Numbers from 60 to 540}
+The Sumerians represented multiples of
+sixty with the same symbols they used
+for counting from 1 to 9: vertical wedges.
+This makes sense because their numerical
+base was 60. Then, in the same way that
+we use the digit 1 to represent
+the number one and the number ten,
+the Sumerians used {\fcn 𒐕}  to represent
+the numbers one and sixty. However, in
+these lessons, you will use ĝesh-wedges
+to represent multiples of 60. The ĝesh wedges
+are slightly larger than the dish wedges.
+\begin{itemize}
+\item 60 (cn ĝesh) {\fcm 𒐕} 
+\item 120 (cn 2-ĝesh) {\fcm 𒐖} 
+\item 180 (cn 3-ĝesh) {\fcm 𒐗} 
+\item 240 (cn 4-ĝesh) {\fcm 𒐘} 
+\item 300 (cn 5-ĝesh) {\fcm 𒐙} 
+\item 360 (cn 6-ĝesh) {\fcm 𒐚} 
+\item 420 (cn 7-ĝesh) {\fcm 𒐛}
+\item 480 (cn 8-ĝesh) {\fcm 𒐜}
+\item 540 (cn 9-ĝesh) {\fcm 𒐝} 
+\end{itemize}
+
+\newpage
+\subsection*{Numbers from 600 to 3600}
+The geshu wedges are used to represent
+both multiples of 600 and the
+numbers 70, 80, 90, 100 and 110,
+as shown below.
+\begin{itemize}
+\item 600 or 70 (tr 600-geshu) {\fcm 𒐞} 
+\item 1200 or 80 (tr 1200-2-geshu) {\fcm 𒐟} 
+\item 1800 or 90 (tr 1800-3-geshu) {\fcm 𒐠} 
+\item 2400 or 100 (tr 2400-4-geshu) {\fcm 𒐡} 
+\item 3000 or 110 (tr 3000-5-geshu) {\fcm 𒐢} 
+\item 3600 (tr 3600-shar2) {\fcm 𒊹}
+\end{itemize}
+
+\chapter{Ur-Nammu-5}
+\begin{quotation}
+{\fsm 𒀭𒈗𒀭𒊑𒉈} \\
+    
+{\fsm 𒈗𒀀𒉌} \\
+
+{\fsm 𒌨𒀭𒇉} \\
+
+{\fsm 𒈗𒋀𒀊𒆠𒈠𒆤} \\
+
+{\fsm 𒄑𒊬𒈤} \\
+
+{\fsm 𒈬𒈾𒁺} \\
+
+{\fsm 𒁈𒆠𒂖𒆷} \\
+
+{\fsm 𒈬𒈾} 
+\end{quotation}
+Translation:
+{\em Ur-Nammu, the king of Ur, planted a magnificent
+  garden for An, the king of gods. He also has built
+  a dais in a pure place for the god.}
+
+\newpage
+\section*{Sentence structure}
+\begin{verbatim}
+1- [an lugal [diĝir.{re.ne}]      -- For An, king of the gods,
+2-    lugal a ni].{(r)}           -- his master,
+3- [ur-nammu                      -- Ur-Nammu,
+4-   [lugal urim5].{ma (k)}].{e}  -- the king of Ur,
+5- [gish kiri6 mah].{Ø}           -- an outstandig garden
+6- mu na gub                      -- planted.
+7- [barag [ki sikil].{la}].{Ø}    -- a dais in a pure place
+8- mu na du3                      -- (the king) built (for An).
+\end{verbatim}
+
+\section{Annotations}
+\verb||\\
+\begin{tabular}[!h]{l l l l l l l l l}
+\fcm 𒀭 &\fcm 𒈗 &\fcm 𒀭 &\fcm 𒊑𒉈\\
+(tr an) & (tr lugal) & (tr digir) & (tr re ne)\\
+\multicolumn{4}{l} {(tr an lugal digir re ne)}\\
+\multicolumn{4}{l} {\em For An, the king of the gods,}\\
+\hline\\
+\multicolumn{4}{l} {{\fcm 𒀭} (an) sky, the sky god Ān }\\
+\multicolumn{4}{l} {{\fcm 𒀭} (digir) deity, god/goddess }\\
+\multicolumn{4}{l} {{\fcm 𒀭𒊑𒉈} (diggir-rene) gods }\\
+\end{tabular}\\
+
+\verb||\\
+\begin{tabular}[!h]{l l l l l l l l l}
+\fcm 𒈗 &\fcm 𒀀𒉌\\
+(tr lugal) & (tr a ni)\\
+\multicolumn{2}{l} {(tr lugal a ni)}\\
+\multicolumn{2}{l} {\em his master, }\\
+\end{tabular}\\
+
+\verb||\\
+\begin{tabular}[!h]{l l l l l l l l l}
+\fcm 𒌨𒀭𒇉 &\fcm 𒈗 &\fcm 𒋀𒀊𒆠𒈠𒆤\\
+(tr ur-nammu) & (tr lugal) & (tr urim5 ma ke4)\\
+\multicolumn{3}{l} {(tr ur-nammu lugal urim5 ma ke4)}\\
+\multicolumn{3}{l} {\em the king of Ur,}\\
+\end{tabular}\\
+
+\verb||\\
+\begin{tabular}[!h]{l l l l l l l l l}
+\fcm 𒄑 &\fcm 𒊬 &\fcm 𒈤 &\fcm 𒈬𒈾𒁺\\
+(tr gish) & (tr kiri6) & (tr mah) & (tr mu na gub)\\
+\multicolumn{4}{l} {(tr gish kiri6 mah mu na gub)}\\
+\multicolumn{4}{l} {\em a magnificent garden he planted.}\\
+\end{tabular}\\
+
+\newpage
+\begin{tabular}[!h]{l l l l l l l l l}
+\fcm 𒁈 &\fcm 𒆠 &\fcm 𒂖 &\fcm 𒆷 &\fcm 𒈬𒈾𒆕\\
+(tr barag) & (tr ki) & (tr sikil) & (tr la) & (tr mu na du3)\\
+\multicolumn{5}{l} {(tr barag ki sikil la mu na du3)}\\
+\multicolumn{5}{l} {\em He also has built a dais
+  in a pure place for An.  }\\
+\end{tabular}\\
+
+\subsection*{Vocabulary}
+\noindent
+{\fcm 𒄑}   (g̃eš, g̃iš) tree\\
+
+\noindent
+{\fcm 𒊬}   (kiri6) orchard, garden plot\\
+
+\noindent
+{\fcm 𒈤}   (maḫ) to be lofty, magnificent\\
+
+\noindent
+{\fcm 𒁈}   (barag) dais, throne\\
+
+\noindent
+{\fcm 𒂖}   (sikil) to be pure, clean\\
+
+
+\end{document}

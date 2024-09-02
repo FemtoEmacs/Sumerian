@@ -14,17 +14,10 @@ There are two ways of typesetting Sumerian. The first uses Unicode and a scripta
 There are few grammar books for Sumerian. Unfortunately, Marie-Louise Thomsen's "**The Sumerian Language**" does not use cuneiform, so I cannot recommend it. This leaves us with John Hayes' **Manual of Sumerian** and Joshua Bowen's **Learn to Read Ancient Sumerian**. Therefore, I advise you to buy  "**A Manual of Sumerian: Grammar and Texts**" by Hayes to learn this ancient language in depth. It is also a good idea to acquire "**Learn to Read Ancient Sumerian**" by Joshua Bowen and Megan Lewis.
 
 ## Disclaimer
-The owner of this portal is not a scholar
-in Sumerian studies in any sense. His collaborators
-are not scholars either. Therefore, people associated
-with this tutorial may not help serious students
-of cuneiforms to solve pendencies.
 
-This site's finality is to help tourists reading
-royal inscriptions that they may find in
-museums and universities. The site may be
-useful to amateur historians who need
-to assert the meaning of ancient documents.
+The owner of this portal is not a scholar in Sumerian studies, nor are his collaborators. Therefore, individuals associated with this tutorial may not be able to assist serious students of cuneiform to solve pendencies.
+
+This site's primary purpose is to help tourists read royal inscriptions they may encounter in museums and universities. It may also be useful to amateur historians seeking to understand the meanings of ancient documents.
 
 For scholars and graduate students who are
 writing their thesis, the webmaster of this

@@ -1,4 +1,4 @@
-(setq xxx (make-hash-table :size 1200))
+{\fcn (setq xxx (make-hash-table :size 1200))
 
 ;;(puthash 'lugal  "𒇽" xxx)
 ;;(puthash 'bad3  "𒂦" xxx)
@@ -740,7 +740,7 @@
     (insert "{\\fcm ")
     (goto-char (point-max))
     (insert "} ")))
-
+ 
 (global-set-key (kbd "C-c C-n") 'cuneiform)
 (global-set-key (kbd "C-c C-g") 'cuneiform-large)
 (global-set-key (kbd "C-c C-d") 'wrap-cuneiform-medium)

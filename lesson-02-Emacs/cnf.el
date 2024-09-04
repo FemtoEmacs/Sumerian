@@ -795,5 +795,77 @@
 
 (global-set-key (kbd "C-c C-w") 'mktable)
 
+(defun process-transliteration(s)
+  (eval (cons 'tr s)))
+
+(defun sumerian-typesetting(beg end)
+  (interactive "r")
+  (let* ((txt (buffer-substring-no-properties beg end))
+	 (s (car (read-from-string txt)) ))
+    (cond ((listp s) 
+           (kill-region beg end)
+           (process-transliteration s))
+	  (t (princ "Syntax error!")) )) )
+
+
+(global-set-key (kbd "C-c C-/") 'sumerian-typesetting)
+
+(defun process-small(s)
+  (insert "{\\fcn ")
+  (eval (cons 'tr s))
+  (insert "} "))
+
+(defun sumerian-small-letters(beg end)
+  (interactive "r")
+  (let* ((txt (buffer-substring-no-properties beg end))
+	 (s (car (read-from-string txt)) ))
+    (cond ((and (listp s) (< (length s) 20))
+           (kill-region beg end)
+           (process-small s))
+	  (t (princ "Syntax error!")) )) )
+
+
+(global-set-key (kbd "C-x C-,") 'sumerian-small-letters)
+
+(defun process-medium(s)
+  (insert "{\\fcm ")
+  (eval (cons 'tr s))
+  (insert "} "))
+
+(defun sumerian-medium-letters(beg end)
+  (interactive "r")
+  (let* ((txt (buffer-substring-no-properties beg end))
+	 (s (car (read-from-string txt)) ))
+    (cond ((and (listp s) (< (length s) 20))
+           (kill-region beg end)
+           (process-medium s))
+	  (t (princ "Syntax error!")) )) )
+
+
+(global-set-key (kbd "C-x C-.") 'sumerian-medium-letters)
+
+
+
+;;; Large
+(defun process-large(s)
+  (insert "{\\fsm ")
+  (eval (cons 'tr s))
+  (insert "} "))
+
+(defun sumerian-large-letters(beg end)
+  (interactive "r")
+  (let* ((txt (buffer-substring-no-properties beg end))
+	 (s (car (read-from-string txt)) ))
+    (cond ((and (listp s) (< (length s) 20)) 
+           (kill-region beg end)
+           (process-large s))
+	  (t (princ "Syntax error!")) )) )
+
+
+(global-set-key (kbd "C-x C-y") 'sumerian-large-letters)
+
+
+
+;; {\fsm 𒀭𒂗𒆤} 
 ;; ((tr an en lil2) (tr lugar kur kur ra) (tr a ni))
 ;; ((tr an en lil2) (tr lugar kur kur ra) (tr a ni))

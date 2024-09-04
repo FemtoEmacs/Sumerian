@@ -116,6 +116,7 @@
 	;; (cn ki uri ke4)         𒆠𒌵𒆤
 	;; (cn e2 a ni)            𒂍𒀀𒉌
 	;; (cn mu na du3)          𒈬𒈾𒆕
+        ("𒍝" your za)
 	
 	;;lesson 3
 	("𒎏𒃲"  u+1238f ningal) ;;35

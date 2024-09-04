@@ -1,5 +1,40 @@
 \begin{theindex}
 
+  \item 1-u {\fcn 𒌋} 
+    \subitem  ten, 51
+  \item 2-dish {\fcn 𒈫}   
+    \subitem  two, 50
+  \item 2-u {\fcn 𒎙}  
+    \subitem  twenty, 51
+  \item 2-ĝesh {\fcn 𒐖}  
+    \subitem  120, 52
+  \item 3-dish {\fcn 𒐈} 
+    \subitem  three, 50
+  \item 3-u {\fcn 𒌍} 
+    \subitem  thirty, 51
+  \item 4-dish {\fcn 𒐉}  
+    \subitem  four, 50
+  \item 4-u 2-dish {\fcn 𒐏𒈫}  
+    \subitem  42, 51
+  \item 4-u {\fcn 𒐏}  
+    \subitem  forty, 51
+  \item 5-dish {\fcn 𒐊}   
+    \subitem  five, 50
+  \item 5-u 4-dish {\fcn 𒐐𒐉} 
+    \subitem  54, 51
+  \item 5-u {\fcn 𒐐}  
+    \subitem  fifty, 51
+  \item 6-dish {\fcn 𒐋}   
+    \subitem  six, 50
+  \item 7-dish {\fcn 𒐌}   
+    \subitem  seven, 50
+  \item 8-dish {\fcn 𒐍}   
+    \subitem  eight, 50
+  \item 9-dish {\fcn 𒐎}   
+    \subitem  nine, 50
+
+  \indexspace
+
   \item  ba an re6 {\fcn 𒁀𒀭𒁺} 
     \subitem  {\em middle voice} , 17
 
@@ -36,6 +71,7 @@
     \subitem  mother  , 18
   \item an {\fcn 𒀭} 
     \subitem  determinative of god, 1
+    \subitem  sky, the sky god An, 56
   \item an {\fcn 𒋀𒆠} 
     \subitem  god Nanna, 1
   \item ane-him {\fcn 𒀀𒉈} 
@@ -43,6 +79,8 @@
 
   \indexspace
 
+  \item ba al {\fcn 𒁀𒀠} 
+    \subitem  to excavate, to dig, 47
   \item ba re6 {\fcn 𒁀𒁺} 
     \subitem  {\em passive voice} , 17
   \item bad3 {\fcn 𒂦} 
@@ -58,6 +96,12 @@
     \subitem  with, comit. mark, 10
   \item dab5 {\fcn 𒆪}  
     \subitem  tablet, 24
+  \item digir digir re ne {\fcn 𒀭𒀭𒊑𒉈}  
+    \subitem  gods, 56
+  \item digir {\fcn 𒀭} 
+    \subitem  god/goddess, 56
+  \item dish {\fcn 𒁹}  
+    \subitem  one, 50
   \item dug4 {\fcn 𒅗} 
     \subitem  to speak, to say, 39
   \item dumu {\fcn 𒌉} 
@@ -125,6 +169,8 @@
   \item i3 im {\fcn 𒉌𒅎} 
     \subitem  {\em fin. verb prefix}  , 17
     \subitem  {\em finite verb prefix}, 15
+  \item id2 {\fcn 𒀀𒇉} 
+    \subitem  canal, 47
   \item Imperative, 37
   \item inanna {\fcn 𒈹} 
     \subitem  the goddess Inanna, 20
@@ -144,6 +190,14 @@
     \subitem  det. place, 1
   \item ki-en-gi {\fcn 𒆠𒂗𒄀} 
     \subitem  Sumer, 66
+  \item kiri6 {\fcn 𒊬} 
+    \subitem  orchad, garden plot, 57
+  \item kur {\fcn 𒆳} 
+    \subitem  mountain, land, country, 46
+  \item kurum6 an inanna {\fcn 𒉻𒀭𒈹𒅗} 
+    \subitem  food of Inanna, 48
+  \item kurum6 {\fcn 𒉻}  
+    \subitem  food ration, 48
 
   \indexspace
 
@@ -173,6 +227,8 @@
     \subitem  ref. dat, for me, 11
   \item ma2-me {\fcn 𒂷}  
     \subitem  to me, I, with me, 37
+  \item mah {\fcn 𒈤}  
+    \subitem  to be magnificent, 57
   \item marû conjugation, 28
   \item me en ne en {\fcn 𒈨𒂗𒉈𒂗}  
     \subitem  we are, 25
@@ -226,6 +282,8 @@
   \item ni {\fcn 𒉌} 
     \subitem  ref. loc., 10
     \subitem  {\em loc.} back to, 63
+  \item nidba ka {\fcn 𒉻𒀭𒈹𒅗}  
+    \subitem  food offerings, 47
   \item nin gal {\fcn 𒀭𒎏𒃲} 
     \subitem  the goddess Ningal, 34
   \item nin {\fcn 𒎏} 
@@ -274,6 +332,7 @@
     \subitem  ref. term., 10
   \item shum2 {\fcn 𒋧} 
     \subitem  to give, 13
+  \item Sumerian numerals, 49
 
   \indexspace
 
@@ -344,6 +403,10 @@
   \item ĝen {\fcn 𒁺}  
     \subitem  to come, 15
     \subitem  to come, to go, 31
+  \item ĝesh {\fcn 𒐕} 
+    \subitem  sixty, 52
+  \item ĝish {\fcn 𒄑} 
+    \subitem  tree, 57
   \item ĝu10 -- uru ĝu10-my {\fcn 𒌷𒈬} 
     \subitem  {\em poss. pron.} my city, 15
 

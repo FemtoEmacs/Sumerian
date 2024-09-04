@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.1)  4 SEP 2024 12:38
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.1)  4 SEP 2024 18:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -711,13 +711,13 @@ Chapter 4.
 [45
 
 ]
-Overfull \hbox (11.69987pt too wide) in paragraph at lines 2045--2045
+Overfull \hbox (11.69987pt too wide) in paragraph at lines 2046--2046
 []\TU/lmtt/m/n/12 10- [id2 nidba].{k}.ani].{}        -- his canal of food offer
 ing,[] 
  []
 
 
-Overfull \hbox (11.69977pt too wide) in paragraph at lines 2045--2045
+Overfull \hbox (11.69977pt too wide) in paragraph at lines 2046--2046
 []\TU/lmtt/m/n/12 11- mu na ba al                    -- (the king) dredged for 
 him.[] 
  []
@@ -725,54 +725,29 @@ him.[]
 
 
 [46]
-Underfull \hbox (badness 10000) in paragraph at lines 2061--2068
+Underfull \hbox (badness 10000) in paragraph at lines 2063--2070
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2069--2076
+Underfull \hbox (badness 10000) in paragraph at lines 2071--2078
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2077--2084
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2085--2092
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2093--2100
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2101--2110
+Underfull \hbox (badness 10000) in paragraph at lines 2079--2086
 
  []
 
 
 
 [47]
-Underfull \hbox (badness 10000) in paragraph at lines 2114--2116
+Underfull \hbox (badness 10000) in paragraph at lines 2111--2113
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2117--2119
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2120--2122
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2123--2125
+Underfull \hbox (badness 10000) in paragraph at lines 2122--2124
 
  []
 
@@ -797,91 +772,61 @@ Underfull \hbox (badness 10000) in paragraph at lines 2123--2125
 ]
 Chapter 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2255--2256
+Underfull \hbox (badness 10000) in paragraph at lines 2273--2274
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2257--2258
+Underfull \hbox (badness 10000) in paragraph at lines 2275--2276
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2259--2260
+Underfull \hbox (badness 10000) in paragraph at lines 2277--2278
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2261--2262
+Underfull \hbox (badness 10000) in paragraph at lines 2279--2280
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2263--2264
+Underfull \hbox (badness 10000) in paragraph at lines 2281--2282
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2265--2266
+Underfull \hbox (badness 10000) in paragraph at lines 2283--2284
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2267--2268
+Underfull \hbox (badness 10000) in paragraph at lines 2285--2286
 
  []
 
 
 
 [55]
-Underfull \hbox (badness 10000) in paragraph at lines 2290--2301
+Underfull \hbox (badness 10000) in paragraph at lines 2324--2331
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2302--2309
+Underfull \hbox (badness 10000) in paragraph at lines 2332--2339
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2310--2317
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2318--2325
+Underfull \hbox (badness 10000) in paragraph at lines 2340--2347
 
  []
 
 
 
 [56]
-Underfull \hbox (badness 10000) in paragraph at lines 2327--2334
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2336--2338
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2339--2341
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2342--2344
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2345--2347
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2348--2350
+Underfull \hbox (badness 10000) in paragraph at lines 2349--2356
 
  []
 
@@ -894,14 +839,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 2348--2350
 ]
 Chapter 6.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2353--2364
+Underfull \hbox (badness 10000) in paragraph at lines 2381--2392
 
  []
 
 
 
 [59]
-Underfull \hbox (badness 10000) in paragraph at lines 2428--2438
+Underfull \hbox (badness 10000) in paragraph at lines 2456--2466
 
  []
 
@@ -910,31 +855,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 2428--2438
 [60]
 
 [61]
-Underfull \hbox (badness 10000) in paragraph at lines 2508--2528
+Underfull \hbox (badness 10000) in paragraph at lines 2536--2556
 
  []
 
 
 
 [62]
-Underfull \hbox (badness 10000) in paragraph at lines 2562--2570
+Underfull \hbox (badness 10000) in paragraph at lines 2590--2598
 
  []
 
 
 
 [63]
-Underfull \hbox (badness 10000) in paragraph at lines 2577--2584
+Underfull \hbox (badness 10000) in paragraph at lines 2605--2612
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2610--2617
+Underfull \hbox (badness 10000) in paragraph at lines 2638--2645
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2620--2627
+Underfull \hbox (badness 10000) in paragraph at lines 2648--2655
 
  []
 
@@ -943,7 +888,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2620--2627
 [64]
 Chapter 7.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2643--2648
+Underfull \hbox (badness 10000) in paragraph at lines 2671--2676
 
  []
 
@@ -952,7 +897,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2643--2648
 [65
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 2655--2662
+Underfull \hbox (badness 10000) in paragraph at lines 2683--2690
 
  []
 
@@ -976,7 +921,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 2655--2662
 
 
 
-[70]) (./sumer-ttf.aux)
+[70]
+
+
+
+[71]) (./sumer-ttf.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
@@ -985,10 +934,10 @@ L3 programming layer <2024-08-16>
 Here is how much of TeX's memory you used:
  4721 strings out of 474235
  130219 string characters out of 5742254
- 1932609 words of memory out of 5000000
+ 1931609 words of memory out of 5000000
  27357 multiletter control sequences out of 15000+600000
  564973 words of font info for 81 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  79i,8n,93p,252b,374s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on sumer-ttf.pdf (71 pages).
+Output written on sumer-ttf.pdf (72 pages).

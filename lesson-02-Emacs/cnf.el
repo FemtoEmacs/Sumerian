@@ -1,4 +1,4 @@
-{\fcn (setq xxx (make-hash-table :size 1200))
+(setq xxx (make-hash-table :size 1200))
 
 ;;(puthash 'lugal  "𒇽" xxx)
 ;;(puthash 'bad3  "𒂦" xxx)

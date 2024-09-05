@@ -919,7 +919,8 @@
       (insert (format "%s"
 		      (if (listp list-entry)
 			  (cadr list-entry) nil)))
-      (clipboard-kill-region (point-min) (point-max))) ))
+      (clipboard-kill-region (point-min) (point-max)))
+    (switch-to-buffer (other-buffer (current-buffer) 1)) ))
 
 (global-set-key (kbd "C-c C-9") 'get-sumerogram-entry)
 

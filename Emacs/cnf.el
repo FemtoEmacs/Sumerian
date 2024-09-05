@@ -699,7 +699,8 @@
 	));; end
 
 (dolist (x yyy)	
-  (puthash  (caddr x) (car x) xxx))
+  (when (null (gethash x xxx))
+      (puthash  (caddr x) (car x) xxx)))
 
 (defun cnf(xs)
   (dolist (x xs)

@@ -1,5 +1,5 @@
 (setq xxx (make-hash-table :size 1200))
-
+ 
 ;;(puthash 'lugal  "𒇽" xxx)
 ;;(puthash 'bad3  "𒂦" xxx)
 ;;(puthash 'du3  "𒆕" xxx)
@@ -40,6 +40,7 @@
 	
 	("𒂼" mother ama)  ;; 114
         ("𒌉"	u+12309	dumu)   ;; 75
+	("𒌉" small tur)
 	("𒍑"	u+12351	uš)       ;;31
         ("𒍑"	u+12351	nita)     ;;32
 	("𒆗"	u+12197	kal)      ;;33
@@ -491,7 +492,7 @@
 	("𒃻" nig nig2)
 	("𒌌" ul ul)
 	("𒉺" pa pa)
-	("𒌓𒁺" e3 e3)
+	("𒌓𒁺" e3 e3)   
 	("𒐐" ninnu ninnu)
 	("𒀭𒅎𒂂" anzud anzud)
 	("𒄷" mushen mushen)
@@ -649,6 +650,7 @@
 	("𒐇" nine 9-ash)
 	("𒁹" 1 dish)
 	("𒈫" 2 2-dish)
+	("𒈫" 2 min)
 	("𒐈" 3 3-dish)
 	("𒐉" 4  4-dish)
 	("𒐊" 5 5-dish)
@@ -866,7 +868,82 @@
 
 (global-set-key (kbd "C-x C-y") 'sumerian-large-letters)
 
+;;; Functions to find sumerograms
+;;; Ctrl-\    ;;Open sumeragram list
+;;;           ;;The list is read-only,
+;;;           ;;so you cannot modify it inadvertently
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Ctrl-s    ;;Search by Romanization
+;;;           ;;Leave a blank before and after the Romanization
+;;;           ;;If you want to find all prefixes,
+;;;           ;;don't leave blank after the Romanization
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Ctrl-a    ;;Copy entry into the list-entry variable
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Ctrl--    ;;Keep Ctrl pressed and type -
+;;;           ;;Insert content of list-entry into text
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;; Put this file and sumerograms.tex into
+;;; the '~/.emacs.d/Sumerian' folder.
+;;; Then add the uncommented
+;;; version of the following lines
+;;; into your '~/.emacs' file:
+;;; (load-file "~/.emacs.d/Sumerian/cnf.el")
+;;; (setq sumerogram-unicode-list
+;;;      "~/.emacs.d/Sumerian/sumerograms.tex")
+;;;
+;;;You can put cnf.el and sumerograms.tex
+;;;in another folder. I placed them into
+;;; ~/Sumerian/Emacs/
+;;;Then, I inserted the following lines
+;;;into the ~/.emacs configuration file,
+;;;and uncommented them:
+;;; (load-file "~/Sumerian/Emacs/cnf.el")
+;;; (setq sumerogram-unicode-list
+;;;      "~/Sumerian/Emacs/sumerograms.tex")
+;;;
+;;;Since I also cloned the Sumerian repository
+;;;into the Sumerian folder, I keep the files
+;;;updated automatically.
+;;; ~$ git clone https://github.com/FemtoEmacs/Sumerian
 
+
+(setq list-entry ())
+
+(defun get-sumerogram-entry()
+  (interactive)
+  (let ( (entry (thing-at-point 'line t)))
+    (setq list-entry
+	  (car (read-from-string (format "(%s)" entry))) )
+    (with-temp-buffer
+      (insert (format "%s"
+		      (if (listp list-entry)
+			  (cadr list-entry) nil)))
+      (clipboard-kill-region (point-min) (point-max))) ))
+
+(global-set-key (kbd "C-c C-9") 'get-sumerogram-entry)
+
+
+(setq sumerogram-unicode-list
+      ".emacs.d/Sumerian/sumerograms.tex")
+
+(defun open-sumerograms()
+  (interactive)
+  (find-file-read-only sumerogram-unicode-list))
+
+(global-set-key (kbd "C-c C-8") 'open-sumerograms)
+
+(defun insert-entry()
+  (interactive)
+  (insert (format "%s" list-entry)))
+
+(global-set-key (kbd "C-c C--") 'insert-entry)
+
+(defun insert-cadr-entry()
+  (interactive)
+  (insert (format "%s" (cadr list-entry))))
+
+(global-set-key (kbd "C-c C-0") 'insert-cadr-entry)
 
 ;; {\fsm 𒀭𒂗𒆤} 
 ;; ((tr an en lil2) (tr lugar kur kur ra) (tr a ni))

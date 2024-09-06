@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.1)  5 SEP 2024 15:13
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.1)  6 SEP 2024 11:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -304,17 +304,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 381--388
 [6]
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 475--482
+Underfull \hbox (badness 10000) in paragraph at lines 476--483
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 483--486
+Underfull \hbox (badness 10000) in paragraph at lines 484--487
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 501--507
+Underfull \hbox (badness 10000) in paragraph at lines 502--508
 
  []
 
@@ -391,27 +391,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 855--859
 [16]
 
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 942--945
+Underfull \hbox (badness 10000) in paragraph at lines 943--946
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 947--958
+Underfull \hbox (badness 10000) in paragraph at lines 948--959
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 959--963
+Underfull \hbox (badness 10000) in paragraph at lines 960--964
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 964--967
+Underfull \hbox (badness 10000) in paragraph at lines 965--968
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 968--971
+Underfull \hbox (badness 10000) in paragraph at lines 969--972
 
  []
 
@@ -420,7 +420,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 968--971
 [18]
 Chapter 2.
 
-Overfull \hbox (42.59988pt too wide) in paragraph at lines 1013--1013
+Overfull \hbox (42.59988pt too wide) in paragraph at lines 1014--1014
 []\TU/lmtt/m/n/12 5-   [lugal ki-en-gi ki uri].{k}].{e}  -- the king of Sumer a
 nd Akkad,[] 
  []
@@ -430,119 +430,132 @@ nd Akkad,[]
 [19
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1045--1048
+Underfull \hbox (badness 10000) in paragraph at lines 1046--1049
 
  []
 
 
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 1079--1088
+Underfull \hbox (badness 10000) in paragraph at lines 1080--1089
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1097--1109
+Underfull \hbox (badness 10000) in paragraph at lines 1098--1110
 
  []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [21]
+Underfull \hbox (badness 10000) in paragraph at lines 1189--1197
 
-[22
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1205--1212
+
+ []
+
+
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 1246--1249
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1265--1268
+
+ []
+
+
+
+[23
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1183--1186
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1202--1205
-
- []
-
-
-
-[23]
-Underfull \hbox (badness 10000) in paragraph at lines 1231--1235
+Underfull \hbox (badness 10000) in paragraph at lines 1294--1298
 
  []
 
 
 
 [24]
-Underfull \hbox (badness 10000) in paragraph at lines 1303--1307
+Underfull \hbox (badness 10000) in paragraph at lines 1366--1370
 
  []
 
 
 
 [25]
-Underfull \hbox (badness 10000) in paragraph at lines 1317--1320
+Underfull \hbox (badness 10000) in paragraph at lines 1380--1383
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1328--1331
+Underfull \hbox (badness 10000) in paragraph at lines 1391--1394
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1332--1337
+Underfull \hbox (badness 10000) in paragraph at lines 1395--1400
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1338--1343
+Underfull \hbox (badness 10000) in paragraph at lines 1401--1406
 
  []
 
 
 
 [26]
-Underfull \hbox (badness 10000) in paragraph at lines 1359--1364
+Underfull \hbox (badness 10000) in paragraph at lines 1422--1427
 
  []
 
 
 
 [27]
-Underfull \hbox (badness 10000) in paragraph at lines 1405--1408
+Underfull \hbox (badness 10000) in paragraph at lines 1468--1471
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1416--1419
+Underfull \hbox (badness 10000) in paragraph at lines 1479--1482
 
  []
 
 
 
 [28]
-Underfull \hbox (badness 10000) in paragraph at lines 1427--1430
+Underfull \hbox (badness 10000) in paragraph at lines 1490--1493
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1437--1440
+Underfull \hbox (badness 10000) in paragraph at lines 1500--1503
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1447--1450
+Underfull \hbox (badness 10000) in paragraph at lines 1510--1513
 
  []
 
 
 
 [29]
-Underfull \hbox (badness 10000) in paragraph at lines 1458--1461
+Underfull \hbox (badness 10000) in paragraph at lines 1521--1524
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1462--1466
+Underfull \hbox (badness 10000) in paragraph at lines 1525--1529
 
  []
 
@@ -551,38 +564,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 1462--1466
 [30]
 
 [31]
+Underfull \hbox (badness 10000) in paragraph at lines 1601--1604
 
-[32
+ []
 
-]
+
+
+[32]
 Chapter 3.
 
-Overfull \hbox (36.4079pt too wide) in paragraph at lines 1551--1551
+Overfull \hbox (36.4079pt too wide) in paragraph at lines 1676--1676
 []\TU/lmtt/m/n/12 6-   [lugal ki-en-gi ki uri].{k}].{e} -- the king of Sumer an
 d Akkad,[] 
  []
 
 
-Overfull \hbox (17.87985pt too wide) in paragraph at lines 1551--1551
+Overfull \hbox (17.87985pt too wide) in paragraph at lines 1676--1676
 []\TU/lmtt/m/n/12 7- [nam til3 a ni].{she3} #goal       -- for the sake of his 
 life,[] 
  []
 
 
-Overfull \hbox (11.69972pt too wide) in paragraph at lines 1551--1551
+Overfull \hbox (11.69972pt too wide) in paragraph at lines 1676--1676
 []\TU/lmtt/m/n/12 8- a mu na ru                         -- dedicated (this vess
 el).[] 
  []
 
 
 
-[33]
-Underfull \hbox (badness 10000) in paragraph at lines 1555--1559
+[33
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1680--1684
 
  []
 
 
-Overfull \hbox (23.6401pt too wide) in paragraph at lines 1587--1596
+Overfull \hbox (23.6401pt too wide) in paragraph at lines 1712--1721
 []
  []
 
@@ -593,7 +611,7 @@ Overfull \hbox (23.6401pt too wide) in paragraph at lines 1587--1596
 [35]
 
 [36]
-Underfull \hbox (badness 10000) in paragraph at lines 1733--1739
+Underfull \hbox (badness 10000) in paragraph at lines 1858--1864
 
  []
 
@@ -602,111 +620,111 @@ Underfull \hbox (badness 10000) in paragraph at lines 1733--1739
 [37
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1757--1759
+Underfull \hbox (badness 10000) in paragraph at lines 1882--1884
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1760--1773
+Underfull \hbox (badness 10000) in paragraph at lines 1885--1898
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1774--1779
+Underfull \hbox (badness 10000) in paragraph at lines 1899--1904
 
  []
 
 
 
 [38]
-Underfull \hbox (badness 10000) in paragraph at lines 1797--1799
+Underfull \hbox (badness 10000) in paragraph at lines 1922--1924
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1814--1818
+Underfull \hbox (badness 10000) in paragraph at lines 1939--1943
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1819--1823
+Underfull \hbox (badness 10000) in paragraph at lines 1944--1948
 
  []
 
 
 
 [39]
-Underfull \hbox (badness 10000) in paragraph at lines 1832--1836
+Underfull \hbox (badness 10000) in paragraph at lines 1957--1961
 
  []
 
 
-Overfull \hbox (42.81595pt too wide) in paragraph at lines 1837--1851
+Overfull \hbox (42.81595pt too wide) in paragraph at lines 1962--1976
 []
  []
 
 
 
 [40]
-Underfull \hbox (badness 10000) in paragraph at lines 1892--1898
+Underfull \hbox (badness 10000) in paragraph at lines 2017--2023
 
  []
 
 Missing character: There is no 𒍢 (U+12362) in font [lmroman12-regular]:mapping=
 tex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 1908--1919
+Underfull \hbox (badness 10000) in paragraph at lines 2033--2044
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1921--1926
+Underfull \hbox (badness 10000) in paragraph at lines 2046--2051
 
  []
 
 
 
 [41]
-Underfull \hbox (badness 10000) in paragraph at lines 1927--1932
+Underfull \hbox (badness 10000) in paragraph at lines 2052--2057
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1938--1939
+Underfull \hbox (badness 10000) in paragraph at lines 2063--2064
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1941--1946
+Underfull \hbox (badness 10000) in paragraph at lines 2066--2071
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1952--1956
+Underfull \hbox (badness 10000) in paragraph at lines 2077--2081
 
  []
 
 
 
 [42]
-Underfull \hbox (badness 10000) in paragraph at lines 1964--1968
+Underfull \hbox (badness 10000) in paragraph at lines 2089--2093
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1986--1993
+Underfull \hbox (badness 10000) in paragraph at lines 2111--2118
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1994--1999
+Underfull \hbox (badness 10000) in paragraph at lines 2119--2124
 
  []
 
 
 
 [43]
-Underfull \hbox (badness 10000) in paragraph at lines 2007--2011
+Underfull \hbox (badness 10000) in paragraph at lines 2132--2136
 
  []
 
@@ -719,13 +737,13 @@ Chapter 4.
 [45
 
 ]
-Overfull \hbox (11.69987pt too wide) in paragraph at lines 2109--2109
+Overfull \hbox (11.69987pt too wide) in paragraph at lines 2234--2234
 []\TU/lmtt/m/n/12 10- [id2 nidba].{k}.ani].{}        -- his canal of food offer
 ing,[] 
  []
 
 
-Overfull \hbox (11.69977pt too wide) in paragraph at lines 2109--2109
+Overfull \hbox (11.69977pt too wide) in paragraph at lines 2234--2234
 []\TU/lmtt/m/n/12 11- mu na ba al                    -- (the king) dredged for 
 him.[] 
  []
@@ -733,29 +751,29 @@ him.[]
 
 
 [46]
-Underfull \hbox (badness 10000) in paragraph at lines 2126--2133
+Underfull \hbox (badness 10000) in paragraph at lines 2251--2258
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2134--2141
+Underfull \hbox (badness 10000) in paragraph at lines 2259--2266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2142--2149
+Underfull \hbox (badness 10000) in paragraph at lines 2267--2274
 
  []
 
 
 
 [47]
-Underfull \hbox (badness 10000) in paragraph at lines 2174--2176
+Underfull \hbox (badness 10000) in paragraph at lines 2299--2301
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2185--2187
+Underfull \hbox (badness 10000) in paragraph at lines 2310--2312
 
  []
 
@@ -780,61 +798,61 @@ Underfull \hbox (badness 10000) in paragraph at lines 2185--2187
 ]
 Chapter 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2336--2337
+Underfull \hbox (badness 10000) in paragraph at lines 2461--2462
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2338--2339
+Underfull \hbox (badness 10000) in paragraph at lines 2463--2464
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2340--2341
+Underfull \hbox (badness 10000) in paragraph at lines 2465--2466
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2342--2343
+Underfull \hbox (badness 10000) in paragraph at lines 2467--2468
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2344--2345
+Underfull \hbox (badness 10000) in paragraph at lines 2469--2470
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2346--2347
+Underfull \hbox (badness 10000) in paragraph at lines 2471--2472
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2348--2349
+Underfull \hbox (badness 10000) in paragraph at lines 2473--2474
 
  []
 
 
 
 [55]
-Underfull \hbox (badness 10000) in paragraph at lines 2387--2394
+Underfull \hbox (badness 10000) in paragraph at lines 2512--2519
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2395--2402
+Underfull \hbox (badness 10000) in paragraph at lines 2520--2527
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2403--2410
+Underfull \hbox (badness 10000) in paragraph at lines 2528--2535
 
  []
 
 
 
 [56]
-Underfull \hbox (badness 10000) in paragraph at lines 2412--2419
+Underfull \hbox (badness 10000) in paragraph at lines 2537--2544
 
  []
 
@@ -847,14 +865,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 2412--2419
 ]
 Chapter 6.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2445--2456
+Underfull \hbox (badness 10000) in paragraph at lines 2570--2581
 
  []
 
 
 
 [59]
-Underfull \hbox (badness 10000) in paragraph at lines 2520--2530
+Underfull \hbox (badness 10000) in paragraph at lines 2645--2655
 
  []
 
@@ -863,31 +881,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 2520--2530
 [60]
 
 [61]
-Underfull \hbox (badness 10000) in paragraph at lines 2600--2620
+Underfull \hbox (badness 10000) in paragraph at lines 2725--2745
 
  []
 
 
 
 [62]
-Underfull \hbox (badness 10000) in paragraph at lines 2654--2662
+Underfull \hbox (badness 10000) in paragraph at lines 2779--2787
 
  []
 
 
 
 [63]
-Underfull \hbox (badness 10000) in paragraph at lines 2669--2676
+Underfull \hbox (badness 10000) in paragraph at lines 2794--2801
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2702--2709
+Underfull \hbox (badness 10000) in paragraph at lines 2827--2834
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2712--2719
+Underfull \hbox (badness 10000) in paragraph at lines 2837--2844
 
  []
 
@@ -896,7 +914,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2712--2719
 [64]
 Chapter 7.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2736--2741
+Underfull \hbox (badness 10000) in paragraph at lines 2861--2866
 
  []
 
@@ -905,7 +923,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2736--2741
 [65
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 2748--2755
+Underfull \hbox (badness 10000) in paragraph at lines 2873--2880
 
  []
 
@@ -933,19 +951,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 2748--2755
 
 
 
-[71]) (./sumer-noto.aux)
+[71]
+
+
+
+[72
+
+]) (./sumer-noto.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4721 strings out of 474235
- 130627 string characters out of 5742254
+ 4723 strings out of 474235
+ 130672 string characters out of 5742254
  1932609 words of memory out of 5000000
- 27357 multiletter control sequences out of 15000+600000
+ 27359 multiletter control sequences out of 15000+600000
  564973 words of font info for 81 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  79i,8n,93p,253b,398s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on sumer-noto.pdf (72 pages).
+Output written on sumer-noto.pdf (73 pages).

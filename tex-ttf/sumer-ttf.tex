@@ -2333,6 +2333,7 @@ you may want to read about Sumerian numerals,
 and learn to count things in cuneiform.
 
 \section{Sumerian Numerals}
+\label{basic-numbers}
 To count things, modern people use ten digits:
 1, 2, 3, 4, 5, 6, 7, 8, 9 and 0.
 Therefore, it is said that we use base 10.
@@ -2553,7 +2554,128 @@ Translation:
 \noindent
 {\fcm 𒂖}   (sikil) to be pure, clean\\
 \indent{sikil {\fcn 𒂖}  ! to be clean}
-%%%%end index
+
+\section{Writing numbers}
+On page~\pageref{basic-numbers}, you learned
+how to write basic numerals in Sumerian.
+In this section, you will learn how to combine
+these basic numerals.
+
+Modern people use ten digits to count:
+1, 2, 3, 4, 5, 6,
+7, 8, 9 and 0. Therefore, computer scientists
+say the contemporary world uses base ten.
+In base 10, a digit $n$ can
+represent $n\times 1$, $n\times 10$, $n\times 100$, etc.
+
+How do we know which value the digit stands
+for? By its position in the numerical string.
+If the digit comes first from right to left,
+it simply represents its unities.
+If it comes second, its basic value must
+be multiplied by ten. If it comes third
+in the numerical string, its basic value
+is multiplied by 100. Then, 342 represents
+$3\times 100 + 4\times 10 + 2$.
+
+A system where the interpretation of a digit
+depends on its position in the numerical
+string is called place-value notation
+or positional numerical notation. Like us,
+Sumerians used a place value notation,
+but they counted in base 60. Therefore,
+the symbol {\fcn 𒁹} can be assigned the
+values 1, 60, 3600, etc. If {\fcn 𒁹}
+comes first in the numerical string,
+then its value is 1. If it comes
+second, it represents 60. If it
+is the third digit from left to right,
+it represents $1\times 60\times 60$,
+which produces 3600.
+
+There are further details in this story that we need to
+clarify. Modern arithmetic students have zero to fill the empty places
+in a numerical figure. Therefore,
+they can interpret a value without
+ambiguity. Sumerians invented zero
+only late in their history. Then,
+they needed to interpret the
+number from context. They could
+also place the numerical string
+in boxes and leave empty 
+boxes where we would place a zero.
+Let us see one example. Below,
+you can see the number 1273.\\
+
+\verb||\\
+\begin{tabular}[!h]{| l | l | l | l l l l l l}
+  \hline
+  &&\\
+\fcm 𒐖 &\fcm 𒐞 &\fcm 𒐈\\
+\hline
+&&\\ 
+(tr 2-ĝesh) & (tr 1-geshu) & (tr 3-dish)\\
+\hline
+$2\times 60$ & $60+10$ & $3$\\
+1200 & 70 & 3\\
+\hline
+\end{tabular}\\
+
+\vspace{0.4cm}
+Cardinal numbers show how many things
+one is dealing with. In Sumerian,
+cardinal numbers come after the noun,
+exactly like adjectives. Therefore,
+{\fcn 𒈬𒅓} (mu imin) means
+{\em ``seven years''}. Here,
+{\fcn 𒅓} (imin) is the name of
+the number seven. Just like one
+can write 7 or seven in English,
+one can say (7-dish) or (imin)
+in Sumerian. Consider the example below.
+
+\verb||\\
+\begin{tabular}[!h]{l l l l l l l l l}
+  \fcm 𒀭𒈾𒊏𒄠𒀭𒂗𒍪 &\fcm 𒈬𒅓𒀀𒀭
+  &\fcm 𒈬𒌦𒄀𒂗\\
+(tr an na ra am an suen) & (tr mu imin am3)
+& (tr mu un ge en)\\
+\multicolumn{3}{l} {\em For seven years,
+  Naram-Suen was motionless.}\\
+\hline\\
+\multicolumn{3}{l} {{\fcm 𒈬}  (mu) year}\\
+\multicolumn{3}{l}{{\fcm 𒄀} (ge) to be firm,
+  to be motionless }
+\end{tabular}\\
+\index{Cardinal numbers}
+\index{mu {\fcn 𒈬}  year}
+\index{ge {\fcn 𒄀}  to be firm}
+
+\verb||\\
+A literal translation of {\fcn 𒈬𒅓𒀀𒀭}
+(mu imin am3) could be: {\em ``years
+  that are seven.''} Another example:
+
+\verb||\\
+\begin{tabular}[!h]{l l l l l l l l l}
+\fcm 𒉣𒈨𒅓𒂊 &\fcm 𒋝𒉏𒋫 &\fcm 𒋗𒈬𒊏𒅔𒊬𒍑\\
+(tr abgal imin e) & (tr sig nim ta) &
+(tr shu mu ra in mu2 ush)\\
+\multicolumn{3}{l} {\em The seven sages have
+  enlarged it for you in the lowlands and highlands.}\\
+\hline\\
+\multicolumn{3}{l}{{\fcm 𒉣𒈨} (abgal) sage}\\
+\multicolumn{3}{l}{{\fcm 𒋝}  (sig) lowland}\\
+\multicolumn{3}{l}{{\fcm 𒉏}  (nim) highland}\\
+\multicolumn{3}{l}{{\fcm 𒋗} // {\fcm 𒊬}
+  (shu//mu2) to enlarge}
+\end{tabular}\\
+\index{abgal {\fcn 𒉣𒈨}  sage}
+\index{sig {\fcn 𒋝}  lowland}
+\index{nim  {\fcn 𒉏}  highland}
+\index{shu//mu2 {\fcn 𒋗} //{\fcn 𒊬}  to enlarge}
+
+
 
 \chapter{Ama gi}
 \begin{quotation}\fsm\onehalfspacing

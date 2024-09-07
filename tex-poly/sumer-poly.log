@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.1)  7 SEP 2024 00:28
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.1)  7 SEP 2024 15:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -779,37 +779,37 @@ Underfull \vbox (badness 7522) has occurred while \output is active []
 [50]
 Chapter 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2446--2447
+Underfull \hbox (badness 10000) in paragraph at lines 2447--2448
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2448--2449
+Underfull \hbox (badness 10000) in paragraph at lines 2449--2450
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2450--2451
+Underfull \hbox (badness 10000) in paragraph at lines 2451--2452
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2452--2453
+Underfull \hbox (badness 10000) in paragraph at lines 2453--2454
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2454--2455
+Underfull \hbox (badness 10000) in paragraph at lines 2455--2456
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2456--2457
+Underfull \hbox (badness 10000) in paragraph at lines 2457--2458
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2458--2459
+Underfull \hbox (badness 10000) in paragraph at lines 2459--2460
 
  []
 
@@ -818,44 +818,54 @@ Underfull \hbox (badness 10000) in paragraph at lines 2458--2459
 [51
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 2497--2504
+Underfull \hbox (badness 10000) in paragraph at lines 2498--2505
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2505--2512
+Underfull \hbox (badness 10000) in paragraph at lines 2506--2513
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2513--2520
+Underfull \hbox (badness 10000) in paragraph at lines 2514--2521
 
  []
 
 
 
 [52]
-Underfull \hbox (badness 10000) in paragraph at lines 2522--2529
+Underfull \hbox (badness 10000) in paragraph at lines 2523--2530
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2590--2603
 
  []
 
 
 
 [53]
-
-[54
-
-]
-Chapter 6.
-
-Underfull \hbox (badness 10000) in paragraph at lines 2554--2565
+Underfull \hbox (badness 10000) in paragraph at lines 2604--2617
 
  []
 
 
 
-[55]
-Underfull \hbox (badness 10000) in paragraph at lines 2629--2639
+[54]
+Chapter 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2676--2687
+
+ []
+
+
+
+[55
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2751--2761
 
  []
 
@@ -864,31 +874,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 2629--2639
 [56]
 
 [57]
-Underfull \hbox (badness 10000) in paragraph at lines 2709--2729
+Underfull \hbox (badness 10000) in paragraph at lines 2831--2851
 
  []
 
 
 
 [58]
-Underfull \hbox (badness 10000) in paragraph at lines 2763--2771
+Underfull \hbox (badness 10000) in paragraph at lines 2885--2893
 
  []
 
 
 
 [59]
-Underfull \hbox (badness 10000) in paragraph at lines 2778--2785
+Underfull \hbox (badness 10000) in paragraph at lines 2900--2907
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2811--2818
+Underfull \hbox (badness 10000) in paragraph at lines 2933--2940
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2821--2828
+Underfull \hbox (badness 10000) in paragraph at lines 2943--2950
 
  []
 
@@ -897,7 +907,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2821--2828
 [60]
 Chapter 7.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2846--2851
+Underfull \hbox (badness 10000) in paragraph at lines 2968--2973
 
  []
 
@@ -906,7 +916,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2846--2851
 [61
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 2858--2865
+Underfull \hbox (badness 10000) in paragraph at lines 2980--2987
 
  []
 
@@ -947,10 +957,10 @@ L3 programming layer <2024-08-16>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5604 strings out of 474235
- 147987 string characters out of 5742254
+ 5605 strings out of 474235
+ 148002 string characters out of 5742254
  1932609 words of memory out of 5000000
- 28254 multiletter control sequences out of 15000+600000
+ 28255 multiletter control sequences out of 15000+600000
  561974 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,8n,107p,296b,372s stack positions out of 10000i,1000n,20000p,200000b,200000s

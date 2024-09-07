@@ -703,10 +703,11 @@
       (puthash  (caddr x) (car x) xxx)))
 
 (defun cnf(xs)
+  "Surrounds unknown characters with !s and shows them in red bold font"
   (dolist (x xs)
     (let ((s (gethash x xxx)))
-       (if s (insert s)
-          (insert (format " %s" x)) )) ))
+      (if s (insert s)
+        (insert (propertize (format " !%s!" x) 'face '(:foreground "red" :weight bold))) )) ))
 
 (defmacro cn(&rest args)
   `(cnf ',args))

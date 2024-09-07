@@ -703,11 +703,29 @@
       (puthash  (caddr x) (car x) xxx)))
 
 (defun cnf(xs)
-  "Surrounds unknown characters with !s and shows them in red bold font"
+  "Surrounds unknown Romanization with !s and shows it in red"
   (dolist (x xs)
     (let ((s (gethash x xxx)))
       (if s (insert s)
-        (insert (propertize (format " !%s!" x) 'face '(:foreground "red" :weight bold))) )) ))
+        (progn
+	  (insert " !")
+	  (insert (propertize (format "%s" x)
+			 'font-lock-face
+			 '(:foreground "red" :weight bold)) )
+	  (insert "! "))) )))
+
+;(defun cnf(xs)
+ ; "Surrounds unknown Romanization with !s and shows it in red"
+  ;(dolist (x xs)
+   ; (let ((s (gethash x xxx)))
+    ;  (cond ((s (insert s)))
+;	    (t (insert "!")
+ ;              (insert (propertize (format " %s " x)
+;		      'font-lock-face
+;		      '(:foreground "red" :weight bold)))
+;	       (insert "!"))) )))
+
+
 
 (defmacro cn(&rest args)
   `(cnf ',args))

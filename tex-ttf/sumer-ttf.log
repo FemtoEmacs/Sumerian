@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.1)  6 SEP 2024 18:08
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.1)  6 SEP 2024 22:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -787,23 +787,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 2311--2313
 
 
 [48]
+Underfull \vbox (badness 7522) has occurred while \output is active []
+
+
 
 [49
 
 ]
 
 [50]
-
-[51]
-
-[52]
-
-[53]
-
-[54
-
-]
 Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2452--2453
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2454--2455
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2456--2457
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2458--2459
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2460--2461
+
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 2462--2463
 
@@ -815,94 +833,76 @@ Underfull \hbox (badness 10000) in paragraph at lines 2464--2465
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2466--2467
+
+[51
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2503--2510
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2468--2469
+Underfull \hbox (badness 10000) in paragraph at lines 2511--2518
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2470--2471
+Underfull \hbox (badness 10000) in paragraph at lines 2519--2526
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2472--2473
+
+[52]
+Underfull \hbox (badness 10000) in paragraph at lines 2528--2535
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2474--2475
+
+[53]
+
+[54
+
+]
+Chapter 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2560--2571
 
  []
 
 
 
 [55]
-Underfull \hbox (badness 10000) in paragraph at lines 2513--2520
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2521--2528
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2529--2536
+Underfull \hbox (badness 10000) in paragraph at lines 2635--2645
 
  []
 
 
 
 [56]
-Underfull \hbox (badness 10000) in paragraph at lines 2538--2545
+
+[57]
+Underfull \hbox (badness 10000) in paragraph at lines 2715--2735
 
  []
 
 
 
-[57]
-
-[58
-
-]
-Chapter 6.
-
-Underfull \hbox (badness 10000) in paragraph at lines 2570--2581
+[58]
+Underfull \hbox (badness 10000) in paragraph at lines 2769--2777
 
  []
 
 
 
 [59]
-Underfull \hbox (badness 10000) in paragraph at lines 2645--2655
+Underfull \hbox (badness 10000) in paragraph at lines 2784--2791
 
  []
 
 
-
-[60]
-
-[61]
-Underfull \hbox (badness 10000) in paragraph at lines 2725--2745
-
- []
-
-
-
-[62]
-Underfull \hbox (badness 10000) in paragraph at lines 2779--2787
-
- []
-
-
-
-[63]
-Underfull \hbox (badness 10000) in paragraph at lines 2794--2801
+Underfull \hbox (badness 10000) in paragraph at lines 2817--2824
 
  []
 
@@ -912,57 +912,52 @@ Underfull \hbox (badness 10000) in paragraph at lines 2827--2834
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2837--2844
 
- []
-
-
-
-[64]
+[60]
 Chapter 7.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2860--2865
+Underfull \hbox (badness 10000) in paragraph at lines 2850--2855
 
  []
 
 
 
-[65
+[61
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 2872--2879
+Underfull \hbox (badness 10000) in paragraph at lines 2862--2869
 
  []
 
 (./sumer-ttf.ind
 
-[66]
+[62]
 
 
 
-[67
+[63
 
 ]
 
 
 
-[68]
+[64]
 
 
 
-[69]
+[65]
 
 
 
-[70]
+[66]
 
 
 
-[71]
+[67]
 
 
 
-[72
+[68
 
 ]) (./sumer-ttf.aux)
  ***********
@@ -971,12 +966,12 @@ L3 programming layer <2024-08-16>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4723 strings out of 474235
- 130264 string characters out of 5742254
- 1931609 words of memory out of 5000000
- 27359 multiletter control sequences out of 15000+600000
+ 4721 strings out of 474235
+ 130206 string characters out of 5742254
+ 1932609 words of memory out of 5000000
+ 27357 multiletter control sequences out of 15000+600000
  564973 words of font info for 81 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  79i,8n,93p,252b,374s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on sumer-ttf.pdf (73 pages).
+Output written on sumer-ttf.pdf (69 pages).

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.1)  7 SEP 2024 17:11
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.1)  8 SEP 2024 13:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -947,49 +947,97 @@ Underfull \hbox (badness 10000) in paragraph at lines 3033--3040
 
  []
 
-(./sumer-ttf.ind
+
 
 [62]
+Chapter 8.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3132--3145
+
+ []
 
 
 
 [63
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 3166--3169
+
+ []
+
+
+Overfull \hbox (14.87141pt too wide) in paragraph at lines 3170--3184
+[]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [64]
+Underfull \hbox (badness 10000) in paragraph at lines 3201--3203
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3226--3236
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3264--3271
+
+ []
 
 
 
 [65]
+Underfull \hbox (badness 10000) in paragraph at lines 3272--3276
 
+ []
 
+(./sumer-ttf.ind
 
 [66]
 
 
 
-[67]
+[67
+
+]
 
 
 
-[68
+[68]
 
-]) (./sumer-ttf.aux)
+
+
+[69]
+
+
+
+[70]
+
+
+
+[71]
+
+
+
+[72]) (./sumer-ttf.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4723 strings out of 474235
- 130238 string characters out of 5742254
+ 4725 strings out of 474235
+ 130296 string characters out of 5742254
  1931609 words of memory out of 5000000
- 27359 multiletter control sequences out of 15000+600000
+ 27361 multiletter control sequences out of 15000+600000
  564973 words of font info for 81 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  79i,8n,93p,252b,374s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on sumer-ttf.pdf (69 pages).
+Output written on sumer-ttf.pdf (73 pages).

@@ -306,7 +306,8 @@ I want to invite you to help me with the translation. You can request a pull if 
   <td colspan="6">
   <h4>𒂼𒄄 • (ama-gi4) freedom from debt or bondage</h4>
   <h4>𒃻 • (g̃ar), marû 𒂷𒂷 (g̃a2-g̃a2) to establish, to institute</h4>
-   <h4>𒂊- • (e) verbal affix, directive: into Lagash</h4>
+   <h4>𒂊- • (e) Finite verb marker before roots containing
+           the vowel <i>a</i></h4>
   </td>
  </tr>
 </table>
@@ -316,6 +317,29 @@ I want to invite you to help me with the translation. You can request a pull if 
 Ama-gi4 means freedom, liberty, the right to return to one's mother,
 and remission. The verb e-gar (𒂊𒃻) means "to place" but conveys the
 idea of "to institute." 
+
+
+According to Marie-Louise Thomsen,
+the finite verb Conjugation Prefix
+ 𒉌  (i3) has the
+variant  𒂊  (e) in Old Sumerian
+texts from Lagash, Uruk, Ur and Umma.
+In particular  𒂊  /-e/ is
+used immediately before verbal roots
+containing the vowels ***a*** and ***e***,
+e.g.,  𒂊𒃻  (e ĝar),
+ 𒂊𒀝  (e ak),
+ 𒂊𒇲  (e la2)
+and  𒂊𒈨𒀀  (e me a). The finite
+verb marker  𒂊  (e) is also
+used before the case elements
+ 𒁕  **/-da-/**,
+ 𒈾  **/-na-/**,
+ 𒉈  **/-ne-/**,
+ 𒊺  **/-she-/**  and
+ 𒋫  **/-ta-/**.
+
+
 
 
 <h2>𒂼𒌉𒈬𒉌𒄄</h2>

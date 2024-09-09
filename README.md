@@ -86,7 +86,7 @@ the Saxon genitive marks the possessor
 with apostrophe-s and comes before the
 noun: <i>Ur's king</i>. In Sumerian, the possessor
 follows the noun and is marked with AK after consonant
-and K after vowel: {URIM5 MA].{K} is equivalent to
+and K after vowel: [LUGAL URIM5 MA].{K} is equivalent to
 Ur's king.</p>
 
 <p>Braces represent the grammatical
@@ -478,8 +478,8 @@ lugal.e  • uru.a  • e2  • mu-ni-du3</br>
 The king built a house in a city.
 
 <h2>Terminative: 𒂠 • (še)/𒅆 • (ši) in order to</h2>
-<h3>𒂷𒂊 • 𒌷𒈬𒂠 • 𒂵𒅆𒁺</h3>
-ĝe26.e • uru.ĝu10-my.še • ga.ši.ĝen</br>
+<h3>𒂷 • 𒌷𒈬𒂠 • 𒂵𒅆𒁺</h3>
+ĝe26 • uru.ĝu10-my.še • ga.ši.ĝen</br>
 I will go there to my city.
 
 <h2>Ablative: 𒋫 • (ta)/𒋫 • (ta) or 𒊏 (ra) out of</h2>

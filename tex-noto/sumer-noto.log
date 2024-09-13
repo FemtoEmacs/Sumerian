@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.1)  12 SEP 2024 17:07
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.1)  13 SEP 2024 07:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1118,33 +1118,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 3622--3629
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3630--3637
+Underfull \hbox (badness 10000) in paragraph at lines 3630--3638
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3643--3650
+Underfull \hbox (badness 10000) in paragraph at lines 3640--3645
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3652--3665
+Underfull \hbox (badness 10000) in paragraph at lines 3646--3648
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3649--3651
+
+ []
+
+
+
+[71]
+Underfull \hbox (badness 10000) in paragraph at lines 3662--3669
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3671--3684
 
  []
 
 (./sumer-noto.ind
 
-[71]
+[72]
 
 
 
-[72
+[73
 
 ]
-
-
-
-[73]
 
 
 
@@ -1160,7 +1173,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 3652--3665
 
 
 
-[77]) (./sumer-noto.aux)
+[77]
+
+
+
+[78]) (./sumer-noto.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
@@ -1175,4 +1192,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  79i,8n,93p,253b,398s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on sumer-noto.pdf (78 pages).
+Output written on sumer-noto.pdf (79 pages).

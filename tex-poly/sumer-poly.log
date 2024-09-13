@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.1)  12 SEP 2024 17:11
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.1)  13 SEP 2024 07:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1109,21 +1109,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 3631--3638
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3644--3651
+Underfull \hbox (badness 10000) in paragraph at lines 3640--3645
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3653--3666
+Underfull \hbox (badness 10000) in paragraph at lines 3646--3648
 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 3649--3651
+
+ []
 
 
 
-[71] (./sumer-poly.ind
+[71]
+Underfull \hbox (badness 10000) in paragraph at lines 3663--3670
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3672--3685
+
+ []
+
+(./sumer-poly.ind
 
 [72]
 
